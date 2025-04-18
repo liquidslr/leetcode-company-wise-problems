@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5533845896900235,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Two Sum,100.0,0.5533845896900235,=HYPERLINK(""https://leetcode.com/problems/two-sum"",""Two Sum""),"Array, Hash Table"
 EASY,Merge Strings Alternately,88.4,0.8205624001885519,https://leetcode.com/problems/merge-strings-alternately,"Two Pointers, String"
 EASY,Merge Sorted Array,85.4,0.5249698265196386,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
 EASY,Create Hello World Function,83.1,0.8205600043383163,https://leetcode.com/problems/create-hello-world-function,
