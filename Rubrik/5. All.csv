@@ -35,3 +35,6 @@ HARD,Cherry Pickup II,33.8,0.7196542271599925,https://leetcode.com/problems/cher
 HARD,Minimum Number of Refueling Stops,33.8,0.405574587771098,https://leetcode.com/problems/minimum-number-of-refueling-stops,"Array, Dynamic Programming, Greedy, Heap (Priority Queue)"
 MEDIUM,Design Bounded Blocking Queue,33.8,0.7299444681759931,https://leetcode.com/problems/design-bounded-blocking-queue,Concurrency
 MEDIUM,Design Memory Allocator,33.8,0.484441262323071,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"
+
+System Coding:
+1. https://leetcode.com/discuss/post/1857832/rubrik-phone-screen-by-anonymous_user-gjjj/
