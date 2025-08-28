@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
 MEDIUM,Meeting Rooms II,100.0,0.5214175430894478,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+HARD,Basic Calculator,100.0,0.4481528571,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"

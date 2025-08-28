@@ -99,3 +99,4 @@ MEDIUM,Subarray Sum Equals K,40.6,0.4547621523795086,https://leetcode.com/proble
 MEDIUM,Count Zero Request Servers,40.6,0.3411690593813203,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"
 MEDIUM,K Closest Points to Origin,40.6,0.6793957161103558,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
 MEDIUM,Evaluate Division,40.6,0.6314695091079937,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+MEDIUM,House Robber III,40.6,0.5514148219,https://leetcode.com/problems/house-robber-iii,"Tree, Binary Tree, Depth-First Search, Dynamic Programming"
