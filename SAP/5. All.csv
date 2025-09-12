@@ -38,3 +38,4 @@ MEDIUM,Monotone Increasing Digits,52.9,0.4872377608676912,https://leetcode.com/p
 EASY,Maximum Depth of Binary Tree,52.9,0.7713809909365511,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
 EASY,Sort Array by Increasing Frequency,52.9,0.802688099698792,https://leetcode.com/problems/sort-array-by-increasing-frequency,"Array, Hash Table, Sorting"
 EASY,Move Zeroes,52.9,0.6280403546766125,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Intersection of Two Linked Lists,62.0,0.6280403546766125,https://leetcode.com/problems/intersection-of-two-linked-lists,"Hash Table, Linked List, Two Pointers"
