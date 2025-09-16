@@ -24,3 +24,4 @@ EASY,Valid Palindrome,57.5,0.5096357007859084,https://leetcode.com/problems/vali
 MEDIUM,Reverse Words in a String,57.5,0.5191334577686688,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
 MEDIUM,Nth Highest Salary,57.5,0.38038941922143443,https://leetcode.com/problems/nth-highest-salary,Database
 MEDIUM,Coin Change,57.5,0.4649556137047272,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+easy , check prime nnumber 
