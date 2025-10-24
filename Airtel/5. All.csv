@@ -5,3 +5,4 @@ MEDIUM,Longest Substring Without Repeating Characters,77.8,0.36936185611748357,h
 MEDIUM,Generate Parentheses,62.5,0.7713292636809848,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
 EASY,Best Time to Buy and Sell Stock,62.5,0.5525968774716257,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
 MEDIUM,Find First and Last Position of Element in Sorted Array,62.5,0.46828909755689324,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+EASY,Move Zeroes to End,63.2,0.62791763888,https://leetcode.com/problems/move-zeroes/description/,"Array, Two Pointer"
