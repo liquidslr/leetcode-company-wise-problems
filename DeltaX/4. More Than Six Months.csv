@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Roman to Integer,100.0,0.6487060431153465,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-MEDIUM,Longest Consecutive Sequence,70.5,0.47039263179711743,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union Find"
-MEDIUM,Different Ways to Add Parentheses,70.5,0.7235410628420519,https://leetcode.com/problems/different-ways-to-add-parentheses,"Math, String, Dynamic Programming, Recursion, Memoization"
+EASY,Roman to Integer,100.0,64.9,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Longest Consecutive Sequence,70.5,47.0,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union Find"
+MEDIUM,Different Ways to Add Parentheses,70.5,72.4,https://leetcode.com/problems/different-ways-to-add-parentheses,"Math, String, Dynamic Programming, Recursion, Memoization"

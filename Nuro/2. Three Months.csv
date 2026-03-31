@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximum Number of Visible Points,100.0,0.3767605072174815,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"
-MEDIUM,Evaluate Division,84.6,0.6314709369068677,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+HARD,Maximum Number of Visible Points,100.0,37.7,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"
+MEDIUM,Evaluate Division,84.6,63.1,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"

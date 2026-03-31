@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Largest Rectangle in Histogram,100.0,0.4737771497127021,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
-MEDIUM,Asteroid Collision,72.0,0.45500955378989905,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+HARD,Largest Rectangle in Histogram,100.0,47.4,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
+MEDIUM,Asteroid Collision,72.0,45.5,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"

@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Binary Tree Zigzag Level Order Traversal,100.0,0.6168290123703268,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
-MEDIUM,Product of Array Except Self,100.0,0.6778026338431639,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
-MEDIUM,Group Anagrams,100.0,0.7092904047178534,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-HARD,Reverse Nodes in k-Group,100.0,0.6304390239936917,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
-MEDIUM,Max Consecutive Ones III,100.0,0.659398353589164,https://leetcode.com/problems/max-consecutive-ones-iii,"Array, Binary Search, Sliding Window, Prefix Sum"
-MEDIUM,Boats to Save People,100.0,0.6030116770111661,https://leetcode.com/problems/boats-to-save-people,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Binary Tree Zigzag Level Order Traversal,100.0,61.7,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Product of Array Except Self,100.0,67.8,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,Group Anagrams,100.0,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+HARD,Reverse Nodes in k-Group,100.0,63.0,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+MEDIUM,Max Consecutive Ones III,100.0,65.9,https://leetcode.com/problems/max-consecutive-ones-iii,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Boats to Save People,100.0,60.3,https://leetcode.com/problems/boats-to-save-people,"Array, Two Pointers, Greedy, Sorting"

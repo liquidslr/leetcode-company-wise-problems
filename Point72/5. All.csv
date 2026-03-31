@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Top Travellers,100.0,0.5708967116729169,https://leetcode.com/problems/top-travellers,Database
-EASY,Weather Type in Each Country,100.0,0.6704324173956047,https://leetcode.com/problems/weather-type-in-each-country,Database
-MEDIUM,Evaluate Boolean Expression,100.0,0.7209377722842496,https://leetcode.com/problems/evaluate-boolean-expression,Database
-MEDIUM,Restaurant Growth,100.0,0.5661350311272455,https://leetcode.com/problems/restaurant-growth,Database
-EASY,Replace Employee ID With The Unique Identifier,100.0,0.8358557403596368,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier,Database
-MEDIUM,Advantage Shuffle,63.7,0.5338231296410227,https://leetcode.com/problems/advantage-shuffle,"Array, Two Pointers, Greedy, Sorting"
-MEDIUM,Generate Parentheses,63.7,0.7713291799018006,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
-HARD,Sliding Window Median,63.7,0.386913379270922,https://leetcode.com/problems/sliding-window-median,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+EASY,Top Travellers,100.0,57.1,https://leetcode.com/problems/top-travellers,Database
+EASY,Weather Type in Each Country,100.0,67.0,https://leetcode.com/problems/weather-type-in-each-country,Database
+MEDIUM,Evaluate Boolean Expression,100.0,72.1,https://leetcode.com/problems/evaluate-boolean-expression,Database
+MEDIUM,Restaurant Growth,100.0,56.6,https://leetcode.com/problems/restaurant-growth,Database
+EASY,Replace Employee ID With The Unique Identifier,100.0,83.6,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier,Database
+MEDIUM,Advantage Shuffle,63.7,53.4,https://leetcode.com/problems/advantage-shuffle,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Generate Parentheses,63.7,77.1,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+HARD,Sliding Window Median,63.7,38.7,https://leetcode.com/problems/sliding-window-median,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"

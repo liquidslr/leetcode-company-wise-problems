@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Count Common Words With One Occurrence,100.0,0.7239072189776627,https://leetcode.com/problems/count-common-words-with-one-occurrence,"Array, Hash Table, String, Counting"
-MEDIUM,Walking Robot Simulation,93.4,0.5823045930701047,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
-HARD,Minimum Time to Make Array Sum At Most x,91.3,0.2532966511716156,https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x,"Array, Dynamic Programming, Sorting"
-EASY,Add Two Integers,76.5,0.8812235205558485,https://leetcode.com/problems/add-two-integers,Math
-HARD,Stream of Characters,65.5,0.5122860949942819,https://leetcode.com/problems/stream-of-characters,"Array, String, Design, Trie, Data Stream"
-EASY,Add Strings,65.5,0.5190382397212994,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
-HARD,Design a Text Editor,65.5,0.47138071447136626,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
-EASY,Longest Common Prefix,56.9,0.4548310557827226,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-MEDIUM,Evaluate Division,56.9,0.6314703869340609,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
-HARD,Trapping Rain Water,56.9,0.6510203426350943,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Number of Orders in the Backlog,56.9,0.5196292359051828,https://leetcode.com/problems/number-of-orders-in-the-backlog,"Array, Heap (Priority Queue), Simulation"
+EASY,Count Common Words With One Occurrence,100.0,72.4,https://leetcode.com/problems/count-common-words-with-one-occurrence,"Array, Hash Table, String, Counting"
+MEDIUM,Walking Robot Simulation,93.4,58.2,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
+HARD,Minimum Time to Make Array Sum At Most x,91.3,25.3,https://leetcode.com/problems/minimum-time-to-make-array-sum-at-most-x,"Array, Dynamic Programming, Sorting"
+EASY,Add Two Integers,76.5,88.1,https://leetcode.com/problems/add-two-integers,Math
+HARD,Stream of Characters,65.5,51.2,https://leetcode.com/problems/stream-of-characters,"Array, String, Design, Trie, Data Stream"
+EASY,Add Strings,65.5,51.9,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
+HARD,Design a Text Editor,65.5,47.1,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+EASY,Longest Common Prefix,56.9,45.5,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Evaluate Division,56.9,63.1,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+HARD,Trapping Rain Water,56.9,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Number of Orders in the Backlog,56.9,52.0,https://leetcode.com/problems/number-of-orders-in-the-backlog,"Array, Heap (Priority Queue), Simulation"

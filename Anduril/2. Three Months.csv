@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Making A Large Island,100.0,0.5489029735459547,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Number of Islands,92.5,0.6232004701163337,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Course Schedule,92.5,0.492343272648647,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-HARD,Maximum Number of Visible Points,81.9,0.3767605072174815,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"
-HARD,Find Median from Data Stream,81.9,0.5327803189283605,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-MEDIUM,Number of Distinct Islands,81.9,0.6225531873624047,https://leetcode.com/problems/number-of-distinct-islands,"Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
-MEDIUM,Course Schedule II,81.9,0.5342349766485144,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-HARD,Merge k Sorted Lists,81.9,0.5677418279138159,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-HARD,Race Car,81.9,0.4412431163672474,https://leetcode.com/problems/race-car,Dynamic Programming
+HARD,Making A Large Island,100.0,54.9,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Number of Islands,92.5,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Course Schedule,92.5,49.2,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+HARD,Maximum Number of Visible Points,81.9,37.7,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"
+HARD,Find Median from Data Stream,81.9,53.3,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Number of Distinct Islands,81.9,62.3,https://leetcode.com/problems/number-of-distinct-islands,"Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+MEDIUM,Course Schedule II,81.9,53.4,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+HARD,Merge k Sorted Lists,81.9,56.8,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+HARD,Race Car,81.9,44.1,https://leetcode.com/problems/race-car,Dynamic Programming

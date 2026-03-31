@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Gas Station,100.0,0.46383586845548325,https://leetcode.com/problems/gas-station,"Array, Greedy"
-MEDIUM,Zigzag Conversion,92.5,0.5160681481756035,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Longest Substring with At Most K Distinct Characters,92.5,0.4949646677725676,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
-HARD,Check if an Original String Exists Given Two Encoded Strings,81.9,0.43229333455327323,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings,"String, Dynamic Programming"
-MEDIUM,Game of Life,81.9,0.7141528222609304,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
-MEDIUM,Number of Islands,81.9,0.623201292092127,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Gas Station,100.0,46.4,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Zigzag Conversion,92.5,51.6,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Longest Substring with At Most K Distinct Characters,92.5,49.5,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
+HARD,Check if an Original String Exists Given Two Encoded Strings,81.9,43.2,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings,"String, Dynamic Programming"
+MEDIUM,Game of Life,81.9,71.4,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+MEDIUM,Number of Islands,81.9,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

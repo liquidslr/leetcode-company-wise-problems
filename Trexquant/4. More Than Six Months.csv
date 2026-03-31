@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Spiral Matrix,100.0,0.5394630958493493,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Brick Wall,100.0,0.5585762726172722,https://leetcode.com/problems/brick-wall,"Array, Hash Table"
-MEDIUM,Max Difference You Can Get From Changing an Integer,100.0,0.4901474986248562,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer,"Math, Greedy"
+MEDIUM,Spiral Matrix,100.0,53.9,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Brick Wall,100.0,55.9,https://leetcode.com/problems/brick-wall,"Array, Hash Table"
+MEDIUM,Max Difference You Can Get From Changing an Integer,100.0,49.0,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer,"Math, Greedy"

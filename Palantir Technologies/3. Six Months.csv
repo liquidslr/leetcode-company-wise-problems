@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find Beautiful Indices in the Given Array I,100.0,0.38430607750545076,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i,"Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
-MEDIUM,Merge Intervals,81.5,0.49395231317834853,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Count the Number of Good Subsequences,72.6,0.505726872246696,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
-MEDIUM,Shortest Word Distance III,72.6,0.5910015691072046,https://leetcode.com/problems/shortest-word-distance-iii,"Array, String"
+MEDIUM,Find Beautiful Indices in the Given Array I,100.0,38.4,https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i,"Two Pointers, String, Binary Search, Rolling Hash, String Matching, Hash Function"
+MEDIUM,Merge Intervals,81.5,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Count the Number of Good Subsequences,72.6,50.6,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
+MEDIUM,Shortest Word Distance III,72.6,59.1,https://leetcode.com/problems/shortest-word-distance-iii,"Array, String"

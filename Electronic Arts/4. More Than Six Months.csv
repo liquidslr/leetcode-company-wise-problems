@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Wiggle Subsequence,100.0,0.4884717077094553,https://leetcode.com/problems/wiggle-subsequence,"Array, Dynamic Programming, Greedy"
-EASY,Relative Ranks,100.0,0.7330859773227,https://leetcode.com/problems/relative-ranks,"Array, Sorting, Heap (Priority Queue)"
-EASY,Is Subsequence,100.0,0.4838256140732861,https://leetcode.com/problems/is-subsequence,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Wiggle Subsequence,100.0,48.8,https://leetcode.com/problems/wiggle-subsequence,"Array, Dynamic Programming, Greedy"
+EASY,Relative Ranks,100.0,73.3,https://leetcode.com/problems/relative-ranks,"Array, Sorting, Heap (Priority Queue)"
+EASY,Is Subsequence,100.0,48.4,https://leetcode.com/problems/is-subsequence,"Two Pointers, String, Dynamic Programming"

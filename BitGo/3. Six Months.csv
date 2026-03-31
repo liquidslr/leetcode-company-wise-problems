@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Gas Station,100.0,0.46383586845548325,https://leetcode.com/problems/gas-station,"Array, Greedy"
-MEDIUM,Number of Islands,100.0,0.623201292092127,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-HARD,Trapping Rain Water,100.0,0.6510218479112839,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-HARD,Bus Routes,100.0,0.46953005797985964,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
-MEDIUM,LRU Cache,100.0,0.452148771503926,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Lowest Common Ancestor of a Binary Tree,100.0,0.6675513590636828,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Gas Station,100.0,46.4,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Number of Islands,100.0,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Trapping Rain Water,100.0,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Bus Routes,100.0,47.0,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,100.0,66.8,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"

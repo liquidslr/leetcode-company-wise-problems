@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Daily Temperatures,100.0,0.6736501067841334,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
-MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,100.0,0.6138412550730682,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,"String, Bit Manipulation, Simulation"
+MEDIUM,Daily Temperatures,100.0,67.4,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,100.0,61.4,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,"String, Bit Manipulation, Simulation"

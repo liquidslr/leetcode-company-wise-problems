@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.7092893962252986,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Product Sales Analysis I,100.0,0.8458587666069343,https://leetcode.com/problems/product-sales-analysis-i,Database
-MEDIUM,Linked List Cycle II,100.0,0.5493375730428822,https://leetcode.com/problems/linked-list-cycle-ii,"Hash Table, Linked List, Two Pointers"
-MEDIUM,Product of Array Except Self,100.0,0.6778011597060136,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
-MEDIUM,Subarray Sum Equals K,100.0,0.4547634546015399,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-MEDIUM,LRU Cache,100.0,0.45214888759813204,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Stock Price Fluctuation ,100.0,0.4816446151657419,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
-MEDIUM,Maximum Subarray,100.0,0.5209990970703741,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,String Compression,100.0,0.5809147891016072,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Group Anagrams,100.0,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Product Sales Analysis I,100.0,84.6,https://leetcode.com/problems/product-sales-analysis-i,Database
+MEDIUM,Linked List Cycle II,100.0,54.9,https://leetcode.com/problems/linked-list-cycle-ii,"Hash Table, Linked List, Two Pointers"
+MEDIUM,Product of Array Except Self,100.0,67.8,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,Subarray Sum Equals K,100.0,45.5,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Stock Price Fluctuation ,100.0,48.2,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+MEDIUM,Maximum Subarray,100.0,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,String Compression,100.0,58.1,https://leetcode.com/problems/string-compression,"Two Pointers, String"

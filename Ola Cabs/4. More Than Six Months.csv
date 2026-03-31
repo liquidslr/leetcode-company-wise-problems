@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525974554760431,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Decode String,100.0,0.6115271417370257,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Decode String,100.0,61.2,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"

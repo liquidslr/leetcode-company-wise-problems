@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Happy Number,100.0,0.5807267179068731,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-MEDIUM,Jump Game,100.0,0.3947926614382257,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
-MEDIUM,Group Anagrams,92.4,0.7092890050315475,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Kth Largest Element in an Array,92.4,0.6797709272637654,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
-HARD,Guess the Word,92.4,0.37651627943192456,https://leetcode.com/problems/guess-the-word,"Array, Math, String, Interactive, Game Theory"
-MEDIUM,Longest String Chain,92.4,0.6201519540251159,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
-MEDIUM,Minimum Area Rectangle II,92.4,0.5564209472981988,https://leetcode.com/problems/minimum-area-rectangle-ii,"Array, Math, Geometry"
-MEDIUM,Minimum Knight Moves,92.4,0.41329294235617164,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
-MEDIUM,Find All Possible Recipes from Given Supplies,92.4,0.5646084811588118,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies,"Array, Hash Table, String, Graph, Topological Sort"
-MEDIUM,Find Original Array From Doubled Array,92.4,0.4048045625260815,https://leetcode.com/problems/find-original-array-from-doubled-array,"Array, Hash Table, Greedy, Sorting"
-MEDIUM,Video Stitching,81.8,0.5199920692617804,https://leetcode.com/problems/video-stitching,"Array, Dynamic Programming, Greedy"
+EASY,Happy Number,100.0,58.1,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Jump Game,100.0,39.5,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Group Anagrams,92.4,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Kth Largest Element in an Array,92.4,68.0,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+HARD,Guess the Word,92.4,37.7,https://leetcode.com/problems/guess-the-word,"Array, Math, String, Interactive, Game Theory"
+MEDIUM,Longest String Chain,92.4,62.0,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
+MEDIUM,Minimum Area Rectangle II,92.4,55.6,https://leetcode.com/problems/minimum-area-rectangle-ii,"Array, Math, Geometry"
+MEDIUM,Minimum Knight Moves,92.4,41.3,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+MEDIUM,Find All Possible Recipes from Given Supplies,92.4,56.5,https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies,"Array, Hash Table, String, Graph, Topological Sort"
+MEDIUM,Find Original Array From Doubled Array,92.4,40.5,https://leetcode.com/problems/find-original-array-from-doubled-array,"Array, Hash Table, Greedy, Sorting"
+MEDIUM,Video Stitching,81.8,52.0,https://leetcode.com/problems/video-stitching,"Array, Dynamic Programming, Greedy"

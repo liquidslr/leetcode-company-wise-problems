@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Reaching Points,100.0,0.336468882434809,https://leetcode.com/problems/reaching-points,Math
-MEDIUM,Design Circular Queue,92.4,0.5264449504731188,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
-MEDIUM,Design a Stack With Increment Operation,92.4,0.8013123593723671,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
-MEDIUM,3Sum,87.4,0.37071091818190843,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,4Sum,87.4,0.38219049581097475,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
-MEDIUM,Design Hit Counter,71.7,0.6920831928267657,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+HARD,Reaching Points,100.0,33.6,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,Design Circular Queue,92.4,52.6,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+MEDIUM,Design a Stack With Increment Operation,92.4,80.1,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+MEDIUM,3Sum,87.4,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,4Sum,87.4,38.2,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
+MEDIUM,Design Hit Counter,71.7,69.2,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"

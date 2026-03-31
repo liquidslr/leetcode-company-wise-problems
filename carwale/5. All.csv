@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find Mirror Score of a String,100.0,0.33931992710166825,https://leetcode.com/problems/find-mirror-score-of-a-string,"Hash Table, String, Stack, Simulation"
-MEDIUM,Zigzag Conversion,74.0,0.516106229324453,https://leetcode.com/problems/zigzag-conversion,String
-HARD,Trapping Rain Water,74.0,0.6510864354564603,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-EASY,Best Time to Buy and Sell Stock,65.2,0.5526330287665571,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Minimum Time Difference,65.2,0.623534335935315,https://leetcode.com/problems/minimum-time-difference,"Array, Math, String, Sorting"
+MEDIUM,Find Mirror Score of a String,100.0,33.9,https://leetcode.com/problems/find-mirror-score-of-a-string,"Hash Table, String, Stack, Simulation"
+MEDIUM,Zigzag Conversion,74.0,51.6,https://leetcode.com/problems/zigzag-conversion,String
+HARD,Trapping Rain Water,74.0,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Best Time to Buy and Sell Stock,65.2,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Minimum Time Difference,65.2,62.4,https://leetcode.com/problems/minimum-time-difference,"Array, Math, String, Sorting"

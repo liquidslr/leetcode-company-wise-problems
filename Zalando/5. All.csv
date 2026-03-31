@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,String Without AAA or BBB,100.0,0.44516387852529393,https://leetcode.com/problems/string-without-aaa-or-bbb,"String, Greedy"
-MEDIUM,LRU Cache,70.3,0.45214888759813204,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Lemonade Change,70.3,0.5844961101877493,https://leetcode.com/problems/lemonade-change,"Array, Greedy"
-MEDIUM,Construct the Longest New String,62.2,0.5384322081417517,https://leetcode.com/problems/construct-the-longest-new-string,"Math, Dynamic Programming, Greedy, Brainteaser"
-MEDIUM,Merge Intervals,62.2,0.49395258385849666,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Largest Number,62.2,0.4128053161945387,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
+MEDIUM,String Without AAA or BBB,100.0,44.5,https://leetcode.com/problems/string-without-aaa-or-bbb,"String, Greedy"
+MEDIUM,LRU Cache,70.3,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Lemonade Change,70.3,58.4,https://leetcode.com/problems/lemonade-change,"Array, Greedy"
+MEDIUM,Construct the Longest New String,62.2,53.8,https://leetcode.com/problems/construct-the-longest-new-string,"Math, Dynamic Programming, Greedy, Brainteaser"
+MEDIUM,Merge Intervals,62.2,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Largest Number,62.2,41.3,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.42322889108126416,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525969853368424,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Valid Palindrome,88.8,0.5096360913433684,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Valid Parentheses,100.0,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Valid Palindrome,88.8,51.0,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"

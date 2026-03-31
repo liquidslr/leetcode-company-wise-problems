@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Intersection of Two Arrays,100.0,0.7647454128954905,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"
-MEDIUM,Random Pick with Weight,90.5,0.4827866554527615,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+EASY,Intersection of Two Arrays,100.0,76.5,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"
+MEDIUM,Random Pick with Weight,90.5,48.3,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"

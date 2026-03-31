@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Trapping Rain Water,100.0,0.651086853842941,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,LRU Cache,100.0,0.45220012346604876,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Paint House,100.0,0.6373217658070741,https://leetcode.com/problems/paint-house,"Array, Dynamic Programming"
+HARD,Trapping Rain Water,100.0,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Paint House,100.0,63.7,https://leetcode.com/problems/paint-house,"Array, Dynamic Programming"

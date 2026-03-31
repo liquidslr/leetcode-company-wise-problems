@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3693619526562289,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Largest 3-Same-Digit Number in String,88.8,0.6909566734515847,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
-EASY,Best Time to Buy and Sell Stock,88.8,0.5525972597748545,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Largest 3-Same-Digit Number in String,88.8,69.1,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
+EASY,Best Time to Buy and Sell Stock,88.8,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

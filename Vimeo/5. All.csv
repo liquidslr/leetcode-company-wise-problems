@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Count Pairs With XOR in a Range,100.0,0.45744370916052773,https://leetcode.com/problems/count-pairs-with-xor-in-a-range,"Array, Bit Manipulation, Trie"
-MEDIUM,Flower Planting With No Adjacent,66.4,0.5237790114146059,https://leetcode.com/problems/flower-planting-with-no-adjacent,"Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Maximum Subarray,66.4,0.5209994418742664,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,3Sum,66.4,0.3707128174190882,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,LRU Cache,66.4,0.45215170528267107,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Min Stack,66.4,0.5644526831800445,https://leetcode.com/problems/min-stack,"Stack, Design"
+HARD,Count Pairs With XOR in a Range,100.0,45.7,https://leetcode.com/problems/count-pairs-with-xor-in-a-range,"Array, Bit Manipulation, Trie"
+MEDIUM,Flower Planting With No Adjacent,66.4,52.4,https://leetcode.com/problems/flower-planting-with-no-adjacent,"Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Maximum Subarray,66.4,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,3Sum,66.4,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,LRU Cache,66.4,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Min Stack,66.4,56.4,https://leetcode.com/problems/min-stack,"Stack, Design"

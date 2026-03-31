@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find Words That Can Be Formed by Characters,100.0,0.7106771491390691,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"
-MEDIUM,Word Search,86.6,0.4526692829987259,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
-MEDIUM,Longest Increasing Subsequence,71.3,0.5780836795005291,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-MEDIUM,Maximal Square,62.3,0.4876133314788993,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
-MEDIUM,3Sum Smaller,62.3,0.5098856904205789,https://leetcode.com/problems/3sum-smaller,"Array, Two Pointers, Binary Search, Sorting"
-MEDIUM,Asteroid Collision,62.3,0.45500659848234903,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-MEDIUM,Rotting Oranges,62.3,0.5661841672935807,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Zigzag Conversion,62.3,0.5160678115303926,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Smallest String With Swaps,62.3,0.5942555506596046,https://leetcode.com/problems/smallest-string-with-swaps,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"
-MEDIUM,Maximum Number of Events That Can Be Attended,62.3,0.32921981825520097,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended,"Array, Greedy, Sorting, Heap (Priority Queue)"
+EASY,Find Words That Can Be Formed by Characters,100.0,71.1,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"
+MEDIUM,Word Search,86.6,45.3,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Longest Increasing Subsequence,71.3,57.8,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+MEDIUM,Maximal Square,62.3,48.8,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,3Sum Smaller,62.3,51.0,https://leetcode.com/problems/3sum-smaller,"Array, Two Pointers, Binary Search, Sorting"
+MEDIUM,Asteroid Collision,62.3,45.5,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Rotting Oranges,62.3,56.6,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Zigzag Conversion,62.3,51.6,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Smallest String With Swaps,62.3,59.4,https://leetcode.com/problems/smallest-string-with-swaps,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"
+MEDIUM,Maximum Number of Events That Can Be Attended,62.3,32.9,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended,"Array, Greedy, Sorting, Heap (Priority Queue)"

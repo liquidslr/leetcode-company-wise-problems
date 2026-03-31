@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Word Abbreviation,100.0,0.3685165676961013,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
-MEDIUM,Coin Change,100.0,0.46495504462798637,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
-MEDIUM,Design Circular Queue,100.0,0.5264418239354727,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+EASY,Valid Word Abbreviation,100.0,36.9,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
+MEDIUM,Coin Change,100.0,46.5,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Design Circular Queue,100.0,52.6,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"

@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Operations to Make Network Connected,100.0,0.6466501296398147,https://leetcode.com/problems/number-of-operations-to-make-network-connected,"Depth-First Search, Breadth-First Search, Union Find, Graph"
-HARD,Minimum One Bit Operations to Make Integers Zero,82.9,0.73240710674027,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero,"Dynamic Programming, Bit Manipulation, Memoization"
-MEDIUM,Maximal Score After Applying K Operations,68.4,0.6378607678773867,https://leetcode.com/problems/maximal-score-after-applying-k-operations,"Array, Greedy, Heap (Priority Queue)"
-MEDIUM,Shortest Bridge,68.4,0.5864849244498144,https://leetcode.com/problems/shortest-bridge,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Number of Operations to Make Network Connected,100.0,64.7,https://leetcode.com/problems/number-of-operations-to-make-network-connected,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+HARD,Minimum One Bit Operations to Make Integers Zero,82.9,73.2,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero,"Dynamic Programming, Bit Manipulation, Memoization"
+MEDIUM,Maximal Score After Applying K Operations,68.4,63.8,https://leetcode.com/problems/maximal-score-after-applying-k-operations,"Array, Greedy, Heap (Priority Queue)"
+MEDIUM,Shortest Bridge,68.4,58.6,https://leetcode.com/problems/shortest-bridge,"Array, Depth-First Search, Breadth-First Search, Matrix"

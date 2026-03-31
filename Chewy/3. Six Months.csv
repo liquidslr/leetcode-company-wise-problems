@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Top K Frequent Elements,100.0,0.6456600029861541,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Top K Frequent Elements,100.0,64.6,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"

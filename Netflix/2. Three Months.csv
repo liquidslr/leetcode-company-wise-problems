@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Logger Rate Limiter,100.0,0.766103057053701,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
-MEDIUM,Cache With Time Limit,100.0,0.7578738827979018,https://leetcode.com/problems/cache-with-time-limit,
-HARD,Contains Duplicate III,100.0,0.23633360996542796,https://leetcode.com/problems/contains-duplicate-iii,"Array, Sliding Window, Sorting, Bucket Sort, Ordered Set"
-MEDIUM,Koko Eating Bananas,89.2,0.49067282582685684,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-EASY,Contains Duplicate,89.2,0.6323637027239968,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
-EASY,Contains Duplicate II,89.2,0.49049882675581746,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
+EASY,Logger Rate Limiter,100.0,76.6,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Cache With Time Limit,100.0,75.8,https://leetcode.com/problems/cache-with-time-limit,
+HARD,Contains Duplicate III,100.0,23.6,https://leetcode.com/problems/contains-duplicate-iii,"Array, Sliding Window, Sorting, Bucket Sort, Ordered Set"
+MEDIUM,Koko Eating Bananas,89.2,49.1,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+EASY,Contains Duplicate,89.2,63.2,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
+EASY,Contains Duplicate II,89.2,49.0,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"

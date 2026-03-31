@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Watering Plants,100.0,0.7995625398726679,https://leetcode.com/problems/watering-plants,"Array, Simulation"
-EASY,Two Sum,87.0,0.5578040661125258,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Water Bottles,70.8,0.7064889679772526,https://leetcode.com/problems/water-bottles,"Math, Simulation"
-MEDIUM,Minimum Time to Complete Trips,70.8,0.3904397351223481,https://leetcode.com/problems/minimum-time-to-complete-trips,"Array, Binary Search"
+MEDIUM,Watering Plants,100.0,80.0,https://leetcode.com/problems/watering-plants,"Array, Simulation"
+EASY,Two Sum,87.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Water Bottles,70.8,70.6,https://leetcode.com/problems/water-bottles,"Math, Simulation"
+MEDIUM,Minimum Time to Complete Trips,70.8,39.0,https://leetcode.com/problems/minimum-time-to-complete-trips,"Array, Binary Search"

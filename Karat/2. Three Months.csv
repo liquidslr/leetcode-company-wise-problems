@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Text Justification,100.0,0.48150026993726713,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-EASY,Check if Every Row and Column Contains All Numbers,95.8,0.528410934019593,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,"Array, Hash Table, Matrix"
-EASY,Find Words That Can Be Formed by Characters,90.7,0.7106798822031877,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"
-MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,90.7,0.4587327987118235,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
-MEDIUM,Word Search,90.7,0.45267020648967554,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+HARD,Text Justification,100.0,48.2,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+EASY,Check if Every Row and Column Contains All Numbers,95.8,52.8,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,"Array, Hash Table, Matrix"
+EASY,Find Words That Can Be Formed by Characters,90.7,71.1,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,90.7,45.9,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
+MEDIUM,Word Search,90.7,45.3,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"

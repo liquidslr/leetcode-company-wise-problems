@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.709289019979725,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-HARD,Reaching Points,88.0,0.336468882434809,https://leetcode.com/problems/reaching-points,Math
-HARD,Serialize and Deserialize Binary Tree,88.0,0.589694187837451,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
-MEDIUM,Merge Intervals,88.0,0.493952574621571,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Convert Binary Number in a Linked List to Integer,88.0,0.8121524244503869,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer,"Linked List, Math"
-MEDIUM,LRU Cache,88.0,0.4521483770727891,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Course Schedule II,88.0,0.5342357909139157,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Permutations,88.0,0.8066020773412196,https://leetcode.com/problems/permutations,"Array, Backtracking"
+MEDIUM,Group Anagrams,100.0,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+HARD,Reaching Points,88.0,33.6,https://leetcode.com/problems/reaching-points,Math
+HARD,Serialize and Deserialize Binary Tree,88.0,59.0,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+MEDIUM,Merge Intervals,88.0,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Convert Binary Number in a Linked List to Integer,88.0,81.2,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer,"Linked List, Math"
+MEDIUM,LRU Cache,88.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Course Schedule II,88.0,53.4,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Permutations,88.0,80.7,https://leetcode.com/problems/permutations,"Array, Backtracking"

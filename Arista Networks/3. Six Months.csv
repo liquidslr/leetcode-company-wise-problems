@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Search in Rotated Sorted Array,100.0,0.4283724679402803,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-EASY,Maximum Depth of Binary Tree,88.2,0.7713814289513273,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,Reorder List,88.2,0.6250484291087256,https://leetcode.com/problems/reorder-list,"Linked List, Two Pointers, Stack, Recursion"
-MEDIUM,Word Search,88.2,0.45267012968401416,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Search in Rotated Sorted Array,100.0,42.8,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+EASY,Maximum Depth of Binary Tree,88.2,77.1,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Reorder List,88.2,62.5,https://leetcode.com/problems/reorder-list,"Linked List, Two Pointers, Stack, Recursion"
+MEDIUM,Word Search,88.2,45.3,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"

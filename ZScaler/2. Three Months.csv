@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Increment to Make Array Unique,100.0,0.603327781549441,https://leetcode.com/problems/minimum-increment-to-make-array-unique,"Array, Greedy, Sorting, Counting"
-HARD,Word Ladder,100.0,0.42812023940598437,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+MEDIUM,Minimum Increment to Make Array Unique,100.0,60.3,https://leetcode.com/problems/minimum-increment-to-make-array-unique,"Array, Greedy, Sorting, Counting"
+HARD,Word Ladder,100.0,42.8,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"

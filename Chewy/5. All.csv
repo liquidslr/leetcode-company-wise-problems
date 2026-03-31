@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Top K Frequent Elements,100.0,0.6456600029861541,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-MEDIUM,Design Tic-Tac-Toe,100.0,0.5860157935441853,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
-MEDIUM,Robot Bounded In Circle,100.0,0.562297474032361,https://leetcode.com/problems/robot-bounded-in-circle,"Math, String, Simulation"
-EASY,Backspace String Compare,88.9,0.49481803728999,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
-EASY,Two Sum,88.9,0.5577703274921263,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,LRU Cache,88.9,0.4521489022918771,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Top K Frequent Elements,100.0,64.6,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Design Tic-Tac-Toe,100.0,58.6,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
+MEDIUM,Robot Bounded In Circle,100.0,56.2,https://leetcode.com/problems/robot-bounded-in-circle,"Math, String, Simulation"
+EASY,Backspace String Compare,88.9,49.5,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+EASY,Two Sum,88.9,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,LRU Cache,88.9,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

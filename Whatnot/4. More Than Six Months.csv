@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.6232469776710805,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-EASY,Valid Palindrome II,88.2,0.4302954750060481,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
-MEDIUM,Group Anagrams,88.2,0.7093189130762656,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Number of Islands,100.0,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Valid Palindrome II,88.2,43.0,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
+MEDIUM,Group Anagrams,88.2,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

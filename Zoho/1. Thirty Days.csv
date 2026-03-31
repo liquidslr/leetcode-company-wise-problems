@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.4939523849309626,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Generate Parentheses,100.0,0.7713287456277772,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
-MEDIUM,Group Anagrams,100.0,0.7092882846587727,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-HARD,N-Queens,100.0,0.728171156310315,https://leetcode.com/problems/n-queens,"Array, Backtracking"
-MEDIUM,Reorganize String,100.0,0.5619634145417838,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
-MEDIUM,Remove Duplicate Letters,100.0,0.5135095841552992,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Merge Intervals,100.0,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Generate Parentheses,100.0,77.1,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+MEDIUM,Group Anagrams,100.0,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+HARD,N-Queens,100.0,72.8,https://leetcode.com/problems/n-queens,"Array, Backtracking"
+MEDIUM,Reorganize String,100.0,56.2,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Remove Duplicate Letters,100.0,51.4,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"

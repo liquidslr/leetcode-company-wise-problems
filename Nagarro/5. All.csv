@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Count Number of Ways to Place Houses,100.0,0.4282920556679213,https://leetcode.com/problems/count-number-of-ways-to-place-houses,Dynamic Programming
-MEDIUM,Longest Substring Without Repeating Characters,79.4,0.369361622666222,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-HARD,Minimum Window Substring,72.9,0.45350679166262914,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
-EASY,Two Sum,63.8,0.5577704460383334,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Parentheses,63.8,0.4232289471051158,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Contains Duplicate,63.8,0.6323639865751375,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
-MEDIUM,Subarray Sum Equals K,63.8,0.4547631572254478,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-EASY,Valid Anagram,63.8,0.6666102516536134,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-EASY,Remove Duplicates from Sorted Array,63.8,0.6035569868747543,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+MEDIUM,Count Number of Ways to Place Houses,100.0,42.8,https://leetcode.com/problems/count-number-of-ways-to-place-houses,Dynamic Programming
+MEDIUM,Longest Substring Without Repeating Characters,79.4,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Minimum Window Substring,72.9,45.4,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+EASY,Two Sum,63.8,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Parentheses,63.8,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Contains Duplicate,63.8,63.2,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
+MEDIUM,Subarray Sum Equals K,63.8,45.5,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+EASY,Valid Anagram,63.8,66.7,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Remove Duplicates from Sorted Array,63.8,60.4,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"

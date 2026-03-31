@@ -1,15 +1,15 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.4232289179408012,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Merge Intervals,91.8,0.4939526574581855,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Squares of a Sorted Array,91.8,0.7321912907683713,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Monotonic Array,86.4,0.6169876003093298,https://leetcode.com/problems/monotonic-array,Array
-HARD,Department Top Three Salaries,86.4,0.5777105873664997,https://leetcode.com/problems/department-top-three-salaries,Database
-EASY,Two Sum,79.4,0.5577704313462045,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Move Zeroes,69.5,0.6280403967919924,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-EASY,Reverse Linked List,69.5,0.7920666630113735,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
-EASY,First Unique Character in a String,69.5,0.6369554792501443,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
-EASY,Invert Binary Tree,69.5,0.7902177593392995,https://leetcode.com/problems/invert-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-EASY,Best Time to Buy and Sell Stock,69.5,0.5525969358423186,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Decode String,69.5,0.6115270128103837,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Department Highest Salary,69.5,0.5481318064086517,https://leetcode.com/problems/department-highest-salary,Database
-MEDIUM,Longest Substring Without Repeating Characters,69.5,0.369361622666222,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Parentheses,100.0,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Merge Intervals,91.8,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Squares of a Sorted Array,91.8,73.2,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Monotonic Array,86.4,61.7,https://leetcode.com/problems/monotonic-array,Array
+HARD,Department Top Three Salaries,86.4,57.8,https://leetcode.com/problems/department-top-three-salaries,Database
+EASY,Two Sum,79.4,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Move Zeroes,69.5,62.8,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Reverse Linked List,69.5,79.2,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+EASY,First Unique Character in a String,69.5,63.7,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
+EASY,Invert Binary Tree,69.5,79.0,https://leetcode.com/problems/invert-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Best Time to Buy and Sell Stock,69.5,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Decode String,69.5,61.2,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Department Highest Salary,69.5,54.8,https://leetcode.com/problems/department-highest-salary,Database
+MEDIUM,Longest Substring Without Repeating Characters,69.5,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

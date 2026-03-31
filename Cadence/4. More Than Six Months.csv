@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Sudoku Solver,100.0,0.6390844622410038,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
-EASY,Island Perimeter,100.0,0.7353943497919185,https://leetcode.com/problems/island-perimeter,"Array, Depth-First Search, Breadth-First Search, Matrix"
-EASY,Two Sum,100.0,0.5577704214653709,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Merge Intervals,100.0,0.4939521330242054,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+HARD,Sudoku Solver,100.0,63.9,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
+EASY,Island Perimeter,100.0,73.5,https://leetcode.com/problems/island-perimeter,"Array, Depth-First Search, Breadth-First Search, Matrix"
+EASY,Two Sum,100.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Merge Intervals,100.0,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

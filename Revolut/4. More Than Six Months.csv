@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Longest Common Prefix,100.0,0.45487231096001735,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-MEDIUM,Perfect Squares,87.4,0.5567499609828845,https://leetcode.com/problems/perfect-squares,"Math, Dynamic Programming, Breadth-First Search"
-MEDIUM,Find All Anagrams in a String,80.9,0.5220315664185695,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
-EASY,Remove Duplicates from Sorted List,80.9,0.5487559867838473,https://leetcode.com/problems/remove-duplicates-from-sorted-list,Linked List
-MEDIUM,Permutation in String,71.7,0.4725154718440558,https://leetcode.com/problems/permutation-in-string,"Hash Table, Two Pointers, String, Sliding Window"
-MEDIUM,Reverse Linked List II,71.7,0.49593923437910803,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
-MEDIUM,Binary Tree Level Order Traversal II,71.7,0.6601281342865891,https://leetcode.com/problems/binary-tree-level-order-traversal-ii,"Tree, Breadth-First Search, Binary Tree"
-MEDIUM,Random Pick with Weight,71.7,0.4827956964132365,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
-EASY,Merge Two Sorted Lists,71.7,0.6684414597105074,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+EASY,Longest Common Prefix,100.0,45.5,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Perfect Squares,87.4,55.7,https://leetcode.com/problems/perfect-squares,"Math, Dynamic Programming, Breadth-First Search"
+MEDIUM,Find All Anagrams in a String,80.9,52.2,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
+EASY,Remove Duplicates from Sorted List,80.9,54.9,https://leetcode.com/problems/remove-duplicates-from-sorted-list,Linked List
+MEDIUM,Permutation in String,71.7,47.3,https://leetcode.com/problems/permutation-in-string,"Hash Table, Two Pointers, String, Sliding Window"
+MEDIUM,Reverse Linked List II,71.7,49.6,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+MEDIUM,Binary Tree Level Order Traversal II,71.7,66.0,https://leetcode.com/problems/binary-tree-level-order-traversal-ii,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Random Pick with Weight,71.7,48.3,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+EASY,Merge Two Sorted Lists,71.7,66.8,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"

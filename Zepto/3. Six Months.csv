@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Univalue Path,100.0,0.4263113741464799,https://leetcode.com/problems/longest-univalue-path,"Tree, Depth-First Search, Binary Tree"
-HARD,Sliding Window Maximum,88.5,0.4760512566643992,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Longest Univalue Path,100.0,42.6,https://leetcode.com/problems/longest-univalue-path,"Tree, Depth-First Search, Binary Tree"
+HARD,Sliding Window Maximum,88.5,47.6,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"

@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Word Break,100.0,0.48273976784104833,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,House Robber,100.0,0.5230511179971911,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
-HARD,Minimum Cost to Make at Least One Valid Path in a Grid,100.0,0.7070138694964163,https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid,"Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path"
-MEDIUM,Rabbits in Forest,100.0,0.5826643792570448,https://leetcode.com/problems/rabbits-in-forest,"Array, Hash Table, Math, Greedy"
+MEDIUM,Word Break,100.0,48.3,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,House Robber,100.0,52.3,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+HARD,Minimum Cost to Make at Least One Valid Path in a Grid,100.0,70.7,https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid,"Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path"
+MEDIUM,Rabbits in Forest,100.0,58.3,https://leetcode.com/problems/rabbits-in-forest,"Array, Hash Table, Math, Greedy"

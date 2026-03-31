@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Decode String,100.0,0.611527047281157,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Clone Graph,100.0,0.6238596161697385,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Letter Combinations of a Phone Number,67.3,0.6385757154093107,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-MEDIUM,Validate IP Address,67.3,0.27817524620453365,https://leetcode.com/problems/validate-ip-address,String
-MEDIUM,My Calendar I,67.3,0.5814631853246708,https://leetcode.com/problems/my-calendar-i,"Array, Binary Search, Design, Segment Tree, Ordered Set"
+MEDIUM,Decode String,100.0,61.2,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Clone Graph,100.0,62.4,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Letter Combinations of a Phone Number,67.3,63.9,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,Validate IP Address,67.3,27.8,https://leetcode.com/problems/validate-ip-address,String
+MEDIUM,My Calendar I,67.3,58.1,https://leetcode.com/problems/my-calendar-i,"Array, Binary Search, Design, Segment Tree, Ordered Set"

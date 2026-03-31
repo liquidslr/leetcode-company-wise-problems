@@ -1,37 +1,37 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Zigzag Grid Traversal With Skip,100.0,0.635365152386429,https://leetcode.com/problems/zigzag-grid-traversal-with-skip,"Array, Matrix, Simulation"
-EASY,Two Sum,94.2,0.557769958684312,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Majority Element,82.0,0.6574028018936169,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
-EASY,Single Number,82.0,0.759688387220078,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"
-HARD,Smallest Sufficient Team,82.0,0.553294110982528,https://leetcode.com/problems/smallest-sufficient-team,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
-MEDIUM,Maximum Subarray,82.0,0.5209977597071156,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-EASY,Palindrome Number,76.3,0.5922454727388726,https://leetcode.com/problems/palindrome-number,Math
-HARD,Tallest Billboard,76.3,0.5187288448273096,https://leetcode.com/problems/tallest-billboard,"Array, Dynamic Programming"
-EASY,Valid Anagram,68.8,0.6666091043812926,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-MEDIUM,Partition Equal Subset Sum,68.8,0.4844385484671133,https://leetcode.com/problems/partition-equal-subset-sum,"Array, Dynamic Programming"
-EASY,Duplicate Emails,68.8,0.7244932493128983,https://leetcode.com/problems/duplicate-emails,Database
-MEDIUM,"Pow(x, n)",68.8,0.37023194967093703,https://leetcode.com/problems/powx-n,"Math, Recursion"
-EASY,Contains Duplicate,68.8,0.6323635688111491,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
-MEDIUM,Subarray Sum Equals K,68.8,0.45476206064696134,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-MEDIUM,Reverse Integer,68.8,0.30308920459420663,https://leetcode.com/problems/reverse-integer,Math
-MEDIUM,Remove Nth Node From End of List,68.8,0.4896105904273307,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
-EASY,Contains Duplicate II,68.8,0.4904986450077176,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
-EASY,Return Length of Arguments Passed,58.4,0.9448689104357723,https://leetcode.com/problems/return-length-of-arguments-passed,
-MEDIUM,Set Matrix Zeroes,58.4,0.6070886002635275,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
-EASY,Replace Employee ID With The Unique Identifier,58.4,0.8358649308586683,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier,Database
-MEDIUM,Spiral Matrix,58.4,0.5393976057408939,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-HARD,N-Queens,58.4,0.7281708939408218,https://leetcode.com/problems/n-queens,"Array, Backtracking"
-HARD,Trapping Rain Water,58.4,0.6510193889882898,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Best Time to Buy and Sell Stock II,58.4,0.6950026730452624,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
-EASY,Remove Duplicates from Sorted Array,58.4,0.6035551873801481,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-MEDIUM,Second Highest Salary,58.4,0.4386506907951504,https://leetcode.com/problems/second-highest-salary,Database
-EASY,Ugly Number,58.4,0.42336350161235115,https://leetcode.com/problems/ugly-number,Math
-MEDIUM,Longest Substring Without Repeating Characters,58.4,0.3693616778786302,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Minimum Moves to Equal Array Elements II,58.4,0.6095862132467602,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii,"Array, Math, Sorting"
-EASY,Move Zeroes,58.4,0.6280402658363383,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-EASY,Middle of the Linked List,58.4,0.8058170587466457,https://leetcode.com/problems/middle-of-the-linked-list,"Linked List, Two Pointers"
-MEDIUM,House Robber,58.4,0.5230497402554785,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
-EASY,Running Sum of 1d Array,58.4,0.8696249171658857,https://leetcode.com/problems/running-sum-of-1d-array,"Array, Prefix Sum"
-EASY,Find the Index of the First Occurrence in a String,58.4,0.44971602790477705,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
-EASY,Longest Common Prefix,58.4,0.4548306858183627,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-EASY,Diameter of Binary Tree,58.4,0.6358637950396262,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+EASY,Zigzag Grid Traversal With Skip,100.0,63.5,https://leetcode.com/problems/zigzag-grid-traversal-with-skip,"Array, Matrix, Simulation"
+EASY,Two Sum,94.2,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Majority Element,82.0,65.7,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+EASY,Single Number,82.0,76.0,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"
+HARD,Smallest Sufficient Team,82.0,55.3,https://leetcode.com/problems/smallest-sufficient-team,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+MEDIUM,Maximum Subarray,82.0,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Palindrome Number,76.3,59.2,https://leetcode.com/problems/palindrome-number,Math
+HARD,Tallest Billboard,76.3,51.9,https://leetcode.com/problems/tallest-billboard,"Array, Dynamic Programming"
+EASY,Valid Anagram,68.8,66.7,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Partition Equal Subset Sum,68.8,48.4,https://leetcode.com/problems/partition-equal-subset-sum,"Array, Dynamic Programming"
+EASY,Duplicate Emails,68.8,72.4,https://leetcode.com/problems/duplicate-emails,Database
+MEDIUM,"Pow(x, n)",68.8,37.0,https://leetcode.com/problems/powx-n,"Math, Recursion"
+EASY,Contains Duplicate,68.8,63.2,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
+MEDIUM,Subarray Sum Equals K,68.8,45.5,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Reverse Integer,68.8,30.3,https://leetcode.com/problems/reverse-integer,Math
+MEDIUM,Remove Nth Node From End of List,68.8,49.0,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
+EASY,Contains Duplicate II,68.8,49.0,https://leetcode.com/problems/contains-duplicate-ii,"Array, Hash Table, Sliding Window"
+EASY,Return Length of Arguments Passed,58.4,94.5,https://leetcode.com/problems/return-length-of-arguments-passed,
+MEDIUM,Set Matrix Zeroes,58.4,60.7,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+EASY,Replace Employee ID With The Unique Identifier,58.4,83.6,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier,Database
+MEDIUM,Spiral Matrix,58.4,53.9,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+HARD,N-Queens,58.4,72.8,https://leetcode.com/problems/n-queens,"Array, Backtracking"
+HARD,Trapping Rain Water,58.4,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Best Time to Buy and Sell Stock II,58.4,69.5,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
+EASY,Remove Duplicates from Sorted Array,58.4,60.4,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+MEDIUM,Second Highest Salary,58.4,43.9,https://leetcode.com/problems/second-highest-salary,Database
+EASY,Ugly Number,58.4,42.3,https://leetcode.com/problems/ugly-number,Math
+MEDIUM,Longest Substring Without Repeating Characters,58.4,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Minimum Moves to Equal Array Elements II,58.4,61.0,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii,"Array, Math, Sorting"
+EASY,Move Zeroes,58.4,62.8,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Middle of the Linked List,58.4,80.6,https://leetcode.com/problems/middle-of-the-linked-list,"Linked List, Two Pointers"
+MEDIUM,House Robber,58.4,52.3,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+EASY,Running Sum of 1d Array,58.4,87.0,https://leetcode.com/problems/running-sum-of-1d-array,"Array, Prefix Sum"
+EASY,Find the Index of the First Occurrence in a String,58.4,45.0,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
+EASY,Longest Common Prefix,58.4,45.5,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Diameter of Binary Tree,58.4,63.6,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"

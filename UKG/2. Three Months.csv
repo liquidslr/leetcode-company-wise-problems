@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Make a Positive Array,100.0,0.3808630393996248,https://leetcode.com/problems/make-a-positive-array,"Array, Greedy, Prefix Sum"
-MEDIUM,Minimum Length of Anagram Concatenation,100.0,0.3972463749502319,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
-HARD,Special Binary String,100.0,0.6351450158420667,https://leetcode.com/problems/special-binary-string,"String, Recursion"
+MEDIUM,Make a Positive Array,100.0,38.1,https://leetcode.com/problems/make-a-positive-array,"Array, Greedy, Prefix Sum"
+MEDIUM,Minimum Length of Anagram Concatenation,100.0,39.7,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
+HARD,Special Binary String,100.0,63.5,https://leetcode.com/problems/special-binary-string,"String, Recursion"

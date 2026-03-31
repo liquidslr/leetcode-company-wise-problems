@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,String Compression II,100.0,0.5197862858300415,https://leetcode.com/problems/string-compression-ii,"String, Dynamic Programming"
-MEDIUM,Airplane Seat Assignment Probability,100.0,0.6665048936342312,https://leetcode.com/problems/airplane-seat-assignment-probability,"Math, Dynamic Programming, Brainteaser, Probability and Statistics"
-EASY,Image Smoother,100.0,0.6837229689163258,https://leetcode.com/problems/image-smoother,"Array, Matrix"
+HARD,String Compression II,100.0,52.0,https://leetcode.com/problems/string-compression-ii,"String, Dynamic Programming"
+MEDIUM,Airplane Seat Assignment Probability,100.0,66.7,https://leetcode.com/problems/airplane-seat-assignment-probability,"Math, Dynamic Programming, Brainteaser, Probability and Statistics"
+EASY,Image Smoother,100.0,68.4,https://leetcode.com/problems/image-smoother,"Array, Matrix"

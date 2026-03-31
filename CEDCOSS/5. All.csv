@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Palindromic Substring,100.0,0.3585063954914995,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-EASY,Longest Common Prefix,83.4,0.4548724547806595,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-EASY,Move Zeroes,83.4,0.6280482281942534,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-MEDIUM,Product of Array Except Self,83.4,0.677805445452112,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,Longest Palindromic Substring,100.0,35.9,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Longest Common Prefix,83.4,45.5,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Move Zeroes,83.4,62.8,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+MEDIUM,Product of Array Except Self,83.4,67.8,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"

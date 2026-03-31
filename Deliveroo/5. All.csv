@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find Words Containing Character,100.0,0.9064075447850629,https://leetcode.com/problems/find-words-containing-character,"Array, String"
-MEDIUM,Search Suggestions System,85.4,0.6505018082357296,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
-HARD,Vertical Order Traversal of a Binary Tree,66.2,0.5133055579720943,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree"
-MEDIUM,Count Number of Nice Subarrays,66.2,0.7321007455952697,https://leetcode.com/problems/count-number-of-nice-subarrays,"Array, Hash Table, Math, Sliding Window, Prefix Sum"
-HARD,Remove Invalid Parentheses,66.2,0.49231429833651935,https://leetcode.com/problems/remove-invalid-parentheses,"String, Backtracking, Breadth-First Search"
+EASY,Find Words Containing Character,100.0,90.6,https://leetcode.com/problems/find-words-containing-character,"Array, String"
+MEDIUM,Search Suggestions System,85.4,65.1,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+HARD,Vertical Order Traversal of a Binary Tree,66.2,51.3,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree"
+MEDIUM,Count Number of Nice Subarrays,66.2,73.2,https://leetcode.com/problems/count-number-of-nice-subarrays,"Array, Hash Table, Math, Sliding Window, Prefix Sum"
+HARD,Remove Invalid Parentheses,66.2,49.2,https://leetcode.com/problems/remove-invalid-parentheses,"String, Backtracking, Breadth-First Search"

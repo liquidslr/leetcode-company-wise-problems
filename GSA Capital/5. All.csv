@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Total Cost to Hire K Workers,100.0,0.4310623421785049,https://leetcode.com/problems/total-cost-to-hire-k-workers,"Array, Two Pointers, Heap (Priority Queue), Simulation"
-MEDIUM,Maximal Square,93.3,0.4876422601899655,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Total Cost to Hire K Workers,100.0,43.1,https://leetcode.com/problems/total-cost-to-hire-k-workers,"Array, Two Pointers, Heap (Priority Queue), Simulation"
+MEDIUM,Maximal Square,93.3,48.8,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"

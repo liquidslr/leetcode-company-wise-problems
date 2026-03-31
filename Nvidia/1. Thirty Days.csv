@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Add Two Numbers,100.0,0.4622507717882867,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
-MEDIUM,Product of Array Except Self,89.6,0.6777995792305304,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,Add Two Numbers,100.0,46.2,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+MEDIUM,Product of Array Except Self,89.6,67.8,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"

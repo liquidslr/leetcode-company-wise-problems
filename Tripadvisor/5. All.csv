@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find Common Characters,100.0,0.7454225022029736,https://leetcode.com/problems/find-common-characters,"Array, Hash Table, String"
-EASY,Valid Parentheses,89.3,0.4232292456603913,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,LRU Cache,74.8,0.4521511800758668,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Best Time to Buy and Sell Stock,66.4,0.5525972597748545,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Find Common Characters,100.0,74.5,https://leetcode.com/problems/find-common-characters,"Array, Hash Table, String"
+EASY,Valid Parentheses,89.3,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,LRU Cache,74.8,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Best Time to Buy and Sell Stock,66.4,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

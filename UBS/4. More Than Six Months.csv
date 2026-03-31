@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Search Suggestions System,100.0,0.6505018082357296,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
-MEDIUM,Beautiful Arrangement,64.9,0.6452775069853577,https://leetcode.com/problems/beautiful-arrangement,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,64.9,0.5419311727363849,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
-EASY,Best Time to Buy and Sell Stock,64.9,0.5525968841850246,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Search Suggestions System,100.0,65.1,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+MEDIUM,Beautiful Arrangement,64.9,64.5,https://leetcode.com/problems/beautiful-arrangement,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,64.9,54.2,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
+EASY,Best Time to Buy and Sell Stock,64.9,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

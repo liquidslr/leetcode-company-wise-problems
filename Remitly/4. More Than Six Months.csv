@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Isomorphic Strings,100.0,0.4685798323600621,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
-MEDIUM,Task Scheduler II,79.4,0.5397196782316108,https://leetcode.com/problems/task-scheduler-ii,"Array, Hash Table, Simulation"
-HARD,Design Search Autocomplete System,71.0,0.49406840347530717,https://leetcode.com/problems/design-search-autocomplete-system,"String, Depth-First Search, Design, Trie, Sorting, Heap (Priority Queue), Data Stream"
+EASY,Isomorphic Strings,100.0,46.9,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
+MEDIUM,Task Scheduler II,79.4,54.0,https://leetcode.com/problems/task-scheduler-ii,"Array, Hash Table, Simulation"
+HARD,Design Search Autocomplete System,71.0,49.4,https://leetcode.com/problems/design-search-autocomplete-system,"String, Depth-First Search, Design, Trie, Sorting, Heap (Priority Queue), Data Stream"

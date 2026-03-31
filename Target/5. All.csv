@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Longest Path With Different Adjacent Characters,100.0,0.5391662377766341,https://leetcode.com/problems/longest-path-with-different-adjacent-characters,"Array, String, Tree, Depth-First Search, Graph, Topological Sort"
-MEDIUM,Product of the Last K Numbers,100.0,0.6274634247482844,https://leetcode.com/problems/product-of-the-last-k-numbers,"Array, Math, Design, Data Stream, Prefix Sum"
-MEDIUM,Maximum Subarray,100.0,0.5209990343890127,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,Sort Colors,100.0,0.6758312389131401,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
+HARD,Longest Path With Different Adjacent Characters,100.0,53.9,https://leetcode.com/problems/longest-path-with-different-adjacent-characters,"Array, String, Tree, Depth-First Search, Graph, Topological Sort"
+MEDIUM,Product of the Last K Numbers,100.0,62.7,https://leetcode.com/problems/product-of-the-last-k-numbers,"Array, Math, Design, Data Stream, Prefix Sum"
+MEDIUM,Maximum Subarray,100.0,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Sort Colors,100.0,67.6,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"

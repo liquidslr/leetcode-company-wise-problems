@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Trapping Rain Water,100.0,0.651086356034693,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Zigzag Conversion,87.5,0.5161060892506519,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Reverse Words in a String,81.1,0.5192721628620846,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
-MEDIUM,Longest Palindromic Substring,72.0,0.3585054411256428,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+HARD,Trapping Rain Water,100.0,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Zigzag Conversion,87.5,51.6,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Reverse Words in a String,81.1,51.9,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Longest Palindromic Substring,72.0,35.9,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

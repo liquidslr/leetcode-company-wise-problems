@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reverse Linked List II,100.0,0.4959173738249868,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
-MEDIUM,Increasing Triplet Subsequence,100.0,0.3912497382273071,https://leetcode.com/problems/increasing-triplet-subsequence,"Array, Greedy"
-MEDIUM,Clone Graph,88.4,0.623857864474346,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Surrounded Regions,88.4,0.42886504456872826,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-HARD,Trapping Rain Water,88.4,0.6510205122646382,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Set Matrix Zeroes,88.4,0.6070890553968923,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+MEDIUM,Reverse Linked List II,100.0,49.6,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+MEDIUM,Increasing Triplet Subsequence,100.0,39.1,https://leetcode.com/problems/increasing-triplet-subsequence,"Array, Greedy"
+MEDIUM,Clone Graph,88.4,62.4,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Surrounded Regions,88.4,42.9,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,Trapping Rain Water,88.4,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Set Matrix Zeroes,88.4,60.7,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"

@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525966929197105,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Remove Duplicate Letters,92.6,0.5135128285840808,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
-MEDIUM,Minimum Fuel Cost to Report to the Capital,82.1,0.6435778675036323,https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital,"Tree, Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,82.1,0.6503433212255785,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero,"Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Maximal Network Rank,82.1,0.6547542413356314,https://leetcode.com/problems/maximal-network-rank,Graph
-HARD,Robot Room Cleaner,82.1,0.7752235506882347,https://leetcode.com/problems/robot-room-cleaner,"Backtracking, Interactive"
-MEDIUM,Subsequence of Size K With the Largest Even Sum,82.1,0.35591489361702133,https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum,"Array, Greedy, Sorting"
-EASY,Counting Elements,82.1,0.6046223903768713,https://leetcode.com/problems/counting-elements,"Array, Hash Table"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Remove Duplicate Letters,92.6,51.4,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Minimum Fuel Cost to Report to the Capital,82.1,64.4,https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital,"Tree, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Reorder Routes to Make All Paths Lead to the City Zero,82.1,65.0,https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero,"Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Maximal Network Rank,82.1,65.5,https://leetcode.com/problems/maximal-network-rank,Graph
+HARD,Robot Room Cleaner,82.1,77.5,https://leetcode.com/problems/robot-room-cleaner,"Backtracking, Interactive"
+MEDIUM,Subsequence of Size K With the Largest Even Sum,82.1,35.6,https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum,"Array, Greedy, Sorting"
+EASY,Counting Elements,82.1,60.5,https://leetcode.com/problems/counting-elements,"Array, Hash Table"

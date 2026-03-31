@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Longest Valid Parentheses,100.0,0.3631959315200682,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack"
-EASY,Valid Parentheses,89.0,0.4232839415762768,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Longest Substring Without Repeating Characters,89.0,0.36940802233594666,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Can Place Flowers,89.0,0.28899627172334796,https://leetcode.com/problems/can-place-flowers,"Array, Greedy"
+HARD,Longest Valid Parentheses,100.0,36.3,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack"
+EASY,Valid Parentheses,89.0,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Substring Without Repeating Characters,89.0,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Can Place Flowers,89.0,28.9,https://leetcode.com/problems/can-place-flowers,"Array, Greedy"

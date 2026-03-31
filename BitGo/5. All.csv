@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Check if an Original String Exists Given Two Encoded Strings,100.0,0.43229333455327323,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings,"String, Dynamic Programming"
-MEDIUM,Gas Station,88.6,0.46383586845548325,https://leetcode.com/problems/gas-station,"Array, Greedy"
-MEDIUM,Number of Islands,79.6,0.6232013595165893,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Zigzag Conversion,73.2,0.5160681481756035,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Longest Substring with At Most K Distinct Characters,73.2,0.4949646677725676,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
-HARD,Bus Routes,73.2,0.46953005797985964,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
-MEDIUM,LRU Cache,73.2,0.452148771503926,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Game of Life,64.1,0.7141528222609304,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
-HARD,Trapping Rain Water,64.1,0.6510216996606288,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Lowest Common Ancestor of a Binary Tree,64.1,0.6675513590636828,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"
+HARD,Check if an Original String Exists Given Two Encoded Strings,100.0,43.2,https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings,"String, Dynamic Programming"
+MEDIUM,Gas Station,88.6,46.4,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Number of Islands,79.6,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Zigzag Conversion,73.2,51.6,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Longest Substring with At Most K Distinct Characters,73.2,49.5,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
+HARD,Bus Routes,73.2,47.0,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+MEDIUM,LRU Cache,73.2,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Game of Life,64.1,71.4,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+HARD,Trapping Rain Water,64.1,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,64.1,66.8,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree"

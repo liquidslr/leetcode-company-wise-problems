@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.5526330512426134,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Check If Array Pairs Are Divisible by k,100.0,0.46201779447336655,https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k,"Array, Hash Table, Counting"
-HARD,Text Justification,89.1,0.4815474272067798,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-EASY,Move Zeroes,89.1,0.6280482926741051,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Check If Array Pairs Are Divisible by k,100.0,46.2,https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k,"Array, Hash Table, Counting"
+HARD,Text Justification,89.1,48.2,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+EASY,Move Zeroes,89.1,62.8,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"

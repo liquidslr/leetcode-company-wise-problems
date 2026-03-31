@@ -1,17 +1,17 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.709288476016785,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,LRU Cache,100.0,0.4521472713752882,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Maximum Frequency Stack,100.0,0.6620493032659615,https://leetcode.com/problems/maximum-frequency-stack,"Hash Table, Stack, Design, Ordered Set"
-HARD,Valid Number,100.0,0.2156350226634436,https://leetcode.com/problems/valid-number,String
-MEDIUM,Reverse Linked List II,100.0,0.4959173738249868,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
-MEDIUM,Increasing Triplet Subsequence,100.0,0.3912497382273071,https://leetcode.com/problems/increasing-triplet-subsequence,"Array, Greedy"
-MEDIUM,Boundary of Binary Tree,87.2,0.4715845638416677,https://leetcode.com/problems/boundary-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
-MEDIUM,Spiral Matrix,87.2,0.5393974123278643,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-HARD,Binary Tree Maximum Path Sum,87.2,0.4122430107410358,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
-MEDIUM,Decode String,87.2,0.6115256876997249,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Merge Intervals,87.2,0.4939526279002703,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Clone Graph,87.2,0.623857864474346,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Surrounded Regions,87.2,0.42886504456872826,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Search a 2D Matrix,87.2,0.5228964741467245,https://leetcode.com/problems/search-a-2d-matrix,"Array, Binary Search, Matrix"
-HARD,Trapping Rain Water,87.2,0.6510205917348408,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Set Matrix Zeroes,87.2,0.6070890553968923,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+MEDIUM,Group Anagrams,100.0,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Maximum Frequency Stack,100.0,66.2,https://leetcode.com/problems/maximum-frequency-stack,"Hash Table, Stack, Design, Ordered Set"
+HARD,Valid Number,100.0,21.6,https://leetcode.com/problems/valid-number,String
+MEDIUM,Reverse Linked List II,100.0,49.6,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+MEDIUM,Increasing Triplet Subsequence,100.0,39.1,https://leetcode.com/problems/increasing-triplet-subsequence,"Array, Greedy"
+MEDIUM,Boundary of Binary Tree,87.2,47.2,https://leetcode.com/problems/boundary-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Spiral Matrix,87.2,53.9,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+HARD,Binary Tree Maximum Path Sum,87.2,41.2,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Decode String,87.2,61.2,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Merge Intervals,87.2,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Clone Graph,87.2,62.4,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Surrounded Regions,87.2,42.9,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Search a 2D Matrix,87.2,52.3,https://leetcode.com/problems/search-a-2d-matrix,"Array, Binary Search, Matrix"
+HARD,Trapping Rain Water,87.2,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Set Matrix Zeroes,87.2,60.7,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"

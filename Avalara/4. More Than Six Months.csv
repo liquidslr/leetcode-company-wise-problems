@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Abbreviating the Product of a Range,100.0,0.24491490244914899,https://leetcode.com/problems/abbreviating-the-product-of-a-range,Math
-HARD,Integer to English Words,100.0,0.34355110873263656,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
+HARD,Abbreviating the Product of a Range,100.0,24.5,https://leetcode.com/problems/abbreviating-the-product-of-a-range,Math
+HARD,Integer to English Words,100.0,34.4,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"

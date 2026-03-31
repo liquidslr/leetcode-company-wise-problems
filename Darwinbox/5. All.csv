@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Scramble String,100.0,0.4218411591949826,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
-MEDIUM,Spiral Matrix,71.5,0.5394612524875491,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Majority Element II,58.4,0.5438470001948768,https://leetcode.com/problems/majority-element-ii,"Array, Hash Table, Sorting, Counting"
-HARD,Number of Great Partitions,58.4,0.3226402936149945,https://leetcode.com/problems/number-of-great-partitions,"Array, Dynamic Programming"
-MEDIUM,Minimum Size Subarray Sum,58.4,0.4939438522342745,https://leetcode.com/problems/minimum-size-subarray-sum,"Array, Binary Search, Sliding Window, Prefix Sum"
+HARD,Scramble String,100.0,42.2,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
+MEDIUM,Spiral Matrix,71.5,53.9,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Majority Element II,58.4,54.4,https://leetcode.com/problems/majority-element-ii,"Array, Hash Table, Sorting, Counting"
+HARD,Number of Great Partitions,58.4,32.3,https://leetcode.com/problems/number-of-great-partitions,"Array, Dynamic Programming"
+MEDIUM,Minimum Size Subarray Sum,58.4,49.4,https://leetcode.com/problems/minimum-size-subarray-sum,"Array, Binary Search, Sliding Window, Prefix Sum"

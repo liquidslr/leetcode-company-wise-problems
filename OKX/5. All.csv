@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.623246254585838,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Kth Smallest Element in a Sorted Matrix,89.1,0.6356877520884164,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix,"Array, Binary Search, Sorting, Heap (Priority Queue), Matrix"
-HARD,Count Subarrays With Fixed Bounds,89.1,0.6940812070277932,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
+MEDIUM,Number of Islands,100.0,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Kth Smallest Element in a Sorted Matrix,89.1,63.6,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix,"Array, Binary Search, Sorting, Heap (Priority Queue), Matrix"
+HARD,Count Subarrays With Fixed Bounds,89.1,69.4,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"

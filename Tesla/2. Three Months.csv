@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Building H2O,100.0,0.5758696646024687,https://leetcode.com/problems/building-h2o,Concurrency
-MEDIUM,Basic Calculator II,100.0,0.4581138691872612,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
-MEDIUM,Number of Islands,100.0,0.6232000863217745,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-HARD,First Missing Positive,89.0,0.4108465766394882,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Building H2O,100.0,57.6,https://leetcode.com/problems/building-h2o,Concurrency
+MEDIUM,Basic Calculator II,100.0,45.8,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Number of Islands,100.0,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+HARD,First Missing Positive,89.0,41.1,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"

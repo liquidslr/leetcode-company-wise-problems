@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Find Median from Data Stream,100.0,0.5328274303467472,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-MEDIUM,Snapshot Array,100.0,0.36666006229954134,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
-MEDIUM,Restore IP Addresses,89.3,0.5316261155804161,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
-MEDIUM,Number of Dice Rolls With Target Sum,89.3,0.6162808491826136,https://leetcode.com/problems/number-of-dice-rolls-with-target-sum,Dynamic Programming
+HARD,Find Median from Data Stream,100.0,53.3,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Snapshot Array,100.0,36.7,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+MEDIUM,Restore IP Addresses,89.3,53.2,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
+MEDIUM,Number of Dice Rolls With Target Sum,89.3,61.6,https://leetcode.com/problems/number-of-dice-rolls-with-target-sum,Dynamic Programming

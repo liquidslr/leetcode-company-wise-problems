@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Merge Sorted Array,100.0,0.5291965716793704,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,Sum of Subarray Minimums,100.0,0.37623390043456567,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Merge Sorted Array,100.0,52.9,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Sum of Subarray Minimums,100.0,37.6,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"

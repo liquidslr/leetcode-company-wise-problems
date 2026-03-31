@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Container With Most Water,100.0,0.5778282666830817,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-HARD,Trapping Rain Water,100.0,0.6510199452828925,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Check if a Parentheses String Can Be Valid,100.0,0.44858593577735023,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid,"String, Stack, Greedy"
-HARD,First Missing Positive,100.0,0.4108465766394882,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
-MEDIUM,Merge Intervals,100.0,0.49395238677841924,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Container With Most Water,100.0,57.8,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+HARD,Trapping Rain Water,100.0,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Check if a Parentheses String Can Be Valid,100.0,44.9,https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid,"String, Stack, Greedy"
+HARD,First Missing Positive,100.0,41.1,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Merge Intervals,100.0,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Total Distance Traveled,100.0,0.4016833878179837,https://leetcode.com/problems/total-distance-traveled,"Math, Simulation"
-MEDIUM,Group Anagrams,89.8,0.7092899316934461,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Camelcase Matching,89.8,0.63780016867149,https://leetcode.com/problems/camelcase-matching,"Array, Two Pointers, String, Trie, String Matching"
-EASY,Subtree of Another Tree,89.8,0.4998476418026165,https://leetcode.com/problems/subtree-of-another-tree,"Tree, Depth-First Search, String Matching, Binary Tree, Hash Function"
+EASY,Total Distance Traveled,100.0,40.2,https://leetcode.com/problems/total-distance-traveled,"Math, Simulation"
+MEDIUM,Group Anagrams,89.8,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Camelcase Matching,89.8,63.8,https://leetcode.com/problems/camelcase-matching,"Array, Two Pointers, String, Trie, String Matching"
+EASY,Subtree of Another Tree,89.8,50.0,https://leetcode.com/problems/subtree-of-another-tree,"Tree, Depth-First Search, String Matching, Binary Tree, Hash Function"

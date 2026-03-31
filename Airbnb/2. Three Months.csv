@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Text Justification,100.0,0.48149935664104093,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-HARD,Maximum Profit in Job Scheduling,74.9,0.5441735043380527,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
-HARD,Design Excel Sum Formula,70.7,0.42568163292465855,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
-MEDIUM,Simple Bank System,57.6,0.6142935665806328,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
-MEDIUM,Smallest Common Region,57.6,0.679230513317286,https://leetcode.com/problems/smallest-common-region,"Array, Hash Table, String, Tree, Depth-First Search, Breadth-First Search"
+HARD,Text Justification,100.0,48.1,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+HARD,Maximum Profit in Job Scheduling,74.9,54.4,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Design Excel Sum Formula,70.7,42.6,https://leetcode.com/problems/design-excel-sum-formula,"Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
+MEDIUM,Simple Bank System,57.6,61.4,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+MEDIUM,Smallest Common Region,57.6,67.9,https://leetcode.com/problems/smallest-common-region,"Array, Hash Table, String, Tree, Depth-First Search, Breadth-First Search"

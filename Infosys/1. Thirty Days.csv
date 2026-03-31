@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximum Good Subtree Score,100.0,0.4365004703668862,https://leetcode.com/problems/maximum-good-subtree-score,"Array, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search, Bitmask"
-EASY,Valid Anagram,68.5,0.6666092879730681,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+HARD,Maximum Good Subtree Score,100.0,43.7,https://leetcode.com/problems/maximum-good-subtree-score,"Array, Dynamic Programming, Bit Manipulation, Tree, Depth-First Search, Bitmask"
+EASY,Valid Anagram,68.5,66.7,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

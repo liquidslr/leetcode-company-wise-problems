@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Clone Graph,100.0,0.6238601074675428,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5499172170512081,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,LRU Cache,89.5,0.4521499177481188,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Design In-Memory File System,89.5,0.48168927561926755,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
-MEDIUM,Cache With Time Limit,89.5,0.7578510164111569,https://leetcode.com/problems/cache-with-time-limit,
+MEDIUM,Clone Graph,100.0,62.4,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Insert Delete GetRandom O(1),100.0,55.0,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,LRU Cache,89.5,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Design In-Memory File System,89.5,48.2,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
+MEDIUM,Cache With Time Limit,89.5,75.8,https://leetcode.com/problems/cache-with-time-limit,

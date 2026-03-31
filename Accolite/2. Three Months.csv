@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Replace the Substring for Balanced String,100.0,0.3957869695341877,https://leetcode.com/problems/replace-the-substring-for-balanced-string,"String, Sliding Window"
-EASY,Two Sum,90.2,0.5577705216460996,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Replace the Substring for Balanced String,100.0,39.6,https://leetcode.com/problems/replace-the-substring-for-balanced-string,"String, Sliding Window"
+EASY,Two Sum,90.2,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"

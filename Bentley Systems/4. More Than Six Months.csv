@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Largest Palindromic Number,100.0,0.36473298587506603,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"
-EASY,Best Time to Buy and Sell Stock,100.0,0.5526330377484631,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Largest Palindromic Number,100.0,36.5,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

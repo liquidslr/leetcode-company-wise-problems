@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Path Sum IV,100.0,0.6265683229813664,https://leetcode.com/problems/path-sum-iv,"Array, Hash Table, Tree, Depth-First Search, Binary Tree"
-MEDIUM,Split Concatenated Strings,100.0,0.4331808331326752,https://leetcode.com/problems/split-concatenated-strings,"Array, String, Greedy"
-HARD,Split Array with Equal Sum,100.0,0.5005901986323673,https://leetcode.com/problems/split-array-with-equal-sum,"Array, Hash Table, Prefix Sum"
-MEDIUM,Valid Parenthesis String,100.0,0.38909428484404673,https://leetcode.com/problems/valid-parenthesis-string,"String, Dynamic Programming, Stack, Greedy"
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3693614339383895,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Path Sum IV,100.0,62.7,https://leetcode.com/problems/path-sum-iv,"Array, Hash Table, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Split Concatenated Strings,100.0,43.3,https://leetcode.com/problems/split-concatenated-strings,"Array, String, Greedy"
+HARD,Split Array with Equal Sum,100.0,50.1,https://leetcode.com/problems/split-array-with-equal-sum,"Array, Hash Table, Prefix Sum"
+MEDIUM,Valid Parenthesis String,100.0,38.9,https://leetcode.com/problems/valid-parenthesis-string,"String, Dynamic Programming, Stack, Greedy"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

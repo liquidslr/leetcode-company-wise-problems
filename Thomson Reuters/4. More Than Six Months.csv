@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Of All Vowels in Order,100.0,0.505407116626567,https://leetcode.com/problems/longest-substring-of-all-vowels-in-order,"String, Sliding Window"
-EASY,Minimum Time to Type Word Using Special Typewriter,89.9,0.7771306948017184,https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter,"String, Greedy"
-EASY,Roman to Integer,89.9,0.6486655269483809,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Longest Substring Of All Vowels in Order,100.0,50.5,https://leetcode.com/problems/longest-substring-of-all-vowels-in-order,"String, Sliding Window"
+EASY,Minimum Time to Type Word Using Special Typewriter,89.9,77.7,https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter,"String, Greedy"
+EASY,Roman to Integer,89.9,64.9,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"

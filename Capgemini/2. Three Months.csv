@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Reverse Degree of a String,100.0,0.8705975043652314,https://leetcode.com/problems/reverse-degree-of-a-string,"String, Simulation"
-EASY,Two Sum,75.4,0.5577700897656149,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Reverse Degree of a String,100.0,87.1,https://leetcode.com/problems/reverse-degree-of-a-string,"String, Simulation"
+EASY,Two Sum,75.4,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"

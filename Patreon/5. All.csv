@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Simplify Path,100.0,0.47854762508213033,https://leetcode.com/problems/simplify-path,"String, Stack"
-EASY,Logger Rate Limiter,76.2,0.766103057053701,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
-HARD,Binary Tree Maximum Path Sum,68.2,0.4122434478014677,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Simplify Path,100.0,47.9,https://leetcode.com/problems/simplify-path,"String, Stack"
+EASY,Logger Rate Limiter,76.2,76.6,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+HARD,Binary Tree Maximum Path Sum,68.2,41.2,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"

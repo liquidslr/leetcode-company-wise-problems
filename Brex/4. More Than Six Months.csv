@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Basic Calculator III,100.0,0.5246967071057193,https://leetcode.com/problems/basic-calculator-iii,"Math, String, Stack, Recursion"
-MEDIUM,Game of Life,100.0,0.7141535361052459,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+HARD,Basic Calculator III,100.0,52.5,https://leetcode.com/problems/basic-calculator-iii,"Math, String, Stack, Recursion"
+MEDIUM,Game of Life,100.0,71.4,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"

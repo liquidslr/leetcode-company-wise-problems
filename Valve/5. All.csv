@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Dota2 Senate,100.0,0.4890672536522696,https://leetcode.com/problems/dota2-senate,"String, Greedy, Queue"
-MEDIUM,String to Integer (atoi),88.0,0.19229490109096387,https://leetcode.com/problems/string-to-integer-atoi,String
-MEDIUM,Deep Merge of Two Objects,66.2,0.6422558922558923,https://leetcode.com/problems/deep-merge-of-two-objects,
-EASY,Design Parking System,66.2,0.8707487022637689,https://leetcode.com/problems/design-parking-system,"Design, Simulation, Counting"
+MEDIUM,Dota2 Senate,100.0,48.9,https://leetcode.com/problems/dota2-senate,"String, Greedy, Queue"
+MEDIUM,String to Integer (atoi),88.0,19.2,https://leetcode.com/problems/string-to-integer-atoi,String
+MEDIUM,Deep Merge of Two Objects,66.2,64.2,https://leetcode.com/problems/deep-merge-of-two-objects,
+EASY,Design Parking System,66.2,87.1,https://leetcode.com/problems/design-parking-system,"Design, Simulation, Counting"

@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Max Difference You Can Get From Changing an Integer,100.0,0.4901474986248562,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer,"Math, Greedy"
-MEDIUM,Brick Wall,89.2,0.5585762726172722,https://leetcode.com/problems/brick-wall,"Array, Hash Table"
-MEDIUM,Spiral Matrix,89.2,0.5394630958493493,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Letter Combinations of a Phone Number,89.2,0.6386159754422588,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-MEDIUM,3Sum,89.2,0.3707513382130997,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Max Difference You Can Get From Changing an Integer,100.0,49.0,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer,"Math, Greedy"
+MEDIUM,Brick Wall,89.2,55.9,https://leetcode.com/problems/brick-wall,"Array, Hash Table"
+MEDIUM,Spiral Matrix,89.2,53.9,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Letter Combinations of a Phone Number,89.2,63.9,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,3Sum,89.2,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Connected Components in an Undirected Graph,100.0,0.6420134726680878,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union Find, Graph"
-MEDIUM,LRU Cache,70.6,0.4521500890965678,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,The Number of Full Rounds You Have Played,70.6,0.4340737028618474,https://leetcode.com/problems/the-number-of-full-rounds-you-have-played,"Math, String"
-HARD,First Missing Positive,70.6,0.4108476119871277,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Number of Connected Components in an Undirected Graph,100.0,64.2,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,LRU Cache,70.6,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,The Number of Full Rounds You Have Played,70.6,43.4,https://leetcode.com/problems/the-number-of-full-rounds-you-have-played,"Math, String"
+HARD,First Missing Positive,70.6,41.1,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"

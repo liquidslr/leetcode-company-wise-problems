@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Deepest Leaves Sum,100.0,0.8634979671040474,https://leetcode.com/problems/deepest-leaves-sum,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,Container With Most Water,100.0,0.5778290777243622,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Deepest Leaves Sum,100.0,86.3,https://leetcode.com/problems/deepest-leaves-sum,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Container With Most Water,100.0,57.8,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"

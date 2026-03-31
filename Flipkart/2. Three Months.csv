@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Transform Array to All Equal Elements,100.0,0.315568937398068,https://leetcode.com/problems/transform-array-to-all-equal-elements,"Array, Greedy"
-MEDIUM,Course Schedule II,64.5,0.5342350029047974,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Sum of Subarray Minimums,64.5,0.3762351166424223,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Transform Array to All Equal Elements,100.0,31.6,https://leetcode.com/problems/transform-array-to-all-equal-elements,"Array, Greedy"
+MEDIUM,Course Schedule II,64.5,53.4,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Sum of Subarray Minimums,64.5,37.6,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"

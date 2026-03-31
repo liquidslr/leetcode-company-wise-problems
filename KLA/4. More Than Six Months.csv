@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Roman to Integer,100.0,0.6486643502043604,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-HARD,LFU Cache,100.0,0.46609147192725375,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Reaching Points,100.0,0.336468882434809,https://leetcode.com/problems/reaching-points,Math
-MEDIUM,Maximum Swap,100.0,0.5184843217200763,https://leetcode.com/problems/maximum-swap,"Math, Greedy"
-EASY,Two Sum,100.0,0.5577703230564676,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Roman to Integer,100.0,64.9,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+HARD,LFU Cache,100.0,46.6,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Reaching Points,100.0,33.6,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,Maximum Swap,100.0,51.8,https://leetcode.com/problems/maximum-swap,"Math, Greedy"
+EASY,Two Sum,100.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"

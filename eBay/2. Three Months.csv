@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Time Based Key-Value Store,100.0,0.49366262559843777,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,"Pow(x, n)",100.0,0.37023201698953384,https://leetcode.com/problems/powx-n,"Math, Recursion"
-MEDIUM,Rotting Oranges,100.0,0.5661839890477366,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Open the Lock,100.0,0.6074106348295799,https://leetcode.com/problems/open-the-lock,"Array, Hash Table, String, Breadth-First Search"
-MEDIUM,Set Matrix Zeroes,100.0,0.6070888278303417,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+MEDIUM,Time Based Key-Value Store,100.0,49.4,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,"Pow(x, n)",100.0,37.0,https://leetcode.com/problems/powx-n,"Math, Recursion"
+MEDIUM,Rotting Oranges,100.0,56.6,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Open the Lock,100.0,60.7,https://leetcode.com/problems/open-the-lock,"Array, Hash Table, String, Breadth-First Search"
+MEDIUM,Set Matrix Zeroes,100.0,60.7,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"

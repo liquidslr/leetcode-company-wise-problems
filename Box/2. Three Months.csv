@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Number of 1 Bits,100.0,0.7450480575885099,https://leetcode.com/problems/number-of-1-bits,"Divide and Conquer, Bit Manipulation"
-MEDIUM,Top K Frequent Words,90.1,0.5927711651861731,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
-HARD,Word Ladder,90.1,0.42812064281842477,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+EASY,Number of 1 Bits,100.0,74.5,https://leetcode.com/problems/number-of-1-bits,"Divide and Conquer, Bit Manipulation"
+MEDIUM,Top K Frequent Words,90.1,59.3,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+HARD,Word Ladder,90.1,42.8,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"

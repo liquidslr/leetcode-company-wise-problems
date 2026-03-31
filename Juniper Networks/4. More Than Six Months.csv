@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Boundary of Binary Tree,100.0,0.47158629287906856,https://leetcode.com/problems/boundary-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
-MEDIUM,Coin Change,100.0,0.464957320920135,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
-MEDIUM,Add Two Numbers II,100.0,0.6175467587896241,https://leetcode.com/problems/add-two-numbers-ii,"Linked List, Math, Stack"
+MEDIUM,Boundary of Binary Tree,100.0,47.2,https://leetcode.com/problems/boundary-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Coin Change,100.0,46.5,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Add Two Numbers II,100.0,61.8,https://leetcode.com/problems/add-two-numbers-ii,"Linked List, Math, Stack"

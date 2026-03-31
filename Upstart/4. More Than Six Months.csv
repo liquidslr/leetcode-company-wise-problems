@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Subarray,100.0,0.5209988985600883,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,Simplify Path,94.9,0.4785476063011359,https://leetcode.com/problems/simplify-path,"String, Stack"
-MEDIUM,Next Permutation,78.9,0.4305779256856484,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+MEDIUM,Maximum Subarray,100.0,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Simplify Path,94.9,47.9,https://leetcode.com/problems/simplify-path,"String, Stack"
+MEDIUM,Next Permutation,78.9,43.1,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"

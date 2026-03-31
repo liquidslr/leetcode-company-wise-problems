@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Integer to Roman,100.0,0.6861926427887565,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
-HARD,Reconstruct Itinerary,89.5,0.4360560656471098,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
-MEDIUM,Permutations,89.5,0.8066016018077352,https://leetcode.com/problems/permutations,"Array, Backtracking"
-MEDIUM,LRU Cache,89.5,0.4521475035659106,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Roman to Integer,89.5,0.6486633785975462,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Integer to Roman,100.0,68.6,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+HARD,Reconstruct Itinerary,89.5,43.6,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+MEDIUM,Permutations,89.5,80.7,https://leetcode.com/problems/permutations,"Array, Backtracking"
+MEDIUM,LRU Cache,89.5,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Roman to Integer,89.5,64.9,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"

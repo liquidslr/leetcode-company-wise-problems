@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Most Stones Removed with Same Row or Column,100.0,0.6218989759471679,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column,"Hash Table, Depth-First Search, Union Find, Graph"
-EASY,Best Time to Buy and Sell Stock,88.0,0.5525967581165647,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Product of Array Except Self,88.0,0.6778006914594543,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
-EASY,Cousins in Binary Tree,88.0,0.5817380089487071,https://leetcode.com/problems/cousins-in-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-HARD,Count the Number of Infection Sequences,88.0,0.33387795114778207,https://leetcode.com/problems/count-the-number-of-infection-sequences,"Array, Math, Combinatorics"
-MEDIUM,Spiral Matrix,88.0,0.539398836789508,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Most Stones Removed with Same Row or Column,100.0,62.2,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column,"Hash Table, Depth-First Search, Union Find, Graph"
+EASY,Best Time to Buy and Sell Stock,88.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Product of Array Except Self,88.0,67.8,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+EASY,Cousins in Binary Tree,88.0,58.2,https://leetcode.com/problems/cousins-in-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+HARD,Count the Number of Infection Sequences,88.0,33.4,https://leetcode.com/problems/count-the-number-of-infection-sequences,"Array, Math, Combinatorics"
+MEDIUM,Spiral Matrix,88.0,53.9,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

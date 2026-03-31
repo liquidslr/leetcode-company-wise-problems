@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Time Needed to Buy Tickets,100.0,0.7070583253471215,https://leetcode.com/problems/time-needed-to-buy-tickets,"Array, Queue, Simulation"
-HARD,Candy,100.0,0.4670442028101253,https://leetcode.com/problems/candy,"Array, Greedy"
+EASY,Time Needed to Buy Tickets,100.0,70.7,https://leetcode.com/problems/time-needed-to-buy-tickets,"Array, Queue, Simulation"
+HARD,Candy,100.0,46.7,https://leetcode.com/problems/candy,"Array, Greedy"

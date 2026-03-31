@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Longest Harmonious Subsequence,100.0,0.5731264149524798,https://leetcode.com/problems/longest-harmonious-subsequence,"Array, Hash Table, Sliding Window, Sorting, Counting"
-MEDIUM,Distribute Candies Among Children II,88.5,0.5613414290884233,https://leetcode.com/problems/distribute-candies-among-children-ii,"Math, Combinatorics, Enumeration"
-EASY,Longest Unequal Adjacent Groups Subsequence I,88.5,0.6756708309889311,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i,"Array, String, Dynamic Programming, Greedy"
-MEDIUM,Largest 1-Bordered Square,88.5,0.5109808899476603,https://leetcode.com/problems/largest-1-bordered-square,"Array, Dynamic Programming, Matrix"
-EASY,Crawler Log Folder,88.5,0.7160418239109896,https://leetcode.com/problems/crawler-log-folder,"Array, String, Stack"
-MEDIUM,Managers with at Least 5 Direct Reports,88.5,0.4893975992284871,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
-EASY,The Number of Employees Which Report to Each Employee,88.5,0.5215799545486316,https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee,Database
-MEDIUM,Nth Highest Salary,88.5,0.3803889168918484,https://leetcode.com/problems/nth-highest-salary,Database
-MEDIUM,Product of Array Except Self,88.5,0.6778016749535838,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+EASY,Longest Harmonious Subsequence,100.0,57.3,https://leetcode.com/problems/longest-harmonious-subsequence,"Array, Hash Table, Sliding Window, Sorting, Counting"
+MEDIUM,Distribute Candies Among Children II,88.5,56.1,https://leetcode.com/problems/distribute-candies-among-children-ii,"Math, Combinatorics, Enumeration"
+EASY,Longest Unequal Adjacent Groups Subsequence I,88.5,67.6,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i,"Array, String, Dynamic Programming, Greedy"
+MEDIUM,Largest 1-Bordered Square,88.5,51.1,https://leetcode.com/problems/largest-1-bordered-square,"Array, Dynamic Programming, Matrix"
+EASY,Crawler Log Folder,88.5,71.6,https://leetcode.com/problems/crawler-log-folder,"Array, String, Stack"
+MEDIUM,Managers with at Least 5 Direct Reports,88.5,48.9,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+EASY,The Number of Employees Which Report to Each Employee,88.5,52.2,https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee,Database
+MEDIUM,Nth Highest Salary,88.5,38.0,https://leetcode.com/problems/nth-highest-salary,Database
+MEDIUM,Product of Array Except Self,88.5,67.8,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"

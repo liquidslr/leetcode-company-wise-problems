@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximal Square,100.0,0.4876422601899655,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
-MEDIUM,Subarray Product Less Than K,73.5,0.5285651621012318,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
-EASY,Two Sum,60.3,0.5578041072562816,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Roman to Integer,60.3,0.6487066329196147,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-MEDIUM,Max Area of Island,60.3,0.7316537705618312,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Maximal Square,100.0,48.8,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Subarray Product Less Than K,73.5,52.9,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+EASY,Two Sum,60.3,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Roman to Integer,60.3,64.9,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Max Area of Island,60.3,73.2,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

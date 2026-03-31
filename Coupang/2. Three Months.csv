@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Shortest Bridge,100.0,0.5864849244498144,https://leetcode.com/problems/shortest-bridge,"Array, Depth-First Search, Breadth-First Search, Matrix"
-MEDIUM,Course Schedule,92.8,0.49234407208177816,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Remove K Digits,92.8,0.3494044611317414,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
-MEDIUM,Shopping Offers,82.6,0.5190263317700597,https://leetcode.com/problems/shopping-offers,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"
-MEDIUM,Snapshot Array,82.6,0.36665375389245647,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"
+MEDIUM,Shortest Bridge,100.0,58.6,https://leetcode.com/problems/shortest-bridge,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Course Schedule,92.8,49.2,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Remove K Digits,92.8,34.9,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Shopping Offers,82.6,51.9,https://leetcode.com/problems/shopping-offers,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"
+MEDIUM,Snapshot Array,82.6,36.7,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design"

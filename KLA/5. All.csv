@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Product of First and Last Elements of a Subsequence,100.0,0.29763143653998253,https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence,"Array, Two Pointers"
-HARD,Reaching Points,80.3,0.336468882434809,https://leetcode.com/problems/reaching-points,Math
-MEDIUM,LRU Cache,80.3,0.4521493519744642,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Roman to Integer,70.9,0.6486643502043604,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-HARD,LFU Cache,70.9,0.46609147192725375,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Maximum Swap,70.9,0.5184843217200763,https://leetcode.com/problems/maximum-swap,"Math, Greedy"
-EASY,Two Sum,70.9,0.5577703230564676,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-HARD,Find Median from Data Stream,70.9,0.5327802546186611,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Maximum Product of First and Last Elements of a Subsequence,100.0,29.8,https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence,"Array, Two Pointers"
+HARD,Reaching Points,80.3,33.6,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,LRU Cache,80.3,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Roman to Integer,70.9,64.9,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+HARD,LFU Cache,70.9,46.6,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Maximum Swap,70.9,51.8,https://leetcode.com/problems/maximum-swap,"Math, Greedy"
+EASY,Two Sum,70.9,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Find Median from Data Stream,70.9,53.3,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"

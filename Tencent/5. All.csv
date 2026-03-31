@@ -1,16 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Decode String,100.0,0.6115259200424883,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-HARD,Remove Boxes,97.9,0.48292462220613513,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
-MEDIUM,Minimum Factorization,97.9,0.3380261620450853,https://leetcode.com/problems/minimum-factorization,"Math, Greedy"
-HARD,Candy,62.4,0.4669983592386035,https://leetcode.com/problems/candy,"Array, Greedy"
-MEDIUM,Implement Rand10() Using Rand7(),62.4,0.4585972286873645,https://leetcode.com/problems/implement-rand10-using-rand7,"Math, Rejection Sampling, Randomized, Probability and Statistics"
-MEDIUM,Immediate Food Delivery II,62.4,0.5431581086799343,https://leetcode.com/problems/immediate-food-delivery-ii,Database
-HARD,Alien Dictionary,62.4,0.3667366393077476,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,LRU Cache,62.4,0.45214787213212304,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Remove Duplicates from Sorted List II,62.4,0.49890970839865334,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii,"Linked List, Two Pointers"
-EASY,Valid Parentheses,62.4,0.4232286934455142,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Minimum Remove to Make Valid Parentheses,62.4,0.7074595624352417,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,"String, Stack"
-MEDIUM,Department Highest Salary,62.4,0.5481303192598069,https://leetcode.com/problems/department-highest-salary,Database
-EASY,Next Greater Element I,62.4,0.7451231783605773,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
-MEDIUM,Debounce,62.4,0.9181616559881715,https://leetcode.com/problems/debounce,
-MEDIUM,Merge Intervals,62.4,0.4939524843951094,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Decode String,100.0,61.2,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+HARD,Remove Boxes,97.9,48.3,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
+MEDIUM,Minimum Factorization,97.9,33.8,https://leetcode.com/problems/minimum-factorization,"Math, Greedy"
+HARD,Candy,62.4,46.7,https://leetcode.com/problems/candy,"Array, Greedy"
+MEDIUM,Implement Rand10() Using Rand7(),62.4,45.9,https://leetcode.com/problems/implement-rand10-using-rand7,"Math, Rejection Sampling, Randomized, Probability and Statistics"
+MEDIUM,Immediate Food Delivery II,62.4,54.3,https://leetcode.com/problems/immediate-food-delivery-ii,Database
+HARD,Alien Dictionary,62.4,36.7,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,LRU Cache,62.4,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Remove Duplicates from Sorted List II,62.4,49.9,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii,"Linked List, Two Pointers"
+EASY,Valid Parentheses,62.4,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Minimum Remove to Make Valid Parentheses,62.4,70.7,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses,"String, Stack"
+MEDIUM,Department Highest Salary,62.4,54.8,https://leetcode.com/problems/department-highest-salary,Database
+EASY,Next Greater Element I,62.4,74.5,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
+MEDIUM,Debounce,62.4,91.8,https://leetcode.com/problems/debounce,
+MEDIUM,Merge Intervals,62.4,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Categorize Box According to Criteria,100.0,0.3766858163729989,https://leetcode.com/problems/categorize-box-according-to-criteria,Math
-EASY,Distribute Money to Maximum Children,100.0,0.19451696488486803,https://leetcode.com/problems/distribute-money-to-maximum-children,"Math, Greedy"
-MEDIUM,Evaluate Reverse Polish Notation,67.3,0.5495723545430139,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
+EASY,Categorize Box According to Criteria,100.0,37.7,https://leetcode.com/problems/categorize-box-according-to-criteria,Math
+EASY,Distribute Money to Maximum Children,100.0,19.5,https://leetcode.com/problems/distribute-money-to-maximum-children,"Math, Greedy"
+MEDIUM,Evaluate Reverse Polish Notation,67.3,55.0,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"

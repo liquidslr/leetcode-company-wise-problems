@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Count Pairs With XOR in a Range,100.0,0.45744370916052773,https://leetcode.com/problems/count-pairs-with-xor-in-a-range,"Array, Bit Manipulation, Trie"
-MEDIUM,Flower Planting With No Adjacent,100.0,0.5237790114146059,https://leetcode.com/problems/flower-planting-with-no-adjacent,"Depth-First Search, Breadth-First Search, Graph"
+HARD,Count Pairs With XOR in a Range,100.0,45.7,https://leetcode.com/problems/count-pairs-with-xor-in-a-range,"Array, Bit Manipulation, Trie"
+MEDIUM,Flower Planting With No Adjacent,100.0,52.4,https://leetcode.com/problems/flower-planting-with-no-adjacent,"Depth-First Search, Breadth-First Search, Graph"

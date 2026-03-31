@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximize Greatness of an Array,100.0,0.5864617466875623,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
-HARD,Maximum Profit in Job Scheduling,79.9,0.5441746135165552,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
-HARD,Swim in Rising Water,79.9,0.6285273239373714,https://leetcode.com/problems/swim-in-rising-water,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
-HARD,Text Justification,79.9,0.4815035316083349,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Maximize Greatness of an Array,100.0,58.6,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+HARD,Maximum Profit in Job Scheduling,79.9,54.4,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Swim in Rising Water,79.9,62.9,https://leetcode.com/problems/swim-in-rising-water,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+HARD,Text Justification,79.9,48.2,https://leetcode.com/problems/text-justification,"Array, String, Simulation"

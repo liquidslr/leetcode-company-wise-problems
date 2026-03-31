@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Binary Tree Cameras,100.0,0.4718257360539049,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
-MEDIUM,Sell Diminishing-Valued Colored Balls,100.0,0.29960670022229985,https://leetcode.com/problems/sell-diminishing-valued-colored-balls,"Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue)"
-MEDIUM,Shopping Offers,100.0,0.5190263317700597,https://leetcode.com/problems/shopping-offers,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"
+HARD,Binary Tree Cameras,100.0,47.2,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Sell Diminishing-Valued Colored Balls,100.0,30.0,https://leetcode.com/problems/sell-diminishing-valued-colored-balls,"Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Shopping Offers,100.0,51.9,https://leetcode.com/problems/shopping-offers,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"

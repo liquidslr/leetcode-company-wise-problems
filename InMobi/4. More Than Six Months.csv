@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reach a Number,100.0,0.43895830721439816,https://leetcode.com/problems/reach-a-number,"Math, Binary Search"
-MEDIUM,Partition Labels,100.0,0.8153348894045592,https://leetcode.com/problems/partition-labels,"Hash Table, Two Pointers, String, Greedy"
-HARD,Maximum Number of Robots Within Budget,100.0,0.36809375440755987,https://leetcode.com/problems/maximum-number-of-robots-within-budget,"Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue"
-MEDIUM,Redundant Connection,100.0,0.664559976331304,https://leetcode.com/problems/redundant-connection,"Depth-First Search, Breadth-First Search, Union Find, Graph"
-HARD,Longest Valid Parentheses,100.0,0.3631311123479367,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack"
-HARD,Trapping Rain Water,100.0,0.6510220449461127,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Reach a Number,100.0,43.9,https://leetcode.com/problems/reach-a-number,"Math, Binary Search"
+MEDIUM,Partition Labels,100.0,81.5,https://leetcode.com/problems/partition-labels,"Hash Table, Two Pointers, String, Greedy"
+HARD,Maximum Number of Robots Within Budget,100.0,36.8,https://leetcode.com/problems/maximum-number-of-robots-within-budget,"Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue"
+MEDIUM,Redundant Connection,100.0,66.5,https://leetcode.com/problems/redundant-connection,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+HARD,Longest Valid Parentheses,100.0,36.3,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack"
+HARD,Trapping Rain Water,100.0,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

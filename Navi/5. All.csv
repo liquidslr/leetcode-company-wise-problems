@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimize the Maximum Difference of Pairs,100.0,0.508506695457402,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs,"Array, Binary Search, Dynamic Programming, Greedy, Sorting"
-MEDIUM,Minimum Number of Days to Make m Bouquets,80.7,0.554659285502073,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets,"Array, Binary Search"
-MEDIUM,Search in Rotated Sorted Array,66.2,0.42837405591160826,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-HARD,Trapping Rain Water,66.2,0.6510221718205077,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Minimize the Maximum Difference of Pairs,100.0,50.9,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs,"Array, Binary Search, Dynamic Programming, Greedy, Sorting"
+MEDIUM,Minimum Number of Days to Make m Bouquets,80.7,55.5,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets,"Array, Binary Search"
+MEDIUM,Search in Rotated Sorted Array,66.2,42.8,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+HARD,Trapping Rain Water,66.2,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

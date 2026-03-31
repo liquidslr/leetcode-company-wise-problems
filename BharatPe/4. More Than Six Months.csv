@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximal Square,100.0,0.48764197041536506,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
-MEDIUM,Car Fleet,93.4,0.5347643805340839,https://leetcode.com/problems/car-fleet,"Array, Stack, Sorting, Monotonic Stack"
+MEDIUM,Maximal Square,100.0,48.8,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Car Fleet,93.4,53.5,https://leetcode.com/problems/car-fleet,"Array, Stack, Sorting, Monotonic Stack"

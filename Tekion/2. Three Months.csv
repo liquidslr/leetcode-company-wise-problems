@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Split Array Largest Sum,100.0,0.5809965654277032,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
-MEDIUM,Ways to Split Array Into Three Subarrays,88.9,0.3344652559336574,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays,"Array, Two Pointers, Binary Search, Prefix Sum"
-HARD,Trapping Rain Water,88.9,0.6510210425279727,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Maximum Subarray,88.9,0.5209985598690413,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,Product of the Last K Numbers,88.9,0.6274634247482844,https://leetcode.com/problems/product-of-the-last-k-numbers,"Array, Math, Design, Data Stream, Prefix Sum"
+HARD,Split Array Largest Sum,100.0,58.1,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+MEDIUM,Ways to Split Array Into Three Subarrays,88.9,33.4,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays,"Array, Two Pointers, Binary Search, Prefix Sum"
+HARD,Trapping Rain Water,88.9,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Maximum Subarray,88.9,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Product of the Last K Numbers,88.9,62.7,https://leetcode.com/problems/product-of-the-last-k-numbers,"Array, Math, Design, Data Stream, Prefix Sum"

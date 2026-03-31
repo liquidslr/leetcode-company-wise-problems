@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Percentage of Users Attended a Contest,100.0,0.5894214941113579,https://leetcode.com/problems/percentage-of-users-attended-a-contest,Database
-HARD,Number of Ways to Paint N × 3 Grid,100.0,0.6503587524201552,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid,Dynamic Programming
+EASY,Percentage of Users Attended a Contest,100.0,58.9,https://leetcode.com/problems/percentage-of-users-attended-a-contest,Database
+HARD,Number of Ways to Paint N × 3 Grid,100.0,65.0,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid,Dynamic Programming

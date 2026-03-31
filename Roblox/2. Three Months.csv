@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reorganize String,100.0,0.5619634145417838,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
-MEDIUM,Task Scheduler,77.9,0.615393301547845,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
-HARD,Trapping Rain Water,63.9,0.6510198658123436,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Implement Trie (Prefix Tree),63.9,0.6793477899842462,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Reorganize String,100.0,56.2,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Task Scheduler,77.9,61.5,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+HARD,Trapping Rain Water,63.9,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Implement Trie (Prefix Tree),63.9,67.9,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"

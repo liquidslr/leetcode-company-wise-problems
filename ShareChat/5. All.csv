@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Maximum Count of Positive Integer and Negative Integer,100.0,0.7446745422883231,https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer,"Array, Binary Search, Counting"
-MEDIUM,Amount of Time for Binary Tree to Be Infected,100.0,0.6373515517663223,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Maximum Count of Positive Integer and Negative Integer,100.0,74.5,https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer,"Array, Binary Search, Counting"
+MEDIUM,Amount of Time for Binary Tree to Be Infected,100.0,63.7,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"

@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximum Number of Non-overlapping Palindrome Substrings,100.0,0.4156976135101724,https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings,"Two Pointers, String, Dynamic Programming, Greedy"
-HARD,Minimum Window Substring,100.0,0.45350671702442985,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+HARD,Maximum Number of Non-overlapping Palindrome Substrings,100.0,41.6,https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings,"Two Pointers, String, Dynamic Programming, Greedy"
+HARD,Minimum Window Substring,100.0,45.4,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"

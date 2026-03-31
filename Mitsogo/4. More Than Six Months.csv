@@ -1,17 +1,17 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Symmetric Coordinates,100.0,0.4074513124470788,https://leetcode.com/problems/symmetric-coordinates,Database
-EASY,Pascal's Triangle,73.8,0.7702172477643647,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
-MEDIUM,Next Permutation,73.8,0.4305776819997956,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
-EASY,Find the Integer Added to Array I,65.0,0.820231981072191,https://leetcode.com/problems/find-the-integer-added-to-array-i,Array
-MEDIUM,Find the Integer Added to Array II,65.0,0.31870439532689165,https://leetcode.com/problems/find-the-integer-added-to-array-ii,"Array, Two Pointers, Sorting, Enumeration"
-MEDIUM,Minimum Substring Partition of Equal Character Frequency,65.0,0.3900965888250397,https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency,"Hash Table, String, Dynamic Programming, Counting"
-MEDIUM,Maximum Total Reward Using Operations I,65.0,0.2995967272457847,https://leetcode.com/problems/maximum-total-reward-using-operations-i,"Array, Dynamic Programming"
-HARD,Maximum Total Reward Using Operations II,65.0,0.20666559502759474,https://leetcode.com/problems/maximum-total-reward-using-operations-ii,"Array, Dynamic Programming, Bit Manipulation"
-MEDIUM,Shortest Subarray With OR at Least K II,65.0,0.502326331785915,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii,"Array, Bit Manipulation, Sliding Window"
-EASY,Shortest Subarray With OR at Least K I,65.0,0.42786964558186846,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i,"Array, Bit Manipulation, Sliding Window"
-HARD,Construct String with Minimum Cost,65.0,0.19178018933271762,https://leetcode.com/problems/construct-string-with-minimum-cost,"Array, String, Dynamic Programming, Suffix Array"
-MEDIUM,Right Triangles,65.0,0.4706710671067107,https://leetcode.com/problems/right-triangles,"Array, Hash Table, Math, Combinatorics, Counting"
-MEDIUM,Next Greater Element III,65.0,0.3458662434140706,https://leetcode.com/problems/next-greater-element-iii,"Math, Two Pointers, String"
-MEDIUM,Jump Game II,65.0,0.4150350812855576,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
-MEDIUM,Zigzag Conversion,65.0,0.51606829815784,https://leetcode.com/problems/zigzag-conversion,String
-EASY,Valid Parentheses,65.0,0.42322931659980717,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Symmetric Coordinates,100.0,40.7,https://leetcode.com/problems/symmetric-coordinates,Database
+EASY,Pascal's Triangle,73.8,77.0,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+MEDIUM,Next Permutation,73.8,43.1,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+EASY,Find the Integer Added to Array I,65.0,82.0,https://leetcode.com/problems/find-the-integer-added-to-array-i,Array
+MEDIUM,Find the Integer Added to Array II,65.0,31.9,https://leetcode.com/problems/find-the-integer-added-to-array-ii,"Array, Two Pointers, Sorting, Enumeration"
+MEDIUM,Minimum Substring Partition of Equal Character Frequency,65.0,39.0,https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency,"Hash Table, String, Dynamic Programming, Counting"
+MEDIUM,Maximum Total Reward Using Operations I,65.0,30.0,https://leetcode.com/problems/maximum-total-reward-using-operations-i,"Array, Dynamic Programming"
+HARD,Maximum Total Reward Using Operations II,65.0,20.7,https://leetcode.com/problems/maximum-total-reward-using-operations-ii,"Array, Dynamic Programming, Bit Manipulation"
+MEDIUM,Shortest Subarray With OR at Least K II,65.0,50.2,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii,"Array, Bit Manipulation, Sliding Window"
+EASY,Shortest Subarray With OR at Least K I,65.0,42.8,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i,"Array, Bit Manipulation, Sliding Window"
+HARD,Construct String with Minimum Cost,65.0,19.2,https://leetcode.com/problems/construct-string-with-minimum-cost,"Array, String, Dynamic Programming, Suffix Array"
+MEDIUM,Right Triangles,65.0,47.1,https://leetcode.com/problems/right-triangles,"Array, Hash Table, Math, Combinatorics, Counting"
+MEDIUM,Next Greater Element III,65.0,34.6,https://leetcode.com/problems/next-greater-element-iii,"Math, Two Pointers, String"
+MEDIUM,Jump Game II,65.0,41.5,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Zigzag Conversion,65.0,51.6,https://leetcode.com/problems/zigzag-conversion,String
+EASY,Valid Parentheses,65.0,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"

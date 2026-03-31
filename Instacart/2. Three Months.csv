@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.4682883757340722,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
-EASY,Squares of a Sorted Array,100.0,0.73219143688745,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,Average Waiting Time,100.0,0.730517914922463,https://leetcode.com/problems/average-waiting-time,"Array, Simulation"
+MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,46.8,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+EASY,Squares of a Sorted Array,100.0,73.2,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Average Waiting Time,100.0,73.1,https://leetcode.com/problems/average-waiting-time,"Array, Simulation"

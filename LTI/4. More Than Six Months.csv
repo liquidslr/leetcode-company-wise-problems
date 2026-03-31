@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum White Tiles Covered by a Carpet,100.0,0.34957825679475163,https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet,"Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
-MEDIUM,Reverse Integer,89.0,0.3030900694104915,https://leetcode.com/problems/reverse-integer,Math
-HARD,Closest Subsequence Sum,89.0,0.4160445423134075,https://leetcode.com/problems/closest-subsequence-sum,"Array, Two Pointers, Dynamic Programming, Bit Manipulation, Sorting, Bitmask"
-MEDIUM,Count Zero Request Servers,89.0,0.3412006497165777,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"
+MEDIUM,Maximum White Tiles Covered by a Carpet,100.0,35.0,https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet,"Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
+MEDIUM,Reverse Integer,89.0,30.3,https://leetcode.com/problems/reverse-integer,Math
+HARD,Closest Subsequence Sum,89.0,41.6,https://leetcode.com/problems/closest-subsequence-sum,"Array, Two Pointers, Dynamic Programming, Bit Manipulation, Sorting, Bitmask"
+MEDIUM,Count Zero Request Servers,89.0,34.1,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"

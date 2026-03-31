@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Gray Code,100.0,0.6187231456205623,https://leetcode.com/problems/gray-code,"Math, Backtracking, Bit Manipulation"
-MEDIUM,3Sum,100.0,0.3707096536037866,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,Rotate Image,100.0,0.7790165261990751,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
-MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,0.6364613847469199,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold,"Array, Binary Search"
+MEDIUM,Gray Code,100.0,61.9,https://leetcode.com/problems/gray-code,"Math, Backtracking, Bit Manipulation"
+MEDIUM,3Sum,100.0,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Rotate Image,100.0,77.9,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
+MEDIUM,Find the Smallest Divisor Given a Threshold,100.0,63.6,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold,"Array, Binary Search"

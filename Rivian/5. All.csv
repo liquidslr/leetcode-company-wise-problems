@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.6232010198187545,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,LRU Cache,100.0,0.45214867010297916,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Merge Intervals,88.3,0.4939525764689584,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Flatten Deeply Nested Array,88.3,0.6443499752842314,https://leetcode.com/problems/flatten-deeply-nested-array,
-MEDIUM,String Compression,88.3,0.5809155013297463,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-EASY,Rotate String,88.3,0.6393957618351697,https://leetcode.com/problems/rotate-string,"String, String Matching"
-HARD,Merge k Sorted Lists,88.3,0.5677430082708387,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-MEDIUM,Max Increase to Keep City Skyline,88.3,0.8620984013658234,https://leetcode.com/problems/max-increase-to-keep-city-skyline,"Array, Greedy, Matrix"
-EASY,Degree of an Array,88.3,0.5742054384866819,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"
+MEDIUM,Number of Islands,100.0,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Merge Intervals,88.3,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Flatten Deeply Nested Array,88.3,64.4,https://leetcode.com/problems/flatten-deeply-nested-array,
+MEDIUM,String Compression,88.3,58.1,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+EASY,Rotate String,88.3,63.9,https://leetcode.com/problems/rotate-string,"String, String Matching"
+HARD,Merge k Sorted Lists,88.3,56.8,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+MEDIUM,Max Increase to Keep City Skyline,88.3,86.2,https://leetcode.com/problems/max-increase-to-keep-city-skyline,"Array, Greedy, Matrix"
+EASY,Degree of an Array,88.3,57.4,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"

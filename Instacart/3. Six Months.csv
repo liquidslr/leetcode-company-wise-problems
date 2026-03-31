@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Time Based Key-Value Store,100.0,0.4936643133682532,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.4682883757340722,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
-EASY,Squares of a Sorted Array,90.1,0.73219143688745,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,Average Waiting Time,90.1,0.730517914922463,https://leetcode.com/problems/average-waiting-time,"Array, Simulation"
+MEDIUM,Time Based Key-Value Store,100.0,49.4,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,46.8,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+EASY,Squares of a Sorted Array,90.1,73.2,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Average Waiting Time,90.1,73.1,https://leetcode.com/problems/average-waiting-time,"Array, Simulation"

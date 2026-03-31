@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,How Many Apples Can You Put into the Basket,100.0,0.6704955156282592,https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket,"Array, Greedy, Sorting"
-EASY,Hexspeak,90.6,0.5829381638846738,https://leetcode.com/problems/hexspeak,"Math, String"
+EASY,How Many Apples Can You Put into the Basket,100.0,67.0,https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket,"Array, Greedy, Sorting"
+EASY,Hexspeak,90.6,58.3,https://leetcode.com/problems/hexspeak,"Math, String"

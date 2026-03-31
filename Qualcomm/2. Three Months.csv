@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Reverse Linked List,100.0,0.7920658456913696,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
-EASY,Merge Sorted Array,88.5,0.5291955199854382,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,Remove Nth Node From End of List,88.5,0.4896110894757927,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
-EASY,Majority Element,88.5,0.6574031216508412,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
-MEDIUM,Count the Number of Fair Pairs,88.5,0.5291637303813359,https://leetcode.com/problems/count-the-number-of-fair-pairs,"Array, Two Pointers, Binary Search, Sorting"
-HARD,Trapping Rain Water,88.5,0.6510201042238819,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Reverse Linked List,100.0,79.2,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+EASY,Merge Sorted Array,88.5,52.9,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Remove Nth Node From End of List,88.5,49.0,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
+EASY,Majority Element,88.5,65.7,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting"
+MEDIUM,Count the Number of Fair Pairs,88.5,52.9,https://leetcode.com/problems/count-the-number-of-fair-pairs,"Array, Two Pointers, Binary Search, Sorting"
+HARD,Trapping Rain Water,88.5,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

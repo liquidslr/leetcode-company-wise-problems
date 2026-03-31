@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Clone Graph,100.0,0.6238601074675428,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5499172170512081,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-HARD,Design In-Memory File System,90.1,0.48168927561926755,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
-MEDIUM,LRU Cache,90.1,0.45214980165457386,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Clone Graph,100.0,62.4,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Insert Delete GetRandom O(1),100.0,55.0,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+HARD,Design In-Memory File System,90.1,48.2,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
+MEDIUM,LRU Cache,90.1,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

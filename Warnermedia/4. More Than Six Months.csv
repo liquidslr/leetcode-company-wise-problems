@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Integer to English Words,100.0,0.34354994465581973,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
-MEDIUM,Product of Array Except Self,88.5,0.677801331455583,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
-HARD,Merge k Sorted Lists,85.2,0.5677433062641299,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-MEDIUM,Game of Life,81.4,0.7141531791835338,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
-EASY,Missing Number,81.4,0.7006536003915764,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
-EASY,Find the Index of the First Occurrence in a String,81.4,0.44971527053332333,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
-MEDIUM,Number of Accounts That Did Not Stream,61.9,0.7202793200160265,https://leetcode.com/problems/number-of-accounts-that-did-not-stream,Database
-MEDIUM,3Sum,61.9,0.3707117247162149,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+HARD,Integer to English Words,100.0,34.4,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
+MEDIUM,Product of Array Except Self,88.5,67.8,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+HARD,Merge k Sorted Lists,85.2,56.8,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+MEDIUM,Game of Life,81.4,71.4,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+EASY,Missing Number,81.4,70.1,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+EASY,Find the Index of the First Occurrence in a String,81.4,45.0,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
+MEDIUM,Number of Accounts That Did Not Stream,61.9,72.0,https://leetcode.com/problems/number-of-accounts-that-did-not-stream,Database
+MEDIUM,3Sum,61.9,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

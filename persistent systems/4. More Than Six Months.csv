@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.7092901466874999,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Palindrome Number,87.3,0.5922447015916658,https://leetcode.com/problems/palindrome-number,Math
-EASY,Valid Parentheses,77.2,0.4232292613944299,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Valid Anagram,77.2,0.666610252002927,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-EASY,Minimum Bit Flips to Convert Number,77.2,0.8758168602874182,https://leetcode.com/problems/minimum-bit-flips-to-convert-number,Bit Manipulation
+MEDIUM,Group Anagrams,100.0,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Palindrome Number,87.3,59.2,https://leetcode.com/problems/palindrome-number,Math
+EASY,Valid Parentheses,77.2,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Valid Anagram,77.2,66.7,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Minimum Bit Flips to Convert Number,77.2,87.6,https://leetcode.com/problems/minimum-bit-flips-to-convert-number,Bit Manipulation

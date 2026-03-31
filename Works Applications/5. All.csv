@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,3Sum,100.0,0.3707497430761235,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-HARD,Course Schedule III,100.0,0.4067228094856614,https://leetcode.com/problems/course-schedule-iii,"Array, Greedy, Sorting, Heap (Priority Queue)"
-HARD,K Inverse Pairs Array,100.0,0.49047494969673283,https://leetcode.com/problems/k-inverse-pairs-array,Dynamic Programming
-MEDIUM,Largest Number,100.0,0.4128187673396755,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
+MEDIUM,3Sum,100.0,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+HARD,Course Schedule III,100.0,40.7,https://leetcode.com/problems/course-schedule-iii,"Array, Greedy, Sorting, Heap (Priority Queue)"
+HARD,K Inverse Pairs Array,100.0,49.0,https://leetcode.com/problems/k-inverse-pairs-array,Dynamic Programming
+MEDIUM,Largest Number,100.0,41.3,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"

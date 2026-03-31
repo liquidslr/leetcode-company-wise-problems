@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of People Aware of a Secret,100.0,0.46368623597805614,https://leetcode.com/problems/number-of-people-aware-of-a-secret,"Dynamic Programming, Queue, Simulation"
-MEDIUM,Longest Substring Without Repeating Characters,89.6,0.36936181574445504,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Number of People Aware of a Secret,100.0,46.4,https://leetcode.com/problems/number-of-people-aware-of-a-secret,"Dynamic Programming, Queue, Simulation"
+MEDIUM,Longest Substring Without Repeating Characters,89.6,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

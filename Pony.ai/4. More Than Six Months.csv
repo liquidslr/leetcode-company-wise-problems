@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximum Profit in Job Scheduling,100.0,0.5441744826912199,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
-MEDIUM,K-th Smallest Prime Fraction,100.0,0.6852111087945333,https://leetcode.com/problems/k-th-smallest-prime-fraction,"Array, Two Pointers, Binary Search, Sorting, Heap (Priority Queue)"
-MEDIUM,Frequency of the Most Frequent Element,100.0,0.44103297583106765,https://leetcode.com/problems/frequency-of-the-most-frequent-element,"Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
-MEDIUM,Minimum Sideway Jumps,100.0,0.508328457187439,https://leetcode.com/problems/minimum-sideway-jumps,"Array, Dynamic Programming, Greedy"
+HARD,Maximum Profit in Job Scheduling,100.0,54.4,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+MEDIUM,K-th Smallest Prime Fraction,100.0,68.5,https://leetcode.com/problems/k-th-smallest-prime-fraction,"Array, Two Pointers, Binary Search, Sorting, Heap (Priority Queue)"
+MEDIUM,Frequency of the Most Frequent Element,100.0,44.1,https://leetcode.com/problems/frequency-of-the-most-frequent-element,"Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
+MEDIUM,Minimum Sideway Jumps,100.0,50.8,https://leetcode.com/problems/minimum-sideway-jumps,"Array, Dynamic Programming, Greedy"

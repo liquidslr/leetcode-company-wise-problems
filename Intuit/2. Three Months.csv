@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.4232284209279414,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Coin Change,100.0,0.4649547506448627,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+EASY,Valid Parentheses,100.0,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Coin Change,100.0,46.5,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"

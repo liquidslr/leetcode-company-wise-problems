@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Text Justification,100.0,0.4815035316083349,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-MEDIUM,Synonymous Sentences,87.9,0.5657701813916468,https://leetcode.com/problems/synonymous-sentences,"Array, Hash Table, String, Backtracking, Union Find"
-HARD,Word Break II,84.8,0.5364545782263879,https://leetcode.com/problems/word-break-ii,"Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
-MEDIUM,Shortest Uncommon Substring in an Array,70.2,0.4821341799216042,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"
-MEDIUM,Maximum Number of Removable Characters,53.3,0.45759683183618277,https://leetcode.com/problems/maximum-number-of-removable-characters,"Array, Two Pointers, String, Binary Search"
+HARD,Text Justification,100.0,48.2,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Synonymous Sentences,87.9,56.6,https://leetcode.com/problems/synonymous-sentences,"Array, Hash Table, String, Backtracking, Union Find"
+HARD,Word Break II,84.8,53.6,https://leetcode.com/problems/word-break-ii,"Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
+MEDIUM,Shortest Uncommon Substring in an Array,70.2,48.2,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"
+MEDIUM,Maximum Number of Removable Characters,53.3,45.8,https://leetcode.com/problems/maximum-number-of-removable-characters,"Array, Two Pointers, String, Binary Search"

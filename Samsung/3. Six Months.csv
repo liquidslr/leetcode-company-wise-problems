@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Increasing Subsequence,100.0,0.5780837494841731,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-HARD,Substring with Concatenation of All Words,96.0,0.32997537459356807,https://leetcode.com/problems/substring-with-concatenation-of-all-words,"Hash Table, String, Sliding Window"
-EASY,Guess Number Higher or Lower,96.0,0.5577411651250909,https://leetcode.com/problems/guess-number-higher-or-lower,"Binary Search, Interactive"
-MEDIUM,Possible Bipartition,80.9,0.5150773648728767,https://leetcode.com/problems/possible-bipartition,"Depth-First Search, Breadth-First Search, Union Find, Graph"
-MEDIUM,Subarray Product Less Than K,69.7,0.5285344933981581,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
-HARD,Burst Balloons,60.9,0.6131506571954038,https://leetcode.com/problems/burst-balloons,"Array, Dynamic Programming"
-MEDIUM,Is Graph Bipartite?,60.9,0.577138580849355,https://leetcode.com/problems/is-graph-bipartite,"Depth-First Search, Breadth-First Search, Union Find, Graph"
-MEDIUM,Maximize Distance to Closest Person,60.9,0.489870429548439,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+MEDIUM,Longest Increasing Subsequence,100.0,57.8,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+HARD,Substring with Concatenation of All Words,96.0,33.0,https://leetcode.com/problems/substring-with-concatenation-of-all-words,"Hash Table, String, Sliding Window"
+EASY,Guess Number Higher or Lower,96.0,55.8,https://leetcode.com/problems/guess-number-higher-or-lower,"Binary Search, Interactive"
+MEDIUM,Possible Bipartition,80.9,51.5,https://leetcode.com/problems/possible-bipartition,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Subarray Product Less Than K,69.7,52.9,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+HARD,Burst Balloons,60.9,61.3,https://leetcode.com/problems/burst-balloons,"Array, Dynamic Programming"
+MEDIUM,Is Graph Bipartite?,60.9,57.7,https://leetcode.com/problems/is-graph-bipartite,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Maximize Distance to Closest Person,60.9,49.0,https://leetcode.com/problems/maximize-distance-to-closest-person,Array

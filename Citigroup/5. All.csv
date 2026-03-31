@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find Pivot Index,100.0,0.6057051050431013,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
-HARD,Number of Visible People in a Queue,100.0,0.7129705142972448,https://leetcode.com/problems/number-of-visible-people-in-a-queue,"Array, Stack, Monotonic Stack"
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525969178647564,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Find Pivot Index,100.0,60.6,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
+HARD,Number of Visible People in a Queue,100.0,71.3,https://leetcode.com/problems/number-of-visible-people-in-a-queue,"Array, Stack, Monotonic Stack"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

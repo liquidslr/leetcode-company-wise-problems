@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Game Play Analysis V,100.0,0.5083935582996643,https://leetcode.com/problems/game-play-analysis-v,Database
-EASY,Game Play Analysis I,100.0,0.7575125906319012,https://leetcode.com/problems/game-play-analysis-i,Database
-EASY,Game Play Analysis II,100.0,0.5402814837496173,https://leetcode.com/problems/game-play-analysis-ii,Database
-MEDIUM,Game Play Analysis III,100.0,0.8125918037602822,https://leetcode.com/problems/game-play-analysis-iii,Database
-MEDIUM,Game Play Analysis IV,100.0,0.3944366188704687,https://leetcode.com/problems/game-play-analysis-iv,Database
+HARD,Game Play Analysis V,100.0,50.8,https://leetcode.com/problems/game-play-analysis-v,Database
+EASY,Game Play Analysis I,100.0,75.8,https://leetcode.com/problems/game-play-analysis-i,Database
+EASY,Game Play Analysis II,100.0,54.0,https://leetcode.com/problems/game-play-analysis-ii,Database
+MEDIUM,Game Play Analysis III,100.0,81.3,https://leetcode.com/problems/game-play-analysis-iii,Database
+MEDIUM,Game Play Analysis IV,100.0,39.4,https://leetcode.com/problems/game-play-analysis-iv,Database

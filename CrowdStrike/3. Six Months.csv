@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,String Compression,100.0,0.580915717497265,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-HARD,Trapping Rain Water,78.6,0.651020475550146,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Course Schedule,78.6,0.49234413986585557,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,String Compression,100.0,58.1,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+HARD,Trapping Rain Water,78.6,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Course Schedule,78.6,49.2,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"

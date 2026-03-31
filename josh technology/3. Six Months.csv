@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Largest Number,100.0,0.4128053161945387,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
-MEDIUM,Maximum Twin Sum of a Linked List,77.9,0.8147472951229525,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list,"Linked List, Two Pointers, Stack"
-MEDIUM,Remove K Digits,77.9,0.34940483856557913,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Largest Number,100.0,41.3,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
+MEDIUM,Maximum Twin Sum of a Linked List,77.9,81.5,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list,"Linked List, Two Pointers, Stack"
+MEDIUM,Remove K Digits,77.9,34.9,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"

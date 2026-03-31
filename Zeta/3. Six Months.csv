@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Trapping Rain Water,100.0,0.6510217577539866,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Count Univalue Subtrees,100.0,0.5718044395078012,https://leetcode.com/problems/count-univalue-subtrees,"Tree, Depth-First Search, Binary Tree"
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5499189723840695,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-HARD,Split Array Largest Sum,100.0,0.5809965654277032,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+HARD,Trapping Rain Water,100.0,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Count Univalue Subtrees,100.0,57.2,https://leetcode.com/problems/count-univalue-subtrees,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Insert Delete GetRandom O(1),100.0,55.0,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+HARD,Split Array Largest Sum,100.0,58.1,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"

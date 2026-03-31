@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Unique XOR Triplets I,100.0,0.24857137833418322,https://leetcode.com/problems/number-of-unique-xor-triplets-i,"Array, Math, Bit Manipulation"
-MEDIUM,Number of Unique XOR Triplets II,100.0,0.29438172400053125,https://leetcode.com/problems/number-of-unique-xor-triplets-ii,"Array, Math, Bit Manipulation, Enumeration"
-HARD,Number of Ways to Form a Target String Given a Dictionary,73.9,0.570646521775689,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary,"Array, String, Dynamic Programming"
-MEDIUM,Next Permutation,73.9,0.43057736061713586,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
-HARD,Count Subarrays With Fixed Bounds,65.1,0.6940834976032579,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
+MEDIUM,Number of Unique XOR Triplets I,100.0,24.9,https://leetcode.com/problems/number-of-unique-xor-triplets-i,"Array, Math, Bit Manipulation"
+MEDIUM,Number of Unique XOR Triplets II,100.0,29.4,https://leetcode.com/problems/number-of-unique-xor-triplets-ii,"Array, Math, Bit Manipulation, Enumeration"
+HARD,Number of Ways to Form a Target String Given a Dictionary,73.9,57.1,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary,"Array, String, Dynamic Programming"
+MEDIUM,Next Permutation,73.9,43.1,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+HARD,Count Subarrays With Fixed Bounds,65.1,69.4,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"

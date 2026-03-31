@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Scramble String,100.0,0.4218411591949826,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
-MEDIUM,Spiral Matrix,72.4,0.5394614021320111,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Minimum Size Subarray Sum,59.1,0.4939438522342745,https://leetcode.com/problems/minimum-size-subarray-sum,"Array, Binary Search, Sliding Window, Prefix Sum"
-MEDIUM,Majority Element II,59.1,0.5438470001948768,https://leetcode.com/problems/majority-element-ii,"Array, Hash Table, Sorting, Counting"
-HARD,Number of Great Partitions,59.1,0.3226402936149945,https://leetcode.com/problems/number-of-great-partitions,"Array, Dynamic Programming"
+HARD,Scramble String,100.0,42.2,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
+MEDIUM,Spiral Matrix,72.4,53.9,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Minimum Size Subarray Sum,59.1,49.4,https://leetcode.com/problems/minimum-size-subarray-sum,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Majority Element II,59.1,54.4,https://leetcode.com/problems/majority-element-ii,"Array, Hash Table, Sorting, Counting"
+HARD,Number of Great Partitions,59.1,32.3,https://leetcode.com/problems/number-of-great-partitions,"Array, Dynamic Programming"

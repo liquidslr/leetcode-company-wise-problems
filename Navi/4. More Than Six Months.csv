@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Number of Days to Make m Bouquets,100.0,0.554659285502073,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets,"Array, Binary Search"
-MEDIUM,Search in Rotated Sorted Array,83.2,0.42837405591160826,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-MEDIUM,Minimize the Maximum Difference of Pairs,83.2,0.508506695457402,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs,"Array, Binary Search, Dynamic Programming, Greedy, Sorting"
+MEDIUM,Minimum Number of Days to Make m Bouquets,100.0,55.5,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets,"Array, Binary Search"
+MEDIUM,Search in Rotated Sorted Array,83.2,42.8,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Minimize the Maximum Difference of Pairs,83.2,50.9,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs,"Array, Binary Search, Dynamic Programming, Greedy, Sorting"

@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Word Break,100.0,0.48273976784104833,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,House Robber,100.0,0.5230511179971911,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+MEDIUM,Word Break,100.0,48.3,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,House Robber,100.0,52.3,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"

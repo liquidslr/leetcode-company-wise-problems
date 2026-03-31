@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Word Ladder,100.0,0.42819253822744924,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+HARD,Word Ladder,100.0,42.8,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"

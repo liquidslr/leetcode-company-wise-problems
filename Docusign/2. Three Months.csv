@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Implement Trie (Prefix Tree),100.0,0.6793492451924871,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
-MEDIUM,Integer to Roman,93.0,0.6861925425592491,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
-MEDIUM,Meeting Rooms II,83.2,0.5214175430894478,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-MEDIUM,Search Suggestions System,83.2,0.6505022273267432,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+MEDIUM,Implement Trie (Prefix Tree),100.0,67.9,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Integer to Roman,93.0,68.6,https://leetcode.com/problems/integer-to-roman,"Hash Table, Math, String"
+MEDIUM,Meeting Rooms II,83.2,52.1,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Search Suggestions System,83.2,65.1,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"

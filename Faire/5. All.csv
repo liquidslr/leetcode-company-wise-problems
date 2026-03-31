@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Word Search,100.0,0.45266924863980873,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
-MEDIUM,Longest Mountain in Array,93.4,0.4107846968136123,https://leetcode.com/problems/longest-mountain-in-array,"Array, Two Pointers, Dynamic Programming, Enumeration"
-MEDIUM,Group Anagrams,84.1,0.7092898112648001,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Word Search,100.0,45.3,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Longest Mountain in Array,93.4,41.1,https://leetcode.com/problems/longest-mountain-in-array,"Array, Two Pointers, Dynamic Programming, Enumeration"
+MEDIUM,Group Anagrams,84.1,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

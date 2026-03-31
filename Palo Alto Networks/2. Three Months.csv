@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.452147387470624,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Sliding Window Maximum,71.6,0.47604176540136595,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
-MEDIUM,Restore IP Addresses,71.6,0.5315843132324689,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
-MEDIUM,Search in Rotated Sorted Array,71.6,0.4283722145334321,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-HARD,Basic Calculator,71.6,0.45589654652961087,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
-MEDIUM,Longest Substring Without Repeating Characters,71.6,0.3693614444669191,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Sliding Window Maximum,71.6,47.6,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Restore IP Addresses,71.6,53.2,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
+MEDIUM,Search in Rotated Sorted Array,71.6,42.8,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+HARD,Basic Calculator,71.6,45.6,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
+MEDIUM,Longest Substring Without Repeating Characters,71.6,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

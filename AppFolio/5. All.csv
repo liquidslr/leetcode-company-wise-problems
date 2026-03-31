@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5499169629415358,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-HARD,Shortest Path in a Grid with Obstacles Elimination,100.0,0.4560618259138108,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
-EASY,Logger Rate Limiter,100.0,0.766103057053701,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
-MEDIUM,LRU Cache,100.0,0.45214982193419767,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Insert Delete GetRandom O(1),100.0,55.0,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+HARD,Shortest Path in a Grid with Obstacles Elimination,100.0,45.6,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
+EASY,Logger Rate Limiter,100.0,76.6,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

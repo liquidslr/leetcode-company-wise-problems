@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.45214888759813204,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Number of Distinct Islands,74.6,0.6225556277539093,https://leetcode.com/problems/number-of-distinct-islands,"Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
-EASY,Diameter of Binary Tree,74.6,0.6358628163246234,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
-HARD,Word Search II,74.6,0.3732641536078909,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Number of Distinct Islands,74.6,62.3,https://leetcode.com/problems/number-of-distinct-islands,"Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+EASY,Diameter of Binary Tree,74.6,63.6,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+HARD,Word Search II,74.6,37.3,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"

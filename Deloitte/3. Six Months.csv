@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Second Highest Salary,100.0,0.4386518117872288,https://leetcode.com/problems/second-highest-salary,Database
-HARD,Merge k Sorted Lists,100.0,0.5677423817534303,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-EASY,Valid Parentheses,100.0,0.4232287331904933,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Longest Palindromic Substring,100.0,0.35846135942015783,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Container With Most Water,100.0,0.5778289005385611,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-MEDIUM,Minimum Time to Repair Cars,87.9,0.5991672990715053,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"
-MEDIUM,Merge Intervals,87.9,0.4939525616898277,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Two Sum,87.9,0.5577698935805033,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Rising Temperature,87.9,0.5018287657004238,https://leetcode.com/problems/rising-temperature,Database
+MEDIUM,Second Highest Salary,100.0,43.9,https://leetcode.com/problems/second-highest-salary,Database
+HARD,Merge k Sorted Lists,100.0,56.8,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+EASY,Valid Parentheses,100.0,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Palindromic Substring,100.0,35.8,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Container With Most Water,100.0,57.8,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Minimum Time to Repair Cars,87.9,59.9,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"
+MEDIUM,Merge Intervals,87.9,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Two Sum,87.9,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Rising Temperature,87.9,50.2,https://leetcode.com/problems/rising-temperature,Database

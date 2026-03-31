@@ -1,20 +1,20 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Palindrome Number,100.0,0.5922452723221134,https://leetcode.com/problems/palindrome-number,Math
-EASY,Two Sum,83.3,0.5577702792380397,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Fibonacci Number,77.9,0.729449519006481,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
-EASY,Longest Common Prefix,71.0,0.4548317594843367,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-MEDIUM,Managers with at Least 5 Direct Reports,71.0,0.4893967724084875,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
-MEDIUM,Maximum Subarray,71.0,0.5209986094967198,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,Reverse Integer,71.0,0.30308986844996183,https://leetcode.com/problems/reverse-integer,Math
-MEDIUM,Smallest Value of the Rearranged Number,61.3,0.5272832058073377,https://leetcode.com/problems/smallest-value-of-the-rearranged-number,"Math, Sorting"
-EASY,Product Sales Analysis I,61.3,0.845858108004177,https://leetcode.com/problems/product-sales-analysis-i,Database
-EASY,Merge Sorted Array,61.3,0.5291965916083469,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Valid Anagram,61.3,0.6666100681122782,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-MEDIUM,Count Primes,61.3,0.34790664479869343,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
-MEDIUM,3Sum,61.3,0.3707108579983065,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-EASY,Happy Number,61.3,0.580727741481129,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-EASY,Move Zeroes,61.3,0.6280402649575271,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-EASY,Binary Search,61.3,0.5956450606389617,https://leetcode.com/problems/binary-search,"Array, Binary Search"
-EASY,Merge Two Sorted Lists,61.3,0.6684097523447796,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-EASY,Valid Parentheses,61.3,0.42322889705218086,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Add Two Numbers,61.3,0.46225207320080147,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+EASY,Palindrome Number,100.0,59.2,https://leetcode.com/problems/palindrome-number,Math
+EASY,Two Sum,83.3,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Fibonacci Number,77.9,72.9,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+EASY,Longest Common Prefix,71.0,45.5,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Managers with at Least 5 Direct Reports,71.0,48.9,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+MEDIUM,Maximum Subarray,71.0,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Reverse Integer,71.0,30.3,https://leetcode.com/problems/reverse-integer,Math
+MEDIUM,Smallest Value of the Rearranged Number,61.3,52.7,https://leetcode.com/problems/smallest-value-of-the-rearranged-number,"Math, Sorting"
+EASY,Product Sales Analysis I,61.3,84.6,https://leetcode.com/problems/product-sales-analysis-i,Database
+EASY,Merge Sorted Array,61.3,52.9,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Valid Anagram,61.3,66.7,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Count Primes,61.3,34.8,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
+MEDIUM,3Sum,61.3,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Happy Number,61.3,58.1,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+EASY,Move Zeroes,61.3,62.8,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Binary Search,61.3,59.6,https://leetcode.com/problems/binary-search,"Array, Binary Search"
+EASY,Merge Two Sorted Lists,61.3,66.8,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+EASY,Valid Parentheses,61.3,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Add Two Numbers,61.3,46.2,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"

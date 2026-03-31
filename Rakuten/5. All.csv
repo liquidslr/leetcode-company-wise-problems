@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Happy String,100.0,0.6546225631378025,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
-MEDIUM,Best Time to Buy and Sell Stock II,100.0,0.6950040865642816,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525969245782094,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,LRU Cache,100.0,0.4521488470379119,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Rotate Image,100.0,0.7790171169832033,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
-MEDIUM,3Sum,100.0,0.3707111823526769,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Longest Happy String,100.0,65.5,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
+MEDIUM,Best Time to Buy and Sell Stock II,100.0,69.5,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Rotate Image,100.0,77.9,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
+MEDIUM,3Sum,100.0,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

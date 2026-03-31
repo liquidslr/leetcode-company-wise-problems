@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find Words That Can Be Formed by Characters,100.0,0.7106798822031877,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"
-MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,100.0,0.4587327987118235,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
-EASY,Check if Every Row and Column Contains All Numbers,100.0,0.528410934019593,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,"Array, Hash Table, Matrix"
-MEDIUM,Word Search,100.0,0.45267020648967554,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+EASY,Find Words That Can Be Formed by Characters,100.0,71.1,https://leetcode.com/problems/find-words-that-can-be-formed-by-characters,"Array, Hash Table, String, Counting"
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,100.0,45.9,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
+EASY,Check if Every Row and Column Contains All Numbers,100.0,52.8,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,"Array, Hash Table, Matrix"
+MEDIUM,Word Search,100.0,45.3,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
