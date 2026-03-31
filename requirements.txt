@@ -1,0 +1,2 @@
+# Validation script uses only Python stdlib (csv, os, sys, pathlib)
+# No external dependencies required

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Walking Robot Simulation,100.0,0.5823045930701047,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
-MEDIUM,LRU Cache,70.8,0.4521475035659106,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Encode and Decode TinyURL,63.1,0.8636236617619221,https://leetcode.com/problems/encode-and-decode-tinyurl,"Hash Table, String, Design, Hash Function"
+MEDIUM,Walking Robot Simulation,100.0,58.2,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
+MEDIUM,LRU Cache,70.8,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Encode and Decode TinyURL,63.1,86.4,https://leetcode.com/problems/encode-and-decode-tinyurl,"Hash Table, String, Design, Hash Function"

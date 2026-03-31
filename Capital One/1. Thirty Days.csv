@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotating the Box,100.0,0.7909813050714205,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
-HARD,Block Placement Queries,89.6,0.168902023187088,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
-MEDIUM,Merge Intervals,89.6,0.4939526057316443,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Simple Bank System,89.6,0.6142935665806328,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
-MEDIUM,Simplify Path,89.6,0.47854346003751436,https://leetcode.com/problems/simplify-path,"String, Stack"
+MEDIUM,Rotating the Box,100.0,79.1,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+HARD,Block Placement Queries,89.6,16.9,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Merge Intervals,89.6,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Simple Bank System,89.6,61.4,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+MEDIUM,Simplify Path,89.6,47.9,https://leetcode.com/problems/simplify-path,"String, Stack"

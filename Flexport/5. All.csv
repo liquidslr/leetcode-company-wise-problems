@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Decode String,100.0,0.611527047281157,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Clone Graph,98.1,0.6238596161697385,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Time Based Key-Value Store,96.1,0.49366433435553103,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,My Calendar I,85.0,0.5814631853246708,https://leetcode.com/problems/my-calendar-i,"Array, Binary Search, Design, Segment Tree, Ordered Set"
-MEDIUM,Letter Combinations of a Phone Number,85.0,0.6385758051682159,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-MEDIUM,Bag of Tokens,70.0,0.5918662223280171,https://leetcode.com/problems/bag-of-tokens,"Array, Two Pointers, Greedy, Sorting"
-MEDIUM,Count Zero Request Servers,61.2,0.34117881058144933,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"
-MEDIUM,Longest Increasing Subsequence,61.2,0.5780848237657387,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-MEDIUM,Subarray Product Less Than K,61.2,0.5285358649789029,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
-MEDIUM,Validate IP Address,61.2,0.27817524620453365,https://leetcode.com/problems/validate-ip-address,String
+MEDIUM,Decode String,100.0,61.2,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Clone Graph,98.1,62.4,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
+MEDIUM,Time Based Key-Value Store,96.1,49.4,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,My Calendar I,85.0,58.1,https://leetcode.com/problems/my-calendar-i,"Array, Binary Search, Design, Segment Tree, Ordered Set"
+MEDIUM,Letter Combinations of a Phone Number,85.0,63.9,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,Bag of Tokens,70.0,59.2,https://leetcode.com/problems/bag-of-tokens,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Count Zero Request Servers,61.2,34.1,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"
+MEDIUM,Longest Increasing Subsequence,61.2,57.8,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+MEDIUM,Subarray Product Less Than K,61.2,52.9,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Validate IP Address,61.2,27.8,https://leetcode.com/problems/validate-ip-address,String

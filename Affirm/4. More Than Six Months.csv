@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5499189489424546,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Group Anagrams,83.1,0.709288476016785,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Shortest Uncommon Substring in an Array,79.3,0.482141410869037,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"
-MEDIUM,Design Hit Counter,74.5,0.6920824458148753,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
-EASY,Valid Anagram,71.6,0.6666091505167373,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-HARD,Insert Delete GetRandom O(1) - Duplicates allowed,68.2,0.3577155976591297,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,String Compression,68.2,0.580915717497265,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Coin Change,58.6,0.46495504462798637,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
-MEDIUM,String Compression III,50.9,0.6681506980036712,https://leetcode.com/problems/string-compression-iii,String
-HARD,Parse Lisp Expression,50.9,0.5275886554446347,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"
+MEDIUM,Insert Delete GetRandom O(1),100.0,55.0,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Group Anagrams,83.1,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Shortest Uncommon Substring in an Array,79.3,48.2,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"
+MEDIUM,Design Hit Counter,74.5,69.2,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+EASY,Valid Anagram,71.6,66.7,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+HARD,Insert Delete GetRandom O(1) - Duplicates allowed,68.2,35.8,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,String Compression,68.2,58.1,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Coin Change,58.6,46.5,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,String Compression III,50.9,66.8,https://leetcode.com/problems/string-compression-iii,String
+HARD,Parse Lisp Expression,50.9,52.8,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"

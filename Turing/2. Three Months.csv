@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,100.0,0.43382458559567927,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"
-MEDIUM,Minimum Length of Anagram Concatenation,93.4,0.39725376355135383,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
-MEDIUM,Longest Substring Without Repeating Characters,84.1,0.36936129661119277,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Apply Operations to Make Sum of Array Greater Than or Equal to k,100.0,43.4,https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k,"Math, Greedy, Enumeration"
+MEDIUM,Minimum Length of Anagram Concatenation,93.4,39.7,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
+MEDIUM,Longest Substring Without Repeating Characters,84.1,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

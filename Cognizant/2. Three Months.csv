@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Second Highest Salary,100.0,0.4386517852577502,https://leetcode.com/problems/second-highest-salary,Database
-HARD,Median of Two Sorted Arrays,100.0,0.43814667695055187,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-EASY,Palindrome Number,100.0,0.5922452723221134,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Second Highest Salary,100.0,43.9,https://leetcode.com/problems/second-highest-salary,Database
+HARD,Median of Two Sorted Arrays,100.0,43.8,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Palindrome Number,100.0,59.2,https://leetcode.com/problems/palindrome-number,Math

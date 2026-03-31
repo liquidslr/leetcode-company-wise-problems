@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.45214888759813204,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525969358423186,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Find the Length of the Longest Common Prefix,100.0,0.564161205458434,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,"Array, Hash Table, String, Trie"
-MEDIUM,Basic Calculator II,100.0,0.4581176497577298,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Find the Length of the Longest Common Prefix,100.0,56.4,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,"Array, Hash Table, String, Trie"
+MEDIUM,Basic Calculator II,100.0,45.8,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"

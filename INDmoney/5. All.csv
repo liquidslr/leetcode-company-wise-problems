@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Online Stock Span,100.0,0.6738450657310683,https://leetcode.com/problems/online-stock-span,"Stack, Design, Monotonic Stack, Data Stream"
-MEDIUM,Count Nodes Equal to Average of Subtree,100.0,0.8641895449417075,https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Online Stock Span,100.0,67.4,https://leetcode.com/problems/online-stock-span,"Stack, Design, Monotonic Stack, Data Stream"
+MEDIUM,Count Nodes Equal to Average of Subtree,100.0,86.4,https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree,"Tree, Depth-First Search, Binary Tree"

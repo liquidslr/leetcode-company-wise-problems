@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Count Zero Request Servers,100.0,0.34117803042858563,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"
-MEDIUM,Rotting Oranges,88.4,0.5661883552589942,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,All Nodes Distance K in Binary Tree,88.4,0.6644239674066067,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,Search in Rotated Sorted Array,88.4,0.42837447824959846,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Count Zero Request Servers,100.0,34.1,https://leetcode.com/problems/count-zero-request-servers,"Array, Hash Table, Sliding Window, Sorting"
+MEDIUM,Rotting Oranges,88.4,56.6,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,All Nodes Distance K in Binary Tree,88.4,66.4,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Search in Rotated Sorted Array,88.4,42.8,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"

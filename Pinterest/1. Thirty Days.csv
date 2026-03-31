@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Bus Routes,100.0,0.4695297092963377,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
-HARD,Expression Add Operators,84.5,0.4167625219870472,https://leetcode.com/problems/expression-add-operators,"Math, String, Backtracking"
-HARD,Reconstruct Itinerary,75.5,0.4360564496598489,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
-HARD,Find Minimum Time to Finish All Jobs,75.5,0.43518588531821045,https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-HARD,Count Subarrays With Score Less Than K,75.5,0.624292227810353,https://leetcode.com/problems/count-subarrays-with-score-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+HARD,Bus Routes,100.0,47.0,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+HARD,Expression Add Operators,84.5,41.7,https://leetcode.com/problems/expression-add-operators,"Math, String, Backtracking"
+HARD,Reconstruct Itinerary,75.5,43.6,https://leetcode.com/problems/reconstruct-itinerary,"Depth-First Search, Graph, Eulerian Circuit"
+HARD,Find Minimum Time to Finish All Jobs,75.5,43.5,https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+HARD,Count Subarrays With Score Less Than K,75.5,62.4,https://leetcode.com/problems/count-subarrays-with-score-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"

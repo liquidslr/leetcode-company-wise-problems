@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Moves to Equal Array Elements II,100.0,0.6095862132467602,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii,"Array, Math, Sorting"
-MEDIUM,Rotting Oranges,100.0,0.5661860286407837,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Deepest Leaves Sum,100.0,0.8634979671040474,https://leetcode.com/problems/deepest-leaves-sum,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,Container With Most Water,100.0,0.5778290777243622,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Minimum Moves to Equal Array Elements II,100.0,61.0,https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii,"Array, Math, Sorting"
+MEDIUM,Rotting Oranges,100.0,56.6,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Deepest Leaves Sum,100.0,86.3,https://leetcode.com/problems/deepest-leaves-sum,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Container With Most Water,100.0,57.8,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"

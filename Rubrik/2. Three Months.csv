@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Find X Value of Array II,100.0,0.27419939577039276,https://leetcode.com/problems/find-x-value-of-array-ii,"Array, Math, Segment Tree"
-MEDIUM,Find X Value of Array I,100.0,0.3315965471654094,https://leetcode.com/problems/find-x-value-of-array-i,"Array, Math, Dynamic Programming"
-MEDIUM,Next Permutation,66.3,0.43057779910352356,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+HARD,Find X Value of Array II,100.0,27.4,https://leetcode.com/problems/find-x-value-of-array-ii,"Array, Math, Segment Tree"
+MEDIUM,Find X Value of Array I,100.0,33.2,https://leetcode.com/problems/find-x-value-of-array-i,"Array, Math, Dynamic Programming"
+MEDIUM,Next Permutation,66.3,43.1,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"

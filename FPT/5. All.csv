@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find Three Consecutive Integers That Sum to a Given Number,100.0,0.6461909267018064,https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number,"Math, Simulation"
-EASY,Two Sum,66.6,0.5577706633679903,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Best Time to Buy and Sell Stock,66.6,0.5525969539323237,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Palindrome Number,66.6,0.592245084409646,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Find Three Consecutive Integers That Sum to a Given Number,100.0,64.6,https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number,"Math, Simulation"
+EASY,Two Sum,66.6,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Best Time to Buy and Sell Stock,66.6,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Palindrome Number,66.6,59.2,https://leetcode.com/problems/palindrome-number,Math

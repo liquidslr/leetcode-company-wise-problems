@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximal Network Rank,100.0,0.6547542413356314,https://leetcode.com/problems/maximal-network-rank,Graph
-MEDIUM,Largest Palindromic Number,94.8,0.36472419055101457,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"
-MEDIUM,LRU Cache,94.8,0.452152018581584,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,3Sum,78.8,0.3707134146355655,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,Minimum Deletions to Make Character Frequencies Unique,78.8,0.6129466648455774,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique,"Hash Table, String, Greedy, Sorting"
+MEDIUM,Maximal Network Rank,100.0,65.5,https://leetcode.com/problems/maximal-network-rank,Graph
+MEDIUM,Largest Palindromic Number,94.8,36.5,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"
+MEDIUM,LRU Cache,94.8,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,3Sum,78.8,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Minimum Deletions to Make Character Frequencies Unique,78.8,61.3,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique,"Hash Table, String, Greedy, Sorting"

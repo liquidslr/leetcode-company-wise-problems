@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Connected Components in an Undirected Graph,100.0,0.6420134726680878,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Number of Connected Components in an Undirected Graph,100.0,64.2,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph,"Depth-First Search, Breadth-First Search, Union Find, Graph"

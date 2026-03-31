@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5577709731557225,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Count Integers With Even Digit Sum,89.6,0.6878335702551094,https://leetcode.com/problems/count-integers-with-even-digit-sum,"Math, Simulation"
+EASY,Two Sum,100.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Count Integers With Even Digit Sum,89.6,68.8,https://leetcode.com/problems/count-integers-with-even-digit-sum,"Math, Simulation"

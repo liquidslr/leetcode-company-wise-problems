@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Reverse Prefix of Word,100.0,0.8640862043780388,https://leetcode.com/problems/reverse-prefix-of-word,"Two Pointers, String, Stack"
-MEDIUM,Bank Account Summary,100.0,0.5198933705373826,https://leetcode.com/problems/bank-account-summary,Database
-MEDIUM,Longest Common Subsequence,73.3,0.5824928688554429,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
-MEDIUM,Longest Substring Without Repeating Characters,64.3,0.36936175124690207,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Sort Colors,64.3,0.6758312202626855,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
-MEDIUM,Maximum Subarray,64.3,0.5209992241964507,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Reverse Prefix of Word,100.0,86.4,https://leetcode.com/problems/reverse-prefix-of-word,"Two Pointers, String, Stack"
+MEDIUM,Bank Account Summary,100.0,52.0,https://leetcode.com/problems/bank-account-summary,Database
+MEDIUM,Longest Common Subsequence,73.3,58.2,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming"
+MEDIUM,Longest Substring Without Repeating Characters,64.3,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Sort Colors,64.3,67.6,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting"
+MEDIUM,Maximum Subarray,64.3,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"

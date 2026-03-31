@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Subarray,100.0,0.5209988985600883,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,Simplify Path,85.6,0.4785476063011359,https://leetcode.com/problems/simplify-path,"String, Stack"
-MEDIUM,Next Permutation,66.7,0.4305779256856484,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
-MEDIUM,Range Sum Query 2D - Immutable,66.7,0.5652722738293752,https://leetcode.com/problems/range-sum-query-2d-immutable,"Array, Design, Matrix, Prefix Sum"
+MEDIUM,Maximum Subarray,100.0,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Simplify Path,85.6,47.9,https://leetcode.com/problems/simplify-path,"String, Stack"
+MEDIUM,Next Permutation,66.7,43.1,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+MEDIUM,Range Sum Query 2D - Immutable,66.7,56.5,https://leetcode.com/problems/range-sum-query-2d-immutable,"Array, Design, Matrix, Prefix Sum"

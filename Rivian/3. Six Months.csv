@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.45214855400845644,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Merge k Sorted Lists,89.9,0.5677430082708387,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-EASY,Degree of an Array,89.9,0.5742054384866819,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Merge k Sorted Lists,89.9,56.8,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+EASY,Degree of an Array,89.9,57.4,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"

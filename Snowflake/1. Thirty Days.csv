@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find All Anagrams in a String,100.0,0.5220071349201708,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
-MEDIUM,Max Area of Island,100.0,0.7316419811417654,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Throne Inheritance,100.0,0.6509835499827448,https://leetcode.com/problems/throne-inheritance,"Hash Table, Tree, Depth-First Search, Design"
-EASY,Two Sum,100.0,0.557770016057161,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Happy Number,100.0,0.580726470983853,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
-MEDIUM,Copy List with Random Pointer,100.0,0.6053673680169267,https://leetcode.com/problems/copy-list-with-random-pointer,"Hash Table, Linked List"
+MEDIUM,Find All Anagrams in a String,100.0,52.2,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
+MEDIUM,Max Area of Island,100.0,73.2,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Throne Inheritance,100.0,65.1,https://leetcode.com/problems/throne-inheritance,"Hash Table, Tree, Depth-First Search, Design"
+EASY,Two Sum,100.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Happy Number,100.0,58.1,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers"
+MEDIUM,Copy List with Random Pointer,100.0,60.5,https://leetcode.com/problems/copy-list-with-random-pointer,"Hash Table, Linked List"

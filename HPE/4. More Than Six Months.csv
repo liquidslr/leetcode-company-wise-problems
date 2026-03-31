@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.6232015436059188,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3693616450497673,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Merge Two Sorted Lists,100.0,0.6684102120005911,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-MEDIUM,Reverse Words in a String,100.0,0.5191339695928651,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Number of Islands,100.0,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Merge Two Sorted Lists,100.0,66.8,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,Reverse Words in a String,100.0,51.9,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"

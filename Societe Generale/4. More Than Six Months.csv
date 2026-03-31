@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525974690146599,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Minimum Number of Swaps to Make the Binary String Alternating,100.0,0.43463278052982984,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating,"String, Greedy"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Minimum Number of Swaps to Make the Binary String Alternating,100.0,43.5,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating,"String, Greedy"

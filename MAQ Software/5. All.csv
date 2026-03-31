@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Unique Substrings in Wraparound String,100.0,0.4119896506273087,https://leetcode.com/problems/unique-substrings-in-wraparound-string,"String, Dynamic Programming"
-MEDIUM,Longest Substring Without Repeating Characters,74.0,0.36936185611748357,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-HARD,Trapping Rain Water,65.3,0.6510218753209407,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-HARD,Largest Rectangle in Histogram,65.3,0.4737769226876178,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
-MEDIUM,Longest Palindromic Substring,65.3,0.35846253641821835,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Unique Substrings in Wraparound String,100.0,41.2,https://leetcode.com/problems/unique-substrings-in-wraparound-string,"String, Dynamic Programming"
+MEDIUM,Longest Substring Without Repeating Characters,74.0,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Trapping Rain Water,65.3,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Largest Rectangle in Histogram,65.3,47.4,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
+MEDIUM,Longest Palindromic Substring,65.3,35.8,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

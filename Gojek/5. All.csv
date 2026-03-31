@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Binary Tree Level Order Traversal,100.0,0.706014341486616,https://leetcode.com/problems/binary-tree-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
-MEDIUM,Simplify Path,100.0,0.4786401080268387,https://leetcode.com/problems/simplify-path,"String, Stack"
-HARD,Sliding Window Maximum,100.0,0.47605208939888494,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
-MEDIUM,Convert an Array Into a 2D Array With Conditions,89.9,0.8630692551951445,https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions,"Array, Hash Table"
-MEDIUM,3Sum,89.9,0.37075075946117614,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Binary Tree Level Order Traversal,100.0,70.6,https://leetcode.com/problems/binary-tree-level-order-traversal,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Simplify Path,100.0,47.9,https://leetcode.com/problems/simplify-path,"String, Stack"
+HARD,Sliding Window Maximum,100.0,47.6,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Convert an Array Into a 2D Array With Conditions,89.9,86.3,https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions,"Array, Hash Table"
+MEDIUM,3Sum,89.9,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"

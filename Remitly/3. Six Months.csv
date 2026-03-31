@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Isomorphic Strings,100.0,0.4685798323600621,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
-MEDIUM,Course Schedule II,79.6,0.5342357857229685,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
-MEDIUM,Evaluate the Bracket Pairs of a String,79.6,0.6823127483382226,https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string,"Array, Hash Table, String"
+EASY,Isomorphic Strings,100.0,46.9,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
+MEDIUM,Course Schedule II,79.6,53.4,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,Evaluate the Bracket Pairs of a String,79.6,68.2,https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string,"Array, Hash Table, String"

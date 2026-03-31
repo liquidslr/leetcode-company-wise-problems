@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Subarrays With LCM Equal to K,100.0,0.40096588350389,https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k,"Array, Math, Number Theory"
-MEDIUM,Insert Delete GetRandom O(1),89.8,0.5499185337366445,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,89.8,0.628394799073718,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color,"Math, String, Greedy, Game Theory"
-MEDIUM,Product of Array Except Self,89.8,0.6778017465485614,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,Number of Subarrays With LCM Equal to K,100.0,40.1,https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k,"Array, Math, Number Theory"
+MEDIUM,Insert Delete GetRandom O(1),89.8,55.0,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,89.8,62.8,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color,"Math, String, Greedy, Game Theory"
+MEDIUM,Product of Array Except Self,89.8,67.8,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"

@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Check if the Sentence Is Pangram,100.0,0.8385082905085836,https://leetcode.com/problems/check-if-the-sentence-is-pangram,"Hash Table, String"
-EASY,Check Whether Two Strings are Almost Equivalent,84.4,0.6364174253998252,https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent,"Hash Table, String, Counting"
+EASY,Check if the Sentence Is Pangram,100.0,83.9,https://leetcode.com/problems/check-if-the-sentence-is-pangram,"Hash Table, String"
+EASY,Check Whether Two Strings are Almost Equivalent,84.4,63.6,https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent,"Hash Table, String, Counting"

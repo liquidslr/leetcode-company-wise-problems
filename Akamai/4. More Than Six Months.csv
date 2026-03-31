@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5577702792380397,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525967873583412,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-HARD,Median of Two Sorted Arrays,100.0,0.43814663685718197,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-EASY,N-Repeated Element in Size 2N Array,100.0,0.7747973064210272,https://leetcode.com/problems/n-repeated-element-in-size-2n-array,"Array, Hash Table"
+EASY,Two Sum,100.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+HARD,Median of Two Sorted Arrays,100.0,43.8,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,N-Repeated Element in Size 2N Array,100.0,77.5,https://leetcode.com/problems/n-repeated-element-in-size-2n-array,"Array, Hash Table"

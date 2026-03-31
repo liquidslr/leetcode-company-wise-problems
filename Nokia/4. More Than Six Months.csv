@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Minimum Cost of Buying Candies With Discount,100.0,0.6220026757229598,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount,"Array, Greedy, Sorting"
-HARD,Check If It Is a Good Array,88.7,0.6136193766034381,https://leetcode.com/problems/check-if-it-is-a-good-array,"Array, Math, Number Theory"
+EASY,Minimum Cost of Buying Candies With Discount,100.0,62.2,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount,"Array, Greedy, Sorting"
+HARD,Check If It Is a Good Array,88.7,61.4,https://leetcode.com/problems/check-if-it-is-a-good-array,"Array, Math, Number Theory"

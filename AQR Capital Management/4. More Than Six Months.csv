@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Jump Game VI,100.0,0.4599694033656298,https://leetcode.com/problems/jump-game-vi,"Array, Dynamic Programming, Queue, Heap (Priority Queue), Monotonic Queue"
-EASY,Missing Number,89.0,0.7006536003915764,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+MEDIUM,Jump Game VI,100.0,46.0,https://leetcode.com/problems/jump-game-vi,"Array, Dynamic Programming, Queue, Heap (Priority Queue), Monotonic Queue"
+EASY,Missing Number,89.0,70.1,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"

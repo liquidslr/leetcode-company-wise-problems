@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.4232289179408012,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-EASY,Squares of a Sorted Array,90.0,0.7321912907683713,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
-HARD,Department Top Three Salaries,90.0,0.5777105873664997,https://leetcode.com/problems/department-top-three-salaries,Database
-MEDIUM,Merge Intervals,82.9,0.4939526574581855,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Two Sum,82.9,0.5577704490776656,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Move Zeroes,72.9,0.6280403967919924,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-EASY,Reverse Linked List,72.9,0.7920666630113735,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
-EASY,Invert Binary Tree,72.9,0.7902177593392995,https://leetcode.com/problems/invert-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-EASY,First Unique Character in a String,72.9,0.6369554792501443,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
-EASY,Monotonic Array,72.9,0.6169876003093298,https://leetcode.com/problems/monotonic-array,Array
+EASY,Valid Parentheses,100.0,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+EASY,Squares of a Sorted Array,90.0,73.2,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
+HARD,Department Top Three Salaries,90.0,57.8,https://leetcode.com/problems/department-top-three-salaries,Database
+MEDIUM,Merge Intervals,82.9,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Two Sum,82.9,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Move Zeroes,72.9,62.8,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Reverse Linked List,72.9,79.2,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+EASY,Invert Binary Tree,72.9,79.0,https://leetcode.com/problems/invert-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,First Unique Character in a String,72.9,63.7,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
+EASY,Monotonic Array,72.9,61.7,https://leetcode.com/problems/monotonic-array,Array

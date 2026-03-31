@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Set Intersection Size At Least Two,100.0,0.4525535198979934,https://leetcode.com/problems/set-intersection-size-at-least-two,"Array, Greedy, Sorting"
-HARD,Binary Tree Cameras,89.2,0.4718247023878054,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+HARD,Set Intersection Size At Least Two,100.0,45.3,https://leetcode.com/problems/set-intersection-size-at-least-two,"Array, Greedy, Sorting"
+HARD,Binary Tree Cameras,89.2,47.2,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"

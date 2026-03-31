@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Palindromic Substring,100.0,0.35850679459228535,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Number of Islands,100.0,0.6232469776710805,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Add Two Numbers,100.0,0.46230585549998393,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
-EASY,Two Sum,100.0,0.5578039976859366,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Palindromic Substring,100.0,35.9,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Number of Islands,100.0,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Add Two Numbers,100.0,46.2,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+EASY,Two Sum,100.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"

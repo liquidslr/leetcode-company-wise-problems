@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,100.0,0.6504115971227552,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray,Array
-EASY,Find the Sum of Encrypted Integers,100.0,0.7365762999474768,https://leetcode.com/problems/find-the-sum-of-encrypted-integers,"Array, Math"
+EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,100.0,65.0,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray,Array
+EASY,Find the Sum of Encrypted Integers,100.0,73.7,https://leetcode.com/problems/find-the-sum-of-encrypted-integers,"Array, Math"

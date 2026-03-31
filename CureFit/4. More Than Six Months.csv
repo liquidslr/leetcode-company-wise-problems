@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Word Break,100.0,0.4827562706373493,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
-MEDIUM,Gas Station,100.0,0.46387397955199466,https://leetcode.com/problems/gas-station,"Array, Greedy"
-MEDIUM,Minimum Moves to Make Array Complementary,100.0,0.4216836919510251,https://leetcode.com/problems/minimum-moves-to-make-array-complementary,"Array, Hash Table, Prefix Sum"
+MEDIUM,Word Break,100.0,48.3,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+MEDIUM,Gas Station,100.0,46.4,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Minimum Moves to Make Array Complementary,100.0,42.2,https://leetcode.com/problems/minimum-moves-to-make-array-complementary,"Array, Hash Table, Prefix Sum"

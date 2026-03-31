@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Window Substring,100.0,0.4535438420146838,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
-MEDIUM,Sum of Beauty of All Substrings,89.6,0.708399002246187,https://leetcode.com/problems/sum-of-beauty-of-all-substrings,"Hash Table, String, Counting"
-HARD,Last Substring in Lexicographical Order,89.6,0.3460103417700405,https://leetcode.com/problems/last-substring-in-lexicographical-order,"Two Pointers, String"
-HARD,Number of Atoms,89.6,0.6499758945228163,https://leetcode.com/problems/number-of-atoms,"Hash Table, String, Stack, Sorting"
+HARD,Minimum Window Substring,100.0,45.4,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Sum of Beauty of All Substrings,89.6,70.8,https://leetcode.com/problems/sum-of-beauty-of-all-substrings,"Hash Table, String, Counting"
+HARD,Last Substring in Lexicographical Order,89.6,34.6,https://leetcode.com/problems/last-substring-in-lexicographical-order,"Two Pointers, String"
+HARD,Number of Atoms,89.6,65.0,https://leetcode.com/problems/number-of-atoms,"Hash Table, String, Stack, Sorting"

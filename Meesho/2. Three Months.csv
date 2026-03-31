@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Unique XOR Triplets I,100.0,0.24857137833418322,https://leetcode.com/problems/number-of-unique-xor-triplets-i,"Array, Math, Bit Manipulation"
-MEDIUM,Number of Unique XOR Triplets II,100.0,0.29438172400053125,https://leetcode.com/problems/number-of-unique-xor-triplets-ii,"Array, Math, Bit Manipulation, Enumeration"
-MEDIUM,Next Permutation,66.3,0.43057736061713586,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+MEDIUM,Number of Unique XOR Triplets I,100.0,24.9,https://leetcode.com/problems/number-of-unique-xor-triplets-i,"Array, Math, Bit Manipulation"
+MEDIUM,Number of Unique XOR Triplets II,100.0,29.4,https://leetcode.com/problems/number-of-unique-xor-triplets-ii,"Array, Math, Bit Manipulation, Enumeration"
+MEDIUM,Next Permutation,66.3,43.1,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"

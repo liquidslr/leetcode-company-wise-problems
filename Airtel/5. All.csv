@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find Polygon With the Largest Perimeter,100.0,0.653496586482751,https://leetcode.com/problems/find-polygon-with-the-largest-perimeter,"Array, Greedy, Sorting, Prefix Sum"
-MEDIUM,XOR Queries of a Subarray,97.9,0.7839745933101809,https://leetcode.com/problems/xor-queries-of-a-subarray,"Array, Bit Manipulation, Prefix Sum"
-MEDIUM,Longest Substring Without Repeating Characters,77.8,0.36936185611748357,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Generate Parentheses,62.5,0.7713292636809848,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
-EASY,Best Time to Buy and Sell Stock,62.5,0.5525968774716257,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Find First and Last Position of Element in Sorted Array,62.5,0.46828909755689324,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+MEDIUM,Find Polygon With the Largest Perimeter,100.0,65.3,https://leetcode.com/problems/find-polygon-with-the-largest-perimeter,"Array, Greedy, Sorting, Prefix Sum"
+MEDIUM,XOR Queries of a Subarray,97.9,78.4,https://leetcode.com/problems/xor-queries-of-a-subarray,"Array, Bit Manipulation, Prefix Sum"
+MEDIUM,Longest Substring Without Repeating Characters,77.8,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Generate Parentheses,62.5,77.1,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+EASY,Best Time to Buy and Sell Stock,62.5,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Find First and Last Position of Element in Sorted Array,62.5,46.8,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Sudoku Solver,100.0,0.6390844622410038,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
-HARD,Frog Jump,100.0,0.4655846450889997,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"
-HARD,Minimum Cost to Cut a Stick,100.0,0.6201789560190433,https://leetcode.com/problems/minimum-cost-to-cut-a-stick,"Array, Dynamic Programming, Sorting"
+HARD,Sudoku Solver,100.0,63.9,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
+HARD,Frog Jump,100.0,46.6,https://leetcode.com/problems/frog-jump,"Array, Dynamic Programming"
+HARD,Minimum Cost to Cut a Stick,100.0,62.0,https://leetcode.com/problems/minimum-cost-to-cut-a-stick,"Array, Dynamic Programming, Sorting"

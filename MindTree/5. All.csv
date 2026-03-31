@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Count Integers With Even Digit Sum,100.0,0.6878335702551094,https://leetcode.com/problems/count-integers-with-even-digit-sum,"Math, Simulation"
-EASY,Two Sum,75.2,0.5577709731557225,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Average Time of Process per Machine,66.8,0.6862902426589198,https://leetcode.com/problems/average-time-of-process-per-machine,Database
+EASY,Count Integers With Even Digit Sum,100.0,68.8,https://leetcode.com/problems/count-integers-with-even-digit-sum,"Math, Simulation"
+EASY,Two Sum,75.2,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Average Time of Process per Machine,66.8,68.6,https://leetcode.com/problems/average-time-of-process-per-machine,Database

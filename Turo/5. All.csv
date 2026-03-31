@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Meeting Rooms II,100.0,0.5214233389386647,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-MEDIUM,LRU Cache,94.8,0.45220060792334105,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Meeting Rooms,88.1,0.5894747413879683,https://leetcode.com/problems/meeting-rooms,"Array, Sorting"
-MEDIUM,Longest Palindromic Substring,78.6,0.3585065915691926,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold,78.6,0.7023805449487369,https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold,"Array, Sliding Window"
+MEDIUM,Meeting Rooms II,100.0,52.1,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,LRU Cache,94.8,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Meeting Rooms,88.1,58.9,https://leetcode.com/problems/meeting-rooms,"Array, Sorting"
+MEDIUM,Longest Palindromic Substring,78.6,35.9,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold,78.6,70.2,https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold,"Array, Sliding Window"

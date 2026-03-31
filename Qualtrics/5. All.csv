@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Count Square Sum Triples,100.0,0.6901666114160129,https://leetcode.com/problems/count-square-sum-triples,"Math, Enumeration"
-MEDIUM,Asteroid Collision,95.2,0.4550053440282632,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-MEDIUM,Group Anagrams,65.5,0.7092889662302778,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Count Square Sum Triples,100.0,69.0,https://leetcode.com/problems/count-square-sum-triples,"Math, Enumeration"
+MEDIUM,Asteroid Collision,95.2,45.5,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+MEDIUM,Group Anagrams,65.5,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

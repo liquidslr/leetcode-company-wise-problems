@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Find Servers That Handled Most Number of Requests,100.0,0.4407459914937801,https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests,"Array, Greedy, Heap (Priority Queue), Ordered Set"
-MEDIUM,Rabbits in Forest,100.0,0.5826643792570448,https://leetcode.com/problems/rabbits-in-forest,"Array, Hash Table, Math, Greedy"
-MEDIUM,Monthly Transactions I,100.0,0.5830398874655107,https://leetcode.com/problems/monthly-transactions-i,Database
-MEDIUM,Monthly Transactions II,100.0,0.41985775068266973,https://leetcode.com/problems/monthly-transactions-ii,Database
+HARD,Find Servers That Handled Most Number of Requests,100.0,44.1,https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests,"Array, Greedy, Heap (Priority Queue), Ordered Set"
+MEDIUM,Rabbits in Forest,100.0,58.3,https://leetcode.com/problems/rabbits-in-forest,"Array, Hash Table, Math, Greedy"
+MEDIUM,Monthly Transactions I,100.0,58.3,https://leetcode.com/problems/monthly-transactions-i,Database
+MEDIUM,Monthly Transactions II,100.0,42.0,https://leetcode.com/problems/monthly-transactions-ii,Database

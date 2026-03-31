@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Find Edges in Shortest Paths,100.0,0.45557478513390637,https://leetcode.com/problems/find-edges-in-shortest-paths,"Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
-MEDIUM,Maximize Greatness of an Array,85.3,0.5864617466875623,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
-HARD,Maximum Profit in Job Scheduling,80.6,0.5441746135165552,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
-HARD,Longest Increasing Path in a Matrix,74.5,0.5534762586302827,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix"
-HARD,Swim in Rising Water,65.9,0.6285273239373714,https://leetcode.com/problems/swim-in-rising-water,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
-HARD,Text Justification,65.9,0.4815035316083349,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+HARD,Find Edges in Shortest Paths,100.0,45.6,https://leetcode.com/problems/find-edges-in-shortest-paths,"Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+MEDIUM,Maximize Greatness of an Array,85.3,58.6,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+HARD,Maximum Profit in Job Scheduling,80.6,54.4,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Longest Increasing Path in a Matrix,74.5,55.3,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix"
+HARD,Swim in Rising Water,65.9,62.9,https://leetcode.com/problems/swim-in-rising-water,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+HARD,Text Justification,65.9,48.2,https://leetcode.com/problems/text-justification,"Array, String, Simulation"

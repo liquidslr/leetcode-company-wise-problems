@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,The Number of Rich Customers,100.0,0.7749586938866951,https://leetcode.com/problems/the-number-of-rich-customers,Database
-MEDIUM,Group Anagrams,79.6,0.7092895037238552,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Best Time to Buy and Sell Stock,73.2,0.5525968886230834,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Merge Intervals,73.2,0.49395258385849666,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-EASY,Two Sum,64.2,0.5577703805574933,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Unique Paths II,64.2,0.4315430597653034,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
-EASY,Merge Sorted Array,64.2,0.5291966721564944,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-HARD,First Missing Positive,64.2,0.41084779063097143,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
-MEDIUM,Longest Substring Without Repeating Characters,64.2,0.3693616503140243,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Longest Palindromic Substring,64.2,0.35846230203907403,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Exclusive Time of Functions,64.2,0.6479218958904363,https://leetcode.com/problems/exclusive-time-of-functions,"Array, Stack"
+EASY,The Number of Rich Customers,100.0,77.5,https://leetcode.com/problems/the-number-of-rich-customers,Database
+MEDIUM,Group Anagrams,79.6,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Best Time to Buy and Sell Stock,73.2,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Merge Intervals,73.2,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+EASY,Two Sum,64.2,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Unique Paths II,64.2,43.2,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
+EASY,Merge Sorted Array,64.2,52.9,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+HARD,First Missing Positive,64.2,41.1,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Longest Substring Without Repeating Characters,64.2,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Palindromic Substring,64.2,35.8,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Exclusive Time of Functions,64.2,64.8,https://leetcode.com/problems/exclusive-time-of-functions,"Array, Stack"

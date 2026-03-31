@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Summary Ranges,100.0,0.5302431124795074,https://leetcode.com/problems/summary-ranges,Array
-MEDIUM,Maximize Distance to Closest Person,89.9,0.4898931447175697,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
-MEDIUM,Longest Subarray of 1's After Deleting One Element,89.9,0.6923692019165307,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"Array, Dynamic Programming, Sliding Window"
+EASY,Summary Ranges,100.0,53.0,https://leetcode.com/problems/summary-ranges,Array
+MEDIUM,Maximize Distance to Closest Person,89.9,49.0,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+MEDIUM,Longest Subarray of 1's After Deleting One Element,89.9,69.2,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"Array, Dynamic Programming, Sliding Window"

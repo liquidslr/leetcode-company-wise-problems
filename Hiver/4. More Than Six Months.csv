@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Regular Expression Matching,100.0,0.2928271734281088,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
-MEDIUM,Maximum Product Subarray,100.0,0.3494355670500016,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
+HARD,Regular Expression Matching,100.0,29.3,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+MEDIUM,Maximum Product Subarray,100.0,34.9,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"

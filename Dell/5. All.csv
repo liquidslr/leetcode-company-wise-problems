@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.42322894737748806,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-HARD,Merge k Sorted Lists,100.0,0.5677429108771196,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.3693615853602407,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Group Anagrams,100.0,0.709289019979725,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Longest Palindromic Substring,87.6,0.35846183681613975,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-EASY,Delete Duplicate Emails,87.6,0.6432529647276789,https://leetcode.com/problems/delete-duplicate-emails,Database
-HARD,Department Top Three Salaries,87.6,0.5777105873664997,https://leetcode.com/problems/department-top-three-salaries,Database
+EASY,Valid Parentheses,100.0,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+HARD,Merge k Sorted Lists,100.0,56.8,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Group Anagrams,100.0,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Longest Palindromic Substring,87.6,35.8,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Delete Duplicate Emails,87.6,64.3,https://leetcode.com/problems/delete-duplicate-emails,Database
+HARD,Department Top Three Salaries,87.6,57.8,https://leetcode.com/problems/department-top-three-salaries,Database

@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design a Stack With Increment Operation,100.0,0.8013068356286052,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
-HARD,Trapping Rain Water,100.0,0.6510865148781917,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Longest String Chain,100.0,0.6201747823811324,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
-MEDIUM,Meeting Rooms II,89.2,0.5214228658199016,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-MEDIUM,Single Element in a Sorted Array,89.2,0.5920752928191202,https://leetcode.com/problems/single-element-in-a-sorted-array,"Array, Binary Search"
+MEDIUM,Design a Stack With Increment Operation,100.0,80.1,https://leetcode.com/problems/design-a-stack-with-increment-operation,"Array, Stack, Design"
+HARD,Trapping Rain Water,100.0,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Longest String Chain,100.0,62.0,https://leetcode.com/problems/longest-string-chain,"Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
+MEDIUM,Meeting Rooms II,89.2,52.1,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Single Element in a Sorted Array,89.2,59.2,https://leetcode.com/problems/single-element-in-a-sorted-array,"Array, Binary Search"

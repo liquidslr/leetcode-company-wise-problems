@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximum Profit in Job Scheduling,100.0,0.5441746135165552,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
-HARD,Swim in Rising Water,100.0,0.6285273239373714,https://leetcode.com/problems/swim-in-rising-water,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+HARD,Maximum Profit in Job Scheduling,100.0,54.4,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Swim in Rising Water,100.0,62.9,https://leetcode.com/problems/swim-in-rising-water,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5578041122162485,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Reverse Words in a String III,89.3,0.836610711561557,https://leetcode.com/problems/reverse-words-in-a-string-iii,"Two Pointers, String"
-MEDIUM,Longest Consecutive Sequence,89.3,0.4703922371807983,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union Find"
+EASY,Two Sum,100.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Reverse Words in a String III,89.3,83.7,https://leetcode.com/problems/reverse-words-in-a-string-iii,"Two Pointers, String"
+MEDIUM,Longest Consecutive Sequence,89.3,47.0,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union Find"

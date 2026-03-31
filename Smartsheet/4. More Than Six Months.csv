@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Max Area of Island,100.0,0.7316420661679919,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Top K Frequent Words,100.0,0.5927710095523129,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
-MEDIUM,Group Anagrams,100.0,0.7092887900352582,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Top K Frequent Elements,100.0,0.6456608564373112,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Max Area of Island,100.0,73.2,https://leetcode.com/problems/max-area-of-island,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Top K Frequent Words,100.0,59.3,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+MEDIUM,Group Anagrams,100.0,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Top K Frequent Elements,100.0,64.6,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"

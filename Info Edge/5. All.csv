@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,100.0,0.6945200779613259,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points,Linked List
-MEDIUM,Find the Maximum Factor Score of Array,100.0,0.40370847002954446,https://leetcode.com/problems/find-the-maximum-factor-score-of-array,"Array, Math, Number Theory"
-MEDIUM,Count Almost Equal Pairs I,95.0,0.3754856361149111,https://leetcode.com/problems/count-almost-equal-pairs-i,"Array, Hash Table, Sorting, Counting, Enumeration"
-EASY,Two Out of Three,84.5,0.7658462504348121,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
-HARD,Bus Routes,73.1,0.46953017420592696,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
-MEDIUM,Subrectangle Queries,73.1,0.8595828252176626,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
-MEDIUM,Longest Palindromic Substring,64.1,0.35846234718799413,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,100.0,69.5,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points,Linked List
+MEDIUM,Find the Maximum Factor Score of Array,100.0,40.4,https://leetcode.com/problems/find-the-maximum-factor-score-of-array,"Array, Math, Number Theory"
+MEDIUM,Count Almost Equal Pairs I,95.0,37.5,https://leetcode.com/problems/count-almost-equal-pairs-i,"Array, Hash Table, Sorting, Counting, Enumeration"
+EASY,Two Out of Three,84.5,76.6,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
+HARD,Bus Routes,73.1,47.0,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+MEDIUM,Subrectangle Queries,73.1,86.0,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
+MEDIUM,Longest Palindromic Substring,64.1,35.8,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Add to Make Parentheses Valid,100.0,0.746908249713867,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid,"String, Stack, Greedy"
-HARD,The Skyline Problem,100.0,0.4396240927117757,https://leetcode.com/problems/the-skyline-problem,"Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set"
+MEDIUM,Minimum Add to Make Parentheses Valid,100.0,74.7,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid,"String, Stack, Greedy"
+HARD,The Skyline Problem,100.0,44.0,https://leetcode.com/problems/the-skyline-problem,"Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set"

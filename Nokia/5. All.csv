@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Minimum Cost of Buying Candies With Discount,100.0,0.6220026757229598,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount,"Array, Greedy, Sorting"
-MEDIUM,LRU Cache,88.3,0.45214995272337516,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Check If It Is a Good Array,88.3,0.6136193766034381,https://leetcode.com/problems/check-if-it-is-a-good-array,"Array, Math, Number Theory"
-MEDIUM,Count Primes,88.3,0.34790674420010553,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
-EASY,Longest Common Prefix,88.3,0.4548320746397213,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-EASY,Valid Anagram,88.3,0.6666103435170908,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Minimum Cost of Buying Candies With Discount,100.0,62.2,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount,"Array, Greedy, Sorting"
+MEDIUM,LRU Cache,88.3,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Check If It Is a Good Array,88.3,61.4,https://leetcode.com/problems/check-if-it-is-a-good-array,"Array, Math, Number Theory"
+MEDIUM,Count Primes,88.3,34.8,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory"
+EASY,Longest Common Prefix,88.3,45.5,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+EASY,Valid Anagram,88.3,66.7,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

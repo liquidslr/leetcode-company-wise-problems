@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Product of First and Last Elements of a Subsequence,100.0,0.29763143653998253,https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence,"Array, Two Pointers"
-MEDIUM,LRU Cache,73.8,0.4521493519744642,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Find Median from Data Stream,73.8,0.5327802546186611,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Maximum Product of First and Last Elements of a Subsequence,100.0,29.8,https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence,"Array, Two Pointers"
+MEDIUM,LRU Cache,73.8,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Find Median from Data Stream,73.8,53.3,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"

@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Construct String With Repeat Limit,100.0,0.7087778142775636,https://leetcode.com/problems/construct-string-with-repeat-limit,"Hash Table, String, Greedy, Heap (Priority Queue), Counting"
+MEDIUM,Construct String With Repeat Limit,100.0,70.9,https://leetcode.com/problems/construct-string-with-repeat-limit,"Hash Table, String, Greedy, Heap (Priority Queue), Counting"

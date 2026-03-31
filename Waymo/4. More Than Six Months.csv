@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.6232010095175516,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Possible Bipartition,82.9,0.5150773648728767,https://leetcode.com/problems/possible-bipartition,"Depth-First Search, Breadth-First Search, Union Find, Graph"
-MEDIUM,Valid Sudoku,82.9,0.6227680872343923,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,Number of Islands,100.0,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Possible Bipartition,82.9,51.5,https://leetcode.com/problems/possible-bipartition,"Depth-First Search, Breadth-First Search, Union Find, Graph"
+MEDIUM,Valid Sudoku,82.9,62.3,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"

@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.4521475035659106,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Walking Robot Simulation,100.0,0.5823045930701047,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
-HARD,Design In-Memory File System,74.3,0.4816948941663167,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
-HARD,Design a Text Editor,65.6,0.47138071447136626,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
-EASY,Find Users With Valid E-Mails,65.6,0.44116255942563304,https://leetcode.com/problems/find-users-with-valid-e-mails,Database
-MEDIUM,Design Tic-Tac-Toe,65.6,0.5860157935441853,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
-MEDIUM,Walls and Gates,65.6,0.6296793327762211,https://leetcode.com/problems/walls-and-gates,"Array, Breadth-First Search, Matrix"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Walking Robot Simulation,100.0,58.2,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
+HARD,Design In-Memory File System,74.3,48.2,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
+HARD,Design a Text Editor,65.6,47.1,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+EASY,Find Users With Valid E-Mails,65.6,44.1,https://leetcode.com/problems/find-users-with-valid-e-mails,Database
+MEDIUM,Design Tic-Tac-Toe,65.6,58.6,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
+MEDIUM,Walls and Gates,65.6,63.0,https://leetcode.com/problems/walls-and-gates,"Array, Breadth-First Search, Matrix"

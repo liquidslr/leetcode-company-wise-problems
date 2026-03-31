@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Combination Sum,100.0,0.7467469429014523,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
-MEDIUM,Flatten Nested List Iterator,89.1,0.6522839525510098,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
-MEDIUM,Spiral Matrix,89.1,0.5393974560587809,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Combination Sum,100.0,74.7,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
+MEDIUM,Flatten Nested List Iterator,89.1,65.2,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+MEDIUM,Spiral Matrix,89.1,53.9,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

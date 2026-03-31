@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.7092891812279473,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Generate Parentheses,89.0,0.771329050951006,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
-MEDIUM,Min Stack,89.0,0.5644516563911693,https://leetcode.com/problems/min-stack,"Stack, Design"
-MEDIUM,Valid Sudoku,89.0,0.622769026941775,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-MEDIUM,Longest Substring Without Repeating Characters,89.0,0.369361615205033,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Group Anagrams,100.0,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Generate Parentheses,89.0,77.1,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+MEDIUM,Min Stack,89.0,56.4,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Valid Sudoku,89.0,62.3,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,Longest Substring Without Repeating Characters,89.0,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

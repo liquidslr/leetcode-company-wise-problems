@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Linked List in Binary Tree,100.0,0.5190438740859565,https://leetcode.com/problems/linked-list-in-binary-tree,"Linked List, Tree, Depth-First Search, Binary Tree"
-EASY,Check if Array Is Sorted and Rotated,100.0,0.5507514881863992,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated,Array
-HARD,First Missing Positive,67.1,0.4108472697598495,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Linked List in Binary Tree,100.0,51.9,https://leetcode.com/problems/linked-list-in-binary-tree,"Linked List, Tree, Depth-First Search, Binary Tree"
+EASY,Check if Array Is Sorted and Rotated,100.0,55.1,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated,Array
+HARD,First Missing Positive,67.1,41.1,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"

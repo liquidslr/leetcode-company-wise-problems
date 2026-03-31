@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Shortest Subarray to be Removed to Make Array Sorted,100.0,0.5143014465781959,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted,"Array, Two Pointers, Binary Search, Stack, Monotonic Stack"
-MEDIUM,Rotate Array,100.0,0.43021402627311356,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+MEDIUM,Shortest Subarray to be Removed to Make Array Sorted,100.0,51.4,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted,"Array, Two Pointers, Binary Search, Stack, Monotonic Stack"
+MEDIUM,Rotate Array,100.0,43.0,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"

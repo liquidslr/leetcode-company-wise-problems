@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Furthest Building You Can Reach,100.0,0.5037115841594002,https://leetcode.com/problems/furthest-building-you-can-reach,"Array, Greedy, Heap (Priority Queue)"
-MEDIUM,House Robber III,100.0,0.5494576152947646,https://leetcode.com/problems/house-robber-iii,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Furthest Building You Can Reach,100.0,50.4,https://leetcode.com/problems/furthest-building-you-can-reach,"Array, Greedy, Heap (Priority Queue)"
+MEDIUM,House Robber III,100.0,54.9,https://leetcode.com/problems/house-robber-iii,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"

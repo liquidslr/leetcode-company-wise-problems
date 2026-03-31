@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Determine if Two Strings Are Close,100.0,0.5413286903894399,https://leetcode.com/problems/determine-if-two-strings-are-close,"Hash Table, String, Sorting, Counting"
-MEDIUM,Most Beautiful Item for Each Query,98.1,0.6204166873850132,https://leetcode.com/problems/most-beautiful-item-for-each-query,"Array, Binary Search, Sorting"
-EASY,Find the K-Beauty of a Number,98.1,0.6169555156399178,https://leetcode.com/problems/find-the-k-beauty-of-a-number,"Math, String, Sliding Window"
+MEDIUM,Determine if Two Strings Are Close,100.0,54.1,https://leetcode.com/problems/determine-if-two-strings-are-close,"Hash Table, String, Sorting, Counting"
+MEDIUM,Most Beautiful Item for Each Query,98.1,62.0,https://leetcode.com/problems/most-beautiful-item-for-each-query,"Array, Binary Search, Sorting"
+EASY,Find the K-Beauty of a Number,98.1,61.7,https://leetcode.com/problems/find-the-k-beauty-of-a-number,"Math, String, Sliding Window"

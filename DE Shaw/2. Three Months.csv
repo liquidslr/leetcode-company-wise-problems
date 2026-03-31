@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Binary Tree Cameras,100.0,0.4718257360539049,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
-MEDIUM,Design A Leaderboard,82.4,0.6796315583908346,https://leetcode.com/problems/design-a-leaderboard,"Hash Table, Design, Sorting"
+HARD,Binary Tree Cameras,100.0,47.2,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Design A Leaderboard,82.4,68.0,https://leetcode.com/problems/design-a-leaderboard,"Hash Table, Design, Sorting"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5577700049096483,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Parentheses,89.2,0.423228521307745,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Maximum Subarray,89.2,0.5209980853471033,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Two Sum,100.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Parentheses,89.2,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Maximum Subarray,89.2,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"

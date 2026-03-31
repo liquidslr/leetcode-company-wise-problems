@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Penalty for a Shop,100.0,0.6759443878546194,https://leetcode.com/problems/minimum-penalty-for-a-shop,"String, Prefix Sum"
-MEDIUM,Evaluate Division,70.5,0.6314711547576758,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
-HARD,Optimal Account Balancing,53.6,0.4993810266893702,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-MEDIUM,Brace Expansion,53.6,0.6672212978369384,https://leetcode.com/problems/brace-expansion,"String, Backtracking, Breadth-First Search"
-MEDIUM,Cheapest Flights Within K Stops,53.6,0.40398927733184775,https://leetcode.com/problems/cheapest-flights-within-k-stops,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+MEDIUM,Minimum Penalty for a Shop,100.0,67.6,https://leetcode.com/problems/minimum-penalty-for-a-shop,"String, Prefix Sum"
+MEDIUM,Evaluate Division,70.5,63.1,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+HARD,Optimal Account Balancing,53.6,49.9,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+MEDIUM,Brace Expansion,53.6,66.7,https://leetcode.com/problems/brace-expansion,"String, Backtracking, Breadth-First Search"
+MEDIUM,Cheapest Flights Within K Stops,53.6,40.4,https://leetcode.com/problems/cheapest-flights-within-k-stops,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Strong Password Checker,100.0,0.14622730217105126,https://leetcode.com/problems/strong-password-checker,"String, Greedy, Heap (Priority Queue)"
-MEDIUM,As Far from Land as Possible,85.8,0.5184355695888827,https://leetcode.com/problems/as-far-from-land-as-possible,"Array, Dynamic Programming, Breadth-First Search, Matrix"
-HARD,Shortest Distance from All Buildings,71.5,0.4437267220297094,https://leetcode.com/problems/shortest-distance-from-all-buildings,"Array, Breadth-First Search, Matrix"
+HARD,Strong Password Checker,100.0,14.6,https://leetcode.com/problems/strong-password-checker,"String, Greedy, Heap (Priority Queue)"
+MEDIUM,As Far from Land as Possible,85.8,51.8,https://leetcode.com/problems/as-far-from-land-as-possible,"Array, Dynamic Programming, Breadth-First Search, Matrix"
+HARD,Shortest Distance from All Buildings,71.5,44.4,https://leetcode.com/problems/shortest-distance-from-all-buildings,"Array, Breadth-First Search, Matrix"

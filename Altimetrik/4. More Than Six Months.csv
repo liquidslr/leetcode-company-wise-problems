@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5577709811356623,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,3Sum,100.0,0.37071264823321115,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-EASY,Maximum Number of Pairs in Array,89.0,0.755399434671643,https://leetcode.com/problems/maximum-number-of-pairs-in-array,"Array, Hash Table, Counting"
-MEDIUM,Design a Food Rating System,89.0,0.4491788770279475,https://leetcode.com/problems/design-a-food-rating-system,"Array, Hash Table, String, Design, Heap (Priority Queue), Ordered Set"
+EASY,Two Sum,100.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,3Sum,100.0,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Maximum Number of Pairs in Array,89.0,75.5,https://leetcode.com/problems/maximum-number-of-pairs-in-array,"Array, Hash Table, Counting"
+MEDIUM,Design a Food Rating System,89.0,44.9,https://leetcode.com/problems/design-a-food-rating-system,"Array, Hash Table, String, Design, Heap (Priority Queue), Ordered Set"

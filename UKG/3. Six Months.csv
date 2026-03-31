@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Count the Number of Good Subsequences,100.0,0.5057235104197241,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
-EASY,Valid Word,100.0,0.38720022411772076,https://leetcode.com/problems/valid-word,String
-MEDIUM,Make a Positive Array,89.2,0.3808630393996248,https://leetcode.com/problems/make-a-positive-array,"Array, Greedy, Prefix Sum"
-MEDIUM,Minimum Length of Anagram Concatenation,89.2,0.3972463749502319,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
-HARD,Special Binary String,89.2,0.6351450158420667,https://leetcode.com/problems/special-binary-string,"String, Recursion"
+MEDIUM,Count the Number of Good Subsequences,100.0,50.6,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
+EASY,Valid Word,100.0,38.7,https://leetcode.com/problems/valid-word,String
+MEDIUM,Make a Positive Array,89.2,38.1,https://leetcode.com/problems/make-a-positive-array,"Array, Greedy, Prefix Sum"
+MEDIUM,Minimum Length of Anagram Concatenation,89.2,39.7,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
+HARD,Special Binary String,89.2,63.5,https://leetcode.com/problems/special-binary-string,"String, Recursion"

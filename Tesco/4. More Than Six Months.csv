@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.4939523116299608,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Decode String,59.9,0.6115276408838193,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Merge Intervals,100.0,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Decode String,59.9,61.2,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"

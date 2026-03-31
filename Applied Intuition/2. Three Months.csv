@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find Duplicate File in System,100.0,0.6757528599572867,https://leetcode.com/problems/find-duplicate-file-in-system,"Array, Hash Table, String"
-HARD,Shortest Distance from All Buildings,95.0,0.44375276748782305,https://leetcode.com/problems/shortest-distance-from-all-buildings,"Array, Breadth-First Search, Matrix"
-MEDIUM,Find First and Last Position of Element in Sorted Array,88.5,0.4683359019471929,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
-HARD,Best Meeting Point,79.3,0.6124969405912432,https://leetcode.com/problems/best-meeting-point,"Array, Math, Sorting, Matrix"
+MEDIUM,Find Duplicate File in System,100.0,67.6,https://leetcode.com/problems/find-duplicate-file-in-system,"Array, Hash Table, String"
+HARD,Shortest Distance from All Buildings,95.0,44.4,https://leetcode.com/problems/shortest-distance-from-all-buildings,"Array, Breadth-First Search, Matrix"
+MEDIUM,Find First and Last Position of Element in Sorted Array,88.5,46.8,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+HARD,Best Meeting Point,79.3,61.2,https://leetcode.com/problems/best-meeting-point,"Array, Math, Sorting, Matrix"

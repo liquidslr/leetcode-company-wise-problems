@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Score After Flipping Matrix,100.0,0.8024347383165669,https://leetcode.com/problems/score-after-flipping-matrix,"Array, Greedy, Bit Manipulation, Matrix"
-EASY,Find the Index of the First Occurrence in a String,68.4,0.44976766787135175,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"
+MEDIUM,Score After Flipping Matrix,100.0,80.2,https://leetcode.com/problems/score-after-flipping-matrix,"Array, Greedy, Bit Manipulation, Matrix"
+EASY,Find the Index of the First Occurrence in a String,68.4,45.0,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching"

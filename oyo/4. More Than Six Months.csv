@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,4Sum,100.0,0.38219229867541904,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
-MEDIUM,Container With Most Water,87.8,0.5778302959132524,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-HARD,Maximum Profit in Job Scheduling,87.8,0.5441735460704106,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
-HARD,Largest Rectangle in Histogram,87.8,0.4737771291370463,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
-HARD,Sliding Window Maximum,87.8,0.4760400895519091,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
-MEDIUM,Koko Eating Bananas,87.8,0.49067783422145794,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,4Sum,100.0,38.2,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
+MEDIUM,Container With Most Water,87.8,57.8,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+HARD,Maximum Profit in Job Scheduling,87.8,54.4,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+HARD,Largest Rectangle in Histogram,87.8,47.4,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack"
+HARD,Sliding Window Maximum,87.8,47.6,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Koko Eating Bananas,87.8,49.1,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"

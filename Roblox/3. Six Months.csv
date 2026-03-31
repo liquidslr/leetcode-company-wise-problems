@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reorganize String,100.0,0.5619634145417838,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
-MEDIUM,Task Scheduler,87.1,0.615393301547845,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
-MEDIUM,Maximize Distance to Closest Person,78.8,0.4898732183487074,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
-EASY,Valid Parentheses,75.1,0.42322848183425277,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Rotating the Box,70.6,0.7909813050714205,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
-MEDIUM,Number of Adjacent Elements With the Same Color,64.8,0.5575544433923982,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Array
-HARD,Trapping Rain Water,64.8,0.6510198658123436,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Implement Trie (Prefix Tree),64.8,0.6793477899842462,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
-MEDIUM,Spiral Matrix,56.5,0.539397306376751,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Reorganize String,100.0,56.2,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Task Scheduler,87.1,61.5,https://leetcode.com/problems/task-scheduler,"Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Maximize Distance to Closest Person,78.8,49.0,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+EASY,Valid Parentheses,75.1,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Rotating the Box,70.6,79.1,https://leetcode.com/problems/rotating-the-box,"Array, Two Pointers, Matrix"
+MEDIUM,Number of Adjacent Elements With the Same Color,64.8,55.8,https://leetcode.com/problems/number-of-adjacent-elements-with-the-same-color,Array
+HARD,Trapping Rain Water,64.8,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Implement Trie (Prefix Tree),64.8,67.9,https://leetcode.com/problems/implement-trie-prefix-tree,"Hash Table, String, Design, Trie"
+MEDIUM,Spiral Matrix,56.5,53.9,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

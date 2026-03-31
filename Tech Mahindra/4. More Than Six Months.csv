@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.5526336199113497,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Reverse Integer,89.2,0.30311015397550334,https://leetcode.com/problems/reverse-integer,Math
-EASY,Valid Anagram,89.2,0.6666408089504009,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Reverse Integer,89.2,30.3,https://leetcode.com/problems/reverse-integer,Math
+EASY,Valid Anagram,89.2,66.7,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

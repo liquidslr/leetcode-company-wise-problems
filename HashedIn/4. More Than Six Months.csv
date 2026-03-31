@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find Candidates for Data Scientist Position,100.0,0.7610571736785329,https://leetcode.com/problems/find-candidates-for-data-scientist-position,Database
-HARD,Maximize Items,100.0,0.7523250122369065,https://leetcode.com/problems/maximize-items,Database
-HARD,Count the Number of Powerful Integers,83.9,0.46513657009195425,https://leetcode.com/problems/count-the-number-of-powerful-integers,"Math, String, Dynamic Programming"
-MEDIUM,Minimize Length of Array Using Operations,83.9,0.34864864864864864,https://leetcode.com/problems/minimize-length-of-array-using-operations,"Array, Math, Greedy, Number Theory"
-MEDIUM,Maximum Subarray,72.1,0.5209982621027541,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-EASY,Best Time to Buy and Sell Stock,62.7,0.5525965736768343,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,3Sum,62.7,0.3707105624040494,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,Maximum Points Inside the Square,62.7,0.38182389443091663,https://leetcode.com/problems/maximum-points-inside-the-square,"Array, Hash Table, String, Binary Search, Sorting"
-MEDIUM,Maximum Product Subarray,62.7,0.3494172590598055,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
-HARD,Trapping Rain Water,62.7,0.6510207934299767,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Minimum Time to Repair Cars,62.7,0.5991672990715053,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"
+EASY,Find Candidates for Data Scientist Position,100.0,76.1,https://leetcode.com/problems/find-candidates-for-data-scientist-position,Database
+HARD,Maximize Items,100.0,75.2,https://leetcode.com/problems/maximize-items,Database
+HARD,Count the Number of Powerful Integers,83.9,46.5,https://leetcode.com/problems/count-the-number-of-powerful-integers,"Math, String, Dynamic Programming"
+MEDIUM,Minimize Length of Array Using Operations,83.9,34.9,https://leetcode.com/problems/minimize-length-of-array-using-operations,"Array, Math, Greedy, Number Theory"
+MEDIUM,Maximum Subarray,72.1,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Best Time to Buy and Sell Stock,62.7,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,3Sum,62.7,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Maximum Points Inside the Square,62.7,38.2,https://leetcode.com/problems/maximum-points-inside-the-square,"Array, Hash Table, String, Binary Search, Sorting"
+MEDIUM,Maximum Product Subarray,62.7,34.9,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
+HARD,Trapping Rain Water,62.7,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Minimum Time to Repair Cars,62.7,59.9,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"

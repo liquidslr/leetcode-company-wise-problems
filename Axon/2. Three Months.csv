@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Time Based Key-Value Store,100.0,0.49366517298520696,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,Insert Delete GetRandom O(1),82.1,0.5499185337366445,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,K Closest Points to Origin,73.5,0.6793976578069371,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
-EASY,Valid Palindrome,73.5,0.5096361518985055,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Time Based Key-Value Store,100.0,49.4,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Insert Delete GetRandom O(1),82.1,55.0,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,K Closest Points to Origin,73.5,67.9,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
+EASY,Valid Palindrome,73.5,51.0,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"

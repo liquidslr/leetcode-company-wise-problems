@@ -1,16 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Orders in the Backlog,100.0,0.5196292359051828,https://leetcode.com/problems/number-of-orders-in-the-backlog,"Array, Heap (Priority Queue), Simulation"
-MEDIUM,Restore the Array From Adjacent Pairs,91.4,0.7472197096394245,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs,"Array, Hash Table, Depth-First Search"
-MEDIUM,Brightest Position on Street,87.6,0.605687821115855,https://leetcode.com/problems/brightest-position-on-street,"Array, Sorting, Prefix Sum, Ordered Set"
-MEDIUM,Count Good Meals,87.6,0.3164606880510123,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
-MEDIUM,Ways to Split Array Into Three Subarrays,87.6,0.3344652559336574,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays,"Array, Two Pointers, Binary Search, Prefix Sum"
-MEDIUM,Check if There is a Valid Path in a Grid,87.6,0.48964880918055476,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Capital Gain/Loss,87.6,0.849191049073916,https://leetcode.com/problems/capital-gainloss,Database
-EASY,Count the Number of Consistent Strings,87.6,0.8827632052615655,https://leetcode.com/problems/count-the-number-of-consistent-strings,"Array, Hash Table, String, Bit Manipulation, Counting"
-MEDIUM,Top K Frequent Words,80.0,0.592771943363307,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
-HARD,Text Justification,62.1,0.48149935664104093,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-EASY,Best Time to Buy and Sell Stock,62.1,0.5525960901035435,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Minesweeper,62.1,0.6812440177509644,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
-EASY,Defanging an IP Address,53.5,0.896860944340323,https://leetcode.com/problems/defanging-an-ip-address,String
-MEDIUM,Top K Frequent Elements,53.5,0.6456601799887839,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-MEDIUM,Employee Importance,53.5,0.6842114454359709,https://leetcode.com/problems/employee-importance,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search"
+MEDIUM,Number of Orders in the Backlog,100.0,52.0,https://leetcode.com/problems/number-of-orders-in-the-backlog,"Array, Heap (Priority Queue), Simulation"
+MEDIUM,Restore the Array From Adjacent Pairs,91.4,74.7,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs,"Array, Hash Table, Depth-First Search"
+MEDIUM,Brightest Position on Street,87.6,60.6,https://leetcode.com/problems/brightest-position-on-street,"Array, Sorting, Prefix Sum, Ordered Set"
+MEDIUM,Count Good Meals,87.6,31.6,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
+MEDIUM,Ways to Split Array Into Three Subarrays,87.6,33.4,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays,"Array, Two Pointers, Binary Search, Prefix Sum"
+MEDIUM,Check if There is a Valid Path in a Grid,87.6,49.0,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Capital Gain/Loss,87.6,84.9,https://leetcode.com/problems/capital-gainloss,Database
+EASY,Count the Number of Consistent Strings,87.6,88.3,https://leetcode.com/problems/count-the-number-of-consistent-strings,"Array, Hash Table, String, Bit Manipulation, Counting"
+MEDIUM,Top K Frequent Words,80.0,59.3,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+HARD,Text Justification,62.1,48.1,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+EASY,Best Time to Buy and Sell Stock,62.1,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Minesweeper,62.1,68.1,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
+EASY,Defanging an IP Address,53.5,89.7,https://leetcode.com/problems/defanging-an-ip-address,String
+MEDIUM,Top K Frequent Elements,53.5,64.6,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Employee Importance,53.5,68.4,https://leetcode.com/problems/employee-importance,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search"

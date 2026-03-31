@@ -1,23 +1,23 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Product Subarray,100.0,0.3494168573189366,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
-EASY,Add Strings,84.6,0.5190381915378925,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
-MEDIUM,Number of Divisible Substrings,81.2,0.734086999262718,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
-MEDIUM,Longest Palindromic Substring,77.1,0.35846130733530757,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Group Anagrams,65.8,0.709288828623018,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Largest Magic Square,65.8,0.5245031043773674,https://leetcode.com/problems/largest-magic-square,"Array, Matrix, Prefix Sum"
-MEDIUM,Team Scores in Football Tournament,65.8,0.5581914007019356,https://leetcode.com/problems/team-scores-in-football-tournament,Database
-EASY,Valid Palindrome,65.8,0.5096354254854607,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-MEDIUM,Minimum Moves to Reach Target Score,65.8,0.5147368106292424,https://leetcode.com/problems/minimum-moves-to-reach-target-score,"Math, Greedy"
-MEDIUM,Longest Happy String,56.8,0.6546225631378025,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
-EASY,Backspace String Compare,56.8,0.49481750190006574,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
-HARD,Reaching Points,56.8,0.336468882434809,https://leetcode.com/problems/reaching-points,Math
-MEDIUM,Design A Leaderboard,56.8,0.6796315583908346,https://leetcode.com/problems/design-a-leaderboard,"Hash Table, Design, Sorting"
-EASY,Delete Characters to Make Fancy String,56.8,0.716044738967375,https://leetcode.com/problems/delete-characters-to-make-fancy-string,String
-EASY,Maximum Number of Balloons,56.8,0.5973671244028363,https://leetcode.com/problems/maximum-number-of-balloons,"Hash Table, String, Counting"
-MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,56.8,0.4587327987118235,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
-MEDIUM,Best Sightseeing Pair,56.8,0.625930198502119,https://leetcode.com/problems/best-sightseeing-pair,"Array, Dynamic Programming"
-HARD,Tournament Winners,56.8,0.49874071544437804,https://leetcode.com/problems/tournament-winners,Database
-MEDIUM,Maximum Number of Vowels in a Substring of Given Length,56.8,0.6041915539250602,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length,"String, Sliding Window"
-MEDIUM,Longest Increasing Subsequence,56.8,0.5780838894511294,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
-MEDIUM,Palindromic Substrings,56.8,0.7167843223635828,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Reverse Words in a String,56.8,0.5191333530123619,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Maximum Product Subarray,100.0,34.9,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
+EASY,Add Strings,84.6,51.9,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
+MEDIUM,Number of Divisible Substrings,81.2,73.4,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
+MEDIUM,Longest Palindromic Substring,77.1,35.8,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Group Anagrams,65.8,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Largest Magic Square,65.8,52.5,https://leetcode.com/problems/largest-magic-square,"Array, Matrix, Prefix Sum"
+MEDIUM,Team Scores in Football Tournament,65.8,55.8,https://leetcode.com/problems/team-scores-in-football-tournament,Database
+EASY,Valid Palindrome,65.8,51.0,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Minimum Moves to Reach Target Score,65.8,51.5,https://leetcode.com/problems/minimum-moves-to-reach-target-score,"Math, Greedy"
+MEDIUM,Longest Happy String,56.8,65.5,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
+EASY,Backspace String Compare,56.8,49.5,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+HARD,Reaching Points,56.8,33.6,https://leetcode.com/problems/reaching-points,Math
+MEDIUM,Design A Leaderboard,56.8,68.0,https://leetcode.com/problems/design-a-leaderboard,"Hash Table, Design, Sorting"
+EASY,Delete Characters to Make Fancy String,56.8,71.6,https://leetcode.com/problems/delete-characters-to-make-fancy-string,String
+EASY,Maximum Number of Balloons,56.8,59.7,https://leetcode.com/problems/maximum-number-of-balloons,"Hash Table, String, Counting"
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,56.8,45.9,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
+MEDIUM,Best Sightseeing Pair,56.8,62.6,https://leetcode.com/problems/best-sightseeing-pair,"Array, Dynamic Programming"
+HARD,Tournament Winners,56.8,49.9,https://leetcode.com/problems/tournament-winners,Database
+MEDIUM,Maximum Number of Vowels in a Substring of Given Length,56.8,60.4,https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length,"String, Sliding Window"
+MEDIUM,Longest Increasing Subsequence,56.8,57.8,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming"
+MEDIUM,Palindromic Substrings,56.8,71.7,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Reverse Words in a String,56.8,51.9,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"

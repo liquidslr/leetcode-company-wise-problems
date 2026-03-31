@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Time to Kill All Monsters,100.0,0.5604285236022766,https://leetcode.com/problems/minimum-time-to-kill-all-monsters,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
-MEDIUM,Substring XOR Queries,100.0,0.3454646607478152,https://leetcode.com/problems/substring-xor-queries,"Array, Hash Table, String, Bit Manipulation"
-MEDIUM,Bitwise XOR of All Pairings,100.0,0.6697900744371988,https://leetcode.com/problems/bitwise-xor-of-all-pairings,"Array, Bit Manipulation, Brainteaser"
-HARD,Handling Sum Queries After Update,100.0,0.2924381380861741,https://leetcode.com/problems/handling-sum-queries-after-update,"Array, Segment Tree"
-HARD,Distinct Subsequences,100.0,0.5010012072712848,https://leetcode.com/problems/distinct-subsequences,"String, Dynamic Programming"
+HARD,Minimum Time to Kill All Monsters,100.0,56.0,https://leetcode.com/problems/minimum-time-to-kill-all-monsters,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+MEDIUM,Substring XOR Queries,100.0,34.5,https://leetcode.com/problems/substring-xor-queries,"Array, Hash Table, String, Bit Manipulation"
+MEDIUM,Bitwise XOR of All Pairings,100.0,67.0,https://leetcode.com/problems/bitwise-xor-of-all-pairings,"Array, Bit Manipulation, Brainteaser"
+HARD,Handling Sum Queries After Update,100.0,29.2,https://leetcode.com/problems/handling-sum-queries-after-update,"Array, Segment Tree"
+HARD,Distinct Subsequences,100.0,50.1,https://leetcode.com/problems/distinct-subsequences,"String, Dynamic Programming"

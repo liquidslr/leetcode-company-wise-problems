@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Subarray With Maximum Bitwise AND,100.0,0.6181425057525985,https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and,"Array, Bit Manipulation, Brainteaser"
-MEDIUM,Longest Unequal Adjacent Groups Subsequence II,100.0,0.5135262321144675,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii,"Array, String, Dynamic Programming"
-EASY,Longest Unequal Adjacent Groups Subsequence I,100.0,0.6756708309889311,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i,"Array, String, Dynamic Programming, Greedy"
+MEDIUM,Longest Subarray With Maximum Bitwise AND,100.0,61.8,https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and,"Array, Bit Manipulation, Brainteaser"
+MEDIUM,Longest Unequal Adjacent Groups Subsequence II,100.0,51.4,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii,"Array, String, Dynamic Programming"
+EASY,Longest Unequal Adjacent Groups Subsequence I,100.0,67.6,https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i,"Array, String, Dynamic Programming, Greedy"

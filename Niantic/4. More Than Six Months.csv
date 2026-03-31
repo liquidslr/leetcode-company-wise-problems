@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,String to Integer (atoi),100.0,0.1922945791262246,https://leetcode.com/problems/string-to-integer-atoi,String
-MEDIUM,Find the Duplicate Number,88.9,0.6283589472980362,https://leetcode.com/problems/find-the-duplicate-number,"Array, Two Pointers, Binary Search, Bit Manipulation"
-MEDIUM,LRU Cache,88.9,0.4521488470379119,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Group Anagrams,88.9,0.7092891812279473,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Brace Expansion,88.9,0.6672212978369384,https://leetcode.com/problems/brace-expansion,"String, Backtracking, Breadth-First Search"
+MEDIUM,String to Integer (atoi),100.0,19.2,https://leetcode.com/problems/string-to-integer-atoi,String
+MEDIUM,Find the Duplicate Number,88.9,62.8,https://leetcode.com/problems/find-the-duplicate-number,"Array, Two Pointers, Binary Search, Bit Manipulation"
+MEDIUM,LRU Cache,88.9,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Group Anagrams,88.9,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Brace Expansion,88.9,66.7,https://leetcode.com/problems/brace-expansion,"String, Backtracking, Breadth-First Search"

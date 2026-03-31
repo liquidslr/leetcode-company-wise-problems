@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Reducing Dishes,100.0,0.7634905741624626,https://leetcode.com/problems/reducing-dishes,"Array, Dynamic Programming, Greedy, Sorting"
-HARD,Subtree Removal Game with Fibonacci Tree,89.4,0.5698689956331878,https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree,"Math, Dynamic Programming, Tree, Binary Tree, Game Theory"
-EASY,Best Time to Buy and Sell Stock,89.4,0.5525969471064145,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+HARD,Reducing Dishes,100.0,76.3,https://leetcode.com/problems/reducing-dishes,"Array, Dynamic Programming, Greedy, Sorting"
+HARD,Subtree Removal Game with Fibonacci Tree,89.4,57.0,https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree,"Math, Dynamic Programming, Tree, Binary Tree, Game Theory"
+EASY,Best Time to Buy and Sell Stock,89.4,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

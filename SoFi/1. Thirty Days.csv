@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Window Substring,100.0,0.45350671702442985,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+HARD,Minimum Window Substring,100.0,45.4,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"

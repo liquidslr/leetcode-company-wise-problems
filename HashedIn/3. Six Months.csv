@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Cost to Make Array Equal,100.0,0.4632379781368273,https://leetcode.com/problems/minimum-cost-to-make-array-equal,"Array, Binary Search, Greedy, Sorting, Prefix Sum"
-MEDIUM,Next Permutation,100.0,0.43057752623445206,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
-HARD,Chalkboard XOR Game,100.0,0.6295199566250991,https://leetcode.com/problems/chalkboard-xor-game,"Array, Math, Bit Manipulation, Brainteaser, Game Theory"
-MEDIUM,Jump Game II,100.0,0.4150342458178816,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
-MEDIUM,Edit Distance,100.0,0.5878982137282472,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
-MEDIUM,Container With Most Water,100.0,0.5778291958481471,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+HARD,Minimum Cost to Make Array Equal,100.0,46.3,https://leetcode.com/problems/minimum-cost-to-make-array-equal,"Array, Binary Search, Greedy, Sorting, Prefix Sum"
+MEDIUM,Next Permutation,100.0,43.1,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+HARD,Chalkboard XOR Game,100.0,63.0,https://leetcode.com/problems/chalkboard-xor-game,"Array, Math, Bit Manipulation, Brainteaser, Game Theory"
+MEDIUM,Jump Game II,100.0,41.5,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Edit Distance,100.0,58.8,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
+MEDIUM,Container With Most Water,100.0,57.8,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"

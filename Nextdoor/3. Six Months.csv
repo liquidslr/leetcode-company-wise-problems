@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,All O`one Data Structure,100.0,0.4413480853234703,https://leetcode.com/problems/all-oone-data-structure,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Compare Version Numbers,76.7,0.4234723231238846,https://leetcode.com/problems/compare-version-numbers,"Two Pointers, String"
+HARD,All O`one Data Structure,100.0,44.1,https://leetcode.com/problems/all-oone-data-structure,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Compare Version Numbers,76.7,42.3,https://leetcode.com/problems/compare-version-numbers,"Two Pointers, String"

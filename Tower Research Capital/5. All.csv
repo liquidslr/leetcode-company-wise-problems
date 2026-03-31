@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Unique Binary Search Trees,100.0,0.6244505288303076,https://leetcode.com/problems/unique-binary-search-trees,"Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree"
-HARD,Bricks Falling When Hit,73.5,0.3572389298699115,https://leetcode.com/problems/bricks-falling-when-hit,"Array, Union Find, Matrix"
+MEDIUM,Unique Binary Search Trees,100.0,62.4,https://leetcode.com/problems/unique-binary-search-trees,"Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree"
+HARD,Bricks Falling When Hit,73.5,35.7,https://leetcode.com/problems/bricks-falling-when-hit,"Array, Union Find, Matrix"

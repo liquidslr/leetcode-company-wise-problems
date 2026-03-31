@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Count Pairs in Two Arrays,100.0,0.6015575998327409,https://leetcode.com/problems/count-pairs-in-two-arrays,"Array, Two Pointers, Binary Search, Sorting"
-HARD,Candy,100.0,0.4669990512422267,https://leetcode.com/problems/candy,"Array, Greedy"
+MEDIUM,Count Pairs in Two Arrays,100.0,60.2,https://leetcode.com/problems/count-pairs-in-two-arrays,"Array, Two Pointers, Binary Search, Sorting"
+HARD,Candy,100.0,46.7,https://leetcode.com/problems/candy,"Array, Greedy"

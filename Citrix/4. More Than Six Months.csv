@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Pairs of Songs With Total Durations Divisible by 60,100.0,0.5324771514259002,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60,"Array, Hash Table, Counting"
-EASY,Check if Strings Can be Made Equal With Operations I,100.0,0.470779474689696,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i,String
-MEDIUM,Check if Strings Can be Made Equal With Operations II,100.0,0.5522769560396188,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii,"Hash Table, String, Sorting"
-HARD,Maximum Performance of a Team,100.0,0.4751514702683188,https://leetcode.com/problems/maximum-performance-of-a-team,"Array, Greedy, Sorting, Heap (Priority Queue)"
-MEDIUM,Find All Groups of Farmland,100.0,0.7548102383053839,https://leetcode.com/problems/find-all-groups-of-farmland,"Array, Depth-First Search, Breadth-First Search, Matrix"
-MEDIUM,Remove Nth Node From End of List,100.0,0.48961442984124964,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
+MEDIUM,Pairs of Songs With Total Durations Divisible by 60,100.0,53.2,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60,"Array, Hash Table, Counting"
+EASY,Check if Strings Can be Made Equal With Operations I,100.0,47.1,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i,String
+MEDIUM,Check if Strings Can be Made Equal With Operations II,100.0,55.2,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii,"Hash Table, String, Sorting"
+HARD,Maximum Performance of a Team,100.0,47.5,https://leetcode.com/problems/maximum-performance-of-a-team,"Array, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Find All Groups of Farmland,100.0,75.5,https://leetcode.com/problems/find-all-groups-of-farmland,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Remove Nth Node From End of List,100.0,49.0,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"

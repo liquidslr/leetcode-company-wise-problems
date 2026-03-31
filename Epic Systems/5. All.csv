@@ -1,13 +1,13 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Additive Number,100.0,0.3254622700270529,https://leetcode.com/problems/additive-number,"String, Backtracking"
-MEDIUM,Letter Combinations of a Phone Number,98.1,0.6385757633103413,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-EASY,Self Dividing Numbers,89.3,0.7962262980034188,https://leetcode.com/problems/self-dividing-numbers,Math
-MEDIUM,Spiral Matrix,85.9,0.5393983473936499,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Stepping Numbers,84.0,0.47668370346917543,https://leetcode.com/problems/stepping-numbers,"Math, Backtracking, Breadth-First Search"
-EASY,Valid Parentheses,81.8,0.4232287912473047,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Word Search,65.3,0.45267040514161516,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
-MEDIUM,Angle Between Hands of a Clock,65.3,0.6421501908804211,https://leetcode.com/problems/angle-between-hands-of-a-clock,Math
-EASY,Two Sum,59.5,0.5577701741164135,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Longest Substring Without Repeating Characters,51.3,0.3693615818367021,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Bulls and Cows,51.3,0.5138576872462376,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
-MEDIUM,Palindromic Substrings,51.3,0.716780342298775,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Additive Number,100.0,32.5,https://leetcode.com/problems/additive-number,"String, Backtracking"
+MEDIUM,Letter Combinations of a Phone Number,98.1,63.9,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+EASY,Self Dividing Numbers,89.3,79.6,https://leetcode.com/problems/self-dividing-numbers,Math
+MEDIUM,Spiral Matrix,85.9,53.9,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Stepping Numbers,84.0,47.7,https://leetcode.com/problems/stepping-numbers,"Math, Backtracking, Breadth-First Search"
+EASY,Valid Parentheses,81.8,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Word Search,65.3,45.3,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Angle Between Hands of a Clock,65.3,64.2,https://leetcode.com/problems/angle-between-hands-of-a-clock,Math
+EASY,Two Sum,59.5,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Substring Without Repeating Characters,51.3,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Bulls and Cows,51.3,51.4,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
+MEDIUM,Palindromic Substrings,51.3,71.7,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"

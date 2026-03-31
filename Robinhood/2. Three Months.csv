@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Top K Frequent Words,100.0,0.592771943363307,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
-MEDIUM,Top K Frequent Elements,80.6,0.6456603251734532,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-MEDIUM,Minesweeper,80.6,0.6812440177509644,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Top K Frequent Words,100.0,59.3,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+MEDIUM,Top K Frequent Elements,80.6,64.6,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Minesweeper,80.6,68.1,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"

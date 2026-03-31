@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.4939525764689584,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Daily Temperatures,100.0,0.6736510911088325,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.5499187644056863,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Strings Differ by One Character,100.0,0.41068439650362654,https://leetcode.com/problems/strings-differ-by-one-character,"Hash Table, String, Rolling Hash, Hash Function"
-HARD,Find Median from Data Stream,100.0,0.5327803919248424,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Merge Intervals,100.0,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Daily Temperatures,100.0,67.4,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,Insert Delete GetRandom O(1),100.0,55.0,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Strings Differ by One Character,100.0,41.1,https://leetcode.com/problems/strings-differ-by-one-character,"Hash Table, String, Rolling Hash, Hash Function"
+HARD,Find Median from Data Stream,100.0,53.3,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"

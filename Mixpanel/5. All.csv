@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Interval List Intersections,100.0,0.7267839611466144,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Line Sweep"
-MEDIUM,Flatten Nested List Iterator,100.0,0.6523082264009105,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
-MEDIUM,Stock Price Fluctuation ,84.3,0.48167300985897066,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+MEDIUM,Interval List Intersections,100.0,72.7,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Line Sweep"
+MEDIUM,Flatten Nested List Iterator,100.0,65.2,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+MEDIUM,Stock Price Fluctuation ,84.3,48.2,https://leetcode.com/problems/stock-price-fluctuation,"Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"

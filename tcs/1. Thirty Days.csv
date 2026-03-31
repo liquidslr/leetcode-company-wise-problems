@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Anagram,100.0,0.6666091043812926,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-MEDIUM,Best Time to Buy and Sell Stock II,100.0,0.6950026730452624,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
-MEDIUM,Maximum Subarray,100.0,0.5209977597071156,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Valid Anagram,100.0,66.7,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Best Time to Buy and Sell Stock II,100.0,69.5,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Maximum Subarray,100.0,52.1,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"

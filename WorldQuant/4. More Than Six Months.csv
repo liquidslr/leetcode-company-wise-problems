@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Regular Expression Matching,100.0,0.2928040486079651,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
-HARD,Minimum Number of Visited Cells in a Grid,100.0,0.22765724304185841,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid,"Array, Dynamic Programming, Stack, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix, Monotonic Stack"
-HARD,Find Median from Data Stream,100.0,0.5327800099899787,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+HARD,Regular Expression Matching,100.0,29.3,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+HARD,Minimum Number of Visited Cells in a Grid,100.0,22.8,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid,"Array, Dynamic Programming, Stack, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix, Monotonic Stack"
+HARD,Find Median from Data Stream,100.0,53.3,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"

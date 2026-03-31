@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotting Oranges,100.0,0.5661841837717154,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,Time Based Key-Value Store,90.3,0.49366304491851065,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-HARD,Minimum Window Substring,90.3,0.45350682478059534,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Rotting Oranges,100.0,56.6,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Time Based Key-Value Store,90.3,49.4,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+HARD,Minimum Window Substring,90.3,45.4,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"

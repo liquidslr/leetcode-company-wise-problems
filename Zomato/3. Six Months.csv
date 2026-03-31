@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Count the Hidden Sequences,100.0,0.5672918186355435,https://leetcode.com/problems/count-the-hidden-sequences,"Array, Prefix Sum"
-MEDIUM,Snakes and Ladders,82.7,0.4779536693986003,https://leetcode.com/problems/snakes-and-ladders,"Array, Breadth-First Search, Matrix"
+MEDIUM,Count the Hidden Sequences,100.0,56.7,https://leetcode.com/problems/count-the-hidden-sequences,"Array, Prefix Sum"
+MEDIUM,Snakes and Ladders,82.7,47.8,https://leetcode.com/problems/snakes-and-ladders,"Array, Breadth-First Search, Matrix"

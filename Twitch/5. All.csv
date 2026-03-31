@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Create a Session Bar Chart,100.0,0.750556206088993,https://leetcode.com/problems/create-a-session-bar-chart,Database
-MEDIUM,Design a File Sharing System,100.0,0.42172790768296387,https://leetcode.com/problems/design-a-file-sharing-system,"Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
-MEDIUM,Toss Strange Coins,100.0,0.5813783755604213,https://leetcode.com/problems/toss-strange-coins,"Array, Math, Dynamic Programming, Probability and Statistics"
-MEDIUM,LRU Cache,92.1,0.4521484728871755,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Reverse Vowels of a String,64.4,0.5818746518118435,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"
-MEDIUM,Letter Combinations of a Phone Number,64.4,0.6385759218994662,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-EASY,Unique Email Addresses,64.4,0.6758621291144098,https://leetcode.com/problems/unique-email-addresses,"Array, Hash Table, String"
-HARD,Find Median from Data Stream,64.4,0.5327801472952072,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+EASY,Create a Session Bar Chart,100.0,75.1,https://leetcode.com/problems/create-a-session-bar-chart,Database
+MEDIUM,Design a File Sharing System,100.0,42.2,https://leetcode.com/problems/design-a-file-sharing-system,"Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Toss Strange Coins,100.0,58.1,https://leetcode.com/problems/toss-strange-coins,"Array, Math, Dynamic Programming, Probability and Statistics"
+MEDIUM,LRU Cache,92.1,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Reverse Vowels of a String,64.4,58.2,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"
+MEDIUM,Letter Combinations of a Phone Number,64.4,63.9,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+EASY,Unique Email Addresses,64.4,67.6,https://leetcode.com/problems/unique-email-addresses,"Array, Hash Table, String"
+HARD,Find Median from Data Stream,64.4,53.3,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"

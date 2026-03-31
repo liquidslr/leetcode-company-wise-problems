@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Orders in the Backlog,100.0,0.5196292359051828,https://leetcode.com/problems/number-of-orders-in-the-backlog,"Array, Heap (Priority Queue), Simulation"
-MEDIUM,Restore the Array From Adjacent Pairs,80.2,0.7472197096394245,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs,"Array, Hash Table, Depth-First Search"
-EASY,Best Time to Buy and Sell Stock,74.0,0.5525960901035435,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Check if There is a Valid Path in a Grid,65.2,0.48964880918055476,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Count Good Meals,65.2,0.3164606880510123,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
-MEDIUM,Ways to Split Array Into Three Subarrays,65.2,0.3344652559336574,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays,"Array, Two Pointers, Binary Search, Prefix Sum"
-MEDIUM,Capital Gain/Loss,65.2,0.849191049073916,https://leetcode.com/problems/capital-gainloss,Database
-EASY,Count the Number of Consistent Strings,65.2,0.8827632052615655,https://leetcode.com/problems/count-the-number-of-consistent-strings,"Array, Hash Table, String, Bit Manipulation, Counting"
-MEDIUM,Brightest Position on Street,65.2,0.605687821115855,https://leetcode.com/problems/brightest-position-on-street,"Array, Sorting, Prefix Sum, Ordered Set"
-HARD,Text Justification,65.2,0.48149935664104093,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Number of Orders in the Backlog,100.0,52.0,https://leetcode.com/problems/number-of-orders-in-the-backlog,"Array, Heap (Priority Queue), Simulation"
+MEDIUM,Restore the Array From Adjacent Pairs,80.2,74.7,https://leetcode.com/problems/restore-the-array-from-adjacent-pairs,"Array, Hash Table, Depth-First Search"
+EASY,Best Time to Buy and Sell Stock,74.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Check if There is a Valid Path in a Grid,65.2,49.0,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Count Good Meals,65.2,31.6,https://leetcode.com/problems/count-good-meals,"Array, Hash Table"
+MEDIUM,Ways to Split Array Into Three Subarrays,65.2,33.4,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays,"Array, Two Pointers, Binary Search, Prefix Sum"
+MEDIUM,Capital Gain/Loss,65.2,84.9,https://leetcode.com/problems/capital-gainloss,Database
+EASY,Count the Number of Consistent Strings,65.2,88.3,https://leetcode.com/problems/count-the-number-of-consistent-strings,"Array, Hash Table, String, Bit Manipulation, Counting"
+MEDIUM,Brightest Position on Street,65.2,60.6,https://leetcode.com/problems/brightest-position-on-street,"Array, Sorting, Prefix Sum, Ordered Set"
+HARD,Text Justification,65.2,48.1,https://leetcode.com/problems/text-justification,"Array, String, Simulation"

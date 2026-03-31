@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Decoded String at Index,100.0,0.36648005898902547,https://leetcode.com/problems/decoded-string-at-index,"String, Stack"
-MEDIUM,Champagne Tower,85.3,0.5827900024732158,https://leetcode.com/problems/champagne-tower,Dynamic Programming
-HARD,Trapping Rain Water,74.6,0.6510219501353552,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Snakes and Ladders,66.0,0.4779591396819314,https://leetcode.com/problems/snakes-and-ladders,"Array, Breadth-First Search, Matrix"
+MEDIUM,Decoded String at Index,100.0,36.6,https://leetcode.com/problems/decoded-string-at-index,"String, Stack"
+MEDIUM,Champagne Tower,85.3,58.3,https://leetcode.com/problems/champagne-tower,Dynamic Programming
+HARD,Trapping Rain Water,74.6,65.1,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Snakes and Ladders,66.0,47.8,https://leetcode.com/problems/snakes-and-ladders,"Array, Breadth-First Search, Matrix"

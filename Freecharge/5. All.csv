@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Gas Station,100.0,0.46383698833798903,https://leetcode.com/problems/gas-station,"Array, Greedy"
-MEDIUM,LRU Cache,100.0,0.4521502513322059,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Longest Substring Without Repeating Characters,89.1,0.36936182233500064,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Gas Station,100.0,46.4,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Longest Substring Without Repeating Characters,89.1,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

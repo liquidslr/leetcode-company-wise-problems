@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Time Based Key-Value Store,100.0,0.49366388355657287,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,Valid Sudoku,100.0,0.6227680872343923,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-MEDIUM,LRU Cache,100.0,0.452147387470624,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Design Authentication Manager,87.7,0.5785379503322841,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Sudoku Solver,87.7,0.6390853756141208,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
-MEDIUM,Combination Sum,78.0,0.7467472445420653,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
+MEDIUM,Time Based Key-Value Store,100.0,49.4,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Valid Sudoku,100.0,62.3,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Design Authentication Manager,87.7,57.9,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Sudoku Solver,87.7,63.9,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix"
+MEDIUM,Combination Sum,78.0,74.7,https://leetcode.com/problems/combination-sum,"Array, Backtracking"

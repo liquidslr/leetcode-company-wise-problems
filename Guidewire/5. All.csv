@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Moves to Spread Stones Over Grid,100.0,0.44315093165667885,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid,"Array, Dynamic Programming, Breadth-First Search, Matrix"
-MEDIUM,Minimum Number of Operations to Sort a Binary Tree by Level,100.0,0.7425819778656343,https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level,"Tree, Breadth-First Search, Binary Tree"
-MEDIUM,Construct the Longest New String,100.0,0.5384322081417517,https://leetcode.com/problems/construct-the-longest-new-string,"Math, Dynamic Programming, Greedy, Brainteaser"
-MEDIUM,Get Watched Videos by Your Friends,89.3,0.49756820603084906,https://leetcode.com/problems/get-watched-videos-by-your-friends,"Array, Hash Table, Breadth-First Search, Graph, Sorting"
-MEDIUM,Kth Largest Element in an Array,89.3,0.679770776384085,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
-MEDIUM,Print Words Vertically,89.3,0.6622658589234733,https://leetcode.com/problems/print-words-vertically,"Array, String, Simulation"
+MEDIUM,Minimum Moves to Spread Stones Over Grid,100.0,44.3,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid,"Array, Dynamic Programming, Breadth-First Search, Matrix"
+MEDIUM,Minimum Number of Operations to Sort a Binary Tree by Level,100.0,74.3,https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Construct the Longest New String,100.0,53.8,https://leetcode.com/problems/construct-the-longest-new-string,"Math, Dynamic Programming, Greedy, Brainteaser"
+MEDIUM,Get Watched Videos by Your Friends,89.3,49.8,https://leetcode.com/problems/get-watched-videos-by-your-friends,"Array, Hash Table, Breadth-First Search, Graph, Sorting"
+MEDIUM,Kth Largest Element in an Array,89.3,68.0,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Print Words Vertically,89.3,66.2,https://leetcode.com/problems/print-words-vertically,"Array, String, Simulation"

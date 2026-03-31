@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Simple Bank System,100.0,0.61430278408412,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
-HARD,Guess the Word,85.0,0.37651627943192456,https://leetcode.com/problems/guess-the-word,"Array, Math, String, Interactive, Game Theory"
+MEDIUM,Simple Bank System,100.0,61.4,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+HARD,Guess the Word,85.0,37.7,https://leetcode.com/problems/guess-the-word,"Array, Math, String, Interactive, Game Theory"

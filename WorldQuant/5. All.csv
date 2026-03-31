@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Meeting Rooms II,100.0,0.5214168157636228,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-HARD,Regular Expression Matching,89.7,0.2928040486079651,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
-HARD,Minimum Number of Visited Cells in a Grid,89.7,0.22765724304185841,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid,"Array, Dynamic Programming, Stack, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix, Monotonic Stack"
-HARD,Find Median from Data Stream,89.7,0.5327800099899787,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Meeting Rooms II,100.0,52.1,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+HARD,Regular Expression Matching,89.7,29.3,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+HARD,Minimum Number of Visited Cells in a Grid,89.7,22.8,https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid,"Array, Dynamic Programming, Stack, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix, Monotonic Stack"
+HARD,Find Median from Data Stream,89.7,53.3,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"

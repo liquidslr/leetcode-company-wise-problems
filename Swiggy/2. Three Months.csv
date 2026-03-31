@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Two City Scheduling,100.0,0.6769210516989099,https://leetcode.com/problems/two-city-scheduling,"Array, Greedy, Sorting"
-MEDIUM,Edit Distance,100.0,0.5878986860189561,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
+MEDIUM,Two City Scheduling,100.0,67.7,https://leetcode.com/problems/two-city-scheduling,"Array, Greedy, Sorting"
+MEDIUM,Edit Distance,100.0,58.8,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"

@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotate Image,100.0,0.7790622779186323,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
-MEDIUM,Spiral Matrix,100.0,0.5394622891739386,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Rotate Image,100.0,77.9,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"
+MEDIUM,Spiral Matrix,100.0,53.9,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

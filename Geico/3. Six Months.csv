@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Coin Change,100.0,0.46499890780536696,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
-MEDIUM,Best Time to Buy and Sell Stock with Cooldown,100.0,0.6040194963747181,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown,"Array, Dynamic Programming"
-MEDIUM,Largest Palindromic Number,79.6,0.36473298587506603,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"
+MEDIUM,Coin Change,100.0,46.5,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search"
+MEDIUM,Best Time to Buy and Sell Stock with Cooldown,100.0,60.4,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown,"Array, Dynamic Programming"
+MEDIUM,Largest Palindromic Number,79.6,36.5,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"

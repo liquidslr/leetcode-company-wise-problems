@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.5577703933485458,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Longest Substring Without Repeating Characters,87.3,0.36936171394116274,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Symmetric Tree,77.2,0.5927888034605081,https://leetcode.com/problems/symmetric-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-MEDIUM,Number of Islands,77.2,0.6232019481508296,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+EASY,Two Sum,100.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Substring Without Repeating Characters,87.3,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Symmetric Tree,77.2,59.3,https://leetcode.com/problems/symmetric-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Number of Islands,77.2,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"

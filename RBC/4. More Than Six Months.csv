@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Container With Most Water,100.0,0.5778294007537794,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525969358423186,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Longest Palindromic Substring,100.0,0.3584623679942094,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-EASY,Valid Palindrome,100.0,0.5096361073728852,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Container With Most Water,100.0,57.8,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Longest Palindromic Substring,100.0,35.8,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Valid Palindrome,100.0,51.0,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"

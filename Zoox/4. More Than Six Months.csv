@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525969245782094,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Minimum Number of Frogs Croaking,73.2,0.5078628152543851,https://leetcode.com/problems/minimum-number-of-frogs-croaking,"String, Counting"
-MEDIUM,Basic Calculator II,73.2,0.45811730802423417,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
-MEDIUM,H-Index,64.9,0.40286801346018286,https://leetcode.com/problems/h-index,"Array, Sorting, Counting Sort"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Minimum Number of Frogs Croaking,73.2,50.8,https://leetcode.com/problems/minimum-number-of-frogs-croaking,"String, Counting"
+MEDIUM,Basic Calculator II,73.2,45.8,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,H-Index,64.9,40.3,https://leetcode.com/problems/h-index,"Array, Sorting, Counting Sort"

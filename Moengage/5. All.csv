@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Redistribute Characters to Make All Strings Equal,100.0,0.667783220795269,https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal,"Hash Table, String, Counting"
-MEDIUM,Decode Ways,68.5,0.3653272234435852,https://leetcode.com/problems/decode-ways,"String, Dynamic Programming"
+EASY,Redistribute Characters to Make All Strings Equal,100.0,66.8,https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal,"Hash Table, String, Counting"
+MEDIUM,Decode Ways,68.5,36.5,https://leetcode.com/problems/decode-ways,"String, Dynamic Programming"

@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Rotate Array,100.0,0.43025476735316553,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
-MEDIUM,Subarray Sum Equals K,100.0,0.45481988803680906,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Rotate Array,100.0,43.0,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+MEDIUM,Subarray Sum Equals K,100.0,45.5,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"

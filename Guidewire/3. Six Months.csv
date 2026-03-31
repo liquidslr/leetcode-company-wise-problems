@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Construct the Longest New String,100.0,0.5384322081417517,https://leetcode.com/problems/construct-the-longest-new-string,"Math, Dynamic Programming, Greedy, Brainteaser"
-MEDIUM,Print Words Vertically,100.0,0.6622658589234733,https://leetcode.com/problems/print-words-vertically,"Array, String, Simulation"
+MEDIUM,Construct the Longest New String,100.0,53.8,https://leetcode.com/problems/construct-the-longest-new-string,"Math, Dynamic Programming, Greedy, Brainteaser"
+MEDIUM,Print Words Vertically,100.0,66.2,https://leetcode.com/problems/print-words-vertically,"Array, String, Simulation"

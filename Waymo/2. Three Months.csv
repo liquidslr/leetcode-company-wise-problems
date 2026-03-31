@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Max Points on a Line,100.0,0.2895514653845652,https://leetcode.com/problems/max-points-on-a-line,"Array, Hash Table, Math, Geometry"
-MEDIUM,Meeting Rooms II,73.9,0.5214175430894478,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-MEDIUM,Minimum Knight Moves,65.7,0.41329156777804593,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search
+HARD,Max Points on a Line,100.0,29.0,https://leetcode.com/problems/max-points-on-a-line,"Array, Hash Table, Math, Geometry"
+MEDIUM,Meeting Rooms II,73.9,52.1,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Minimum Knight Moves,65.7,41.3,https://leetcode.com/problems/minimum-knight-moves,Breadth-First Search

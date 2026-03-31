@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Airplane Seat Assignment Probability,100.0,0.6665048936342312,https://leetcode.com/problems/airplane-seat-assignment-probability,"Math, Dynamic Programming, Brainteaser, Probability and Statistics"
-MEDIUM,Zigzag Conversion,85.2,0.5160684284381445,https://leetcode.com/problems/zigzag-conversion,String
-EASY,Backspace String Compare,80.4,0.49481803728999,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
-MEDIUM,Top K Frequent Elements,65.6,0.6456605377303972,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-EASY,Best Time to Buy and Sell Stock,65.6,0.5525969471064145,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Battleships in a Board,65.6,0.7655996014075296,https://leetcode.com/problems/battleships-in-a-board,"Array, Depth-First Search, Matrix"
-MEDIUM,Number of Ways to Build Sturdy Brick Wall,65.6,0.494820388599701,https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
-MEDIUM,Permutations,65.6,0.8066027210491278,https://leetcode.com/problems/permutations,"Array, Backtracking"
-MEDIUM,Minimum Number of Swaps to Make the String Balanced,65.6,0.7796899362639167,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,"Two Pointers, String, Stack, Greedy"
+MEDIUM,Airplane Seat Assignment Probability,100.0,66.7,https://leetcode.com/problems/airplane-seat-assignment-probability,"Math, Dynamic Programming, Brainteaser, Probability and Statistics"
+MEDIUM,Zigzag Conversion,85.2,51.6,https://leetcode.com/problems/zigzag-conversion,String
+EASY,Backspace String Compare,80.4,49.5,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Top K Frequent Elements,65.6,64.6,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+EASY,Best Time to Buy and Sell Stock,65.6,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Battleships in a Board,65.6,76.6,https://leetcode.com/problems/battleships-in-a-board,"Array, Depth-First Search, Matrix"
+MEDIUM,Number of Ways to Build Sturdy Brick Wall,65.6,49.5,https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+MEDIUM,Permutations,65.6,80.7,https://leetcode.com/problems/permutations,"Array, Backtracking"
+MEDIUM,Minimum Number of Swaps to Make the String Balanced,65.6,78.0,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,"Two Pointers, String, Stack, Greedy"

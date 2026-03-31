@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Maximum Factor Score of Array,100.0,0.40370847002954446,https://leetcode.com/problems/find-the-maximum-factor-score-of-array,"Array, Math, Number Theory"
-MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,66.9,0.6945200779613259,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points,Linked List
-MEDIUM,Longest Palindromic Substring,66.9,0.35846234718799413,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Find the Maximum Factor Score of Array,100.0,40.4,https://leetcode.com/problems/find-the-maximum-factor-score-of-array,"Array, Math, Number Theory"
+MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,66.9,69.5,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points,Linked List
+MEDIUM,Longest Palindromic Substring,66.9,35.8,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"

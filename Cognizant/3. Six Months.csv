@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Count Subarrays of Length Three With a Condition,100.0,0.6194995076327956,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
-MEDIUM,Longest Palindromic Substring,73.7,0.3584617777962999,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
-EASY,Remove Duplicates from Sorted Array,64.9,0.6035567421385941,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-MEDIUM,Longest Substring Without Repeating Characters,64.9,0.3693614804892,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Valid Anagram,64.9,0.6666100681122782,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-MEDIUM,Second Highest Salary,64.9,0.4386517852577502,https://leetcode.com/problems/second-highest-salary,Database
-HARD,Median of Two Sorted Arrays,64.9,0.43814667695055187,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-EASY,Palindrome Number,64.9,0.5922452723221134,https://leetcode.com/problems/palindrome-number,Math
+EASY,Count Subarrays of Length Three With a Condition,100.0,61.9,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition,Array
+MEDIUM,Longest Palindromic Substring,73.7,35.8,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming"
+EASY,Remove Duplicates from Sorted Array,64.9,60.4,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+MEDIUM,Longest Substring Without Repeating Characters,64.9,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Anagram,64.9,66.7,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Second Highest Salary,64.9,43.9,https://leetcode.com/problems/second-highest-salary,Database
+HARD,Median of Two Sorted Arrays,64.9,43.8,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Palindrome Number,64.9,59.2,https://leetcode.com/problems/palindrome-number,Math

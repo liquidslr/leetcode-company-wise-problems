@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.5525968886230834,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Group Anagrams,100.0,0.7092895037238552,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Unique Paths II,88.5,0.4315430597653034,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
-EASY,Merge Sorted Array,88.5,0.5291966721564944,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Two Sum,88.5,0.5577703805574933,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,The Number of Rich Customers,88.5,0.7749586938866951,https://leetcode.com/problems/the-number-of-rich-customers,Database
-HARD,First Missing Positive,88.5,0.41084779063097143,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
-MEDIUM,Longest Substring Without Repeating Characters,88.5,0.3693616503140243,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Best Time to Buy and Sell Stock,100.0,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Group Anagrams,100.0,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Unique Paths II,88.5,43.2,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
+EASY,Merge Sorted Array,88.5,52.9,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Two Sum,88.5,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,The Number of Rich Customers,88.5,77.5,https://leetcode.com/problems/the-number-of-rich-customers,Database
+HARD,First Missing Positive,88.5,41.1,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Longest Substring Without Repeating Characters,88.5,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

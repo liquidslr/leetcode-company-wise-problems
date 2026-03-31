@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Satisfiability of Equality Equations,100.0,0.5101847530677794,https://leetcode.com/problems/satisfiability-of-equality-equations,"Array, String, Union Find, Graph"
-MEDIUM,Longest Repeating Character Replacement,100.0,0.572118026869801,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"
+MEDIUM,Satisfiability of Equality Equations,100.0,51.0,https://leetcode.com/problems/satisfiability-of-equality-equations,"Array, String, Union Find, Graph"
+MEDIUM,Longest Repeating Character Replacement,100.0,57.2,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"

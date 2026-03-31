@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Largest 3-Same-Digit Number in String,100.0,0.6909566734515847,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
-HARD,Block Placement Queries,73.7,0.16889906973490942,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
-MEDIUM,Zigzag Conversion,64.9,0.5160681481756035,https://leetcode.com/problems/zigzag-conversion,String
+EASY,Largest 3-Same-Digit Number in String,100.0,69.1,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
+HARD,Block Placement Queries,73.7,16.9,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree"
+MEDIUM,Zigzag Conversion,64.9,51.6,https://leetcode.com/problems/zigzag-conversion,String

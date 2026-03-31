@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Length of the Longest Common Prefix,100.0,0.564161205458434,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,"Array, Hash Table, String, Trie"
-MEDIUM,LRU Cache,66.1,0.45214888759813204,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Best Time to Buy and Sell Stock,66.1,0.5525969358423186,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Basic Calculator II,66.1,0.4581176497577298,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
-HARD,Word Ladder,66.1,0.4281218971060388,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"
+MEDIUM,Find the Length of the Longest Common Prefix,100.0,56.4,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix,"Array, Hash Table, String, Trie"
+MEDIUM,LRU Cache,66.1,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Best Time to Buy and Sell Stock,66.1,55.3,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Basic Calculator II,66.1,45.8,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+HARD,Word Ladder,66.1,42.8,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search"

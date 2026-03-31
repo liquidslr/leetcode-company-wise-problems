@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Strong Password Checker,100.0,0.14622541542667983,https://leetcode.com/problems/strong-password-checker,"String, Greedy, Heap (Priority Queue)"
-EASY,Reverse Words in a String III,100.0,0.8366108451385891,https://leetcode.com/problems/reverse-words-in-a-string-iii,"Two Pointers, String"
+HARD,Strong Password Checker,100.0,14.6,https://leetcode.com/problems/strong-password-checker,"String, Greedy, Heap (Priority Queue)"
+EASY,Reverse Words in a String III,100.0,83.7,https://leetcode.com/problems/reverse-words-in-a-string-iii,"Two Pointers, String"

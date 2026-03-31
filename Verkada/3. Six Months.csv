@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximum Profit in Job Scheduling,100.0,0.5441727193976145,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
-EASY,Diameter of Binary Tree,90.5,0.6358628987039221,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
-MEDIUM,Non-overlapping Intervals,90.5,0.5550325870996576,https://leetcode.com/problems/non-overlapping-intervals,"Array, Dynamic Programming, Greedy, Sorting"
+HARD,Maximum Profit in Job Scheduling,100.0,54.4,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+EASY,Diameter of Binary Tree,90.5,63.6,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Non-overlapping Intervals,90.5,55.5,https://leetcode.com/problems/non-overlapping-intervals,"Array, Dynamic Programming, Greedy, Sorting"

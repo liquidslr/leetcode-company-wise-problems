@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Roman to Integer,100.0,0.6486643502043604,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-MEDIUM,Flatten Nested List Iterator,100.0,0.6522845190469043,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+EASY,Roman to Integer,100.0,64.9,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Flatten Nested List Iterator,100.0,65.2,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"

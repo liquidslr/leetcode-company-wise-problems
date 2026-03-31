@@ -1,11 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximize Greatness of an Array,100.0,0.5864617466875623,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
-MEDIUM,Letter Combinations of a Phone Number,79.3,0.6385757423813572,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-EASY,Univalued Binary Tree,79.3,0.7209294960383269,https://leetcode.com/problems/univalued-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-HARD,Text Justification,69.3,0.48150030252296216,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-MEDIUM,Minimum Number of Swaps to Make the String Balanced,69.3,0.7796926022806927,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,"Two Pointers, String, Stack, Greedy"
-MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,69.3,0.5016214325632321,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros,"Array, Greedy"
-EASY,Reformat Date,69.3,0.6733470658385863,https://leetcode.com/problems/reformat-date,String
-MEDIUM,Group Anagrams,69.3,0.7092888587313239,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-HARD,First Missing Positive,69.3,0.41084662614844286,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
-MEDIUM,Top K Frequent Elements,69.3,0.645659866625562,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Maximize Greatness of an Array,100.0,58.6,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+MEDIUM,Letter Combinations of a Phone Number,79.3,63.9,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+EASY,Univalued Binary Tree,79.3,72.1,https://leetcode.com/problems/univalued-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+HARD,Text Justification,69.3,48.2,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+MEDIUM,Minimum Number of Swaps to Make the String Balanced,69.3,78.0,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced,"Two Pointers, String, Stack, Greedy"
+MEDIUM,Minimum Equal Sum of Two Arrays After Replacing Zeros,69.3,50.2,https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros,"Array, Greedy"
+EASY,Reformat Date,69.3,67.3,https://leetcode.com/problems/reformat-date,String
+MEDIUM,Group Anagrams,69.3,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+HARD,First Missing Positive,69.3,41.1,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
+MEDIUM,Top K Frequent Elements,69.3,64.6,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"

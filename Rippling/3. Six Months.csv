@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Spreadsheet,100.0,0.6762689977153075,https://leetcode.com/problems/design-spreadsheet,"Array, Hash Table, String, Design, Matrix"
-HARD,Median of Two Sorted Arrays,66.8,0.43814619255942167,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Design Spreadsheet,100.0,67.6,https://leetcode.com/problems/design-spreadsheet,"Array, Hash Table, String, Design, Matrix"
+HARD,Median of Two Sorted Arrays,66.8,43.8,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"

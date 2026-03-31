@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.4521484931675215,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Reverse Linked List,88.0,0.7920663222242535,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
-MEDIUM,Basic Calculator II,88.0,0.45811755825176165,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
-MEDIUM,Find First and Last Position of Element in Sorted Array,88.0,0.46828866310912803,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
-MEDIUM,Path Sum III,88.0,0.46091395437540394,https://leetcode.com/problems/path-sum-iii,"Tree, Depth-First Search, Binary Tree"
-HARD,Alien Dictionary,88.0,0.3667369950676969,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+MEDIUM,LRU Cache,100.0,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Reverse Linked List,88.0,79.2,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+MEDIUM,Basic Calculator II,88.0,45.8,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Find First and Last Position of Element in Sorted Array,88.0,46.8,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+MEDIUM,Path Sum III,88.0,46.1,https://leetcode.com/problems/path-sum-iii,"Tree, Depth-First Search, Binary Tree"
+HARD,Alien Dictionary,88.0,36.7,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"

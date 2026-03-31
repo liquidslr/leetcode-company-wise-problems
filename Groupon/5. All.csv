@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Sell Diminishing-Valued Colored Balls,100.0,0.29960670022229985,https://leetcode.com/problems/sell-diminishing-valued-colored-balls,"Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue)"
-MEDIUM,Jump Game II,74.9,0.41503452015439535,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
-MEDIUM,Insert Delete GetRandom O(1),66.5,0.5499162240666585,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Find the Winner of the Circular Game,66.5,0.8206658206658206,https://leetcode.com/problems/find-the-winner-of-the-circular-game,"Array, Math, Recursion, Queue, Simulation"
+MEDIUM,Sell Diminishing-Valued Colored Balls,100.0,30.0,https://leetcode.com/problems/sell-diminishing-valued-colored-balls,"Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Jump Game II,74.9,41.5,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Insert Delete GetRandom O(1),66.5,55.0,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Find the Winner of the Circular Game,66.5,82.1,https://leetcode.com/problems/find-the-winner-of-the-circular-game,"Array, Math, Recursion, Queue, Simulation"

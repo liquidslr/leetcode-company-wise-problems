@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.423229021440664,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,Longest Substring Without Repeating Characters,94.0,0.36936163319473875,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Merge Sorted Array,86.3,0.5291965716793704,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Longest Common Prefix,75.5,0.45483160561258307,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
-MEDIUM,Group Anagrams,75.5,0.7092891274785598,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Two Sum,75.5,0.5577703941113128,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,3Sum,75.5,0.3707110358869514,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-EASY,Palindrome Number,75.5,0.5922453168200937,https://leetcode.com/problems/palindrome-number,Math
-EASY,Reverse String,75.5,0.7976439633443675,https://leetcode.com/problems/reverse-string,"Two Pointers, String"
+EASY,Valid Parentheses,100.0,42.3,https://leetcode.com/problems/valid-parentheses,"String, Stack"
+MEDIUM,Longest Substring Without Repeating Characters,94.0,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Merge Sorted Array,86.3,52.9,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Longest Common Prefix,75.5,45.5,https://leetcode.com/problems/longest-common-prefix,"String, Trie"
+MEDIUM,Group Anagrams,75.5,70.9,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Two Sum,75.5,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,3Sum,75.5,37.1,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Palindrome Number,75.5,59.2,https://leetcode.com/problems/palindrome-number,Math
+EASY,Reverse String,75.5,79.8,https://leetcode.com/problems/reverse-string,"Two Pointers, String"

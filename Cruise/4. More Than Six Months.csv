@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.4939525764689584,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
-MEDIUM,Unique Paths II,100.0,0.4315430597653034,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
-HARD,Unique Paths III,100.0,0.8233339994005395,https://leetcode.com/problems/unique-paths-iii,"Array, Backtracking, Bit Manipulation, Matrix"
-MEDIUM,LRU Cache,88.7,0.4521489022918771,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Synonymous Sentences,88.7,0.5657701813916468,https://leetcode.com/problems/synonymous-sentences,"Array, Hash Table, String, Backtracking, Union Find"
+MEDIUM,Merge Intervals,100.0,49.4,https://leetcode.com/problems/merge-intervals,"Array, Sorting"
+MEDIUM,Unique Paths II,100.0,43.2,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
+HARD,Unique Paths III,100.0,82.3,https://leetcode.com/problems/unique-paths-iii,"Array, Backtracking, Bit Manipulation, Matrix"
+MEDIUM,LRU Cache,88.7,45.2,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Synonymous Sentences,88.7,56.6,https://leetcode.com/problems/synonymous-sentences,"Array, Hash Table, String, Backtracking, Union Find"

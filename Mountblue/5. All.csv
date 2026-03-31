@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Decode String,100.0,0.6115584767364892,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Score of Parentheses,93.1,0.6371775104406139,https://leetcode.com/problems/score-of-parentheses,"String, Stack"
+MEDIUM,Decode String,100.0,61.2,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Score of Parentheses,93.1,63.7,https://leetcode.com/problems/score-of-parentheses,"String, Stack"

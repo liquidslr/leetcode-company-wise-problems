@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Top K Frequent Words,100.0,0.592771943363307,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
-MEDIUM,Minesweeper,85.1,0.6812440177509644,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
-EASY,Defanging an IP Address,76.5,0.896860944340323,https://leetcode.com/problems/defanging-an-ip-address,String
-MEDIUM,Top K Frequent Elements,76.5,0.6456601799887839,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-MEDIUM,Employee Importance,76.5,0.6842114454359709,https://leetcode.com/problems/employee-importance,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search"
+MEDIUM,Top K Frequent Words,100.0,59.3,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+MEDIUM,Minesweeper,85.1,68.1,https://leetcode.com/problems/minesweeper,"Array, Depth-First Search, Breadth-First Search, Matrix"
+EASY,Defanging an IP Address,76.5,89.7,https://leetcode.com/problems/defanging-an-ip-address,String
+MEDIUM,Top K Frequent Elements,76.5,64.6,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Employee Importance,76.5,68.4,https://leetcode.com/problems/employee-importance,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search"

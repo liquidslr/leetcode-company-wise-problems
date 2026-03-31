@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Celebrity,100.0,0.48438403563355176,https://leetcode.com/problems/find-the-celebrity,"Two Pointers, Graph, Interactive"
-EASY,Two Sum,85.0,0.5577699645064844,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Find the Celebrity,100.0,48.4,https://leetcode.com/problems/find-the-celebrity,"Two Pointers, Graph, Interactive"
+EASY,Two Sum,85.0,55.8,https://leetcode.com/problems/two-sum,"Array, Hash Table"

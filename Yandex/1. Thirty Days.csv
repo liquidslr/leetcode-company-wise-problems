@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Isomorphic Strings,100.0,0.46857985622916554,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
-EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,100.0,0.6504033553116321,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray,Array
-EASY,Is Subsequence,100.0,0.4838256584742853,https://leetcode.com/problems/is-subsequence,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Interval List Intersections,88.1,0.7267720917127461,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Line Sweep"
-MEDIUM,Find K Closest Elements,88.1,0.486686656754684,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
-MEDIUM,Number of Islands,88.1,0.623199591008705,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
-MEDIUM,Lowest Common Ancestor of a Binary Tree III,88.1,0.8246674945153157,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii,"Hash Table, Two Pointers, Tree, Binary Tree"
-EASY,Summary Ranges,88.1,0.5302484768932422,https://leetcode.com/problems/summary-ranges,Array
-MEDIUM,Longest Substring Without Repeating Characters,88.1,0.369361700262351,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Find All Anagrams in a String,88.1,0.5220071349201708,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
-MEDIUM,Basic Calculator II,88.1,0.4581138691872612,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+EASY,Isomorphic Strings,100.0,46.9,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
+EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,100.0,65.0,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray,Array
+EASY,Is Subsequence,100.0,48.4,https://leetcode.com/problems/is-subsequence,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Interval List Intersections,88.1,72.7,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Line Sweep"
+MEDIUM,Find K Closest Elements,88.1,48.7,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
+MEDIUM,Number of Islands,88.1,62.3,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+MEDIUM,Lowest Common Ancestor of a Binary Tree III,88.1,82.5,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii,"Hash Table, Two Pointers, Tree, Binary Tree"
+EASY,Summary Ranges,88.1,53.0,https://leetcode.com/problems/summary-ranges,Array
+MEDIUM,Longest Substring Without Repeating Characters,88.1,36.9,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Find All Anagrams in a String,88.1,52.2,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
+MEDIUM,Basic Calculator II,88.1,45.8,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"

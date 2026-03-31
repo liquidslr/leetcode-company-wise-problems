@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximize the Number of Partitions After Operations,100.0,0.27458280699421583,https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations,"String, Dynamic Programming, Bit Manipulation, Bitmask"
-EASY,Water Bottles,67.9,0.7064832510876005,https://leetcode.com/problems/water-bottles,"Math, Simulation"
-HARD,Parsing A Boolean Expression,67.9,0.6990305944192692,https://leetcode.com/problems/parsing-a-boolean-expression,"String, Stack, Recursion"
+HARD,Maximize the Number of Partitions After Operations,100.0,27.5,https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations,"String, Dynamic Programming, Bit Manipulation, Bitmask"
+EASY,Water Bottles,67.9,70.6,https://leetcode.com/problems/water-bottles,"Math, Simulation"
+HARD,Parsing A Boolean Expression,67.9,69.9,https://leetcode.com/problems/parsing-a-boolean-expression,"String, Stack, Recursion"

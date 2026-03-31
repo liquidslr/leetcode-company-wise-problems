@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Backspace String Compare,100.0,0.4948180427260363,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
-MEDIUM,Second Highest Salary,100.0,0.4386530976858341,https://leetcode.com/problems/second-highest-salary,Database
-HARD,Build Array Where You Can Find The Maximum Exactly K Comparisons,100.0,0.6675739518425989,https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons,"Dynamic Programming, Prefix Sum"
-MEDIUM,Generate Parentheses,100.0,0.7713296329116214,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
-MEDIUM,Number of Divisible Substrings,100.0,0.734086999262718,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
+EASY,Backspace String Compare,100.0,49.5,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
+MEDIUM,Second Highest Salary,100.0,43.9,https://leetcode.com/problems/second-highest-salary,Database
+HARD,Build Array Where You Can Find The Maximum Exactly K Comparisons,100.0,66.8,https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons,"Dynamic Programming, Prefix Sum"
+MEDIUM,Generate Parentheses,100.0,77.1,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+MEDIUM,Number of Divisible Substrings,100.0,73.4,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"

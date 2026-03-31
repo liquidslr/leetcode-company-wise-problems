@@ -1,9 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Detect Pattern of Length M Repeated K or More Times,100.0,0.434865494598602,https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times,"Array, Enumeration"
-EASY,Convert Integer to the Sum of Two No-Zero Integers,88.9,0.5423949493246408,https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers,Math
-EASY,Number of Steps to Reduce a Number to Zero,88.9,0.8563122693677829,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero,"Math, Bit Manipulation"
-HARD,Add Edges to Make Degrees of All Nodes Even,88.9,0.33517162875591233,https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even,"Hash Table, Graph"
-EASY,Maximum 69 Number,88.9,0.8176659980289958,https://leetcode.com/problems/maximum-69-number,"Math, Greedy"
-MEDIUM,Maximum Total Importance of Roads,88.9,0.6916419857076869,https://leetcode.com/problems/maximum-total-importance-of-roads,"Greedy, Graph, Sorting, Heap (Priority Queue)"
-HARD,Maximum Score From Grid Operations,88.9,0.24225599064874342,https://leetcode.com/problems/maximum-score-from-grid-operations,"Array, Dynamic Programming, Matrix, Prefix Sum"
-HARD,Longest Path With Different Adjacent Characters,88.9,0.5391662377766341,https://leetcode.com/problems/longest-path-with-different-adjacent-characters,"Array, String, Tree, Depth-First Search, Graph, Topological Sort"
+EASY,Detect Pattern of Length M Repeated K or More Times,100.0,43.5,https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times,"Array, Enumeration"
+EASY,Convert Integer to the Sum of Two No-Zero Integers,88.9,54.2,https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers,Math
+EASY,Number of Steps to Reduce a Number to Zero,88.9,85.6,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero,"Math, Bit Manipulation"
+HARD,Add Edges to Make Degrees of All Nodes Even,88.9,33.5,https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even,"Hash Table, Graph"
+EASY,Maximum 69 Number,88.9,81.8,https://leetcode.com/problems/maximum-69-number,"Math, Greedy"
+MEDIUM,Maximum Total Importance of Roads,88.9,69.2,https://leetcode.com/problems/maximum-total-importance-of-roads,"Greedy, Graph, Sorting, Heap (Priority Queue)"
+HARD,Maximum Score From Grid Operations,88.9,24.2,https://leetcode.com/problems/maximum-score-from-grid-operations,"Array, Dynamic Programming, Matrix, Prefix Sum"
+HARD,Longest Path With Different Adjacent Characters,88.9,53.9,https://leetcode.com/problems/longest-path-with-different-adjacent-characters,"Array, String, Tree, Depth-First Search, Graph, Topological Sort"

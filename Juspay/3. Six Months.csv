@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Subsequence With Decreasing Adjacent Difference,100.0,0.14664225321772847,https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference,"Array, Dynamic Programming"
-MEDIUM,Operations on Tree,92.2,0.43368293750912235,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
-HARD,Largest Color Value in a Directed Graph,73.6,0.5767908345021908,https://leetcode.com/problems/largest-color-value-in-a-directed-graph,"Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting"
-HARD,Shortest Path in a Weighted Tree,73.6,0.3218752658895601,https://leetcode.com/problems/shortest-path-in-a-weighted-tree,"Array, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree"
-HARD,Sliding Window Maximum,73.6,0.47604117337050583,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Longest Subsequence With Decreasing Adjacent Difference,100.0,14.7,https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference,"Array, Dynamic Programming"
+MEDIUM,Operations on Tree,92.2,43.4,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
+HARD,Largest Color Value in a Directed Graph,73.6,57.7,https://leetcode.com/problems/largest-color-value-in-a-directed-graph,"Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting"
+HARD,Shortest Path in a Weighted Tree,73.6,32.2,https://leetcode.com/problems/shortest-path-in-a-weighted-tree,"Array, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree"
+HARD,Sliding Window Maximum,73.6,47.6,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
