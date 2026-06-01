@@ -99,3 +99,4 @@ MEDIUM,Number of Substrings Containing All Three Characters,37.9,0.7317127949967
 HARD,First Missing Positive,37.9,0.4108465766394882,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
 MEDIUM,Merge In Between Linked Lists,37.9,0.8230365933376913,https://leetcode.com/problems/merge-in-between-linked-lists,Linked List
 MEDIUM,Design Twitter,37.9,0.42652193801389876,https://leetcode.com/problems/design-twitter,"Hash Table, Linked List, Design, Heap (Priority Queue)"
+MEDIUM,Number of Pairs of Strings With Concatenation Equal to Target,75.4,0.375,https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target,"Array, Hash Table, String, Counting"
