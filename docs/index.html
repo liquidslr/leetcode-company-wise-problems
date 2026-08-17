@@ -1,0 +1,1272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>CompanyWise Pro</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        :root {
+            --bg-0: #0a0b0d;
+            --bg-1: #111318;
+            --bg-2: #181c22;
+            --bg-3: #1f242d;
+            --border: #252b35;
+            --text-primary: #c8cdd6;
+            --text-secondary: #6b7485;
+            --text-muted: #3e4757;
+            --accent: #e8703a;
+            --accent-dim: rgba(232,112,58,0.12);
+            --green: #3ab87a;
+            --green-dim: rgba(58,184,122,0.12);
+            --yellow: #d4a843;
+            --red: #c4544a;
+            --mono: 'IBM Plex Mono', monospace;
+            --sans: 'IBM Plex Sans', sans-serif;
+        }
+
+        html, body {
+            height: 100%;
+            background: var(--bg-0);
+            color: var(--text-primary);
+            font-family: var(--sans);
+            font-size: 14px;
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* ─── LAYOUT ─── */
+        #app {
+            display: flex;
+            flex-direction: column;
+            height: 100dvh;
+            overflow: hidden;
+        }
+
+        /* ─── NAVBAR ─── */
+        #navbar {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 0 20px;
+            height: 52px;
+            background: var(--bg-1);
+            border-bottom: 1px solid var(--border);
+            flex-shrink: 0;
+            z-index: 100;
+        }
+
+        .logo {
+            font-family: var(--mono);
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--text-primary);
+            letter-spacing: -0.5px;
+            white-space: nowrap;
+        }
+        .logo span { color: var(--accent); }
+
+        #global-search {
+            flex: 1;
+            max-width: 340px;
+            background: var(--bg-2);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            padding: 7px 12px;
+            font-family: var(--sans);
+            font-size: 13px;
+            color: var(--text-primary);
+            outline: none;
+            transition: border-color 0.15s;
+        }
+        #global-search:focus { border-color: var(--accent); }
+        #global-search::placeholder { color: var(--text-muted); }
+
+        .nav-spacer { flex: 1; }
+
+        .nav-btn {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 12px;
+            background: var(--bg-2);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: var(--text-secondary);
+            font-family: var(--mono);
+            font-size: 12px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: border-color 0.15s, color 0.15s;
+            white-space: nowrap;
+        }
+        .nav-btn:hover { border-color: var(--text-muted); color: var(--text-primary); }
+
+        /* ─── MAIN BODY ─── */
+        #body {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        /* ─── SIDEBAR ─── */
+        #sidebar {
+            width: 240px;
+            flex-shrink: 0;
+            background: var(--bg-1);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            transition: transform 0.25s ease;
+        }
+
+        .sidebar-header {
+            padding: 16px 16px 12px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .sidebar-label {
+            font-family: var(--mono);
+            font-size: 10px;
+            letter-spacing: 1.5px;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            margin-bottom: 10px;
+        }
+
+        #company-search {
+            width: 100%;
+            background: var(--bg-2);
+            border: 1px solid var(--border);
+            border-radius: 5px;
+            padding: 7px 10px;
+            font-family: var(--sans);
+            font-size: 13px;
+            color: var(--text-primary);
+            outline: none;
+            transition: border-color 0.15s;
+        }
+        #company-search:focus { border-color: var(--accent); }
+        #company-search::placeholder { color: var(--text-muted); }
+
+        #company-list {
+            flex: 1;
+            overflow-y: auto;
+            padding: 8px;
+            scrollbar-width: thin;
+            scrollbar-color: var(--border) transparent;
+        }
+        #company-list::-webkit-scrollbar { width: 4px; }
+        #company-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+        .company-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 9px 12px;
+            border-radius: 5px;
+            cursor: pointer;
+            color: var(--text-secondary);
+            font-size: 13px;
+            transition: background 0.12s, color 0.12s;
+            white-space: nowrap;
+            overflow: hidden;
+        }
+        .company-item:hover { background: var(--bg-2); color: var(--text-primary); }
+        .company-item.active { background: var(--accent-dim); color: var(--accent); border-left: 2px solid var(--accent); padding-left: 10px; }
+
+        .company-dot {
+            width: 6px; height: 6px;
+            border-radius: 50%;
+            background: var(--text-muted);
+            flex-shrink: 0;
+            transition: background 0.12s;
+        }
+        .company-item.active .company-dot { background: var(--accent); }
+
+        .company-name-text { overflow: hidden; text-overflow: ellipsis; }
+
+        /* ─── DAILY GOAL ─── */
+        .goal-section {
+            padding: 14px 16px;
+            border-top: 1px solid var(--border);
+            background: var(--bg-0);
+        }
+
+        .goal-label {
+            font-family: var(--mono);
+            font-size: 10px;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            margin-bottom: 10px;
+        }
+
+        .goal-row { display: flex; gap: 8px; margin-bottom: 12px; }
+
+        #daily-goal {
+            width: 56px;
+            background: var(--bg-2);
+            border: 1px solid var(--border);
+            border-radius: 5px;
+            padding: 6px;
+            text-align: center;
+            font-family: var(--mono);
+            font-size: 13px;
+            color: var(--text-primary);
+            outline: none;
+        }
+
+        .goal-set-btn {
+            flex: 1;
+            background: var(--green-dim);
+            border: 1px solid rgba(58,184,122,0.25);
+            border-radius: 5px;
+            color: var(--green);
+            font-family: var(--mono);
+            font-size: 11px;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+        .goal-set-btn:hover { background: rgba(58,184,122,0.2); }
+
+        .progress-row { display: flex; justify-content: space-between; margin-bottom: 6px; font-family: var(--mono); font-size: 11px; color: var(--text-secondary); }
+
+        .progress-track { height: 3px; background: var(--bg-3); border-radius: 2px; overflow: hidden; }
+        .progress-fill { height: 100%; background: var(--green); border-radius: 2px; transition: width 0.4s ease; }
+
+        #streak-text { margin-top: 6px; font-family: var(--mono); font-size: 10px; color: var(--green); }
+
+        /* ─── MAIN PANEL ─── */
+        #main {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        /* ─── WELCOME ─── */
+        #welcome-screen {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            color: var(--text-muted);
+        }
+
+        .welcome-title { font-family: var(--mono); font-size: 22px; color: var(--text-secondary); }
+        .welcome-sub { font-size: 13px; }
+
+        .welcome-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 8px;
+            margin-top: 24px;
+        }
+
+        .welcome-card {
+            background: var(--bg-1);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 16px;
+            text-align: center;
+        }
+
+        .welcome-card-num { font-family: var(--mono); font-size: 22px; color: var(--accent); }
+        .welcome-card-lbl { font-size: 11px; color: var(--text-muted); margin-top: 2px; }
+
+        /* ─── COMPANY VIEW ─── */
+        #company-view { flex: 1; display: none; flex-direction: column; overflow: hidden; }
+        #company-view.visible { display: flex; }
+
+        /* Company Header */
+        .co-header {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            padding: 14px 20px;
+            border-bottom: 1px solid var(--border);
+            background: var(--bg-1);
+            flex-shrink: 0;
+        }
+
+        .co-header-info { flex: 1; min-width: 0; }
+        #company-name { font-family: var(--mono); font-size: 17px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        #total-problems { font-size: 11px; color: var(--text-muted); margin-top: 1px; }
+
+        /* Time Tabs */
+        #time-tabs { display: flex; gap: 4px; flex-shrink: 0; }
+        .time-tab {
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-family: var(--mono);
+            font-size: 11px;
+            cursor: pointer;
+            background: var(--bg-2);
+            border: 1px solid var(--border);
+            color: var(--text-secondary);
+            transition: all 0.15s;
+        }
+        .time-tab.active { background: var(--accent-dim); border-color: rgba(232,112,58,0.3); color: var(--accent); }
+
+        /* Stats Row */
+        .stats-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 1px;
+            background: var(--border);
+            border-bottom: 1px solid var(--border);
+            flex-shrink: 0;
+        }
+
+        .stat-card {
+            background: var(--bg-0);
+            padding: 16px 20px;
+        }
+
+        .stat-label { font-family: var(--mono); font-size: 10px; letter-spacing: 1px; text-transform: uppercase; color: var(--text-muted); margin-bottom: 12px; }
+
+        /* Diff bars */
+        .diff-bar-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+        .diff-bar-label { font-family: var(--mono); font-size: 11px; width: 42px; }
+        .diff-bar-label.easy { color: var(--green); }
+        .diff-bar-label.med { color: var(--yellow); }
+        .diff-bar-label.hard { color: var(--red); }
+        .diff-bar-track { flex: 1; height: 4px; background: var(--bg-3); border-radius: 2px; overflow: hidden; }
+        .diff-bar-fill { height: 100%; border-radius: 2px; transition: width 0.5s ease; }
+        .diff-bar-count { font-family: var(--mono); font-size: 11px; color: var(--text-muted); width: 24px; text-align: right; }
+
+        /* Progress stat */
+        .progress-big { display: flex; align-items: baseline; gap: 6px; margin-top: 8px; }
+        .progress-big-num { font-family: var(--mono); font-size: 36px; font-weight: 600; color: var(--green); }
+        .progress-big-total { font-family: var(--mono); font-size: 18px; color: var(--text-muted); }
+        .progress-big-pct { font-family: var(--mono); font-size: 20px; color: var(--text-secondary); margin-left: auto; }
+
+        /* Action stat */
+        .action-btns { display: flex; flex-direction: column; gap: 10px; height: 100%; }
+        .action-btn {
+            flex: 1;
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            background: var(--bg-2);
+            color: var(--text-secondary);
+            font-family: var(--mono);
+            font-size: 12px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            transition: all 0.15s;
+        }
+        .action-btn:hover { color: var(--text-primary); border-color: var(--text-muted); }
+        .action-btn.accent { background: var(--accent-dim); border-color: rgba(232,112,58,0.3); color: var(--accent); }
+        .action-btn.accent:hover { background: rgba(232,112,58,0.2); }
+        .action-btn.green { background: var(--green-dim); border-color: rgba(58,184,122,0.25); color: var(--green); }
+        .action-btn.green:hover { background: rgba(58,184,122,0.2); }
+
+        /* Filter Bar */
+        .filter-bar {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 10px 16px;
+            background: var(--bg-1);
+            border-bottom: 1px solid var(--border);
+            flex-shrink: 0;
+            overflow-x: auto;
+            scrollbar-width: none;
+        }
+        .filter-bar::-webkit-scrollbar { display: none; }
+
+        .filter-btn {
+            padding: 5px 14px;
+            border-radius: 4px;
+            font-family: var(--mono);
+            font-size: 11px;
+            cursor: pointer;
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--text-muted);
+            white-space: nowrap;
+            transition: all 0.15s;
+        }
+        .filter-btn:hover { color: var(--text-primary); border-color: var(--text-muted); }
+        .filter-btn.active { border-color: var(--accent); color: var(--accent); background: var(--accent-dim); }
+        .filter-btn.easy.active { border-color: var(--green); color: var(--green); background: var(--green-dim); }
+        .filter-btn.medium.active { border-color: var(--yellow); color: var(--yellow); background: rgba(212,168,67,0.12); }
+        .filter-btn.hard.active { border-color: var(--red); color: var(--red); background: rgba(196,84,74,0.12); }
+
+        #table-search {
+            margin-left: auto;
+            background: var(--bg-2);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            padding: 5px 10px;
+            font-family: var(--sans);
+            font-size: 12px;
+            color: var(--text-primary);
+            outline: none;
+            min-width: 160px;
+            transition: border-color 0.15s;
+        }
+        #table-search:focus { border-color: var(--accent); }
+        #table-search::placeholder { color: var(--text-muted); }
+
+        /* Table */
+        .table-wrapper { flex: 1; overflow: auto; scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
+        .table-wrapper::-webkit-scrollbar { width: 4px; height: 4px; }
+        .table-wrapper::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+
+        #problems-table { width: 100%; border-collapse: collapse; }
+
+        #problems-table thead th {
+            position: sticky;
+            top: 0;
+            background: var(--bg-1);
+            padding: 10px 14px;
+            text-align: left;
+            font-family: var(--mono);
+            font-size: 10px;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            border-bottom: 1px solid var(--border);
+            cursor: pointer;
+            user-select: none;
+            white-space: nowrap;
+        }
+        #problems-table thead th:hover { color: var(--text-secondary); }
+        #problems-table thead th.right { text-align: right; }
+        #problems-table thead th.center { text-align: center; }
+
+        #problems-table tbody tr { border-bottom: 1px solid rgba(37,43,53,0.6); transition: background 0.1s; }
+        #problems-table tbody tr:hover { background: var(--bg-1); }
+
+        #problems-table tbody td { padding: 10px 14px; }
+
+        .diff-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 3px;
+            font-family: var(--mono);
+            font-size: 10px;
+            font-weight: 500;
+            letter-spacing: 0.5px;
+        }
+        .diff-badge.easy { color: var(--green); background: var(--green-dim); border: 1px solid rgba(58,184,122,0.2); }
+        .diff-badge.med { color: var(--yellow); background: rgba(212,168,67,0.12); border: 1px solid rgba(212,168,67,0.2); }
+        .diff-badge.hard { color: var(--red); background: rgba(196,84,74,0.12); border: 1px solid rgba(196,84,74,0.2); }
+
+        .problem-link {
+            color: var(--text-primary);
+            text-decoration: none;
+            font-size: 13px;
+            transition: color 0.12s;
+        }
+        .problem-link:hover { color: var(--accent); }
+
+        .mono-cell { font-family: var(--mono); font-size: 12px; color: var(--text-secondary); text-align: right; }
+        .center-cell { text-align: center; }
+
+        .check-done {
+            width: 16px; height: 16px;
+            accent-color: var(--green);
+            cursor: pointer;
+        }
+
+        .empty-row td { text-align: center; padding: 48px; color: var(--text-muted); font-family: var(--mono); font-size: 13px; }
+
+        /* ─── MOBILE OVERLAY ─── */
+        #mobile-overlay {
+            display: none;
+            position: fixed;
+            inset: 0;
+            background: rgba(0,0,0,0.6);
+            z-index: 200;
+        }
+
+        #mobile-sidebar {
+            position: fixed;
+            top: 0; left: 0; bottom: 0;
+            width: 280px;
+            background: var(--bg-1);
+            border-right: 1px solid var(--border);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            transform: translateX(-100%);
+            transition: transform 0.25s ease;
+            z-index: 201;
+        }
+
+        #mobile-sidebar.open { transform: translateX(0); }
+
+        .mobile-sidebar-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 14px 16px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .close-btn {
+            background: var(--bg-2);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            color: var(--text-secondary);
+            font-size: 16px;
+            width: 32px; height: 32px;
+            cursor: pointer;
+            display: flex; align-items: center; justify-content: center;
+        }
+
+        /* Mobile menu btn */
+        #mobile-menu-btn {
+            display: none;
+            background: var(--bg-2);
+            border: 1px solid var(--border);
+            border-radius: 5px;
+            color: var(--text-secondary);
+            font-size: 14px;
+            padding: 6px 10px;
+            cursor: pointer;
+        }
+
+        /* ─── RESPONSIVE ─── */
+        @media (max-width: 768px) {
+            #sidebar { display: none; }
+            #mobile-menu-btn { display: flex; align-items: center; gap: 6px; font-family: var(--mono); font-size: 12px; }
+
+            #global-search { max-width: 100%; }
+
+            .stats-row { grid-template-columns: 1fr; }
+
+            .welcome-grid { grid-template-columns: 1fr; max-width: 220px; }
+
+            .co-header { flex-wrap: wrap; }
+            #time-tabs { width: 100%; justify-content: flex-start; flex-wrap: wrap; }
+
+            #table-search { min-width: 120px; }
+
+            #problems-table thead th:nth-child(4) { display: none; }
+            #problems-table tbody td:nth-child(4) { display: none; }
+        }
+
+        @media (max-width: 480px) {
+            #navbar { padding: 0 12px; gap: 8px; }
+            .logo { font-size: 13px; }
+            .stat-card { padding: 12px 14px; }
+        }
+
+        /* ─── SORT ARROWS ─── */
+        th .sort-arrow { opacity: 0.3; margin-left: 4px; font-size: 10px; }
+        th.sort-asc .sort-arrow::after { content: '▲'; opacity: 1; }
+        th.sort-desc .sort-arrow::after { content: '▼'; opacity: 1; }
+
+        /* ─── LOADING ─── */
+        .loading-row td { text-align: center; padding: 48px; }
+        .loader { display: inline-block; width: 20px; height: 20px; border: 2px solid var(--border); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.8s linear infinite; }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* ─── TIPS SECTION ─── */
+        #tips-section {
+            border-top: 1px solid var(--border);
+            background: var(--bg-1);
+            flex-shrink: 0;
+        }
+
+        .tips-toggle {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 20px;
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .tips-toggle-left { display: flex; align-items: center; gap: 8px; font-family: var(--mono); font-size: 12px; color: var(--text-secondary); }
+        .tips-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--yellow); }
+        .tips-arrow { font-size: 10px; color: var(--text-muted); transition: transform 0.2s; }
+        .tips-arrow.open { transform: rotate(180deg); }
+
+        .tips-content {
+            padding: 0 20px 16px;
+            display: none;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+        .tips-content.visible { display: grid; }
+
+        .tips-group-label { font-family: var(--mono); font-size: 10px; letter-spacing: 1px; text-transform: uppercase; color: var(--green); margin-bottom: 8px; }
+        .tips-list { list-style: none; }
+        .tips-list li { font-size: 12px; color: var(--text-secondary); padding: 3px 0; }
+        .tips-list li::before { content: '—'; margin-right: 8px; color: var(--text-muted); }
+
+        @media (max-width: 600px) { .tips-content { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+<div id="app">
+
+    <!-- NAVBAR -->
+    <nav id="navbar">
+        <button id="mobile-menu-btn" onclick="openMobileSidebar()">&#9776; Companies</button>
+        <span class="logo">CompanyWise<span>&nbsp;Pro</span></span>
+        <input id="global-search" type="search" placeholder="Search problems..." autocomplete="off">
+        <span class="nav-spacer"></span>
+        <a class="nav-btn" href="https://github.com/liquidslr/interview-company-wise-problems" target="_blank" rel="noopener">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.44 9.8 8.2 11.38.6.11.82-.26.82-.58v-2.03c-3.34.73-4.04-1.61-4.04-1.61-.55-1.38-1.33-1.75-1.33-1.75-1.09-.74.08-.73.08-.73 1.2.08 1.84 1.24 1.84 1.24 1.07 1.83 2.8 1.3 3.48 1 .11-.78.42-1.3.76-1.6-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.12-.3-.54-1.52.12-3.18 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 3-.4c1.02 0 2.04.14 3 .4 2.28-1.55 3.29-1.23 3.29-1.23.66 1.66.24 2.88.12 3.18.77.84 1.24 1.91 1.24 3.22 0 4.61-2.81 5.63-5.48 5.92.43.37.81 1.1.81 2.22v3.29c0 .32.22.69.83.57C20.57 21.8 24 17.3 24 12c0-6.63-5.37-12-12-12z"/></svg>
+            GitHub
+        </a>
+    </nav>
+
+    <!-- BODY -->
+    <div id="body">
+
+        <!-- DESKTOP SIDEBAR -->
+        <aside id="sidebar">
+            <div class="sidebar-header">
+                <div class="sidebar-label">Companies</div>
+                <input id="company-search" type="search" placeholder="Filter..." autocomplete="off" oninput="filterCompanies()">
+            </div>
+            <div id="company-list"></div>
+            <div class="goal-section">
+                <div class="goal-label">Daily Goal</div>
+                <div class="goal-row">
+                    <input id="daily-goal" type="number" value="5" min="1" max="50">
+                    <button class="goal-set-btn" onclick="setDailyGoal()">Set</button>
+                </div>
+                <div class="progress-row">
+                    <span>Today</span>
+                    <span id="today-count">0 / 5</span>
+                </div>
+                <div class="progress-track">
+                    <div class="progress-fill" id="today-bar" style="width:0%"></div>
+                </div>
+                <div id="streak-text"></div>
+            </div>
+        </aside>
+
+        <!-- MAIN -->
+        <main id="main">
+
+            <!-- WELCOME -->
+            <div id="welcome-screen">
+                <div class="welcome-title">CompanyWise Pro</div>
+                <div class="welcome-sub">Select a company to explore interview problems</div>
+                <div class="welcome-grid">
+                    <div class="welcome-card">
+                        <div class="welcome-card-num" id="wc-companies">—</div>
+                        <div class="welcome-card-lbl">Companies</div>
+                    </div>
+                    <div class="welcome-card">
+                        <div class="welcome-card-num" id="wc-solved">0</div>
+                        <div class="welcome-card-lbl">Solved</div>
+                    </div>
+                    <div class="welcome-card">
+                        <div class="welcome-card-num" id="wc-streak">0</div>
+                        <div class="welcome-card-lbl">Day Streak</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- COMPANY VIEW -->
+            <div id="company-view">
+
+                <!-- Company Header -->
+                <div class="co-header">
+                    <div class="co-header-info">
+                        <div id="company-name">—</div>
+                        <div id="total-problems"></div>
+                    </div>
+                    <div id="time-tabs"></div>
+                </div>
+
+                <!-- Stats -->
+                <div class="stats-row">
+                    <div class="stat-card">
+                        <div class="stat-label">Difficulty</div>
+                        <div id="diff-bars"></div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Progress</div>
+                        <div class="progress-big">
+                            <span class="progress-big-num" id="solved-count">0</span>
+                            <span class="progress-big-total" id="solved-total">/0</span>
+                            <span class="progress-big-pct" id="progress-percent">0%</span>
+                        </div>
+                        <div class="progress-track" style="margin-top:10px">
+                            <div class="progress-fill" id="company-progress-bar" style="width:0%"></div>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-label">Actions</div>
+                        <div class="action-btns">
+                            <button class="action-btn accent" onclick="pickRandomProblem()">&#9670; Random Problem</button>
+                            <button class="action-btn green" onclick="exportCurrentCSV()">&#8615; Export CSV</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Filters -->
+                <div class="filter-bar">
+                    <button class="filter-btn active" id="filter-all" onclick="setFilter('all', this)">All</button>
+                    <button class="filter-btn easy" id="filter-easy" onclick="setFilter('EASY', this)">Easy</button>
+                    <button class="filter-btn medium" id="filter-medium" onclick="setFilter('MEDIUM', this)">Medium</button>
+                    <button class="filter-btn hard" id="filter-hard" onclick="setFilter('HARD', this)">Hard</button>
+                    <input id="table-search" type="search" placeholder="Search title..." autocomplete="off" oninput="applyFilters()">
+                </div>
+
+                <!-- Table -->
+                <div class="table-wrapper">
+                    <table id="problems-table">
+                        <thead>
+                            <tr>
+                                <th onclick="sortTable(0)">Diff<span class="sort-arrow"></span></th>
+                                <th onclick="sortTable(1)">Problem<span class="sort-arrow"></span></th>
+                                <th class="right" onclick="sortTable(2)">Freq<span class="sort-arrow"></span></th>
+                                <th class="right" onclick="sortTable(3)">Accept<span class="sort-arrow"></span></th>
+                                <th class="center">Done</th>
+                            </tr>
+                        </thead>
+                        <tbody id="table-body"></tbody>
+                    </table>
+                </div>
+
+                <!-- Tips -->
+                <div id="tips-section">
+                    <div class="tips-toggle" onclick="toggleTips()">
+                        <div class="tips-toggle-left">
+                            <span class="tips-dot"></span>
+                            Interview Tips
+                        </div>
+                        <span class="tips-arrow" id="tips-arrow">&#9660;</span>
+                    </div>
+                    <div class="tips-content" id="tips-content">
+                        <div>
+                            <div class="tips-group-label">General</div>
+                            <ul class="tips-list">
+                                <li>Think aloud and explain your approach</li>
+                                <li>Ask clarifying questions first</li>
+                                <li>Discuss time and space complexity</li>
+                                <li>Start with brute force, then optimize</li>
+                            </ul>
+                        </div>
+                        <div>
+                            <div class="tips-group-label" id="tips-co-label">Company Tips</div>
+                            <ul class="tips-list" id="tips-co-list"></ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </main>
+    </div>
+</div>
+
+<!-- MOBILE OVERLAY -->
+<div id="mobile-overlay" onclick="closeMobileSidebar()"></div>
+<div id="mobile-sidebar">
+    <div class="mobile-sidebar-header">
+        <div class="sidebar-label" style="margin:0">Companies</div>
+        <button class="close-btn" onclick="closeMobileSidebar()">&#10005;</button>
+    </div>
+    <div style="padding:12px 12px 8px">
+        <input id="mobile-company-search" type="search" placeholder="Filter companies..." autocomplete="off"
+               oninput="filterCompanies()" style="width:100%;background:var(--bg-2);border:1px solid var(--border);border-radius:5px;padding:7px 10px;font-size:13px;color:var(--text-primary);outline:none;">
+    </div>
+    <div id="mobile-company-list" style="flex:1;overflow-y:auto;padding:4px 8px;scrollbar-width:thin"></div>
+    <div class="goal-section">
+        <div class="goal-label">Daily Goal</div>
+        <div class="goal-row">
+            <input id="mobile-daily-goal" type="number" value="5" min="1" max="50"
+                   style="width:56px;background:var(--bg-2);border:1px solid var(--border);border-radius:5px;padding:6px;text-align:center;font-family:var(--mono);font-size:13px;color:var(--text-primary);outline:none;">
+            <button class="goal-set-btn" onclick="setDailyGoalMobile()">Set</button>
+        </div>
+        <div class="progress-row">
+            <span>Today</span>
+            <span id="mobile-today-count">0 / 5</span>
+        </div>
+        <div class="progress-track">
+            <div class="progress-fill" id="mobile-today-bar" style="width:0%"></div>
+        </div>
+        <div id="mobile-streak-text"></div>
+    </div>
+</div>
+
+<script>
+/* ═══════════════════════════════════════════════════════
+   STATE
+═══════════════════════════════════════════════════════ */
+let allCompanies = [];
+let currentCompany = null;
+let currentPeriod = null;
+let currentProblems = [];
+let filteredProblems = [];
+let solvedProblems = {};
+let dailyGoal = 5;
+let todaySolved = 0;
+let lastDate = '';
+let currentFilter = 'all';
+let currentSearch = '';
+let sortCol = -1;
+let sortDir = 1;
+let tipsOpen = false;
+
+try { solvedProblems = JSON.parse(localStorage.getItem('solvedProblems') || '{}'); } catch(e) {}
+try { dailyGoal = parseInt(localStorage.getItem('dailyGoal')) || 5; } catch(e) {}
+try { todaySolved = parseInt(localStorage.getItem('todaySolved')) || 0; } catch(e) {}
+try { lastDate = localStorage.getItem('lastDate') || ''; } catch(e) {}
+
+const TIME_PERIODS = [
+    { label: "30D",  file: "1. Thirty Days.csv" },
+    { label: "3M",   file: "2. Three Months.csv" },
+    { label: "6M",   file: "3. Six Months.csv" },
+    { label: ">6M",  file: "4. More Than Six Months.csv" },
+    { label: "All",  file: "All.csv" }
+];
+
+const COMPANY_TIPS = {
+    "Meta":      ["Graph traversal (BFS/DFS) is frequent","Sliding window & two pointers","System Design at senior levels","High-frequency array/string problems"],
+    "Amazon":    ["Leadership Principles are core","Medium difficulty dominates","Distributed systems awareness","OOP and clean code matters"],
+    "Google":    ["Optimization is expected","Hard problems appear regularly","Algorithms over frameworks","Whiteboard clarity is key"],
+    "Microsoft": ["Strong CS fundamentals","Trees, graphs, and DP","Collaborative communication style","Clarify edge cases early"],
+    "Apple":     ["Low-level and performance focus","Clean elegant solutions","Object-oriented design","Strong debugging ability"],
+};
+const DEFAULT_TIPS = ["Explain trade-offs clearly","Code for readability first","Test edge cases aloud","Ask before assuming inputs"];
+
+/* ═══════════════════════════════════════════════════════
+   INIT
+═══════════════════════════════════════════════════════ */
+window.addEventListener('DOMContentLoaded', async () => {
+    document.getElementById('daily-goal').value = dailyGoal;
+    document.getElementById('mobile-daily-goal').value = dailyGoal;
+    updateDailyUI();
+
+    document.getElementById('global-search').addEventListener('input', e => {
+        currentSearch = e.target.value.toLowerCase();
+        document.getElementById('table-search').value = currentSearch;
+        applyFilters();
+    });
+    document.getElementById('table-search').addEventListener('input', e => {
+        currentSearch = e.target.value.toLowerCase();
+        document.getElementById('global-search').value = currentSearch;
+        applyFilters();
+    });
+
+    await loadCompanies();
+});
+
+/* ═══════════════════════════════════════════════════════
+   COMPANIES
+═══════════════════════════════════════════════════════ */
+async function loadCompanies() {
+    try {
+        const res = await fetch('https://api.github.com/repos/liquidslr/interview-company-wise-problems/contents');
+        const data = await res.json();
+        allCompanies = data.filter(i => i.type === 'dir').map(i => i.name).sort();
+    } catch(e) {
+        allCompanies = ["Accenture","Adobe","Amazon","Apple","AQR Capital Management","Bloomberg","ByteDance","Cisco","Coinbase","Dell","Facebook","Goldman Sachs","Google","IBM","Intuit","LinkedIn","Lyft","Meta","Microsoft","Netflix","Oracle","Paypal","Qualcomm","Salesforce","Samsung","Snowflake","Spotify","Square","Tesla","TikTok","Twitter","Uber","Visa","VMware","Yahoo"];
+    }
+    renderCompanyList(allCompanies, 'company-list');
+    renderCompanyList(allCompanies, 'mobile-company-list');
+    const wc = document.getElementById('wc-companies');
+    if (wc) wc.textContent = allCompanies.length;
+    updateWelcomeStats();
+}
+
+function renderCompanyList(list, containerId) {
+    const container = document.getElementById(containerId);
+    container.innerHTML = '';
+    list.forEach(company => {
+        const div = document.createElement('div');
+        div.className = 'company-item' + (currentCompany === company ? ' active' : '');
+        div.innerHTML = `<span class="company-dot"></span><span class="company-name-text">${escHtml(company)}</span>`;
+        div.onclick = () => {
+            closeMobileSidebar();
+            selectCompany(company);
+        };
+        container.appendChild(div);
+    });
+}
+
+function filterCompanies() {
+    const desktopTerm = document.getElementById('company-search').value.toLowerCase();
+    const mobileTerm  = document.getElementById('mobile-company-search').value.toLowerCase();
+    const term = desktopTerm || mobileTerm;
+    const filtered = allCompanies.filter(c => c.toLowerCase().includes(term));
+    renderCompanyList(filtered, 'company-list');
+    renderCompanyList(filtered, 'mobile-company-list');
+}
+
+/* ═══════════════════════════════════════════════════════
+   SELECT COMPANY
+═══════════════════════════════════════════════════════ */
+async function selectCompany(company) {
+    currentCompany = company;
+    currentPeriod = TIME_PERIODS[0];
+    currentFilter = 'all';
+    currentSearch = '';
+    sortCol = -1; sortDir = 1;
+    document.getElementById('table-search').value = '';
+    document.getElementById('global-search').value = '';
+    setActiveFilterBtn('filter-all');
+
+    document.getElementById('welcome-screen').style.display = 'none';
+    document.getElementById('company-view').classList.add('visible');
+    document.getElementById('company-name').textContent = company;
+
+    renderCompanyList(allCompanies, 'company-list');
+    renderCompanyList(allCompanies, 'mobile-company-list');
+    renderTimeTabs();
+    renderCompanyTips(company);
+    await loadPeriodData(currentPeriod);
+    updateDailyUI();
+}
+
+/* ═══════════════════════════════════════════════════════
+   TIME TABS
+═══════════════════════════════════════════════════════ */
+function renderTimeTabs() {
+    const container = document.getElementById('time-tabs');
+    container.innerHTML = '';
+    TIME_PERIODS.forEach(p => {
+        const btn = document.createElement('button');
+        btn.className = 'time-tab' + (currentPeriod.file === p.file ? ' active' : '');
+        btn.textContent = p.label;
+        btn.onclick = () => { currentPeriod = p; renderTimeTabs(); loadPeriodData(p); };
+        container.appendChild(btn);
+    });
+}
+
+/* ═══════════════════════════════════════════════════════
+   LOAD DATA
+═══════════════════════════════════════════════════════ */
+async function loadPeriodData(period) {
+    setTableLoading();
+    const url = `https://raw.githubusercontent.com/liquidslr/interview-company-wise-problems/main/${encodeURIComponent(currentCompany)}/${encodeURIComponent(period.file)}`;
+    try {
+        const res = await fetch(url);
+        if (!res.ok) throw new Error('Not found');
+        const text = await res.text();
+        currentProblems = parseCSV(text);
+        document.getElementById('total-problems').textContent = `${currentProblems.length} problems · ${period.label}`;
+        renderStats();
+        applyFilters();
+    } catch(e) {
+        document.getElementById('total-problems').textContent = 'No data available';
+        document.getElementById('table-body').innerHTML = `<tr class="empty-row"><td colspan="5">No data available for this period</td></tr>`;
+    }
+}
+
+/* ═══════════════════════════════════════════════════════
+   STATS
+═══════════════════════════════════════════════════════ */
+function renderStats() {
+    const easy   = currentProblems.filter(p => diff(p) === 'EASY').length;
+    const medium = currentProblems.filter(p => diff(p) === 'MEDIUM').length;
+    const hard   = currentProblems.filter(p => diff(p) === 'HARD').length;
+    const total  = currentProblems.length || 1;
+
+    document.getElementById('diff-bars').innerHTML = `
+        <div class="diff-bar-row">
+            <span class="diff-bar-label easy">Easy</span>
+            <div class="diff-bar-track"><div class="diff-bar-fill" style="width:${(easy/total)*100}%;background:var(--green)"></div></div>
+            <span class="diff-bar-count">${easy}</span>
+        </div>
+        <div class="diff-bar-row">
+            <span class="diff-bar-label med">Medium</span>
+            <div class="diff-bar-track"><div class="diff-bar-fill" style="width:${(medium/total)*100}%;background:var(--yellow)"></div></div>
+            <span class="diff-bar-count">${medium}</span>
+        </div>
+        <div class="diff-bar-row">
+            <span class="diff-bar-label hard">Hard</span>
+            <div class="diff-bar-track"><div class="diff-bar-fill" style="width:${(hard/total)*100}%;background:var(--red)"></div></div>
+            <span class="diff-bar-count">${hard}</span>
+        </div>
+    `;
+    updateSolvedCount();
+}
+
+function updateSolvedCount() {
+    const key = `${currentCompany}_solved`;
+    const solvedSet = new Set(solvedProblems[key] || []);
+    const solved = currentProblems.filter(p => solvedSet.has(title(p))).length;
+    const total  = currentProblems.length || 1;
+    const pct    = Math.round((solved / total) * 100);
+    document.getElementById('solved-count').textContent = solved;
+    document.getElementById('solved-total').textContent = `/ ${total}`;
+    document.getElementById('progress-percent').textContent = `${pct}%`;
+    document.getElementById('company-progress-bar').style.width = pct + '%';
+    updateWelcomeStats();
+}
+
+function updateWelcomeStats() {
+    let totalSolved = 0;
+    Object.values(solvedProblems).forEach(arr => totalSolved += (arr || []).length);
+    const wcSolved = document.getElementById('wc-solved');
+    if (wcSolved) wcSolved.textContent = totalSolved;
+}
+
+/* ═══════════════════════════════════════════════════════
+   TABLE
+═══════════════════════════════════════════════════════ */
+function applyFilters() {
+    let list = [...currentProblems];
+    if (currentFilter !== 'all') list = list.filter(p => diff(p) === currentFilter);
+    if (currentSearch) list = list.filter(p => title(p).toLowerCase().includes(currentSearch));
+    if (sortCol >= 0) list = sortList(list, sortCol, sortDir);
+    filteredProblems = list;
+    renderTable(list);
+}
+
+function renderTable(problems) {
+    const tbody = document.getElementById('table-body');
+    tbody.innerHTML = '';
+    const key = `${currentCompany}_solved`;
+    const solvedSet = new Set(solvedProblems[key] || []);
+
+    if (!problems.length) {
+        tbody.innerHTML = `<tr class="empty-row"><td colspan="5">No problems match your filters</td></tr>`;
+        return;
+    }
+
+    problems.forEach(p => {
+        const t = title(p);
+        const d = diff(p);
+        const isSolved = solvedSet.has(t);
+        const freq = parseFloat(p.Frequency || 0).toFixed(1);
+        const acc  = (parseFloat(p['Acceptance Rate'] || 0) * 100).toFixed(1) + '%';
+        const link = p.Link || '#';
+        const badgeClass = d === 'EASY' ? 'easy' : d === 'MEDIUM' ? 'med' : 'hard';
+        const displayDiff = d === 'MEDIUM' ? 'MED' : d || '—';
+
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+            <td><span class="diff-badge ${badgeClass}">${displayDiff}</span></td>
+            <td><a class="problem-link" href="${escAttr(link)}" target="_blank" rel="noopener">${escHtml(t)}</a></td>
+            <td class="mono-cell">${freq}</td>
+            <td class="mono-cell">${acc}</td>
+            <td class="center-cell"><input type="checkbox" class="check-done" ${isSolved ? 'checked' : ''} onchange="toggleSolved('${escAttr(t)}', this.checked)"></td>
+        `;
+        tbody.appendChild(tr);
+    });
+}
+
+function setTableLoading() {
+    document.getElementById('table-body').innerHTML = `<tr class="loading-row"><td colspan="5"><div class="loader"></div></td></tr>`;
+}
+
+/* ═══════════════════════════════════════════════════════
+   SORT
+═══════════════════════════════════════════════════════ */
+const DIFF_ORDER = { 'EASY': 0, 'MEDIUM': 1, 'HARD': 2 };
+
+function sortTable(col) {
+    if (sortCol === col) sortDir *= -1;
+    else { sortCol = col; sortDir = 1; }
+    document.querySelectorAll('#problems-table thead th').forEach((th, i) => {
+        th.classList.remove('sort-asc','sort-desc');
+        if (i === col) th.classList.add(sortDir === 1 ? 'sort-asc' : 'sort-desc');
+    });
+    applyFilters();
+}
+
+function sortList(list, col, dir) {
+    return [...list].sort((a, b) => {
+        let av, bv;
+        if (col === 0) { av = DIFF_ORDER[diff(a)] ?? 3; bv = DIFF_ORDER[diff(b)] ?? 3; }
+        else if (col === 1) { av = title(a).toLowerCase(); bv = title(b).toLowerCase(); }
+        else if (col === 2) { av = parseFloat(a.Frequency || 0); bv = parseFloat(b.Frequency || 0); }
+        else if (col === 3) { av = parseFloat(a['Acceptance Rate'] || 0); bv = parseFloat(b['Acceptance Rate'] || 0); }
+        if (av < bv) return -dir;
+        if (av > bv) return dir;
+        return 0;
+    });
+}
+
+/* ═══════════════════════════════════════════════════════
+   FILTER BUTTONS
+═══════════════════════════════════════════════════════ */
+function setFilter(f, btn) {
+    currentFilter = f;
+    setActiveFilterBtn(btn.id || 'filter-all');
+    applyFilters();
+}
+
+function setActiveFilterBtn(id) {
+    ['filter-all','filter-easy','filter-medium','filter-hard'].forEach(bid => {
+        const el = document.getElementById(bid);
+        if (el) el.classList.toggle('active', bid === id);
+    });
+}
+
+/* ═══════════════════════════════════════════════════════
+   SOLVED / PROGRESS
+═══════════════════════════════════════════════════════ */
+function toggleSolved(t, checked) {
+    const key = `${currentCompany}_solved`;
+    if (!solvedProblems[key]) solvedProblems[key] = [];
+    const set = new Set(solvedProblems[key]);
+    if (checked) { set.add(t); incrementDailyCount(); }
+    else set.delete(t);
+    solvedProblems[key] = Array.from(set);
+    try { localStorage.setItem('solvedProblems', JSON.stringify(solvedProblems)); } catch(e) {}
+    updateSolvedCount();
+}
+
+/* ═══════════════════════════════════════════════════════
+   DAILY GOAL
+═══════════════════════════════════════════════════════ */
+function setDailyGoal() {
+    dailyGoal = parseInt(document.getElementById('daily-goal').value) || 5;
+    document.getElementById('mobile-daily-goal').value = dailyGoal;
+    saveDailyGoal();
+}
+function setDailyGoalMobile() {
+    dailyGoal = parseInt(document.getElementById('mobile-daily-goal').value) || 5;
+    document.getElementById('daily-goal').value = dailyGoal;
+    saveDailyGoal();
+}
+function saveDailyGoal() {
+    try { localStorage.setItem('dailyGoal', dailyGoal); } catch(e) {}
+    updateDailyUI();
+}
+
+function incrementDailyCount() {
+    const today = new Date().toISOString().split('T')[0];
+    if (lastDate !== today) { todaySolved = 0; lastDate = today; }
+    todaySolved++;
+    try { localStorage.setItem('todaySolved', todaySolved); localStorage.setItem('lastDate', lastDate); } catch(e) {}
+    updateDailyUI();
+}
+
+function updateDailyUI() {
+    const today = new Date().toISOString().split('T')[0];
+    if (lastDate !== today) todaySolved = 0;
+    const pct = Math.min((todaySolved / dailyGoal) * 100, 100);
+    const remaining = Math.max(dailyGoal - todaySolved, 0);
+    const countText = `${todaySolved} / ${dailyGoal}`;
+    const streakText = todaySolved >= dailyGoal ? 'Goal achieved!' : `+${remaining} more to goal`;
+
+    document.getElementById('today-count').textContent = countText;
+    document.getElementById('today-bar').style.width = pct + '%';
+    document.getElementById('streak-text').textContent = streakText;
+    document.getElementById('mobile-today-count').textContent = countText;
+    document.getElementById('mobile-today-bar').style.width = pct + '%';
+    document.getElementById('mobile-streak-text').textContent = streakText;
+    document.getElementById('wc-streak').textContent = todaySolved >= dailyGoal ? '1+' : '0';
+}
+
+/* ═══════════════════════════════════════════════════════
+   ACTIONS
+═══════════════════════════════════════════════════════ */
+function pickRandomProblem() {
+    const pool = filteredProblems.length ? filteredProblems : currentProblems;
+    if (!pool.length) return;
+    const p = pool[Math.floor(Math.random() * pool.length)];
+    if (p.Link) window.open(p.Link, '_blank', 'noopener');
+}
+
+function exportCurrentCSV() {
+    if (!currentProblems.length) return;
+    let csv = 'Difficulty,Title,Frequency,Acceptance Rate,Link,Topics\n';
+    currentProblems.forEach(p => {
+        csv += `"${diff(p)}","${title(p)}",${p.Frequency||0},${p['Acceptance Rate']||0},"${p.Link||''}","${p.Topics||''}"\n`;
+    });
+    const blob = new Blob([csv], { type: 'text/csv' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = `${currentCompany}_${currentPeriod.label}_problems.csv`;
+    a.click();
+    URL.revokeObjectURL(a.href);
+}
+
+/* ═══════════════════════════════════════════════════════
+   TIPS
+═══════════════════════════════════════════════════════ */
+function renderCompanyTips(company) {
+    const tips = COMPANY_TIPS[company] || DEFAULT_TIPS;
+    document.getElementById('tips-co-label').textContent = company;
+    document.getElementById('tips-co-list').innerHTML = tips.map(t => `<li>${escHtml(t)}</li>`).join('');
+}
+
+function toggleTips() {
+    tipsOpen = !tipsOpen;
+    document.getElementById('tips-content').classList.toggle('visible', tipsOpen);
+    document.getElementById('tips-arrow').classList.toggle('open', tipsOpen);
+}
+
+/* ═══════════════════════════════════════════════════════
+   MOBILE SIDEBAR
+═══════════════════════════════════════════════════════ */
+function openMobileSidebar() {
+    document.getElementById('mobile-sidebar').classList.add('open');
+    document.getElementById('mobile-overlay').style.display = 'block';
+    document.body.style.overflow = 'hidden';
+}
+function closeMobileSidebar() {
+    document.getElementById('mobile-sidebar').classList.remove('open');
+    document.getElementById('mobile-overlay').style.display = 'none';
+    document.body.style.overflow = '';
+}
+
+/* ═══════════════════════════════════════════════════════
+   UTILS
+═══════════════════════════════════════════════════════ */
+function title(p) { return p.Title || p['Problem Title'] || 'Untitled'; }
+function diff(p)  { return (p.Difficulty || '').toUpperCase(); }
+
+function escHtml(str) {
+    return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function escAttr(str) {
+    return String(str).replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+}
+
+function parseCSV(csv) {
+    const lines = csv.trim().split('\n');
+    if (lines.length < 2) return [];
+    const headers = splitCSVLine(lines[0]);
+    const data = [];
+    for (let i = 1; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (!line) continue;
+        const values = splitCSVLine(line);
+        if (values.length === headers.length) {
+            const obj = {};
+            headers.forEach((h, idx) => obj[h] = values[idx]);
+            data.push(obj);
+        }
+    }
+    return data;
+}
+
+function splitCSVLine(line) {
+    const result = [];
+    let cur = '', inQuote = false;
+    for (let i = 0; i < line.length; i++) {
+        const ch = line[i];
+        if (ch === '"') {
+            if (inQuote && line[i+1] === '"') { cur += '"'; i++; }
+            else inQuote = !inQuote;
+        } else if (ch === ',' && !inQuote) {
+            result.push(cur.trim());
+            cur = '';
+        } else {
+            cur += ch;
+        }
+    }
+    result.push(cur.trim());
+    return result;
+}
+</script>
+</body>
+</html>
