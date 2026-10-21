@@ -1,7 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Palindrome,100.0,0.005407010473118114,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-MEDIUM,Copy List with Random Pointer,100.0,0.00635090996757327,https://leetcode.com/problems/copy-list-with-random-pointer,"Hash Table, Linked List"
-HARD,Reverse Nodes in k-Group,100.0,0.006696524357301761,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
-HARD,Trapping Rain Water,100.0,0.006802796574814311,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Keys and Rooms,100.0,0.007614410976614223,https://leetcode.com/problems/keys-and-rooms,"Depth-First Search, Breadth-First Search, Graph Theory"
-MEDIUM,String to Integer (atoi),100.0,0.0021566868760801126,https://leetcode.com/problems/string-to-integer-atoi,String
+EASY,Valid Palindrome,100.0,0.005452911531004571,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+HARD,Reverse Nodes in k-Group,100.0,0.006751115079326143,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+MEDIUM,Keys and Rooms,100.0,0.007635583802779092,https://leetcode.com/problems/keys-and-rooms,"Depth-First Search, Breadth-First Search, Graph Theory"
+MEDIUM,String to Integer (atoi),100.0,0.0021919350441985844,https://leetcode.com/problems/string-to-integer-atoi,String

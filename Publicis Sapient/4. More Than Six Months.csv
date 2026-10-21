@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Sideway Jumps,100.0,0.005193363157405136,https://leetcode.com/problems/minimum-sideway-jumps,"Array, Dynamic Programming, Greedy"
-HARD,Trapping Rain Water,88.3,0.00680285179808486,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Longest Substring Without Repeating Characters,88.3,0.003977956371317374,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Longest Common Prefix,88.3,0.0048187214076762285,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-MEDIUM,Group Anagrams,88.3,0.00731290377009171,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Two Sum,88.3,0.005800958083748111,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Minimum Sideway Jumps,100.0,0.005203138968908314,https://leetcode.com/problems/minimum-sideway-jumps,"Array, Dynamic Programming, Greedy"
+HARD,Trapping Rain Water,88.4,0.006842252605326906,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Longest Substring Without Repeating Characters,88.4,0.004001910038932497,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Longest Common Prefix,88.4,0.004853663857744087,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Longest Repeating Character Replacement,88.4,0.0060876711232487534,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"

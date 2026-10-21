@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Authentication Manager,100.0,0.0058669871346990485,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Logger Rate Limiter,80.2,0.007688314472535719,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Design Authentication Manager,100.0,0.005885515024286555,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Logger Rate Limiter,78.8,0.007691836422116709,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"

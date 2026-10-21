@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Substring XOR Queries,100.0,0.0035909071541181986,https://leetcode.com/problems/substring-xor-queries,"Array, Hash Table, String, Bit Manipulation"
-HARD,Handling Sum Queries After Update,100.0,0.003178260227440555,https://leetcode.com/problems/handling-sum-queries-after-update,"Array, Segment Tree"
-MEDIUM,Bitwise XOR of All Pairings,100.0,0.006688367755750501,https://leetcode.com/problems/bitwise-xor-of-all-pairings,"Array, Bit Manipulation, Brainteaser"
-HARD,Minimum Time to Kill All Monsters,100.0,0.005779104477611941,https://leetcode.com/problems/minimum-time-to-kill-all-monsters,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
-MEDIUM,Fraction Addition and Subtraction,77.3,0.006656669888377206,https://leetcode.com/problems/fraction-addition-and-subtraction,"Math, String, Simulation, Euclidean Algorithm, Greatest Common Divisor"
-MEDIUM,Range Product Queries of Powers,68.0,0.006120184318642893,https://leetcode.com/problems/range-product-queries-of-powers,"Array, Bit Manipulation, Prefix Sum"
+MEDIUM,Substring XOR Queries,100.0,0.0036159585230146683,https://leetcode.com/problems/substring-xor-queries,"Array, Hash Table, String, Bit Manipulation"
+HARD,Handling Sum Queries After Update,100.0,0.0032375036116729272,https://leetcode.com/problems/handling-sum-queries-after-update,"Array, Segment Tree"
+MEDIUM,Bitwise XOR of All Pairings,100.0,0.006688211427444051,https://leetcode.com/problems/bitwise-xor-of-all-pairings,"Array, Bit Manipulation, Brainteaser"
+HARD,Minimum Time to Kill All Monsters,100.0,0.005638817111685329,https://leetcode.com/problems/minimum-time-to-kill-all-monsters,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+MEDIUM,Fraction Addition and Subtraction,77.5,0.006670944027675936,https://leetcode.com/problems/fraction-addition-and-subtraction,"Math, String, Simulation, Euclidean Algorithm, Greatest Common Divisor"
+MEDIUM,Range Product Queries of Powers,68.2,0.006119820771778668,https://leetcode.com/problems/range-product-queries-of-powers,"Array, Bit Manipulation, Prefix Sum"

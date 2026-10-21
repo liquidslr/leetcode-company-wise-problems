@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Group Anagrams,100.0,0.0073128561363822375,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Number of Islands,81.7,0.0064959996125990346,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
-HARD,LFU Cache,81.7,0.005002874263165587,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Time Based Key-Value Store,81.7,0.005012873077888558,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,LRU Cache,100.0,0.0048257079210811925,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Merge Intervals,92.3,0.005302580879627763,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Best Time to Buy and Sell Stock,81.5,0.005752115273152004,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Longest Substring Without Repeating Characters,81.5,0.004001909291123964,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

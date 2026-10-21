@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring with At Most K Distinct Characters,100.0,0.005010001189732608,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
-HARD,Find Median from Data Stream,100.0,0.005487696550232968,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,LRU Cache,100.0,0.00482572276559634,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Cheapest Flights Within K Stops,82.0,0.004272271281705025,https://leetcode.com/problems/cheapest-flights-within-k-stops,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path"
+HARD,Making A Large Island,82.0,0.005732221093462556,https://leetcode.com/problems/making-a-large-island,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,All Nodes Distance K in Binary Tree,82.0,0.006818732179822678,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"

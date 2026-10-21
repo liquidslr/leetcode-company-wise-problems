@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimize Result by Adding Parentheses to Expression,100.0,0.006833432978596199,https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression,"String, Enumeration"
+MEDIUM,Merge Intervals,100.0,0.005302558667894053,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"

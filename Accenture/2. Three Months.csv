@@ -1,4 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Consecutive Numbers,100.0,0.004908294908655094,https://leetcode.com/problems/consecutive-numbers,Database
-HARD,Largest Rectangle in Histogram,88.6,0.005066326280307808,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack, Range Minimum/Maximum Query"
-EASY,Palindrome Number,88.6,0.006087440701351663,https://leetcode.com/problems/palindrome-number,Math
+EASY,Two Sum,100.0,0.005803618456370095,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Substring Without Repeating Characters,88.2,0.0040019110558488,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Best Time to Buy and Sell Stock,88.2,0.005752114965245343,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Majority Element,88.2,0.0066535591945468715,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm"
+EASY,Isomorphic Strings,88.2,0.004925796769670758,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
+MEDIUM,Second Highest Salary,88.2,0.00487627023687468,https://leetcode.com/problems/second-highest-salary,Database

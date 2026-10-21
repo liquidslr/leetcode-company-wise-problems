@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Best Time to Buy and Sell Stock II,100.0,0.007150145044640653,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
-MEDIUM,Design Hit Counter,89.1,0.006974266759846454,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
-MEDIUM,Car Pooling,89.1,0.005647517923586532,https://leetcode.com/problems/car-pooling,"Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum"
-EASY,Max Consecutive Ones,89.1,0.006591762148051581,https://leetcode.com/problems/max-consecutive-ones,Array
-MEDIUM,Container With Most Water,89.1,0.006064805437323167,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Best Time to Buy and Sell Stock II,100.0,0.007176543330576482,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Design Hit Counter,89.2,0.006977393130626644,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,Car Pooling,89.2,0.005657425241857692,https://leetcode.com/problems/car-pooling,"Array, Sorting, Heap (Priority Queue), Simulation, Prefix Sum"
+EASY,Max Consecutive Ones,89.2,0.006632998490120299,https://leetcode.com/problems/max-consecutive-ones,Array

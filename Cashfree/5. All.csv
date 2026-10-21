@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,House Robber IV,100.0,0.006457240782195585,https://leetcode.com/problems/house-robber-iv,"Array, Binary Search, Dynamic Programming, Greedy"
-MEDIUM,Maximum Erasure Value,95.3,0.006439779260564858,https://leetcode.com/problems/maximum-erasure-value,"Array, Hash Table, Sliding Window"
-MEDIUM,Find K Closest Elements,66.0,0.005001239284862486,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
-HARD,Minimum Edge Reversals So Every Node Is Reachable,66.0,0.005979448085239178,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory"
-MEDIUM,Sum of Subarray Minimums,66.0,0.00389497810983192,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"
-EASY,Roman to Integer,66.0,0.006704913157720514,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,House Robber IV,100.0,0.00644774263528976,https://leetcode.com/problems/house-robber-iv,"Array, Binary Search, Dynamic Programming, Greedy"
+MEDIUM,Maximum Erasure Value,95.2,0.006452505252632515,https://leetcode.com/problems/maximum-erasure-value,"Array, Hash Table, Sliding Window"
+MEDIUM,Find K Closest Elements,65.6,0.00501997368886366,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
+HARD,Minimum Edge Reversals So Every Node Is Reachable,65.6,0.0060150472090198005,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory"
+MEDIUM,Sum of Subarray Minimums,65.6,0.003907144774688398,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Roman to Integer,65.6,0.006731048701156742,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"

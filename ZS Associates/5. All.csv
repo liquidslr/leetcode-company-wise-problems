@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Second Highest Salary,100.0,0.004798861918631776,https://leetcode.com/problems/second-highest-salary,Database
-MEDIUM,Nth Highest Salary,88.4,0.003990504454279138,https://leetcode.com/problems/nth-highest-salary,Database
-MEDIUM,Product of Array Except Self,88.4,0.0069164586043501276,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
-EASY,Valid Parentheses,88.4,0.004472573332822307,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-MEDIUM,Longest Palindromic Substring,88.4,0.0038471229639906878,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-MEDIUM,Sum of Subarray Minimums,88.4,0.0038950212291676113,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Product of Array Except Self,100.0,0.006937999643814856,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,Second Highest Salary,100.0,0.004876290571699043,https://leetcode.com/problems/second-highest-salary,Database
+MEDIUM,Longest Palindromic Substring,88.4,0.0038866746050618384,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Sum of Subarray Minimums,88.4,0.0039071548334742075,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Department Top Three Salaries,88.4,0.006218836372954081,https://leetcode.com/problems/department-top-three-salaries,Database

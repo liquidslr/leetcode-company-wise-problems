@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.004472570758542255,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-MEDIUM,LRU Cache,79.2,0.004786900551133637,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Ransom Note,79.2,0.0066314493843669066,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
-MEDIUM,Min Stack,70.6,0.005855048421020332,https://leetcode.com/problems/min-stack,"Stack, Design"
+EASY,Valid Parentheses,100.0,0.004534115794435866,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+EASY,Ransom Note,74.1,0.006656118581889899,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
+MEDIUM,LRU Cache,66.0,0.00482572276559634,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Min Stack,66.0,0.005879070763921007,https://leetcode.com/problems/min-stack,"Stack, Design"

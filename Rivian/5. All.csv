@@ -1,10 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.0064960546166425515,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
-MEDIUM,LRU Cache,100.0,0.004786902323387324,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Degree of an Array,92.2,0.0058602424860898505,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"
-MEDIUM,Flatten Deeply Nested Array,81.1,0.006614240056275136,https://leetcode.com/problems/flatten-deeply-nested-array,
-MEDIUM,String Compression,81.1,0.006060163705313572,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-EASY,Rotate String,81.1,0.006666962036533033,https://leetcode.com/problems/rotate-string,"String, String Matching"
-HARD,Merge k Sorted Lists,81.1,0.006029401193093561,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
-MEDIUM,Max Increase to Keep City Skyline,81.1,0.008642547098044483,https://leetcode.com/problems/max-increase-to-keep-city-skyline,"Array, Greedy, Matrix"
-MEDIUM,Basic Calculator II,81.1,0.004708543633336923,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Number of Islands,100.0,0.006531447563585735,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,LRU Cache,100.0,0.004825722526820416,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Degree of an Array,92.3,0.005877490719144511,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"
+MEDIUM,Flatten Deeply Nested Array,81.4,0.006628767451614837,https://leetcode.com/problems/flatten-deeply-nested-array,
+MEDIUM,String Compression,81.4,0.006096660388761685,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+HARD,Merge k Sorted Lists,81.4,0.006078441000115255,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
+MEDIUM,Max Increase to Keep City Skyline,81.4,0.008647435869040394,https://leetcode.com/problems/max-increase-to-keep-city-skyline,"Array, Greedy, Matrix"
+MEDIUM,Basic Calculator II,81.4,0.004727707403219298,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"

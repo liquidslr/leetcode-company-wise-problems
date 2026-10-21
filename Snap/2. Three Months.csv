@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Merge k Sorted Lists,100.0,0.00602940576003699,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
-HARD,Split Array Largest Sum,100.0,0.006119260048615028,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
-MEDIUM,Meeting Rooms II,100.0,0.005277670537160305,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+HARD,Split Array Largest Sum,100.0,0.00616398764714997,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+MEDIUM,Meeting Rooms II,100.0,0.0052845025342410645,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.007481790363163736,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"

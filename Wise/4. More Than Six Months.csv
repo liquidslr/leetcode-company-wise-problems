@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximal Square,100.0,0.005074676265817781,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
-MEDIUM,Design Tic-Tac-Toe,75.5,0.005875625669705109,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
-MEDIUM,Subarray Product Less Than K,67.3,0.005485891529639582,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Number of Perfect Pairs,100.0,0.0034693733401141434,https://leetcode.com/problems/number-of-perfect-pairs,"Array, Math, Two Pointers, Sorting"
+MEDIUM,Maximal Square,93.0,0.005105154155919983,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+MEDIUM,Design Tic-Tac-Toe,93.0,0.0058769802589026246,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"

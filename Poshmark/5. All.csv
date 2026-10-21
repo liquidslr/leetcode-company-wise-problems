@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Market Analysis II,100.0,0.005781279265780108,https://leetcode.com/problems/market-analysis-ii,Database
-MEDIUM,Count Unguarded Cells in the Grid,97.5,0.0069157652042638705,https://leetcode.com/problems/count-unguarded-cells-in-the-grid,"Array, Matrix, Simulation"
-MEDIUM,Market Analysis I,97.5,0.005764563557381716,https://leetcode.com/problems/market-analysis-i,Database
-MEDIUM,Max Chunks To Make Sorted,76.5,0.006424614719709907,https://leetcode.com/problems/max-chunks-to-make-sorted,"Array, Stack, Greedy, Sorting, Monotonic Stack"
+HARD,Market Analysis II,100.0,0.00578363640564708,https://leetcode.com/problems/market-analysis-ii,Database
+MEDIUM,Count Unguarded Cells in the Grid,97.5,0.006915321129138879,https://leetcode.com/problems/count-unguarded-cells-in-the-grid,"Array, Matrix, Simulation"
+MEDIUM,Market Analysis I,97.5,0.005821426354114006,https://leetcode.com/problems/market-analysis-i,Database
+MEDIUM,Max Chunks To Make Sorted,76.5,0.006441340028634865,https://leetcode.com/problems/max-chunks-to-make-sorted,"Array, Stack, Greedy, Sorting, Monotonic Stack"

@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Number Complement,100.0,0.007053109242862149,https://leetcode.com/problems/number-complement,Bit Manipulation
-EASY,Complement of Base 10 Integer,97.5,0.006341195170842446,https://leetcode.com/problems/complement-of-base-10-integer,Bit Manipulation
-MEDIUM,Lexicographically Smallest Equivalent String,68.1,0.008108210630959803,https://leetcode.com/problems/lexicographically-smallest-equivalent-string,"String, Union-Find"
+EASY,Number Complement,100.0,0.007061886869047517,https://leetcode.com/problems/number-complement,Bit Manipulation
+EASY,Complement of Base 10 Integer,97.5,0.006339393309359702,https://leetcode.com/problems/complement-of-base-10-integer,Bit Manipulation

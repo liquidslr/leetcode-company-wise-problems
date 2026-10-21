@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Strange Printer,100.0,0.0060980229188425834,https://leetcode.com/problems/strange-printer,"String, Dynamic Programming"
-MEDIUM,Most Profit Assigning Work,97.7,0.005631316893047863,https://leetcode.com/problems/most-profit-assigning-work,"Array, Two Pointers, Binary Search, Greedy, Sorting"
+HARD,Strange Printer,100.0,0.006104271793979468,https://leetcode.com/problems/strange-printer,"String, Dynamic Programming"
+MEDIUM,Most Profit Assigning Work,95.6,0.005640206554298743,https://leetcode.com/problems/most-profit-assigning-work,"Array, Two Pointers, Binary Search, Greedy, Sorting"

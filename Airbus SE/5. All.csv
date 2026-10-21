@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Number of Good Pairs II,100.0,0.0026732438415855504,https://leetcode.com/problems/find-the-number-of-good-pairs-ii,"Array, Hash Table"
-EASY,Find the Number of Good Pairs I,97.4,0.008667475028405718,https://leetcode.com/problems/find-the-number-of-good-pairs-i,"Array, Hash Table"
-MEDIUM,Minimum Array Changes to Make Differences Equal,97.4,0.002468252135765412,https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal,"Array, Hash Table, Prefix Sum"
-EASY,Two Sum,87.1,0.005800918768980581,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Find the Number of Good Pairs II,100.0,0.0026844115748896756,https://leetcode.com/problems/find-the-number-of-good-pairs-ii,"Array, Hash Table"
+EASY,Find the Number of Good Pairs I,97.4,0.008623896971142379,https://leetcode.com/problems/find-the-number-of-good-pairs-i,"Array, Hash Table"
+MEDIUM,Minimum Array Changes to Make Differences Equal,97.4,0.0024926659332599925,https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal,"Array, Hash Table, Prefix Sum"
+EASY,Two Sum,87.0,0.0058036186104118035,https://leetcode.com/problems/two-sum,"Array, Hash Table"

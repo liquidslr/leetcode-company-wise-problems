@@ -1,8 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Most Stones Removed with Same Row or Column,100.0,0.006338948081995962,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column,"Hash Table, Depth-First Search, Union-Find, Graph Theory, Bipartite Graph"
-HARD,Reconstruct Itinerary,82.0,0.0044899816563326485,https://leetcode.com/problems/reconstruct-itinerary,"Array, String, Depth-First Search, Graph Theory, Sorting, Heap (Priority Queue), Eulerian Circuit, Eulerian Path, Semi-Eulerian Graph"
-MEDIUM,Predict the Winner,82.0,0.005988115143154592,https://leetcode.com/problems/predict-the-winner,"Array, Math, Dynamic Programming, Recursion, Minimax, Game Theory, Zero-Sum Game"
-MEDIUM,Make Lexicographically Smallest Array by Swapping Elements,82.0,0.006013827430412206,https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements,"Array, Union-Find, Sorting"
-HARD,Minimum Cost to Reach Destination in Time,82.0,0.0042231413096996545,https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time,"Array, Dynamic Programming, Graph Theory, Dijkstra's Algorithm"
-MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,82.0,0.0057919253562861575,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,"Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue"
-HARD,Count Subarrays With Fixed Bounds,82.0,0.006917437440700361,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
+MEDIUM,Most Stones Removed with Same Row or Column,100.0,0.006355742991813446,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column,"Hash Table, Depth-First Search, Union-Find, Graph Theory, Bipartite Graph"
+HARD,Count Subarrays With Fixed Bounds,87.1,0.006916759694349974,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
+MEDIUM,Predict the Winner,76.8,0.00600343139728516,https://leetcode.com/problems/predict-the-winner,"Array, Math, Dynamic Programming, Recursion, Minimax, Game Theory, Zero-Sum Game"
+MEDIUM,Make Lexicographically Smallest Array by Swapping Elements,76.8,0.006652271279152522,https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements,"Array, Union-Find, Sorting"
+HARD,Serialize and Deserialize Binary Tree,76.8,0.006127522680012756,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"

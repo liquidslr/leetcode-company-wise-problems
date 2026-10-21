@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Diagonal Traverse,100.0,0.006736865468671831,https://leetcode.com/problems/diagonal-traverse,"Array, Matrix, Simulation"
-MEDIUM,Random Pick with Weight,90.1,0.004921193509565506,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
-MEDIUM,Diagonal Traverse II,90.1,0.0058344710776800325,https://leetcode.com/problems/diagonal-traverse-ii,"Array, Sorting, Heap (Priority Queue)"
-HARD,N-Queens II,90.1,0.0079193746239949,https://leetcode.com/problems/n-queens-ii,"Backtracking, Algorithm X"
+MEDIUM,Diagonal Traverse,100.0,0.006754085216285016,https://leetcode.com/problems/diagonal-traverse,"Array, Matrix, Simulation"
+MEDIUM,Diagonal Traverse II,100.0,0.005835822613968542,https://leetcode.com/problems/diagonal-traverse-ii,"Array, Sorting, Heap (Priority Queue)"
+HARD,N-Queens II,100.0,0.007950453434751831,https://leetcode.com/problems/n-queens-ii,"Backtracking, Algorithm X"
+MEDIUM,Random Pick with Weight,94.9,0.0049317337410403105,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"

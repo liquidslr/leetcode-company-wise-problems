@@ -1,7 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Largest 3-Same-Digit Number in String,100.0,0.007266042166856903,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
-HARD,Block Placement Queries,77.2,0.004141530323533029,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set"
-MEDIUM,Zigzag Conversion,67.8,0.005489181376629676,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Successful Pairs of Spells and Potions,67.8,0.00498110765401369,https://leetcode.com/problems/successful-pairs-of-spells-and-potions,"Array, Two Pointers, Binary Search, Sorting"
-MEDIUM,Min Cost to Connect All Points,67.8,0.007156210616738347,https://leetcode.com/problems/min-cost-to-connect-all-points,"Array, Union-Find, Graph Theory, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm"
-EASY,Best Time to Buy and Sell Stock,67.8,0.00572513154526733,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Largest 3-Same-Digit Number in String,100.0,0.007268494433461658,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
+HARD,Block Placement Queries,77.0,0.004097055873502862,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set"
+MEDIUM,Zigzag Conversion,67.5,0.005537299999726853,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Successful Pairs of Spells and Potions,67.5,0.004993783747770523,https://leetcode.com/problems/successful-pairs-of-spells-and-potions,"Array, Two Pointers, Binary Search, Sorting"
+MEDIUM,Min Cost to Connect All Points,67.5,0.007194192650030034,https://leetcode.com/problems/min-cost-to-connect-all-points,"Array, Union-Find, Graph Theory, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm"
+EASY,Best Time to Buy and Sell Stock,67.5,0.005752125545021008,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Peak Index in a Mountain Array,67.5,0.006662175479541382,https://leetcode.com/problems/peak-index-in-a-mountain-array,"Array, Binary Search, Ternary Search"
+EASY,Two Sum,67.5,0.005803622953737174,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Decode String,67.5,0.006337493392216568,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Search in Rotated Sorted Array,67.5,0.004579983914585959,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"

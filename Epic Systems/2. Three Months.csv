@@ -1,1 +1,3 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Additive Number,100.0,0.0034698982070157456,https://leetcode.com/problems/additive-number,"String, Backtracking"
+MEDIUM,Spiral Matrix,100.0,0.005814591385998864,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

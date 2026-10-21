@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Walking Robot Simulation,100.0,0.006462662164475529,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
-MEDIUM,LRU Cache,80.3,0.004786895677649352,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Encode and Decode TinyURL,65.3,0.008660179620316994,https://leetcode.com/problems/encode-and-decode-tinyurl,"Hash Table, String, Design, Hash Function"
-MEDIUM,Paint House,65.3,0.006452233787361473,https://leetcode.com/problems/paint-house,"Array, Dynamic Programming"
-HARD,Design In-Memory File System,52.4,0.004831368860605818,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
+MEDIUM,Walking Robot Simulation,100.0,0.006462284958094398,https://leetcode.com/problems/walking-robot-simulation,"Array, Hash Table, Simulation"
+MEDIUM,LRU Cache,83.3,0.004825722526820416,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Paint House,69.9,0.006460408465897243,https://leetcode.com/problems/paint-house,"Array, Dynamic Programming"
+MEDIUM,Encode and Decode TinyURL,64.3,0.008631419086913865,https://leetcode.com/problems/encode-and-decode-tinyurl,"Hash Table, String, Design, Hash Function"

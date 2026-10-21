@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Concatenation of Array,100.0,0.009007573583747595,https://leetcode.com/problems/concatenation-of-array,"Array, Simulation"
-MEDIUM,Evaluate Division,78.8,0.006450714352243161,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm"
-HARD,Median of Two Sorted Arrays,70.0,0.004736971971856652,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Concatenation of Array,100.0,0.008994129478058945,https://leetcode.com/problems/concatenation-of-array,"Array, Simulation"
+MEDIUM,Evaluate Division,70.1,0.006467511414493786,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm"
+HARD,Median of Two Sorted Arrays,70.1,0.004785841111513346,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"

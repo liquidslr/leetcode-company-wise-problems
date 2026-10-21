@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Browser History,100.0,0.007844289892866441,https://leetcode.com/problems/design-browser-history,"Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
-MEDIUM,Daily Temperatures,74.6,0.006905662988356332,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,Design Browser History,100.0,0.007860299203319926,https://leetcode.com/problems/design-browser-history,"Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
+MEDIUM,Daily Temperatures,82.7,0.006927663859642001,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"

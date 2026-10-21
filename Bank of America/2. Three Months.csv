@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Pascal's Triangle,100.0,0.007947626753055527,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"

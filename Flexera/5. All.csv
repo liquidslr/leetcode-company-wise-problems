@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Lexicographically Minimum String After Removing Stars,100.0,0.005086538421213761,https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars,"Hash Table, String, Stack, Greedy, Heap (Priority Queue)"
-EASY,Clear Digits,100.0,0.008269975759497972,https://leetcode.com/problems/clear-digits,"String, Stack, Simulation"
+MEDIUM,Lexicographically Minimum String After Removing Stars,100.0,0.0050882070949185045,https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars,"Hash Table, String, Stack, Greedy, Heap (Priority Queue)"
+EASY,Clear Digits,100.0,0.008277725452934035,https://leetcode.com/problems/clear-digits,"String, Stack, Simulation"

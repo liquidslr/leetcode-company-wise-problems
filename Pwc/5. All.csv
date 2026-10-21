@@ -1,5 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.005800958083748111,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Longest Common Prefix,83.3,0.0048187214076762285,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-HARD,Median of Two Sorted Arrays,73.6,0.004736982829774125,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-EASY,Roman to Integer,73.6,0.006704944612057574,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+EASY,Two Sum,100.0,0.005803622953737174,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Longest Common Prefix,83.2,0.004853663857744087,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Roman to Integer,73.4,0.006731049494007383,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Next Permutation,73.4,0.004639579181058852,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+MEDIUM,Longest Substring Without Repeating Characters,73.4,0.004001910038932497,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Valid Parenthesis String,73.4,0.0042949285386013804,https://leetcode.com/problems/valid-parenthesis-string,"String, Dynamic Programming, Stack, Greedy, Bracket Sequences"
+EASY,Valid Palindrome,73.4,0.005452920157418918,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"

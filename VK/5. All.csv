@@ -1,14 +1,13 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximize Distance to Closest Person,100.0,0.004997681957791178,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
-EASY,Valid Parentheses,86.7,0.004472570758542255,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-EASY,Two Sum,81.6,0.00580095815633082,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Move Zeroes,75.1,0.006426543691680157,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-EASY,Valid Palindrome,75.1,0.0054070531867822635,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-EASY,Summary Ranges,75.1,0.005461932179938425,https://leetcode.com/problems/summary-ranges,Array
-MEDIUM,Longest Subarray of 1's After Deleting One Element,75.1,0.007148329398357156,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"Array, Dynamic Programming, Sliding Window"
-MEDIUM,Longest Substring Without Repeating Characters,66.0,0.003977958985093826,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Compare Version Numbers,66.0,0.004686023999597036,https://leetcode.com/problems/compare-version-numbers,"Two Pointers, String"
-MEDIUM,Merge Intervals,66.0,0.005257660287454545,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-EASY,Symmetric Tree,66.0,0.006182594721888896,https://leetcode.com/problems/symmetric-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-EASY,Best Time to Buy and Sell Stock,66.0,0.005725131591964092,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Permutation in String,66.0,0.004952185208884229,https://leetcode.com/problems/permutation-in-string,"Hash Table, Two Pointers, String, Sliding Window"
+MEDIUM,Maximize Distance to Closest Person,100.0,0.005014144723563999,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+EASY,Valid Parentheses,84.0,0.004534117415370311,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+EASY,Two Sum,84.0,0.005803622308911278,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Move Zeroes,77.4,0.006450128371025824,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Summary Ranges,77.4,0.00548729070474973,https://leetcode.com/problems/summary-ranges,Array
+MEDIUM,Longest Subarray of 1's After Deleting One Element,77.4,0.007164373235285464,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"Array, Dynamic Programming, Sliding Window"
+EASY,Valid Palindrome,68.0,0.005452924144923419,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Longest Substring Without Repeating Characters,68.0,0.004001913168512742,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Compare Version Numbers,68.0,0.004713094428566315,https://leetcode.com/problems/compare-version-numbers,"Two Pointers, String"
+MEDIUM,Merge Intervals,68.0,0.0053025648312917985,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Symmetric Tree,68.0,0.006218974931496199,https://leetcode.com/problems/symmetric-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Permutation in String,68.0,0.004992714672574866,https://leetcode.com/problems/permutation-in-string,"Hash Table, Two Pointers, String, Sliding Window"

@@ -1,12 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Binary Tree Maximum Path Sum,100.0,0.004266444603027717,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees"
-MEDIUM,Longest Substring with At Least K Repeating Characters,100.0,0.004656532009866387,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters,"Hash Table, String, Divide and Conquer, Sliding Window"
-MEDIUM,Integer Replacement,100.0,0.003789076001592573,https://leetcode.com/problems/integer-replacement,"Dynamic Programming, Greedy, Bit Manipulation, Memoization"
-HARD,Split Array Largest Sum,100.0,0.006119151789018185,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
-MEDIUM,Arithmetic Slices,100.0,0.0064878552370925035,https://leetcode.com/problems/arithmetic-slices,"Array, Dynamic Programming, Sliding Window"
-HARD,Arithmetic Slices II - Subsequence,100.0,0.005521608540108282,https://leetcode.com/problems/arithmetic-slices-ii-subsequence,"Array, Dynamic Programming"
-HARD,Zuma Game,100.0,0.0029360087380651966,https://leetcode.com/problems/zuma-game,"String, Dynamic Programming, Stack, Breadth-First Search, Memoization"
-MEDIUM,Out of Boundary Paths,100.0,0.004854483449354777,https://leetcode.com/problems/out-of-boundary-paths,Dynamic Programming
-HARD,Design In-Memory File System,100.0,0.004831380475423341,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
-MEDIUM,Length of Longest Fibonacci Subsequence,100.0,0.005757466757083468,https://leetcode.com/problems/length-of-longest-fibonacci-subsequence,"Array, Hash Table, Dynamic Programming"
-MEDIUM,Search a 2D Matrix II,66.2,0.005790394323149824,https://leetcode.com/problems/search-a-2d-matrix-ii,"Array, Binary Search, Divide and Conquer, Matrix"
+HARD,Binary Tree Maximum Path Sum,100.0,0.004289440691024081,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees"
+MEDIUM,Longest Substring with At Least K Repeating Characters,100.0,0.0046874977213299555,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters,"Hash Table, String, Divide and Conquer, Sliding Window"
+MEDIUM,Integer Replacement,100.0,0.0038192047435152594,https://leetcode.com/problems/integer-replacement,"Dynamic Programming, Greedy, Bit Manipulation, Memoization"
+HARD,Split Array Largest Sum,100.0,0.006163993543404694,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+MEDIUM,Arithmetic Slices,100.0,0.006495415587841436,https://leetcode.com/problems/arithmetic-slices,"Array, Dynamic Programming, Sliding Window"
+HARD,Arithmetic Slices II - Subsequence,100.0,0.0055372491033788464,https://leetcode.com/problems/arithmetic-slices-ii-subsequence,"Array, Dynamic Programming"
+HARD,Zuma Game,100.0,0.002893419650612011,https://leetcode.com/problems/zuma-game,"String, Dynamic Programming, Stack, Breadth-First Search, Memoization"
+MEDIUM,Out of Boundary Paths,100.0,0.0048612805784607055,https://leetcode.com/problems/out-of-boundary-paths,Dynamic Programming
+HARD,Design In-Memory File System,100.0,0.004834499660436413,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"
+MEDIUM,Length of Longest Fibonacci Subsequence,100.0,0.0057562876476284375,https://leetcode.com/problems/length-of-longest-fibonacci-subsequence,"Array, Hash Table, Dynamic Programming"

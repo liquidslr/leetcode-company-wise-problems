@@ -1,1 +1,3 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum Star Sum of a Graph,100.0,0.004295092216317599,https://leetcode.com/problems/maximum-star-sum-of-a-graph,"Array, Greedy, Graph Theory, Sorting, Heap (Priority Queue)"
+HARD,Minimize Malware Spread,100.0,0.004354806557800992,https://leetcode.com/problems/minimize-malware-spread,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"

@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Koko Eating Bananas,100.0,0.005039601563705072,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+HARD,Distinct Subsequences,100.0,0.005441601467879892,https://leetcode.com/problems/distinct-subsequences,"String, Dynamic Programming"

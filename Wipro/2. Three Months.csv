@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Best Time to Buy and Sell Stock,100.0,0.005752123158966607,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

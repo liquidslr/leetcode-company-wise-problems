@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Integer to English Words,100.0,0.003516291731184657,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
-MEDIUM,Time Based Key-Value Store,85.8,0.0050128819781672515,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,Add Bold Tag in String,77.8,0.005148832416585635,https://leetcode.com/problems/add-bold-tag-in-string,"Array, Hash Table, String, Trie, String Matching, Aho–Corasick Algorithm"
-EASY,Distribute Money to Maximum Children,67.3,0.0020735325666775954,https://leetcode.com/problems/distribute-money-to-maximum-children,"Math, Greedy"
-MEDIUM,House Robber,50.9,0.005350272910647792,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"
+HARD,Integer to English Words,100.0,0.0035309245732496595,https://leetcode.com/problems/integer-to-english-words,"Math, String, Recursion"
+MEDIUM,Time Based Key-Value Store,83.1,0.005025845844229252,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Add Bold Tag in String,77.9,0.005153145595587633,https://leetcode.com/problems/add-bold-tag-in-string,"Array, Hash Table, String, Trie, String Matching, Aho–Corasick Algorithm"
+EASY,Distribute Money to Maximum Children,67.5,0.0020868644907601932,https://leetcode.com/problems/distribute-money-to-maximum-children,"Math, Greedy"
+MEDIUM,House Robber,51.1,0.0053686288806417525,https://leetcode.com/problems/house-robber,"Array, Dynamic Programming"

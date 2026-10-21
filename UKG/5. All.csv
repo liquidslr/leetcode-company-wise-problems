@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Special Binary String,100.0,0.007943574057109139,https://leetcode.com/problems/special-binary-string,"String, Divide and Conquer, Sorting"
-MEDIUM,Maximum Area Rectangle With Point Constraints I,100.0,0.005238169027179471,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i,"Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting, Enumeration"
-HARD,Maximum Area Rectangle With Point Constraints II,100.0,0.002367239831503349,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii,"Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting"
-MEDIUM,Minimum Length of Anagram Concatenation,78.7,0.003971273781025577,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
-EASY,Two Sum,78.7,0.00580095815633082,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Count the Number of Good Subsequences,78.7,0.004828411811652035,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
-MEDIUM,Maximize Greatness of an Array,78.7,0.006211831928088635,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
-EASY,Valid Word,72.0,0.005084752246113829,https://leetcode.com/problems/valid-word,String
-HARD,Split Array Largest Sum,72.0,0.006119260048615028,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
-MEDIUM,Make a Positive Array,62.6,0.003668384879725085,https://leetcode.com/problems/make-a-positive-array,"Array, Greedy, Prefix Sum"
-EASY,Valid Palindrome,62.6,0.0054070531867822635,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Maximum Area Rectangle With Point Constraints I,100.0,0.005109275918006194,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i,"Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting, Enumeration"
+HARD,Maximum Area Rectangle With Point Constraints II,100.0,0.002433126182112942,https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii,"Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting"
+HARD,Special Binary String,94.9,0.007941563930156941,https://leetcode.com/problems/special-binary-string,"String, Divide and Conquer, Sorting"
+EASY,Two Sum,78.9,0.005803622308911278,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Count the Number of Good Subsequences,78.9,0.004749343257443082,https://leetcode.com/problems/count-the-number-of-good-subsequences,"Hash Table, Math, String, Combinatorics, Counting"
+MEDIUM,Minimum Length of Anagram Concatenation,72.3,0.003980434290884415,https://leetcode.com/problems/minimum-length-of-anagram-concatenation,"Hash Table, String, Counting"
+EASY,Valid Word,72.3,0.005087176789505611,https://leetcode.com/problems/valid-word,String
+MEDIUM,Maximize Greatness of an Array,72.3,0.006165164440152368,https://leetcode.com/problems/maximize-greatness-of-an-array,"Array, Two Pointers, Greedy, Sorting"
+HARD,Split Array Largest Sum,72.3,0.006163990825688074,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+MEDIUM,Make a Positive Array,63.0,0.0037215909090909088,https://leetcode.com/problems/make-a-positive-array,"Array, Greedy, Prefix Sum"
+EASY,Valid Palindrome,63.0,0.005452924144923419,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"

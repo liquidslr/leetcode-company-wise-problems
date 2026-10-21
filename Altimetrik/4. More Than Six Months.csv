@@ -1,2 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Swap Nodes in Pairs,100.0,0.0070104841794785076,https://leetcode.com/problems/swap-nodes-in-pairs,"Linked List, Recursion"
+EASY,Two Sum,100.0,0.0058036186104118035,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Swap Nodes in Pairs,89.1,0.007042727090202758,https://leetcode.com/problems/swap-nodes-in-pairs,"Linked List, Recursion"
+EASY,Valid Parentheses,89.1,0.004534109611050791,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"

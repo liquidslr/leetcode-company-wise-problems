@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Delete and Earn,100.0,0.00574781085384071,https://leetcode.com/problems/delete-and-earn,"Array, Hash Table, Dynamic Programming"
-MEDIUM,Merge Intervals,83.1,0.005257646418354588,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-EASY,Shuffle the Array,73.2,0.008869461172012812,https://leetcode.com/problems/shuffle-the-array,Array
-EASY,Maximum Length Substring With Two Occurrences,73.2,0.007766266290217097,https://leetcode.com/problems/maximum-length-substring-with-two-occurrences,"Hash Table, String, Sliding Window"
+MEDIUM,Merge Intervals,100.0,0.005302569119984081,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Maximum Length Substring With Two Occurrences,88.7,0.007775085669429222,https://leetcode.com/problems/maximum-length-substring-with-two-occurrences,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Substring Without Repeating Characters,88.7,0.004001909965539573,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Maximum Employees to Be Invited to a Meeting,88.7,0.006175312481069402,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting,"Array, Dynamic Programming, Depth-First Search, Graph Theory, Topological Sort, Kosaraju's Algorithm, Tarjan's SCC Algorithm"

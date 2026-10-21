@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Largest Palindromic Number,100.0,0.003748769378191412,https://leetcode.com/problems/largest-palindromic-number,"Hash Table, String, Greedy, Counting"

@@ -1,36 +1,37 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Merge k Sorted Lists,100.0,0.006029385293205945,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
-EASY,Two Sum,96.3,0.0058009511386919775,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Second Highest Salary,83.5,0.004798833653506317,https://leetcode.com/problems/second-highest-salary,Database
-MEDIUM,Longest Palindromic Substring,79.8,0.0038471098577563916,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-EASY,Valid Parentheses,79.8,0.004472563820601804,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-EASY,Best Time to Buy and Sell Stock,79.8,0.005725128351781153,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Longest Common Prefix,75.5,0.0048187220554086405,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-EASY,Palindrome Number,70.2,0.006087450266745969,https://leetcode.com/problems/palindrome-number,Math
-MEDIUM,Managers with at Least 5 Direct Reports,70.2,0.0049395642869763815,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
-MEDIUM,Container With Most Water,70.2,0.006064822594189541,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-MEDIUM,Longest Substring Without Repeating Characters,70.2,0.003977937162306769,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Minimum Time to Repair Cars,63.3,0.005947501571809228,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"
-MEDIUM,Merge Intervals,63.3,0.005257634241389205,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-EASY,Remove Duplicates from Sorted Array,63.3,0.006356305110941674,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
-EASY,First Unique Character in a String,63.3,0.006611192143859762,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
-MEDIUM,3Sum,63.3,0.003969310235048952,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-EASY,Add Binary,63.3,0.0058484807699742125,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
-EASY,Rising Temperature,53.7,0.00519392329377493,https://leetcode.com/problems/rising-temperature,Database
-HARD,Reverse Pairs,53.7,0.0034986498696695,https://leetcode.com/problems/reverse-pairs,"Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set, Treap"
-MEDIUM,Edit Distance,53.7,0.006111942599002659,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
-MEDIUM,Coin Change,53.7,0.0048973301244353154,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack"
-MEDIUM,Remove K-Balanced Substrings,53.7,0.003307352145833996,https://leetcode.com/problems/remove-k-balanced-substrings,"String, Stack, Simulation"
-EASY,Max Consecutive Ones,53.7,0.006591768735179951,https://leetcode.com/problems/max-consecutive-ones,Array
-MEDIUM,Kth Largest Element in an Array,53.7,0.006924363483272714,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
-MEDIUM,Maximum Subarray,53.7,0.005373539087154113,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,Nth Highest Salary,53.7,0.003990579436721085,https://leetcode.com/problems/nth-highest-salary,Database
-EASY,Roman to Integer,53.7,0.0067049325279030505,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-HARD,Split Array Largest Sum,53.7,0.006119216126024397,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
-MEDIUM,Group Anagrams,53.7,0.007312895664398646,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Longest Consecutive Sequence,53.7,0.004720824681488169,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union-Find"
-EASY,Customers Who Never Order,53.7,0.007222767183269293,https://leetcode.com/problems/customers-who-never-order,Database
-MEDIUM,Rotate Array,53.7,0.004532013684447328,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
-MEDIUM,Next Permutation,53.7,0.004595885633661851,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
-MEDIUM,Subarray Sum Equals K,53.7,0.004797997152727237,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-MEDIUM,Shortest Unsorted Continuous Subarray,53.7,0.0038532414427438254,https://leetcode.com/problems/shortest-unsorted-continuous-subarray,"Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack"
+HARD,Merge k Sorted Lists,100.0,0.006078427477391033,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
+EASY,Two Sum,98.5,0.005803619385273128,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Valid Parentheses,80.9,0.00453411448062189,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Second Highest Salary,80.9,0.004876276183843549,https://leetcode.com/problems/second-highest-salary,Database
+MEDIUM,Longest Palindromic Substring,77.3,0.0038866717577948078,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+EASY,Best Time to Buy and Sell Stock,73.1,0.005752120075140459,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Palindrome Number,67.9,0.006104358700950814,https://leetcode.com/problems/palindrome-number,Math
+EASY,Longest Common Prefix,67.9,0.004853664254763489,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Container With Most Water,67.9,0.006103888622432737,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Longest Substring Without Repeating Characters,67.9,0.004001908063527696,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Managers with at Least 5 Direct Reports,61.3,0.00497767959256096,https://leetcode.com/problems/managers-with-at-least-5-direct-reports,Database
+MEDIUM,Minimum Time to Repair Cars,61.3,0.005921139876523199,https://leetcode.com/problems/minimum-time-to-repair-cars,"Array, Binary Search"
+MEDIUM,Merge Intervals,61.3,0.0053025827543450674,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Remove Duplicates from Sorted Array,61.3,0.006397706208088863,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+EASY,First Unique Character in a String,61.3,0.006654124107933967,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
+MEDIUM,3Sum,61.3,0.004007309257409805,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Add Binary,61.3,0.005880362448120391,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
+EASY,Rising Temperature,52.0,0.0052438846412426665,https://leetcode.com/problems/rising-temperature,Database
+MEDIUM,Remove K-Balanced Substrings,52.0,0.0032870056148577775,https://leetcode.com/problems/remove-k-balanced-substrings,"String, Stack, Simulation"
+MEDIUM,Kth Largest Element in an Array,52.0,0.006941742121123445,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Maximum Subarray,52.0,0.005399360033296152,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Roman to Integer,52.0,0.006731049372861208,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+HARD,Split Array Largest Sum,52.0,0.0061639967219879535,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+MEDIUM,Group Anagrams,52.0,0.007344432654730497,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Longest Consecutive Sequence,52.0,0.004728604783426727,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union-Find"
+EASY,Customers Who Never Order,52.0,0.007260610262298843,https://leetcode.com/problems/customers-who-never-order,Database
+MEDIUM,Rotate Array,52.0,0.004571837557571069,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+MEDIUM,Next Permutation,52.0,0.00463957950618413,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+MEDIUM,Subarray Sum Equals K,52.0,0.004835073397355532,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Shortest Unsorted Continuous Subarray,52.0,0.0038707206044318308,https://leetcode.com/problems/shortest-unsorted-continuous-subarray,"Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack"
+EASY,Valid Anagram,52.0,0.006876756337549323,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Remove K Digits,52.0,0.003787998687715513,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+EASY,Reverse Vowels of a String,52.0,0.006261259265377132,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"
+EASY,Remove All Adjacent Duplicates In String,52.0,0.007427655713134287,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"
+EASY,Climbing Stairs,52.0,0.0054406491690122405,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+EASY,Valid Palindrome,52.0,0.0054529125890562975,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"

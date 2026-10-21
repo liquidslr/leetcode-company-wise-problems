@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.005800957769754739,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Rotate String,83.2,0.006666957595268568,https://leetcode.com/problems/rotate-string,"String, String Matching"
-MEDIUM,LRU Cache,83.2,0.004786894555695717,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,LRU Cache,100.0,0.004825717857259682,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Rotate String,89.5,0.006654064163576702,https://leetcode.com/problems/rotate-string,"String, String Matching"
+MEDIUM,Rank Teams by Votes,89.5,0.006010136237329703,https://leetcode.com/problems/rank-teams-by-votes,"Array, Hash Table, String, Sorting, Counting"

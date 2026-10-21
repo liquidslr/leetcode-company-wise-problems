@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003977946185101758,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Longest Palindromic Substring,88.4,0.0038471123361969732,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-MEDIUM,Longest Palindromic Subsequence,88.4,0.006580388376809849,https://leetcode.com/problems/longest-palindromic-subsequence,"String, Dynamic Programming"
-HARD,Longest Valid Parentheses,88.4,0.003950327504831748,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack, Bracket Sequences"
-EASY,Delete Duplicate Emails,88.4,0.00665799653658102,https://leetcode.com/problems/delete-duplicate-emails,Database
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.004001910272620233,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Palindromic Subsequence,88.6,0.0065998893408768565,https://leetcode.com/problems/longest-palindromic-subsequence,"String, Dynamic Programming"
+HARD,Longest Valid Parentheses,88.6,0.004136898151059135,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack, Bracket Sequences"
+EASY,Delete Duplicate Emails,88.6,0.006712135349198153,https://leetcode.com/problems/delete-duplicate-emails,Database

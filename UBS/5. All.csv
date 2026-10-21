@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,100.0,0.005531395606833815,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
-MEDIUM,Search Suggestions System,89.4,0.0065234709855870885,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
-EASY,Valid Parentheses,77.9,0.004472570758542255,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-MEDIUM,Group Anagrams,77.9,0.0073129100197969945,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,100.0,0.005600739941421304,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
+MEDIUM,Search Suggestions System,84.6,0.006524807686648009,https://leetcode.com/problems/search-suggestions-system,"Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+MEDIUM,Group Anagrams,78.2,0.007344438860866744,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Valid Parentheses,69.2,0.004534117415370311,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"

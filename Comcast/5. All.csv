@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.005800925551602618,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Best Time to Buy and Sell Stock,83.3,0.005725115877104416,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Valid Palindrome,83.3,0.005407010473118114,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-MEDIUM,Longest Substring Without Repeating Characters,73.5,0.0039778944934471625,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Number of Islands,73.5,0.006495999775591767,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
-EASY,Valid Parentheses,73.5,0.004472534241056997,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+EASY,Two Sum,100.0,0.005803619385273128,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Best Time to Buy and Sell Stock,83.3,0.005752120075140459,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Valid Palindrome,83.3,0.0054529125890562975,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Longest Substring Without Repeating Characters,73.5,0.004001908063527696,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Number of Islands,73.5,0.006531452178254448,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+EASY,Valid Parentheses,73.5,0.00453411448062189,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"

@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Sum of Even Numbers After Queries,100.0,0.006896170823457782,https://leetcode.com/problems/sum-of-even-numbers-after-queries,"Array, Simulation"
-EASY,Binary Tree Tilt,97.3,0.006630086161087072,https://leetcode.com/problems/binary-tree-tilt,"Tree, Depth-First Search, Binary Tree, DP on Trees"
-HARD,Minimum Cost to Split an Array,97.3,0.0045006372673974,https://leetcode.com/problems/minimum-cost-to-split-an-array,"Array, Hash Table, Dynamic Programming, Counting"
-MEDIUM,Find Players With Zero or One Losses,97.3,0.007238360622847399,https://leetcode.com/problems/find-players-with-zero-or-one-losses,"Array, Hash Table, Sorting, Counting"
-MEDIUM,Minimum Moves to Equal Array Elements,97.3,0.005901813995165458,https://leetcode.com/problems/minimum-moves-to-equal-array-elements,"Array, Math"
-EASY,Check if Every Row and Column Contains All Numbers,75.1,0.005429821233289441,https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers,"Array, Hash Table, Matrix"
+MEDIUM,Sum of Even Numbers After Queries,100.0,0.006914587908317321,https://leetcode.com/problems/sum-of-even-numbers-after-queries,"Array, Simulation"
+EASY,Binary Tree Tilt,97.4,0.006665467567081446,https://leetcode.com/problems/binary-tree-tilt,"Tree, Depth-First Search, Binary Tree, DP on Trees"
+HARD,Minimum Cost to Split an Array,97.4,0.004536763601781871,https://leetcode.com/problems/minimum-cost-to-split-an-array,"Array, Hash Table, Dynamic Programming, Counting"
+MEDIUM,Find Players With Zero or One Losses,97.4,0.007238460271264621,https://leetcode.com/problems/find-players-with-zero-or-one-losses,"Array, Hash Table, Sorting, Counting"
+MEDIUM,Minimum Moves to Equal Array Elements,97.4,0.0059267739242231,https://leetcode.com/problems/minimum-moves-to-equal-array-elements,"Array, Math"

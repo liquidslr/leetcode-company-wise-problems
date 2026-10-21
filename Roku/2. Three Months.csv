@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum Points You Can Obtain from Cards,100.0,0.00585349580976061,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards,"Array, Sliding Window, Prefix Sum"

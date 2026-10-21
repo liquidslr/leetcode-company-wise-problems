@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.005257646418354588,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-EASY,Two Sum,100.0,0.0058009569065051395,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Distribute Money to Maximum Children,100.0,0.002086856218710237,https://leetcode.com/problems/distribute-money-to-maximum-children,"Math, Greedy"
+MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,89.4,0.0058152531455910065,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,"Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue"
+MEDIUM,Avoid Flood in The City,89.4,0.003895729257940076,https://leetcode.com/problems/avoid-flood-in-the-city,"Array, Hash Table, Binary Search, Greedy, Heap (Priority Queue)"
+MEDIUM,Snapshot Array,89.4,0.0036822698030254102,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design, Persistent Data Structure"

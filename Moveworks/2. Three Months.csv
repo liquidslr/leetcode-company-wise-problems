@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Shortest Uncommon Substring in an Array,100.0,0.005088245950002588,https://leetcode.com/problems/shortest-uncommon-substring-in-an-array,"Array, Hash Table, String, Trie"
-HARD,Word Break II,93.2,0.0056024252519363705,https://leetcode.com/problems/word-break-ii,"Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
+Difficulty,Title,Frequency,Acceptance Rate,Link

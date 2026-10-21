@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Gas Station,100.0,0.0048557114438384855,https://leetcode.com/problems/gas-station,"Array, Greedy"
-EASY,Longest Common Prefix,96.6,0.004818706075063148,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-HARD,Merge k Sorted Lists,72.7,0.006029342215619084,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
+MEDIUM,Gas Station,100.0,0.004888862660365685,https://leetcode.com/problems/gas-station,"Array, Greedy"
+EASY,Longest Common Prefix,92.8,0.004853663861499363,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"

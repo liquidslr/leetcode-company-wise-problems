@@ -1,14 +1,13 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Spiral Matrix,100.0,0.005762705428269967,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Letter Combinations of a Phone Number,95.6,0.006665996652311118,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-MEDIUM,Additive Number,93.9,0.003428211138067629,https://leetcode.com/problems/additive-number,"String, Backtracking"
-EASY,Valid Parentheses,87.8,0.004472562498093404,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-MEDIUM,Word Search,70.7,0.004794679848575189,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
-MEDIUM,Angle Between Hands of a Clock,70.7,0.006987941494851849,https://leetcode.com/problems/angle-between-hands-of-a-clock,Math
-EASY,Self Dividing Numbers,56.1,0.008113444160735951,https://leetcode.com/problems/self-dividing-numbers,Math
-MEDIUM,Bulls and Cows,56.1,0.005288296429669015,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
-EASY,Two Sum,56.1,0.00580095144413897,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Permutations,56.1,0.008226141856955041,https://leetcode.com/problems/permutations,"Array, Backtracking"
-MEDIUM,Longest Palindromic Substring,56.1,0.0038471102706717423,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-MEDIUM,Palindromic Substrings,56.1,0.007312517816440686,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Count Primes,56.1,0.003637091236436949,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve"
+MEDIUM,Spiral Matrix,100.0,0.005814591385998864,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Additive Number,98.3,0.0034698982070157456,https://leetcode.com/problems/additive-number,"String, Backtracking"
+EASY,Valid Parentheses,92.0,0.00453411526938375,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Letter Combinations of a Phone Number,89.4,0.0067037483711917135,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,Word Search,68.0,0.004831295488670611,https://leetcode.com/problems/word-search,"Array, String, Backtracking, Depth-First Search, Matrix"
+MEDIUM,Angle Between Hands of a Clock,68.0,0.006993491288645474,https://leetcode.com/problems/angle-between-hands-of-a-clock,Math
+MEDIUM,Count Primes,68.0,0.0035791442092433794,https://leetcode.com/problems/count-primes,"Array, Math, Enumeration, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve"
+EASY,Two Sum,59.2,0.005803618336750189,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Permutations,59.2,0.00824351941433353,https://leetcode.com/problems/permutations,"Array, Backtracking"
+MEDIUM,Longest Palindromic Substring,59.2,0.0038866718003273703,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Palindromic Substrings,59.2,0.007333736113750426,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+HARD,Longest Increasing Path in a Matrix,59.2,0.005718813063448473,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Memoization, Matrix, Directed Acyclic Graph"

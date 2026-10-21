@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Parallel Courses III,100.0,0.006680989225774145,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph Theory, Topological Sort, Directed Acyclic Graph"
-HARD,Trapping Rain Water,90.3,0.006802853937837948,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-EASY,Happy Number,73.6,0.006011549984094302,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm"
-EASY,Calculate Amount Paid in Taxes,73.6,0.006946106395807244,https://leetcode.com/problems/calculate-amount-paid-in-taxes,"Array, Simulation"
+HARD,Parallel Courses III,100.0,0.00667874352378537,https://leetcode.com/problems/parallel-courses-iii,"Array, Dynamic Programming, Graph Theory, Topological Sort, Directed Acyclic Graph"
+EASY,Calculate Amount Paid in Taxes,89.0,0.0069722103270301325,https://leetcode.com/problems/calculate-amount-paid-in-taxes,"Array, Simulation"
+HARD,Design In-Memory File System,89.0,0.004834519864833831,https://leetcode.com/problems/design-in-memory-file-system,"Hash Table, String, Design, Trie, Sorting"

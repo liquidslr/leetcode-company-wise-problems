@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Authentication Manager,100.0,0.0058669871346990485,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Find Words Containing Character,92.0,0.00904133039863047,https://leetcode.com/problems/find-words-containing-character,"Array, String"
-EASY,Logger Rate Limiter,72.7,0.007688314472535719,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Design Authentication Manager,100.0,0.005885515024286555,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Find Words Containing Character,92.1,0.009024931898108247,https://leetcode.com/problems/find-words-containing-character,"Array, String"
+EASY,Logger Rate Limiter,73.1,0.007691836422116709,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"

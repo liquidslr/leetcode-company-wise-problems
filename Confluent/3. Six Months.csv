@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Valid Sudoku,100.0,0.006495062367864167,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-HARD,Sudoku Solver,100.0,0.006558653637479821,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links"
-MEDIUM,Design Authentication Manager,90.4,0.005866595855694693,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,LRU Cache,100.0,0.0048257065069490825,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

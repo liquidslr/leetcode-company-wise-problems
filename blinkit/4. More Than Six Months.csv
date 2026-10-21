@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Single Element in a Sorted Array,100.0,0.005939524614730452,https://leetcode.com/problems/single-element-in-a-sorted-array,"Array, Binary Search"
-HARD,Sliding Window Maximum,100.0,0.004910882131490626,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query"
-MEDIUM,Group Anagrams,100.0,0.007312908556871405,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Amount of Time for Binary Tree to Be Infected,100.0,0.006587239023458029,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+HARD,Sliding Window Maximum,100.0,0.004936743746762299,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query"
+MEDIUM,Group Anagrams,100.0,0.007344443377157138,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Amount of Time for Binary Tree to Be Infected,100.0,0.006612980098577141,https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected,"Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"

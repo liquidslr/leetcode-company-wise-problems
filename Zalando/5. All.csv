@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,String Without AAA or BBB,100.0,0.004557481621327841,https://leetcode.com/problems/string-without-aaa-or-bbb,"String, Greedy"
-MEDIUM,Merge Intervals,69.1,0.005257666929298673,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+MEDIUM,String Without AAA or BBB,100.0,0.004575471367368546,https://leetcode.com/problems/string-without-aaa-or-bbb,"String, Greedy"
+MEDIUM,Merge Intervals,69.4,0.005302562140417426,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"

@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.0058009511386919775,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Wiggle Sort II,88.8,0.0038041109376960864,https://leetcode.com/problems/wiggle-sort-ii,"Array, Divide and Conquer, Greedy, Sorting, Quickselect"
+EASY,Two Sum,100.0,0.005803618336750189,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Wiggle Sort II,88.6,0.0038581619923140943,https://leetcode.com/problems/wiggle-sort-ii,"Array, Divide and Conquer, Greedy, Sorting, Quickselect"
+MEDIUM,Binary Subarrays With Sum,88.6,0.007003143655459018,https://leetcode.com/problems/binary-subarrays-with-sum,"Array, Hash Table, Sliding Window, Prefix Sum"

@@ -1,15 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Moving Average from Data Stream,100.0,0.008022841921995209,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
-MEDIUM,Analyze User Website Visit Pattern,86.3,0.0044332494543415715,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, String, Sorting"
-MEDIUM,Longest Substring Without Repeating Characters,84.7,0.003977959161405498,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Kth Largest Element in an Array,84.7,0.00692437355192037,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
-EASY,Two Sum,79.0,0.0058009587458191314,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-HARD,Leetcodify Friends Recommendations,76.7,0.00289019326235599,https://leetcode.com/problems/leetcodify-friends-recommendations,Database
-HARD,Leetcodify Similar Friends,76.7,0.004341268986319078,https://leetcode.com/problems/leetcodify-similar-friends,Database
-EASY,Valid Parentheses,76.7,0.004472567007912034,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-HARD,Sliding Window Median,67.4,0.003908073684660426,https://leetcode.com/problems/sliding-window-median,"Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap"
-HARD,Find Median from Data Stream,63.0,0.005487695459974172,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-EASY,Ransom Note,57.3,0.006631443973009322,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
-EASY,Fibonacci Number,57.3,0.007452186471512558,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
-EASY,Maximum Depth of Binary Tree,49.3,0.007852251440099663,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-EASY,Valid Palindrome,49.3,0.005407051088017616,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Moving Average from Data Stream,100.0,0.00802370489534478,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
+MEDIUM,Longest Substring Without Repeating Characters,86.8,0.004001910265682448,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Analyze User Website Visit Pattern,86.8,0.004435789256706662,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, String, Sorting"
+MEDIUM,Kth Largest Element in an Array,83.2,0.006941740513173513,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+EASY,Two Sum,78.6,0.0058036223610589445,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,Leetcodify Friends Recommendations,78.6,0.0029005627357615482,https://leetcode.com/problems/leetcodify-friends-recommendations,Database
+HARD,Leetcodify Similar Friends,78.6,0.00435221267282336,https://leetcode.com/problems/leetcodify-similar-friends,Database
+EASY,Valid Parentheses,72.8,0.004534114955543968,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+HARD,Sliding Window Median,69.2,0.00392015156354248,https://leetcode.com/problems/sliding-window-median,"Array, Hash Table, Sliding Window, Heap (Priority Queue), Treap"
+HARD,Find Median from Data Stream,69.2,0.005512005325213046,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+EASY,Ransom Note,64.6,0.006656116491929399,https://leetcode.com/problems/ransom-note,"Hash Table, String, Counting"
+EASY,Fibonacci Number,58.8,0.007473580723228863,https://leetcode.com/problems/fibonacci-number,"Math, Dynamic Programming, Recursion, Memoization"
+EASY,Maximum Depth of Binary Tree,50.7,0.007872354654010476,https://leetcode.com/problems/maximum-depth-of-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+EASY,Valid Palindrome,50.7,0.0054529224355386995,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,Valid Anagram,50.7,0.00687676286154715,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

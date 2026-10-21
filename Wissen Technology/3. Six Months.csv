@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003977957991168964,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,3Sum,100.0,0.00396932772129858,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+Difficulty,Title,Frequency,Acceptance Rate,Link

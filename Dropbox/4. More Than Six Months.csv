@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Simple Bank System,100.0,0.006956928323890204,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
-HARD,Guess the Word,85.6,0.003660275621759791,https://leetcode.com/problems/guess-the-word,"Array, Math, String, Minimax, Interactive, Game Theory"
-HARD,Candy,75.0,0.004904699227433804,https://leetcode.com/problems/candy,"Array, Greedy"
-MEDIUM,Merge Intervals,66.6,0.005257634241389205,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+MEDIUM,Simple Bank System,100.0,0.006942754817804559,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+HARD,Guess the Word,85.6,0.0036545858422984217,https://leetcode.com/problems/guess-the-word,"Array, Math, String, Minimax, Interactive, Game Theory"
+HARD,Candy,75.0,0.004941936345792183,https://leetcode.com/problems/candy,"Array, Greedy"
+MEDIUM,Merge Intervals,66.6,0.005302574263034603,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"

@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximize Score After N Operations,100.0,0.005790254203136838,https://leetcode.com/problems/maximize-score-after-n-operations,"Array, Math, Dynamic Programming, Backtracking, Bit Manipulation, Number Theory, Bitmask"
+HARD,Maximum Number of Events That Can Be Attended II,100.0,0.006336537846010175,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii,"Array, Binary Search, Dynamic Programming, Sorting"

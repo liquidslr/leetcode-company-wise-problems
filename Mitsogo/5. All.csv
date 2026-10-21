@@ -1,15 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Symmetric Coordinates,100.0,0.00410206084396467,https://leetcode.com/problems/symmetric-coordinates,Database
-MEDIUM,Right Triangles,97.5,0.004857338820301782,https://leetcode.com/problems/right-triangles,"Array, Hash Table, Math, Combinatorics, Counting"
-EASY,Find the Integer Added to Array I,94.7,0.008269903700140534,https://leetcode.com/problems/find-the-integer-added-to-array-i,Array
-MEDIUM,Find the Integer Added to Array II,94.7,0.0033062211475049464,https://leetcode.com/problems/find-the-integer-added-to-array-ii,"Array, Two Pointers, Sorting, Enumeration"
-MEDIUM,Minimum Substring Partition of Equal Character Frequency,94.7,0.004025636223651081,https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency,"Hash Table, String, Dynamic Programming, Counting"
-HARD,Construct String with Minimum Cost,94.7,0.0019029435387281773,https://leetcode.com/problems/construct-string-with-minimum-cost,"Array, String, Dynamic Programming, Suffix Array"
-MEDIUM,Maximum Total Reward Using Operations I,94.7,0.0031002691070890777,https://leetcode.com/problems/maximum-total-reward-using-operations-i,"Array, Dynamic Programming, Bit Manipulation, Sorting"
-HARD,Maximum Total Reward Using Operations II,94.7,0.0021818888645916855,https://leetcode.com/problems/maximum-total-reward-using-operations-ii,"Array, Dynamic Programming, Bit Manipulation, Sorting"
-MEDIUM,Shortest Subarray With OR at Least K II,94.7,0.005010917953691959,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii,"Array, Bit Manipulation, Sliding Window"
-EASY,Shortest Subarray With OR at Least K I,94.7,0.004502572805500257,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i,"Array, Bit Manipulation, Sliding Window"
-MEDIUM,Delayed Count of Equal Elements,94.7,0.007816411682892906,https://leetcode.com/problems/delayed-count-of-equal-elements,"Array, Hash Table, Counting"
-EASY,Pascal's Triangle,62.0,0.007929398548511948,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
-MEDIUM,Zigzag Conversion,62.0,0.005489179264677859,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Next Permutation,62.0,0.004595894196110162,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+MEDIUM,Right Triangles,100.0,0.00488724426534408,https://leetcode.com/problems/right-triangles,"Array, Hash Table, Math, Combinatorics, Counting"
+EASY,Find the Integer Added to Array I,97.2,0.008291292991652816,https://leetcode.com/problems/find-the-integer-added-to-array-i,Array
+MEDIUM,Find the Integer Added to Array II,97.2,0.003330506934770759,https://leetcode.com/problems/find-the-integer-added-to-array-ii,"Array, Two Pointers, Sorting, Enumeration"
+MEDIUM,Minimum Substring Partition of Equal Character Frequency,97.2,0.004061229908298102,https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency,"Hash Table, String, Dynamic Programming, Counting"
+HARD,Construct String with Minimum Cost,97.2,0.0018861533377395904,https://leetcode.com/problems/construct-string-with-minimum-cost,"Array, String, Dynamic Programming, Suffix Array"
+MEDIUM,Maximum Total Reward Using Operations I,97.2,0.003122683006473176,https://leetcode.com/problems/maximum-total-reward-using-operations-i,"Array, Dynamic Programming, Bit Manipulation, Sorting"
+HARD,Maximum Total Reward Using Operations II,97.2,0.0022086228869598675,https://leetcode.com/problems/maximum-total-reward-using-operations-ii,"Array, Dynamic Programming, Bit Manipulation, Sorting"
+MEDIUM,Shortest Subarray With OR at Least K II,97.2,0.005013537928474199,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii,"Array, Bit Manipulation, Sliding Window"
+EASY,Shortest Subarray With OR at Least K I,97.2,0.004492710471187486,https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i,"Array, Bit Manipulation, Sliding Window"
+MEDIUM,Delayed Count of Equal Elements,97.2,0.007783251231527095,https://leetcode.com/problems/delayed-count-of-equal-elements,"Array, Hash Table, Counting"

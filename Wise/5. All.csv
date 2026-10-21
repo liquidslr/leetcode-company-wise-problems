@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximal Square,100.0,0.005074676265817781,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
-MEDIUM,Design Tic-Tac-Toe,85.4,0.005875625669705109,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
-MEDIUM,Number of Perfect Pairs,80.7,0.0034627465946453734,https://leetcode.com/problems/number-of-perfect-pairs,"Array, Math, Two Pointers, Sorting"
-MEDIUM,Subarray Product Less Than K,66.1,0.005485891529639582,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
-EASY,Odd String Difference,66.1,0.006219930347322137,https://leetcode.com/problems/odd-string-difference,"Array, Hash Table, String"
-MEDIUM,Design Hit Counter,66.1,0.006974272516303686,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,Design Tic-Tac-Toe,100.0,0.0058769802589026246,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
+MEDIUM,Number of Perfect Pairs,94.6,0.0034693733401141434,https://leetcode.com/problems/number-of-perfect-pairs,"Array, Math, Two Pointers, Sorting"
+MEDIUM,Maximal Square,87.7,0.005105154155919983,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+EASY,Odd String Difference,78.0,0.006236947579369265,https://leetcode.com/problems/odd-string-difference,"Array, Hash Table, String"
+MEDIUM,Design Hit Counter,78.0,0.006977338692550322,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,Meeting Rooms II,78.0,0.0052845025342410645,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"

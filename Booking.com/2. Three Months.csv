@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Reward Top K Students,100.0,0.004752170342562177,https://leetcode.com/problems/reward-top-k-students,"Array, Hash Table, String, Sorting, Heap (Priority Queue)"
+MEDIUM,Reward Top K Students,100.0,0.004779757131401077,https://leetcode.com/problems/reward-top-k-students,"Array, Hash Table, String, Sorting, Heap (Priority Queue)"
+MEDIUM,Group Anagrams,88.6,0.007344435827263502,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

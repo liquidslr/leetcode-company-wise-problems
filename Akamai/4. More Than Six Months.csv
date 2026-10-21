@@ -1,8 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.005725108396973595,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Add Two Integers,82.5,0.008809079255378442,https://leetcode.com/problems/add-two-integers,Math
-EASY,First Unique Character in a String,72.2,0.006611153379300317,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
-MEDIUM,Unique Paths,72.2,0.006717300556067408,https://leetcode.com/problems/unique-paths,"Math, Dynamic Programming, Combinatorics"
-MEDIUM,Spiral Matrix,72.2,0.005762649340140076,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-EASY,Two Sum,72.2,0.005800918768980581,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Longest Substring Without Repeating Characters,72.2,0.00397788058102357,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Best Time to Buy and Sell Stock,100.0,0.005752114733108133,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Contiguous Array,89.6,0.005261869124020135,https://leetcode.com/problems/contiguous-array,"Array, Hash Table, Prefix Sum"
+EASY,Add Two Integers,82.3,0.00879594963010603,https://leetcode.com/problems/add-two-integers,Math
+EASY,First Unique Character in a String,72.0,0.006654118168560015,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
+MEDIUM,Unique Paths,72.0,0.006736986171454474,https://leetcode.com/problems/unique-paths,"Math, Dynamic Programming, Combinatorics"
+MEDIUM,Spiral Matrix,72.0,0.005814585102984351,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+EASY,Two Sum,72.0,0.0058036186104118035,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Substring Without Repeating Characters,72.0,0.004001908604659137,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Longest Palindrome,72.0,0.005632481741444787,https://leetcode.com/problems/longest-palindrome,"Hash Table, String, Greedy"
+MEDIUM,Palindromic Substrings,72.0,0.0073337611455972975,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"

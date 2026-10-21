@@ -1,11 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Decode String,100.0,0.006309038822246347,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Clone Graph,98.2,0.006598001510805637,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph Theory"
-MEDIUM,Time Based Key-Value Store,91.4,0.005012885270886753,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,My Calendar I,70.7,0.005837575397267739,https://leetcode.com/problems/my-calendar-i,"Array, Binary Search, Design, Segment Tree, Ordered Set"
-MEDIUM,Letter Combinations of a Phone Number,70.7,0.006665996652311118,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-MEDIUM,Longest Increasing Subsequence,62.1,0.005984859179439607,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence"
-MEDIUM,Subarray Product Less Than K,62.1,0.0054858500602879634,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
-MEDIUM,Bag of Tokens,62.1,0.005985302340442528,https://leetcode.com/problems/bag-of-tokens,"Array, Two Pointers, Greedy, Sorting"
-MEDIUM,Validate IP Address,62.1,0.0028461771286968614,https://leetcode.com/problems/validate-ip-address,String
-MEDIUM,Bulls and Cows,62.1,0.005288296429669015,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
+MEDIUM,Decode String,100.0,0.006337481712669462,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Clone Graph,98.2,0.006640734533539656,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph Theory"
+MEDIUM,Time Based Key-Value Store,91.5,0.005025842786660513,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Letter Combinations of a Phone Number,77.1,0.006703749726347986,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,My Calendar I,62.6,0.005842548951284074,https://leetcode.com/problems/my-calendar-i,"Array, Binary Search, Design, Segment Tree, Ordered Set"
+MEDIUM,Validate IP Address,62.6,0.002858906655935261,https://leetcode.com/problems/validate-ip-address,String
+MEDIUM,Bulls and Cows,62.6,0.005313798754210995,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"

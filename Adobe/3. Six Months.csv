@@ -1,13 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.004786834626576906,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Group Anagrams,93.7,0.007312852709282173,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-HARD,Count Subarrays With Fixed Bounds,93.7,0.006917435037720032,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
-HARD,Binary Tree Maximum Path Sum,85.6,0.004266447538385566,https://leetcode.com/problems/binary-tree-maximum-path-sum,"Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees"
-MEDIUM,Flatten Nested List Iterator,85.6,0.006582841518480364,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
-MEDIUM,Game of Life,74.3,0.007294271449189198,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
-MEDIUM,Gas Station,74.3,0.004855720508729963,https://leetcode.com/problems/gas-station,"Array, Greedy"
-MEDIUM,Minimum Cost For Tickets,74.3,0.006747684413940163,https://leetcode.com/problems/minimum-cost-for-tickets,"Array, Dynamic Programming"
-MEDIUM,Largest Number,74.3,0.004358468300955362,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
-EASY,Best Time to Buy and Sell Stock,74.3,0.005725108396973595,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Maximize Distance to Closest Person,74.3,0.004997639294413225,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
-MEDIUM,Flatten a Multilevel Doubly Linked List,74.3,0.006329529186937766,https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list,"Linked List, Depth-First Search, Doubly-Linked List"
+HARD,Count Subarrays With Fixed Bounds,100.0,0.006916759694349974,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
+HARD,Find Median from Data Stream,91.4,0.005511991310056936,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+HARD,Building Boxes,91.4,0.005276523135601726,https://leetcode.com/problems/building-boxes,"Math, Binary Search, Greedy"
+MEDIUM,Design Authentication Manager,91.4,0.005885515024286555,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Find Peak Element,91.4,0.004726733687389003,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"
+MEDIUM,LRU Cache,79.4,0.004825709863190968,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Gas Station,79.4,0.004888859007269781,https://leetcode.com/problems/gas-station,"Array, Greedy"
+MEDIUM,Flatten Nested List Iterator,79.4,0.006594066148902301,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+EASY,Best Time to Buy and Sell Stock,79.4,0.005752115882693542,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Maximize Distance to Closest Person,79.4,0.005014144723563999,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+MEDIUM,Flatten a Multilevel Doubly Linked List,79.4,0.006360026454705745,https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list,"Linked List, Depth-First Search, Doubly-Linked List"
+EASY,Merge Two Sorted Lists,79.4,0.00690178121045601,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,Second Highest Salary,79.4,0.004876271655124556,https://leetcode.com/problems/second-highest-salary,Database
+MEDIUM,Longest Palindromic Substring,79.4,0.003886669791709279,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Fruit Into Baskets,79.4,0.005276149333361534,https://leetcode.com/problems/fruit-into-baskets,"Array, Hash Table, Sliding Window"

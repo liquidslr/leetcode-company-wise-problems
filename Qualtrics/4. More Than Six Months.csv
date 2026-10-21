@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Asteroid Collision,100.0,0.004876330470374295,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-HARD,Minimum Window Substring,69.1,0.004825509589295219,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
-MEDIUM,Maximal Square,69.1,0.0050746790190931,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
-EASY,Flood Fill,69.1,0.006878749232440603,https://leetcode.com/problems/flood-fill,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Asteroid Collision,100.0,0.004932931077260659,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+HARD,Minimum Window Substring,69.3,0.004869703505182118,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Maximal Square,69.3,0.0051051491886431825,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
+EASY,Flood Fill,69.3,0.00690409435296944,https://leetcode.com/problems/flood-fill,"Array, Depth-First Search, Breadth-First Search, Matrix"

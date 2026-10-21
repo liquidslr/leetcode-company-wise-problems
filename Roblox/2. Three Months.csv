@@ -1,2 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Candy Crush,100.0,0.007762955697237208,https://leetcode.com/problems/candy-crush,"Array, Two Pointers, Matrix, Simulation"
+HARD,Number of Ways to Wear Different Hats to Each Other,100.0,0.004704130661161554,https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other,"Array, Dynamic Programming, Bit Manipulation, Bitmask, Bipartite Graph, Matching (Graph), Perfect Matching"
+HARD,Block Placement Queries,97.6,0.004097031700798273,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set"
+EASY,Diameter of Binary Tree,92.0,0.006639931278853349,https://leetcode.com/problems/diameter-of-binary-tree,"Tree, Depth-First Search, Binary Tree, DP on Trees"
+MEDIUM,Simplify Path,84.5,0.005168686864684139,https://leetcode.com/problems/simplify-path,"String, Stack"
+MEDIUM,Candy Crush,73.1,0.0077582419350945096,https://leetcode.com/problems/candy-crush,"Array, Two Pointers, Matrix, Simulation"
+EASY,Closest Binary Search Tree Value,73.1,0.004910412677324374,https://leetcode.com/problems/closest-binary-search-tree-value,"Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+EASY,Rotate String,64.1,0.006654064163576702,https://leetcode.com/problems/rotate-string,"String, String Matching"
+MEDIUM,Match Alphanumerical Pattern in Matrix I,64.1,0.006459627329192546,https://leetcode.com/problems/match-alphanumerical-pattern-in-matrix-i,"Array, Hash Table, String, Matrix"
+MEDIUM,Design Memory Allocator,64.1,0.00510366503208994,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"
+HARD,Number of Flowers in Full Bloom,64.1,0.005814906432572123,https://leetcode.com/problems/number-of-flowers-in-full-bloom,"Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set"
+MEDIUM,Rotting Oranges,64.1,0.00595939462408144,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"

@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Number of Atoms,100.0,0.006524168993642231,https://leetcode.com/problems/number-of-atoms,"Hash Table, String, Stack, Sorting"
+EASY,Degree of an Array,100.0,0.005877477814254155,https://leetcode.com/problems/degree-of-an-array,"Array, Hash Table"

@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Smallest Subsequence of Distinct Characters,100.0,0.007056504215069009,https://leetcode.com/problems/smallest-subsequence-of-distinct-characters,"String, Stack, Greedy, Monotonic Stack"
-MEDIUM,Longest Consecutive Sequence,100.0,0.004720840759581663,https://leetcode.com/problems/longest-consecutive-sequence,"Array, Hash Table, Union-Find"
+MEDIUM,Smallest Subsequence of Distinct Characters,100.0,0.007068634265447611,https://leetcode.com/problems/smallest-subsequence-of-distinct-characters,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Remove Duplicate Letters,89.6,0.005467647876806373,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"

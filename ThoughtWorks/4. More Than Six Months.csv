@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Number of Subarrays That Match a Pattern II,100.0,0.003432198499711483,https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii,"Array, Rolling Hash, String Matching, Hash Function"
-EASY,Two Sum,67.6,0.005800959051255636,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Two Sum,100.0,0.005803622339319185,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Find Closest Number to Zero,100.0,0.004823718322151775,https://leetcode.com/problems/find-closest-number-to-zero,Array

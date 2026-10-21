@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Distinct Subsequences,100.0,0.005441601467879892,https://leetcode.com/problems/distinct-subsequences,"String, Dynamic Programming"

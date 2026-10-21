@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Longest Common Prefix,100.0,0.004853663861499363,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"

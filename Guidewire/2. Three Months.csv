@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximize the Total Height of Unique Towers,100.0,0.003786806972480865,https://leetcode.com/problems/maximize-the-total-height-of-unique-towers,"Array, Greedy, Sorting"

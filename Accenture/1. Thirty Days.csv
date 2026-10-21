@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Second Highest Salary,100.0,0.00487627023687468,https://leetcode.com/problems/second-highest-salary,Database

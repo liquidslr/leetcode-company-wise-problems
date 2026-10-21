@@ -1,1 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Selling Pieces of Wood,100.0,0.005334031546542258,https://leetcode.com/problems/selling-pieces-of-wood,"Array, Dynamic Programming, Memoization"
+MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,90.2,0.005600739941421304,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
+MEDIUM,Best Team With No Conflicts,90.2,0.005095133088751854,https://leetcode.com/problems/best-team-with-no-conflicts,"Array, Dynamic Programming, Sorting, Longest Increasing Subsequence"

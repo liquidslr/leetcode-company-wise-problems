@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Space Wasted From Packaging,100.0,0.003374687595519356,https://leetcode.com/problems/minimum-space-wasted-from-packaging,"Array, Binary Search, Sorting, Prefix Sum"
-MEDIUM,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,95.7,0.0065460701280635,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold,"Array, Binary Search, Matrix, Prefix Sum"
-HARD,Trapping Rain Water,83.8,0.0068028473122123435,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Min Stack,74.4,0.005855044939254337,https://leetcode.com/problems/min-stack,"Stack, Design"
+HARD,Minimum Space Wasted From Packaging,100.0,0.0033991092960622437,https://leetcode.com/problems/minimum-space-wasted-from-packaging,"Array, Binary Search, Sorting, Prefix Sum"
+HARD,Trapping Rain Water,84.1,0.006842250693302014,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Special Binary String,84.1,0.007941684879036865,https://leetcode.com/problems/special-binary-string,"String, Divide and Conquer, Sorting"

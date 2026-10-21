@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Remove Boxes,100.0,0.0049645747465326875,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
-MEDIUM,Second Highest Salary,100.0,0.004798761494349404,https://leetcode.com/problems/second-highest-salary,Database
+MEDIUM,Minimum Number of Arrows to Burst Balloons,100.0,0.006202275265479188,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons,"Array, Greedy, Sorting"

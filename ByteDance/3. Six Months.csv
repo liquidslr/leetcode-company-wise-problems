@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.006495998665360571,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
-MEDIUM,LRU Cache,88.6,0.004786836905342104,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Longest Increasing Subsequence,88.6,0.005984835802148941,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence"
-MEDIUM,Course Schedule,88.6,0.00520400527949122,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph"
+MEDIUM,Number of Islands,100.0,0.0065314533239114415,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,LRU Cache,88.4,0.0048257079210811925,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Rotate Image,88.4,0.008083477709917058,https://leetcode.com/problems/rotate-image,"Array, Math, Matrix"

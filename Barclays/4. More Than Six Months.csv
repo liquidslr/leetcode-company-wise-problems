@@ -1,9 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Lexicographically Smallest Generated String,100.0,0.005363059930456125,https://leetcode.com/problems/lexicographically-smallest-generated-string,"String, Greedy, String Matching"
-MEDIUM,Lexicographical Numbers,55.5,0.007635221345329739,https://leetcode.com/problems/lexicographical-numbers,"Depth-First Search, Trie"
-MEDIUM,Number of Islands,55.5,0.006495998665360571,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
-MEDIUM,Second Highest Salary,55.5,0.004798761494349404,https://leetcode.com/problems/second-highest-salary,Database
-EASY,Longest Common Prefix,55.5,0.004818706075063148,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-EASY,Next Greater Element I,55.5,0.007668488524149275,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
-MEDIUM,Reverse Words in a String,55.5,0.005753003381535941,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
-MEDIUM,Minimum Number of Days to Make m Bouquets,55.5,0.005705201891882864,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets,"Array, Binary Search"
+HARD,Lexicographically Smallest Generated String,100.0,0.005347139104659849,https://leetcode.com/problems/lexicographically-smallest-generated-string,"String, Greedy, String Matching"
+MEDIUM,Number of Islands,55.7,0.0065314533239114415,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Second Highest Salary,55.7,0.004876276183843549,https://leetcode.com/problems/second-highest-salary,Database
+EASY,Longest Common Prefix,55.7,0.004853664951832472,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Next Greater Element I,55.7,0.0076971480894582585,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"
+MEDIUM,Reverse Words in a String,55.7,0.005813312580579345,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Minimum Number of Days to Make m Bouquets,55.7,0.005732335666797102,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets,"Array, Binary Search"
+MEDIUM,Merge Intervals,55.7,0.005302580516468156,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+MEDIUM,Partition Labels,55.7,0.008209566234718683,https://leetcode.com/problems/partition-labels,"Hash Table, Two Pointers, String, Greedy"
+EASY,Valid Parentheses,55.7,0.004534111526114259,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+EASY,Two Sum,55.7,0.005803619569850807,https://leetcode.com/problems/two-sum,"Array, Hash Table"

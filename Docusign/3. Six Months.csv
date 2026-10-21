@@ -1,4 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.004786870487026064,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Trapping Rain Water,100.0,0.0068028406737841995,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-HARD,Maximum Profit in Job Scheduling,100.0,0.0054811953101291085,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"
+Difficulty,Title,Frequency,Acceptance Rate,Link

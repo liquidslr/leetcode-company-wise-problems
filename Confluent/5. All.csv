@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Valid Sudoku,100.0,0.006495062367864167,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-HARD,Sudoku Solver,98.4,0.006558653637479821,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links"
-MEDIUM,LRU Cache,94.8,0.004786843442298563,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Time Based Key-Value Store,94.8,0.005012860138590844,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-HARD,Minimum Time to Eat All Grains,87.9,0.004103814666434419,https://leetcode.com/problems/minimum-time-to-eat-all-grains,"Array, Two Pointers, Binary Search, Sorting"
-MEDIUM,Design Authentication Manager,85.0,0.005866595855694693,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Combination Sum,72.8,0.007700577894217964,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
-MEDIUM,Debounce,57.8,0.009166411505451173,https://leetcode.com/problems/debounce,
-MEDIUM,Cache With Time Limit,57.8,0.007630850463936024,https://leetcode.com/problems/cache-with-time-limit,
+MEDIUM,Valid Sudoku,100.0,0.006525279327508318,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+HARD,Sudoku Solver,96.9,0.006554736586059875,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links"
+MEDIUM,LRU Cache,95.2,0.0048257065069490825,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Time Based Key-Value Store,93.4,0.005025842818764849,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+HARD,Minimum Time to Eat All Grains,86.6,0.004113438937148697,https://leetcode.com/problems/minimum-time-to-eat-all-grains,"Array, Two Pointers, Binary Search, Sorting"
+MEDIUM,Design Authentication Manager,83.8,0.005885515024286555,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Combination Sum,71.8,0.007727901161143962,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
+HARD,Couples Holding Hands,65.7,0.005990851211813172,https://leetcode.com/problems/couples-holding-hands,"Greedy, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
+MEDIUM,Cache With Time Limit,57.1,0.007636950591846778,https://leetcode.com/problems/cache-with-time-limit,

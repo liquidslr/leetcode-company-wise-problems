@@ -1,1 +1,8 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Minimize Malware Spread,100.0,0.004354806557800992,https://leetcode.com/problems/minimize-malware-spread,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
+HARD,Design a Text Editor,100.0,0.005223609027356594,https://leetcode.com/problems/design-a-text-editor,"Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+MEDIUM,Subarray Product Less Than K,88.9,0.005490445799783963,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Advantage Shuffle,88.9,0.005515222482435597,https://leetcode.com/problems/advantage-shuffle,"Array, Two Pointers, Greedy, Sorting"
+HARD,Smallest Substring With Identical Characters II,88.9,0.003914269883644789,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii,"String, Binary Search"
+MEDIUM,Minimum Sideway Jumps,88.9,0.005203138968908314,https://leetcode.com/problems/minimum-sideway-jumps,"Array, Dynamic Programming, Greedy"
+MEDIUM,Group Anagrams,88.9,0.007344441750730917,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,100.0,0.0063135793275781995,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color,"Math, String, Greedy, Game Theory"
-EASY,Destination City,68.2,0.007954308215057649,https://leetcode.com/problems/destination-city,"Array, Hash Table, String"
-MEDIUM,Shortest and Lexicographically Smallest Beautiful String,68.2,0.004117425180051157,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string,"String, Sliding Window"
+MEDIUM,Remove Colored Pieces if Both Neighbors are the Same Color,100.0,0.0063188433440784335,https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color,"Math, String, Greedy, Game Theory"
+EASY,Destination City,68.4,0.007957221556998479,https://leetcode.com/problems/destination-city,"Array, Hash Table, String"
+MEDIUM,Shortest and Lexicographically Smallest Beautiful String,68.4,0.006001042941093885,https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string,"String, Sliding Window"

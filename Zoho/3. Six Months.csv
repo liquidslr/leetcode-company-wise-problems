@@ -1,12 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003977960853023439,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Angle Between Hands of a Clock,100.0,0.006987956660087807,https://leetcode.com/problems/angle-between-hands-of-a-clock,Math
-MEDIUM,Decode String,91.5,0.006309059424580802,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Partitioning Into Minimum Number Of Deci-Binary Numbers,79.6,0.009046862720572445,https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers,"String, Greedy"
-MEDIUM,Group Anagrams,79.6,0.007312908556871405,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Sequential Digits,79.6,0.00686422998610507,https://leetcode.com/problems/sequential-digits,Enumeration
-MEDIUM,Zigzag Conversion,79.6,0.005489183399383995,https://leetcode.com/problems/zigzag-conversion,String
-HARD,Median of Two Sorted Arrays,79.6,0.004736988837266392,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-MEDIUM,Merge Intervals,79.6,0.005257666929298673,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-HARD,First Missing Positive,79.6,0.004354297642349849,https://leetcode.com/problems/first-missing-positive,"Array, Hash Table"
-MEDIUM,Longest Repeating Character Replacement,79.6,0.006043047383632891,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"
+MEDIUM,Angle Between Hands of a Clock,100.0,0.006993451731322551,https://leetcode.com/problems/angle-between-hands-of-a-clock,Math
+MEDIUM,Longest Substring Without Repeating Characters,87.5,0.004001911635669553,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Sequential Digits,87.5,0.006863645293512905,https://leetcode.com/problems/sequential-digits,Enumeration
+HARD,Median of Two Sorted Arrays,87.5,0.004785843800858168,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Longest Repeating Character Replacement,87.5,0.00608767561615917,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"
+EASY,Best Time to Buy and Sell Stock,87.5,0.005752121173271802,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Sort Array By Parity,87.5,0.007672943552692831,https://leetcode.com/problems/sort-array-by-parity,"Array, Two Pointers, Sorting"
+EASY,Valid Anagram,87.5,0.006876762542192251,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Koko Eating Bananas,87.5,0.00507170629723235,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"

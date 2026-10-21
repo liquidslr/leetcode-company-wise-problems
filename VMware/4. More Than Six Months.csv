@@ -1,5 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Koko Eating Bananas,100.0,0.005039601473376103,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-MEDIUM,LRU Cache,100.0,0.004786900551133637,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Time Based Key-Value Store,100.0,0.005012868360437659,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-HARD,Median of Two Sorted Arrays,100.0,0.004736985199552593,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Time Based Key-Value Store,100.0,0.005025873265410447,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+HARD,Median of Two Sorted Arrays,100.0,0.004785841052623307,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"

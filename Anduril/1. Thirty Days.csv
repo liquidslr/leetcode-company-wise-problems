@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.0064959996125990346,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
-MEDIUM,Brace Expansion,89.8,0.006688001256515722,https://leetcode.com/problems/brace-expansion,"String, Backtracking, Stack, Breadth-First Search, Sorting"
+MEDIUM,Minimum Number of Vertices to Reach All Nodes,100.0,0.008181659497948189,https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes,"Graph Theory, Directed Acyclic Graph"
+MEDIUM,Number of Distinct Islands,100.0,0.006303565529284062,https://leetcode.com/problems/number-of-distinct-islands,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Sorting, Matrix, Hash Function"

@@ -1,2 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Partition Array Into Two Arrays to Minimize Sum Difference,100.0,0.0024377423122953113,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask"
+HARD,Partition Array Into Two Arrays to Minimize Sum Difference,100.0,0.002477914674894329,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask"
+HARD,Russian Doll Envelopes,84.0,0.003833089964475047,https://leetcode.com/problems/russian-doll-envelopes,"Array, Binary Search, Dynamic Programming, Sorting, Longest Increasing Subsequence"
+MEDIUM,Beautiful Towers II,84.0,0.003703434358125921,https://leetcode.com/problems/beautiful-towers-ii,"Array, Stack, Monotonic Stack"

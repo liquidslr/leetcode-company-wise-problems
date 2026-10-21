@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design a 3D Binary Matrix with Efficient Layer Tracking,100.0,0.006634615384615385,https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking,"Array, Hash Table, Design, Heap (Priority Queue), Matrix, Ordered Set"
-EASY,Construct Uniform Parity Array I,97.6,0.007674469154587075,https://leetcode.com/problems/construct-uniform-parity-array-i,"Array, Math"
-MEDIUM,Number of Divisible Substrings,95.0,0.007478142607344084,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
-MEDIUM,Construct Uniform Parity Array II,95.0,0.005033587509077705,https://leetcode.com/problems/construct-uniform-parity-array-ii,"Array, Math"
-EASY,Single Number,63.9,0.007815759357792012,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"
+MEDIUM,Design a 3D Binary Matrix with Efficient Layer Tracking,100.0,0.006654840344652813,https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking,"Array, Hash Table, Design, Heap (Priority Queue), Matrix, Ordered Set"
+EASY,Construct Uniform Parity Array I,97.6,0.008576418989406248,https://leetcode.com/problems/construct-uniform-parity-array-i,"Array, Math"
+MEDIUM,Number of Divisible Substrings,95.0,0.007477494732809806,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
+MEDIUM,Construct Uniform Parity Array II,95.0,0.006635409393120617,https://leetcode.com/problems/construct-uniform-parity-array-ii,"Array, Math"
+EASY,Single Number,73.1,0.00784339476143952,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"

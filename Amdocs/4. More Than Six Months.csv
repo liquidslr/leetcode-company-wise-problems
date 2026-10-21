@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design a 3D Binary Matrix with Efficient Layer Tracking,100.0,0.006634615384615385,https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking,"Array, Hash Table, Design, Heap (Priority Queue), Matrix, Ordered Set"
+MEDIUM,Design a 3D Binary Matrix with Efficient Layer Tracking,100.0,0.006654840344652813,https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking,"Array, Hash Table, Design, Heap (Priority Queue), Matrix, Ordered Set"
+EASY,Single Number,74.5,0.00784339476143952,https://leetcode.com/problems/single-number,"Array, Bit Manipulation"

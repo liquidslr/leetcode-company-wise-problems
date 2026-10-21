@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximize Sum of Weights after Edge Removals,100.0,0.003135128622206157,https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals,"Dynamic Programming, Tree, Depth-First Search, Sorting"
-HARD,Minimum Number of Refueling Stops,100.0,0.00417736115582163,https://leetcode.com/problems/minimum-number-of-refueling-stops,"Array, Dynamic Programming, Greedy, Heap (Priority Queue)"
+HARD,Escape the Spreading Fire,100.0,0.003983002832861191,https://leetcode.com/problems/escape-the-spreading-fire,"Array, Binary Search, Breadth-First Search, Matrix"

@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Best Time to Buy and Sell Stock,100.0,0.005725133789500735,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Basic Calculator II,72.3,0.004708546470297336,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
-MEDIUM,Minimum Number of Frogs Croaking,64.3,0.005128255628909511,https://leetcode.com/problems/minimum-number-of-frogs-croaking,"String, Counting"
-MEDIUM,Rotting Oranges,64.3,0.005927631509613915,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
-MEDIUM,String Compression,64.3,0.006060183350478085,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-HARD,Max Points on a Line,64.3,0.0031255363337593573,https://leetcode.com/problems/max-points-on-a-line,"Array, Hash Table, Math, Geometry, Euclidean Algorithm, Greatest Common Divisor"
+EASY,Best Time to Buy and Sell Stock,100.0,0.005752121173271802,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Basic Calculator II,73.9,0.004727717712179759,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+MEDIUM,Minimum Number of Frogs Croaking,65.7,0.005138347607601535,https://leetcode.com/problems/minimum-number-of-frogs-croaking,"String, Counting"
+MEDIUM,Rotting Oranges,65.7,0.005959402473334403,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,String Compression,65.7,0.006096651946984706,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+HARD,Max Points on a Line,65.7,0.0031637313561455657,https://leetcode.com/problems/max-points-on-a-line,"Array, Hash Table, Math, Geometry, Euclidean Algorithm, Greatest Common Divisor"

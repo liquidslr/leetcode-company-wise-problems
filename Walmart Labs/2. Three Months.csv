@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Sliding Window Maximum,100.0,0.004910883472158029,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query"
-EASY,Minimum Absolute Difference,100.0,0.007518442569249718,https://leetcode.com/problems/minimum-absolute-difference,"Array, Sorting"
-MEDIUM,Group Anagrams,100.0,0.007312907069303087,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Delete and Earn,100.0,0.005747814240208152,https://leetcode.com/problems/delete-and-earn,"Array, Hash Table, Dynamic Programming"
-MEDIUM,Course Schedule II,100.0,0.0056088233262362175,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+MEDIUM,Delete and Earn,100.0,0.0057648439637667595,https://leetcode.com/problems/delete-and-earn,"Array, Hash Table, Dynamic Programming"
+MEDIUM,Merge Intervals,75.7,0.0053025648312917985,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+MEDIUM,Top K Frequent Elements,75.7,0.006757427099969737,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Course Schedule II,66.7,0.005644355072448565,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+EASY,Minimum Absolute Difference,66.7,0.0075163183966384,https://leetcode.com/problems/minimum-absolute-difference,"Array, Sorting"
+EASY,Valid Parentheses,66.7,0.004534117415370311,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"

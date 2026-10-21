@@ -1,4 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Cherry Pickup,100.0,0.0040270487618501005,https://leetcode.com/problems/cherry-pickup,"Array, Dynamic Programming, Matrix"
-HARD,Critical Connections in a Network,84.8,0.006037233009194338,https://leetcode.com/problems/critical-connections-in-a-network,"Depth-First Search, Graph Theory, Biconnected Component, Bridge (Graph)"
-HARD,Lexicographically Maximum MEX Array,75.9,0.005711650347665674,https://leetcode.com/problems/lexicographically-maximum-mex-array,"Array, Hash Table, Greedy, Queue"
+HARD,Cherry Pickup,100.0,0.004074181020637922,https://leetcode.com/problems/cherry-pickup,"Array, Dynamic Programming, Matrix"
+HARD,Trionic Array II,100.0,0.004714681951659041,https://leetcode.com/problems/trionic-array-ii,"Array, Dynamic Programming"
+MEDIUM,Count Number of Nice Subarrays,94.3,0.007582893273212039,https://leetcode.com/problems/count-number-of-nice-subarrays,"Array, Hash Table, Math, Sliding Window, Prefix Sum"
+HARD,Critical Connections in a Network,81.7,0.006073522377389313,https://leetcode.com/problems/critical-connections-in-a-network,"Depth-First Search, Graph Theory, Biconnected Component, Bridge (Graph)"
+HARD,Lexicographically Maximum MEX Array,66.0,0.005377436353247412,https://leetcode.com/problems/lexicographically-maximum-mex-array,"Array, Hash Table, Greedy, Queue"

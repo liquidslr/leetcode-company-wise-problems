@@ -1,6 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Validate IP Address,100.0,0.0028461712813623785,https://leetcode.com/problems/validate-ip-address,String
-MEDIUM,Longest Arithmetic Subsequence,89.0,0.0050144418683204925,https://leetcode.com/problems/longest-arithmetic-subsequence,"Array, Hash Table, Binary Search, Dynamic Programming"
-MEDIUM,Ugly Number II,89.0,0.004976015031656928,https://leetcode.com/problems/ugly-number-ii,"Hash Table, Math, Dynamic Programming, Heap (Priority Queue)"
-HARD,Permutation Sequence,89.0,0.0054000612918890115,https://leetcode.com/problems/permutation-sequence,"Math, Recursion"
-MEDIUM,Longest Substring Without Repeating Characters,89.0,0.003977958985093826,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Ugly Number II,100.0,0.004986939248088983,https://leetcode.com/problems/ugly-number-ii,"Hash Table, Math, Dynamic Programming, Heap (Priority Queue)"

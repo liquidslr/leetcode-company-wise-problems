@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Evaluate Reverse Polish Notation,100.0,0.005848800442799953,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
-MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.007450952167103539,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
-HARD,Minimum Window Substring,90.3,0.004825465761689795,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Evaluate Reverse Polish Notation,100.0,0.005897491477328709,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"
+MEDIUM,Capacity To Ship Packages Within D Days,100.0,0.007481775967306992,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"

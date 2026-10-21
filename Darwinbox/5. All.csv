@@ -1,7 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Scramble String,100.0,0.0045364392300115035,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"
-MEDIUM,Merge Intervals,89.0,0.005257634241389205,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-MEDIUM,Pancake Sorting,85.1,0.007188623653147608,https://leetcode.com/problems/pancake-sorting,"Array, Two Pointers, Greedy, Sorting"
-HARD,Dungeon Game,80.2,0.004200809393825798,https://leetcode.com/problems/dungeon-game,"Array, Dynamic Programming, Matrix"
-MEDIUM,Spiral Matrix,65.3,0.005762702899777518,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-HARD,Number of Great Partitions,65.3,0.0033814658685981784,https://leetcode.com/problems/number-of-great-partitions,"Array, Dynamic Programming"
+MEDIUM,Merge Intervals,100.0,0.0053025827543450674,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+MEDIUM,Pancake Sorting,100.0,0.00720309154904024,https://leetcode.com/problems/pancake-sorting,"Array, Two Pointers, Greedy, Sorting"
+HARD,Dungeon Game,100.0,0.004253097027961885,https://leetcode.com/problems/dungeon-game,"Array, Dynamic Programming, Matrix"
+HARD,Scramble String,94.5,0.004590994505363811,https://leetcode.com/problems/scramble-string,"String, Dynamic Programming"

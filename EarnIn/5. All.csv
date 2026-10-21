@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Add Two Numbers,100.0,0.0049133021176865485,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
-MEDIUM,Longest Palindromic Substring,83.7,0.0038471102706717423,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-MEDIUM,Valid Sudoku,83.7,0.0064950722647430905,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-MEDIUM,Merge Intervals,83.7,0.00525763756239288,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+MEDIUM,Add Two Numbers,100.0,0.0049553799264458265,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+MEDIUM,Longest Palindromic Substring,83.7,0.0038866718003273703,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Valid Sudoku,83.7,0.0065252811162509975,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,Merge Intervals,83.7,0.005302574263034603,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"

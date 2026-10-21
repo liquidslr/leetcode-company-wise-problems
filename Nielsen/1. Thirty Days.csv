@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum Swap,100.0,0.005212971705598578,https://leetcode.com/problems/maximum-swap,"Math, Greedy"

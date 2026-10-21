@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Simplify Path,100.0,0.0051221297898185305,https://leetcode.com/problems/simplify-path,"String, Stack"
-MEDIUM,Merge Intervals,74.7,0.005257653378270721,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-EASY,Shortest Word Distance,74.7,0.006638148660116242,https://leetcode.com/problems/shortest-word-distance,"Array, String"
-EASY,Logger Rate Limiter,66.8,0.007688323322346132,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+MEDIUM,Simplify Path,100.0,0.0051686851242235795,https://leetcode.com/problems/simplify-path,"String, Stack"
+MEDIUM,Merge Intervals,74.5,0.005302564084099654,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Shortest Word Distance,74.5,0.0066435645665239695,https://leetcode.com/problems/shortest-word-distance,"Array, String"
+EASY,Logger Rate Limiter,66.5,0.00769182624217407,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"

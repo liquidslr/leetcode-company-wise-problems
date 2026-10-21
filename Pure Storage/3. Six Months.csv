@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Valid Square,100.0,0.004544193839758506,https://leetcode.com/problems/valid-square,"Math, Geometry"
-EASY,Maximum Repeating Substring,90.4,0.0042190034473293,https://leetcode.com/problems/maximum-repeating-substring,"String, Dynamic Programming, String Matching"
-MEDIUM,Detect Squares,90.4,0.005289923339798651,https://leetcode.com/problems/detect-squares,"Array, Hash Table, Design, Counting, Data Stream"
+MEDIUM,Valid Square,100.0,0.004565822898002577,https://leetcode.com/problems/valid-square,"Math, Geometry"

@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.005800925551602618,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,4Sum,92.7,0.004145624863880142,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
-EASY,Longest Common Prefix,82.5,0.0048187071168645755,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Two Sum,100.0,0.00580361930498598,https://leetcode.com/problems/two-sum,"Array, Hash Table"

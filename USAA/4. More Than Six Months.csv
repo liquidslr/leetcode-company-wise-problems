@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Word in Dictionary through Deleting,100.0,0.005295085372906384,https://leetcode.com/problems/longest-word-in-dictionary-through-deleting,"Array, Two Pointers, String, Sorting"
-EASY,Longest Common Prefix,100.0,0.0048187172930107955,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Longest Common Prefix,100.0,0.004853662441250515,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Longest Word in Dictionary through Deleting,88.9,0.005314760112835917,https://leetcode.com/problems/longest-word-in-dictionary-through-deleting,"Array, Two Pointers, String, Sorting"
+EASY,Valid Parentheses,80.0,0.004534117415370311,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"

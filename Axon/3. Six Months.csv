@@ -1,8 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.005548648820609658,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Time Based Key-Value Store,90.9,0.005012873077888558,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,Design Underground System,75.4,0.007459845536187637,https://leetcode.com/problems/design-underground-system,"Hash Table, String, Design"
-MEDIUM,Edit Distance,75.4,0.006111931748074245,https://leetcode.com/problems/edit-distance,"String, Dynamic Programming"
-EASY,Valid Palindrome,75.4,0.00540700692650118,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-MEDIUM,Exclusive Time of Functions,75.4,0.006626098548869046,https://leetcode.com/problems/exclusive-time-of-functions,"Array, Stack"
-MEDIUM,Interleaving String,75.4,0.004457101038608985,https://leetcode.com/problems/interleaving-string,"String, Dynamic Programming"
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.005556958141472283,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Exclusive Time of Functions,90.2,0.006628632909137011,https://leetcode.com/problems/exclusive-time-of-functions,"Array, Stack"

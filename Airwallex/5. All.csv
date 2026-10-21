@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Daily Temperatures,100.0,0.006905642405710863,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
-MEDIUM,LRU Cache,100.0,0.004786834626576906,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Lowest Common Ancestor of a Binary Tree,100.0,0.0069951400977484824,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor"
+MEDIUM,LRU Cache,100.0,0.004825710221385543,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,100.0,0.007028779755564841,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor"
+MEDIUM,Rotate List,100.0,0.004347111393577039,https://leetcode.com/problems/rotate-list,"Linked List, Two Pointers"

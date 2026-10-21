@@ -1,6 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Classifying Triangles by Lengths,100.0,0.005122189638318671,https://leetcode.com/problems/classifying-triangles-by-lengths,"Database, Polygons"
-HARD,Minimize OR of Remaining Elements Using Operations,100.0,0.0031170312709703396,https://leetcode.com/problems/minimize-or-of-remaining-elements-using-operations,"Array, Greedy, Bit Manipulation"
-MEDIUM,Construct the Minimum Bitwise Array II,100.0,0.0066653919206598085,https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii,"Array, Bit Manipulation"
-EASY,Construct the Minimum Bitwise Array I,100.0,0.008496115695489857,https://leetcode.com/problems/construct-the-minimum-bitwise-array-i,"Array, Bit Manipulation"
-MEDIUM,Number of Islands,65.6,0.0064959996125990346,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Number of Islands,100.0,0.0065314528254325575,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"

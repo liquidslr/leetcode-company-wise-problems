@@ -1,5 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,House Robber IV,100.0,0.006457240782195585,https://leetcode.com/problems/house-robber-iv,"Array, Binary Search, Dynamic Programming, Greedy"
-HARD,Partition Array Into Two Arrays to Minimize Sum Difference,96.3,0.0024377423122953113,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask"
-MEDIUM,Minimum Swaps to Group All 1's Together II,79.4,0.006572283842605314,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii,"Array, Sliding Window"
-HARD,Median of Two Sorted Arrays,69.6,0.004736931294866905,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,House Robber IV,100.0,0.00644774263528976,https://leetcode.com/problems/house-robber-iv,"Array, Binary Search, Dynamic Programming, Greedy"
+HARD,Partition Array Into Two Arrays to Minimize Sum Difference,96.3,0.002477914674894329,https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference,"Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Meet in the Middle, Sorting, Ordered Set, Bitmask"
+MEDIUM,Minimum Swaps to Group All 1's Together II,79.5,0.006576485317144681,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii,"Array, Sliding Window"
+HARD,Median of Two Sorted Arrays,69.7,0.00478584058693581,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+HARD,Sudoku Solver,69.7,0.006554736586059875,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links"
+MEDIUM,Maximum Length of Subarray With Positive Product,69.7,0.0044857928719610266,https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product,"Array, Dynamic Programming, Greedy"

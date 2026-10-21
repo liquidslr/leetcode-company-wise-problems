@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Moves to Spread Stones Over Grid,100.0,0.0045880782789085054,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Matrix, Bitmask"
-MEDIUM,Maximum Area of Two Non-Overlapping Square Submatrices,100.0,0.00404865876481597,https://leetcode.com/problems/maximum-area-of-two-non-overlapping-square-submatrices,
+Difficulty,Title,Frequency,Acceptance Rate,Link

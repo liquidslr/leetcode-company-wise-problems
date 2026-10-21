@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.004472538005981907,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+EASY,Intersection of Two Arrays,100.0,0.007849447787145396,https://leetcode.com/problems/intersection-of-two-arrays,"Array, Hash Table, Two Pointers, Binary Search, Sorting"

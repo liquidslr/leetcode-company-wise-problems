@@ -1,19 +1,18 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.00580095238786551,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Parentheses,83.3,0.004472561161448614,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-MEDIUM,Longest Substring Without Repeating Characters,78.0,0.003977943136223824,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Merge Sorted Array,78.0,0.0055528006725092515,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Valid Palindrome,78.0,0.005407045695977512,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-EASY,Best Time to Buy and Sell Stock,71.1,0.005725131018831735,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Reverse String,61.4,0.008119736766942312,https://leetcode.com/problems/reverse-string,"Two Pointers, String"
-MEDIUM,Second Highest Salary,61.4,0.004798842844276365,https://leetcode.com/problems/second-highest-salary,Database
-HARD,Department Top Three Salaries,61.4,0.006139898936478745,https://leetcode.com/problems/department-top-three-salaries,Database
-MEDIUM,Longest Palindromic Substring,61.4,0.0038471108019715737,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-MEDIUM,Palindromic Substrings,61.4,0.007312519405862714,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Reverse Words in a String,61.4,0.005753052888006745,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
-MEDIUM,Maximum Subarray,61.4,0.005373544916094741,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-EASY,Missing Number,61.4,0.0072516587851074055,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
-MEDIUM,Minimum Size Subarray Sum,61.4,0.005261691799188636,https://leetcode.com/problems/minimum-size-subarray-sum,"Array, Binary Search, Sliding Window, Prefix Sum"
-EASY,Valid Perfect Square,61.4,0.004513246984053394,https://leetcode.com/problems/valid-perfect-square,"Math, Binary Search"
-HARD,Trapping Rain Water,61.4,0.006802842740558903,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-EASY,Palindrome Number,61.4,0.006087452653515256,https://leetcode.com/problems/palindrome-number,Math
+EASY,Two Sum,100.0,0.005803619454625748,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Best Time to Buy and Sell Stock,89.3,0.00575212358226915,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Valid Parentheses,81.3,0.004534118073469816,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Longest Substring Without Repeating Characters,76.1,0.0040019093575839795,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Merge Sorted Array,76.1,0.00559067281469236,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Valid Palindrome,76.1,0.005452915437527156,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Second Highest Salary,69.3,0.004876276183843549,https://leetcode.com/problems/second-highest-salary,Database
+MEDIUM,Maximum Subarray,69.3,0.005399354936394631,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+HARD,Trapping Rain Water,69.3,0.0068422496005769275,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Reverse String,59.7,0.008145957939677954,https://leetcode.com/problems/reverse-string,"Two Pointers, String"
+HARD,Department Top Three Salaries,59.7,0.006218817859331609,https://leetcode.com/problems/department-top-three-salaries,Database
+MEDIUM,Palindromic Substrings,59.7,0.007333736113750426,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+EASY,Missing Number,59.7,0.0072851569508938195,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+MEDIUM,Minimum Size Subarray Sum,59.7,0.005316436846943229,https://leetcode.com/problems/minimum-size-subarray-sum,"Array, Binary Search, Sliding Window, Prefix Sum"
+EASY,Valid Perfect Square,59.7,0.004512676700432351,https://leetcode.com/problems/valid-perfect-square,"Math, Binary Search"
+EASY,Palindrome Number,59.7,0.006104359354347903,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Group Anagrams,59.7,0.007344432435438076,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

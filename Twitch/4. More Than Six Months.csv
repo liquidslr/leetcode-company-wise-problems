@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Reverse Vowels of a String,100.0,0.006208614922520308,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"
-HARD,Find Median from Data Stream,100.0,0.005487698055643282,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-MEDIUM,Merge Intervals,100.0,0.005257660287454545,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-MEDIUM,LRU Cache,100.0,0.004786900551133637,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,LRU Cache,100.0,0.004825722825290219,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Reverse Vowels of a String,78.7,0.006261267216966836,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"
+HARD,Find Median from Data Stream,78.7,0.005512005325213046,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Merge Intervals,78.7,0.0053025648312917985,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"

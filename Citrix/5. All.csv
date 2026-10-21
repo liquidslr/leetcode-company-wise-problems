@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find All Groups of Farmland,100.0,0.007547499739012423,https://leetcode.com/problems/find-all-groups-of-farmland,"Array, Depth-First Search, Breadth-First Search, Matrix"
-MEDIUM,Check if Strings Can be Made Equal With Operations II,100.0,0.007414325208902814,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii,"Hash Table, String, Sorting"
-EASY,Check if Strings Can be Made Equal With Operations I,100.0,0.006194472967543194,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i,String
-HARD,Maximum Performance of a Team,100.0,0.004808088592537988,https://leetcode.com/problems/maximum-performance-of-a-team,"Array, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Find All Groups of Farmland,100.0,0.007551172735518983,https://leetcode.com/problems/find-all-groups-of-farmland,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Check if Strings Can be Made Equal With Operations II,100.0,0.007395033791015565,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii,"Hash Table, String, Sorting"
+EASY,Check if Strings Can be Made Equal With Operations I,100.0,0.00616343896713615,https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i,String
+HARD,Maximum Performance of a Team,100.0,0.00481805782757214,https://leetcode.com/problems/maximum-performance-of-a-team,"Array, Greedy, Sorting, Heap (Priority Queue)"

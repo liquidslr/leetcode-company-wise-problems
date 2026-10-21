@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find Closest Number to Zero,100.0,0.004811773114157624,https://leetcode.com/problems/find-closest-number-to-zero,Array
-EASY,Best Time to Buy and Sell Stock,89.6,0.005725130163020525,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Two Sum,78.3,0.005800959051255636,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Find Closest Number to Zero,100.0,0.004823718322151775,https://leetcode.com/problems/find-closest-number-to-zero,Array
+EASY,Best Time to Buy and Sell Stock,89.6,0.00575212444199731,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Two Sum,78.2,0.005803622339319185,https://leetcode.com/problems/two-sum,"Array, Hash Table"

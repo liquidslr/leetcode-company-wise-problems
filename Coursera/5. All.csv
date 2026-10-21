@@ -1,10 +1,10 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,N-th Tribonacci Number,100.0,0.006307471456530559,https://leetcode.com/problems/n-th-tribonacci-number,"Math, Dynamic Programming, Memoization"
-MEDIUM,Minimum Increment to Make Array Unique,100.0,0.006077448847763436,https://leetcode.com/problems/minimum-increment-to-make-array-unique,"Array, Greedy, Sorting, Counting"
-HARD,Reaching Points,97.3,0.003458701577599736,https://leetcode.com/problems/reaching-points,"Math, Euclidean Algorithm, Greatest Common Divisor"
-HARD,Number of Music Playlists,97.3,0.0060093516903551416,https://leetcode.com/problems/number-of-music-playlists,"Math, Dynamic Programming, Combinatorics"
-MEDIUM,Highest Grade For Each Student,97.3,0.0071217787750886006,https://leetcode.com/problems/highest-grade-for-each-student,Database
-MEDIUM,Minimum Moves to Equal Array Elements,97.3,0.0059017866678475325,https://leetcode.com/problems/minimum-moves-to-equal-array-elements,"Array, Math"
-HARD,Special Binary String,97.3,0.007943542126020931,https://leetcode.com/problems/special-binary-string,"String, Divide and Conquer, Sorting"
-MEDIUM,Rank Teams by Votes,90.6,0.005999509862590548,https://leetcode.com/problems/rank-teams-by-votes,"Array, Hash Table, String, Sorting, Counting"
-HARD,Text Justification,86.3,0.0051897228382969725,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+EASY,N-th Tribonacci Number,100.0,0.006302966193732243,https://leetcode.com/problems/n-th-tribonacci-number,"Math, Dynamic Programming, Memoization"
+MEDIUM,Minimum Increment to Make Array Unique,100.0,0.006086211344150194,https://leetcode.com/problems/minimum-increment-to-make-array-unique,"Array, Greedy, Sorting, Counting"
+HARD,Reaching Points,97.3,0.0034839751826425346,https://leetcode.com/problems/reaching-points,"Math, Euclidean Algorithm, Greatest Common Divisor"
+HARD,Number of Music Playlists,97.3,0.006015119266055045,https://leetcode.com/problems/number-of-music-playlists,"Math, Dynamic Programming, Combinatorics"
+MEDIUM,Highest Grade For Each Student,97.3,0.007119513937266866,https://leetcode.com/problems/highest-grade-for-each-student,Database
+MEDIUM,Minimum Moves to Equal Array Elements,97.3,0.0059267739242231,https://leetcode.com/problems/minimum-moves-to-equal-array-elements,"Array, Math"
+HARD,Special Binary String,97.3,0.007941684879036865,https://leetcode.com/problems/special-binary-string,"String, Divide and Conquer, Sorting"
+MEDIUM,Rank Teams by Votes,74.7,0.006010136237329703,https://leetcode.com/problems/rank-teams-by-votes,"Array, Hash Table, String, Sorting, Counting"
+HARD,Text Justification,65.3,0.005245330526122124,https://leetcode.com/problems/text-justification,"Array, String, Simulation"

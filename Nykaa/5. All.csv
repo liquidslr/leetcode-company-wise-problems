@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Largest Number,100.0,0.004358516695030993,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
-HARD,Longest Valid Parentheses,92.6,0.003950324210486488,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack, Bracket Sequences"
-MEDIUM,Set Matrix Zeroes,82.2,0.006348236185063807,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
-MEDIUM,Reverse Words in a String,82.2,0.005753063560076507,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Largest Number,100.0,0.004399287421821326,https://leetcode.com/problems/largest-number,"Array, String, Greedy, Sorting"
+HARD,Longest Valid Parentheses,100.0,0.004136901856143726,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack, Bracket Sequences"
+MEDIUM,Set Matrix Zeroes,88.9,0.006378812899903156,https://leetcode.com/problems/set-matrix-zeroes,"Array, Hash Table, Matrix"
+MEDIUM,Reverse Words in a String,88.9,0.005813320659955951,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"

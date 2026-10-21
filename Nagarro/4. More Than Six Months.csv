@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003977950880255266,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Valid Anagram,100.0,0.00685325182319983,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-EASY,Implement Stack using Queues,100.0,0.007054260458330416,https://leetcode.com/problems/implement-stack-using-queues,"Stack, Design, Queue"
-MEDIUM,Sort Colors,100.0,0.007016877648840693,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.004001909965539573,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Anagram,100.0,0.006876761994304275,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Implement Stack using Queues,100.0,0.0070509282018550445,https://leetcode.com/problems/implement-stack-using-queues,"Stack, Design, Queue"
+MEDIUM,Sort Colors,100.0,0.007029499941944048,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort"
+EASY,Linked List Cycle,100.0,0.00552466585163941,https://leetcode.com/problems/linked-list-cycle,"Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm"

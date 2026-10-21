@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Top K Frequent Words,100.0,0.006050097518351516,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
-EASY,Number of 1 Bits,84.4,0.007736142228492658,https://leetcode.com/problems/number-of-1-bits,"Divide and Conquer, Bit Manipulation"
-MEDIUM,Rotate Array,76.2,0.004532153173920612,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
-HARD,Word Ladder,70.4,0.004632593937071694,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search, Bidirectional Search"
-MEDIUM,Redundant Connection,62.2,0.006808075250793098,https://leetcode.com/problems/redundant-connection,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
-EASY,Univalued Binary Tree,62.2,0.007329127207444482,https://leetcode.com/problems/univalued-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+MEDIUM,Top K Frequent Words,100.0,0.006074040840153512,https://leetcode.com/problems/top-k-frequent-words,"Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+EASY,Number of 1 Bits,85.8,0.007775261074493889,https://leetcode.com/problems/number-of-1-bits,"Divide and Conquer, Bit Manipulation"
+MEDIUM,Rotate Array,85.8,0.004571838426587616,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+HARD,Word Ladder,63.3,0.004677964667290124,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search, Bidirectional Search"
+MEDIUM,Redundant Connection,63.3,0.00683775195936473,https://leetcode.com/problems/redundant-connection,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
+EASY,Univalued Binary Tree,63.3,0.0073483004329026255,https://leetcode.com/problems/univalued-binary-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"

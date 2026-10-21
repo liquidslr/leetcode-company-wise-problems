@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Additive Number,100.0,0.003428211138067629,https://leetcode.com/problems/additive-number,"String, Backtracking"
-EASY,Valid Parentheses,89.6,0.004472562498093404,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Additive Number,100.0,0.0034698982070157456,https://leetcode.com/problems/additive-number,"String, Backtracking"
+EASY,Valid Parentheses,83.9,0.00453411526938375,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Spiral Matrix,83.9,0.005814591385998864,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"

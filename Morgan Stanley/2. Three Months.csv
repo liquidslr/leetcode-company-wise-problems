@@ -1,2 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Maximum Length Substring With Two Occurrences,100.0,0.007766266290217097,https://leetcode.com/problems/maximum-length-substring-with-two-occurrences,"Hash Table, String, Sliding Window"
+EASY,Maximum Length Substring With Two Occurrences,100.0,0.007775085669429222,https://leetcode.com/problems/maximum-length-substring-with-two-occurrences,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.004001909965539573,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+HARD,Maximum Employees to Be Invited to a Meeting,100.0,0.006175312481069402,https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting,"Array, Dynamic Programming, Depth-First Search, Graph Theory, Topological Sort, Kosaraju's Algorithm, Tarjan's SCC Algorithm"

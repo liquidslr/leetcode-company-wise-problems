@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Contain Virus,100.0,0.0055768173320136375,https://leetcode.com/problems/contain-virus,"Array, Depth-First Search, Breadth-First Search, Matrix, Simulation"
-MEDIUM,Cheapest Flights Within K Stops,59.5,0.004241511632931685,https://leetcode.com/problems/cheapest-flights-within-k-stops,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path"
-MEDIUM,Loud and Rich,59.5,0.006400431982103598,https://leetcode.com/problems/loud-and-rich,"Array, Depth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph"
+MEDIUM,Container With Most Water,100.0,0.006103890321574941,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"

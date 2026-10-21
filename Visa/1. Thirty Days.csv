@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003977957991168964,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Minimum Cost to Move Between Indices,100.0,0.004930644225188624,https://leetcode.com/problems/minimum-cost-to-move-between-indices,"Array, Greedy, Prefix Sum"

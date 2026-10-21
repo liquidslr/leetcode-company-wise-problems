@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Largest Plus Sign,100.0,0.004948502581755594,https://leetcode.com/problems/largest-plus-sign,"Array, Dynamic Programming"
-MEDIUM,Minimum Cost to Connect Sticks,88.9,0.0072047867298578195,https://leetcode.com/problems/minimum-cost-to-connect-sticks,"Array, Greedy, Heap (Priority Queue)"
-MEDIUM,Minimum Genetic Mutation,88.9,0.0057061993362396935,https://leetcode.com/problems/minimum-genetic-mutation,"Hash Table, String, Breadth-First Search, Bidirectional Search"
+MEDIUM,Largest Plus Sign,100.0,0.004968142061300238,https://leetcode.com/problems/largest-plus-sign,"Array, Dynamic Programming"
+MEDIUM,Minimum Cost to Connect Sticks,88.9,0.007213599721571614,https://leetcode.com/problems/minimum-cost-to-connect-sticks,"Array, Greedy, Heap (Priority Queue)"
+MEDIUM,Minimum Genetic Mutation,88.9,0.005729746810443576,https://leetcode.com/problems/minimum-genetic-mutation,"Hash Table, String, Breadth-First Search, Bidirectional Search"

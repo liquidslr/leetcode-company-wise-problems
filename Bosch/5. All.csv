@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Palindrome Number,100.0,0.006104361601095779,https://leetcode.com/problems/palindrome-number,Math

@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Sudoku Solver,100.0,0.006558601548945906,https://leetcode.com/problems/sudoku-solver,"Array, Hash Table, Backtracking, Matrix, Algorithm X, Dancing Links"
-MEDIUM,Better Compression of String,100.0,0.007543256841330225,https://leetcode.com/problems/better-compression-of-string,"Hash Table, String, Sorting, Counting"
-EASY,Teemo Attacking,89.8,0.005801694492035591,https://leetcode.com/problems/teemo-attacking,"Array, Simulation"
-MEDIUM,Game of Life,89.8,0.0072942923794884155,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"
+MEDIUM,Better Compression of String,100.0,0.007546553808948004,https://leetcode.com/problems/better-compression-of-string,"Hash Table, String, Sorting, Counting"
+EASY,Teemo Attacking,90.0,0.0058342717875451726,https://leetcode.com/problems/teemo-attacking,"Array, Simulation"
+MEDIUM,Game of Life,90.0,0.007314687986385018,https://leetcode.com/problems/game-of-life,"Array, Matrix, Simulation"

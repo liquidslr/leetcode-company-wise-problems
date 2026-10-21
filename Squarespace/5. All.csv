@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Merge Sorted Array,100.0,0.005552798538228677,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,LRU Cache,85.4,0.004786895677649352,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Check if All the Integers in a Range Are Covered,83.5,0.005126615537565687,https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered,"Array, Hash Table, Prefix Sum"
-EASY,Merge Two Sorted Lists,63.2,0.006874755196938832,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-MEDIUM,Merge Intervals,55.7,0.005257660987052711,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Merge Sorted Array,100.0,0.005590676654492536,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Check if All the Integers in a Range Are Covered,83.6,0.005151379155590845,https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered,"Array, Hash Table, Prefix Sum"
+MEDIUM,LRU Cache,81.4,0.004825721819748393,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Merge Two Sorted Lists,63.4,0.006901786264394714,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,Merge Intervals,56.0,0.005302562448151903,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"

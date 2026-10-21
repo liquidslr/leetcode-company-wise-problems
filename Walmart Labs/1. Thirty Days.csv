@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Delete and Earn,100.0,0.005747814240208152,https://leetcode.com/problems/delete-and-earn,"Array, Hash Table, Dynamic Programming"
-MEDIUM,Course Schedule II,100.0,0.0056088233262362175,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+MEDIUM,Delete and Earn,100.0,0.0057648439637667595,https://leetcode.com/problems/delete-and-earn,"Array, Hash Table, Dynamic Programming"
+MEDIUM,Top K Frequent Elements,84.3,0.006757427099969737,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"

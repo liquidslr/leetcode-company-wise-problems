@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Course Schedule,100.0,0.005204035041747337,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph"
+MEDIUM,Course Schedule,100.0,0.005241161653431614,https://leetcode.com/problems/course-schedule,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph"
+MEDIUM,Time Based Key-Value Store,100.0,0.005025855048986389,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"

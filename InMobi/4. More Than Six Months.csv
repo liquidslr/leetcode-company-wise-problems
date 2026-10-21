@@ -1,10 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Strange Printer,100.0,0.0060980229188425834,https://leetcode.com/problems/strange-printer,"String, Dynamic Programming"
-HARD,Frog Position After T Seconds,94.3,0.00387813571172769,https://leetcode.com/problems/frog-position-after-t-seconds,"Tree, Depth-First Search, Breadth-First Search, Graph Theory"
-HARD,Zuma Game,94.3,0.0029359534480810517,https://leetcode.com/problems/zuma-game,"String, Dynamic Programming, Stack, Breadth-First Search, Memoization"
-MEDIUM,Partition Labels,76.5,0.008200887958439025,https://leetcode.com/problems/partition-labels,"Hash Table, Two Pointers, String, Greedy"
-HARD,Maximum Number of Robots Within Budget,76.5,0.0039010977694478198,https://leetcode.com/problems/maximum-number-of-robots-within-budget,"Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue"
-MEDIUM,Redundant Connection,76.5,0.006808046845934029,https://leetcode.com/problems/redundant-connection,"Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
-HARD,Longest Valid Parentheses,76.5,0.00395033008997663,https://leetcode.com/problems/longest-valid-parentheses,"String, Dynamic Programming, Stack, Bracket Sequences"
-HARD,Trapping Rain Water,76.5,0.0068028473122123435,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Koko Eating Bananas,76.5,0.005039591889336592,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+HARD,Strange Printer,100.0,0.006104271793979468,https://leetcode.com/problems/strange-printer,"String, Dynamic Programming"
+HARD,Zuma Game,94.5,0.002893431467354321,https://leetcode.com/problems/zuma-game,"String, Dynamic Programming, Stack, Breadth-First Search, Memoization"
+HARD,Frog Position After T Seconds,87.5,0.0038885635405337578,https://leetcode.com/problems/frog-position-after-t-seconds,"Tree, Depth-First Search, Breadth-First Search, Graph Theory"

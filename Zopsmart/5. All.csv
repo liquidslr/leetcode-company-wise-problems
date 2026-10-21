@@ -1,16 +1,15 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Zigzag Conversion,100.0,0.005489183399383995,https://leetcode.com/problems/zigzag-conversion,String
-HARD,Trapping Rain Water,83.3,0.006802858934823714,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Decode String,83.3,0.006309059424580802,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-EASY,Hexadecimal and Hexatrigesimal Conversion,78.3,0.008103356689348138,https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion,"Math, String"
-MEDIUM,Reverse Nodes in Even Length Groups,74.0,0.006495238586137134,https://leetcode.com/problems/reverse-nodes-in-even-length-groups,Linked List
-MEDIUM,Bulls and Cows,65.0,0.005288307195598304,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
-MEDIUM,Remove K Digits,60.8,0.0037491044126562404,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
-MEDIUM,Reverse Words in a String,60.8,0.005753081584586209,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
-MEDIUM,Letter Combinations of a Phone Number,55.3,0.006666008573295622,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-MEDIUM,Broken Calculator,55.3,0.0056407654264088065,https://leetcode.com/problems/broken-calculator,"Math, Greedy"
-MEDIUM,Restore IP Addresses,55.3,0.005679403301634236,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"
-HARD,Reverse Nodes in k-Group,55.3,0.006696564159240927,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
-MEDIUM,Container With Most Water,47.5,0.006064834109539502,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-MEDIUM,Longest Palindromic Substring,47.5,0.0038471229639906878,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-EASY,Valid Anagram,47.5,0.0068532500837229955,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Zigzag Conversion,100.0,0.005537300526330285,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Decode String,85.1,0.00633750410851753,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+HARD,Trapping Rain Water,83.6,0.006842255882993122,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+EASY,Hexadecimal and Hexatrigesimal Conversion,80.0,0.007924011347380161,https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion,"Math, String"
+MEDIUM,Reverse Nodes in Even Length Groups,75.7,0.006554634438673592,https://leetcode.com/problems/reverse-nodes-in-even-length-groups,Linked List
+MEDIUM,Bulls and Cows,62.3,0.005313814609719513,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
+MEDIUM,Reverse Words in a String,62.3,0.0058133266995909405,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Remove K Digits,56.7,0.0037879931636299203,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Letter Combinations of a Phone Number,56.7,0.006703754263545655,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,Broken Calculator,56.7,0.005654912168831509,https://leetcode.com/problems/broken-calculator,"Math, Greedy"
+HARD,Reverse Nodes in k-Group,56.7,0.006751132930068967,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+MEDIUM,Longest Palindromic Substring,48.9,0.0038866738149183288,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+EASY,Valid Anagram,48.9,0.006876762542192251,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Restore IP Addresses,48.9,0.005736171163508679,https://leetcode.com/problems/restore-ip-addresses,"String, Backtracking"

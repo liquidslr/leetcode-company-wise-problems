@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Roman to Integer,100.0,0.0067049325279030505,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-MEDIUM,Different Ways to Add Parentheses,89.2,0.007353062481284993,https://leetcode.com/problems/different-ways-to-add-parentheses,"Math, String, Dynamic Programming, Recursion, Memoization, Bracket Sequences"
-HARD,Bus Routes,89.2,0.004749635960401232,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+HARD,Bus Routes,100.0,0.0047602690011475796,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"

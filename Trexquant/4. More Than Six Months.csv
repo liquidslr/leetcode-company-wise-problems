@@ -1,5 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Max Difference You Can Get From Changing an Integer,100.0,0.004863295991316072,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer,"Math, Greedy"
-MEDIUM,Letter Combinations of a Phone Number,89.2,0.0066660050679582415,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-MEDIUM,3Sum,89.2,0.003969323310782407,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,Koko Eating Bananas,89.2,0.005039601563705072,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,Koko Eating Bananas,100.0,0.0050717010478791525,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+MEDIUM,Max Difference You Can Get From Changing an Integer,100.0,0.004860729978619169,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer,"Math, Greedy"

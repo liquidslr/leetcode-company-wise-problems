@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Smallest Subsequence of Distinct Characters,100.0,0.007056504215069009,https://leetcode.com/problems/smallest-subsequence-of-distinct-characters,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Remove Duplicate Letters,100.0,0.005467647876806373,https://leetcode.com/problems/remove-duplicate-letters,"String, Stack, Greedy, Monotonic Stack"

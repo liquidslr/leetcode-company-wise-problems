@@ -1,8 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.004786870487026064,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Group Anagrams,100.0,0.007312895664398646,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Top K Frequent Elements,100.0,0.006713895062201222,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-MEDIUM,Merge Intervals,88.3,0.005257634241389205,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-EASY,Longest Common Prefix,88.3,0.0048187220554086405,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-MEDIUM,Remove All Adjacent Duplicates in String II,88.3,0.006175710558084819,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
-MEDIUM,Generate Parentheses,88.3,0.00790661143263633,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking, Bracket Sequences"
+MEDIUM,Top K Frequent Elements,100.0,0.006757415993485601,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+EASY,Longest Common Prefix,88.6,0.004853662815897278,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Group Anagrams,88.6,0.007344430503167648,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Remove All Adjacent Duplicates in String II,88.6,0.006203663148963834,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"

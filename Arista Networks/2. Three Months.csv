@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Smallest Substring With Identical Characters II,100.0,0.004066115702479339,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii,"String, Binary Search"
-HARD,LFU Cache,100.0,0.005002874263165587,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Smallest Substring With Identical Characters II,100.0,0.003914269883644789,https://leetcode.com/problems/smallest-substring-with-identical-characters-ii,"String, Binary Search"
+HARD,LFU Cache,100.0,0.0050512870503299605,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

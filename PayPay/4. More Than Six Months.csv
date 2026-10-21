@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Block Placement Queries,100.0,0.004141530323533029,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set"
-MEDIUM,Zigzag Conversion,88.4,0.005489181376629676,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Min Cost to Connect All Points,88.4,0.007156210616738347,https://leetcode.com/problems/min-cost-to-connect-all-points,"Array, Union-Find, Graph Theory, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm"
-MEDIUM,Successful Pairs of Spells and Potions,88.4,0.00498110765401369,https://leetcode.com/problems/successful-pairs-of-spells-and-potions,"Array, Two Pointers, Binary Search, Sorting"
+HARD,Block Placement Queries,100.0,0.004097055873502862,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set"
+MEDIUM,Zigzag Conversion,88.4,0.005537299999726853,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Min Cost to Connect All Points,88.4,0.007194192650030034,https://leetcode.com/problems/min-cost-to-connect-all-points,"Array, Union-Find, Graph Theory, Minimum Spanning Tree, Prim's Algorithm, Kruskal's Algorithm, Borůvka's Algorithm"
+MEDIUM,Successful Pairs of Spells and Potions,88.4,0.004993783747770523,https://leetcode.com/problems/successful-pairs-of-spells-and-potions,"Array, Two Pointers, Binary Search, Sorting"

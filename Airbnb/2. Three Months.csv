@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Text Justification,100.0,0.005189716128123602,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-HARD,Smallest Sufficient Team,100.0,0.005578790033521499,https://leetcode.com/problems/smallest-sufficient-team,"Array, Dynamic Programming, Bit Manipulation, Bitmask"
+HARD,Maximum Profit in Job Scheduling,100.0,0.005487829980882463,https://leetcode.com/problems/maximum-profit-in-job-scheduling,"Array, Binary Search, Dynamic Programming, Sorting"

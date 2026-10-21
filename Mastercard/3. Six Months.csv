@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Strange Printer,100.0,0.0060980229188425834,https://leetcode.com/problems/strange-printer,"String, Dynamic Programming"
-MEDIUM,Coin Change II,88.3,0.005930275561603547,https://leetcode.com/problems/coin-change-ii,"Array, Dynamic Programming, Knapsack Problem, Complete Knapsack"
-EASY,Best Time to Buy and Sell Stock,79.0,0.005725128295365041,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+HARD,Strange Printer,100.0,0.006104271793979468,https://leetcode.com/problems/strange-printer,"String, Dynamic Programming"
+HARD,Contain Virus,88.3,0.005652886012415798,https://leetcode.com/problems/contain-virus,"Array, Depth-First Search, Breadth-First Search, Matrix, Simulation"
+MEDIUM,Coin Change II,79.0,0.005909031262203358,https://leetcode.com/problems/coin-change-ii,"Array, Dynamic Programming, Knapsack Problem, Complete Knapsack"

@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Smallest Missing Non-negative Integer After Operations,100.0,0.005593507763608596,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations,"Array, Hash Table, Math, Greedy"
-EASY,Crawler Log Folder,97.4,0.007170762897559504,https://leetcode.com/problems/crawler-log-folder,"Array, String, Stack"
-EASY,Count Largest Group,97.4,0.007467390579457144,https://leetcode.com/problems/count-largest-group,"Hash Table, Math, Counting"
-EASY,Minimum Subsequence in Non-Increasing Order,97.4,0.007404848297691654,https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order,"Array, Greedy, Sorting"
-MEDIUM,Max Difference You Can Get From Changing an Integer,97.4,0.004863295991316072,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer,"Math, Greedy"
-MEDIUM,Design Underground System,82.0,0.007459873032280065,https://leetcode.com/problems/design-underground-system,"Hash Table, String, Design"
+EASY,Crawler Log Folder,100.0,0.0071747590720372244,https://leetcode.com/problems/crawler-log-folder,"Array, String, Stack"
+EASY,Count Largest Group,100.0,0.007464797471545188,https://leetcode.com/problems/count-largest-group,"Hash Table, Math, Counting"
+MEDIUM,Smallest Missing Non-negative Integer After Operations,100.0,0.005568586167967875,https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations,"Array, Hash Table, Math, Greedy"
+EASY,Minimum Subsequence in Non-Increasing Order,100.0,0.007422740657539236,https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order,"Array, Greedy, Sorting"
+MEDIUM,Max Difference You Can Get From Changing an Integer,100.0,0.004860729978619169,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer,"Math, Greedy"
+MEDIUM,Design Underground System,89.3,0.007474657219296046,https://leetcode.com/problems/design-underground-system,"Hash Table, String, Design"

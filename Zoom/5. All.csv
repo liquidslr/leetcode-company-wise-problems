@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,User Activity for the Past 30 Days I,100.0,0.005139134249533886,https://leetcode.com/problems/user-activity-for-the-past-30-days-i,Database
-EASY,User Activity for the Past 30 Days II,100.0,0.003562691349234603,https://leetcode.com/problems/user-activity-for-the-past-30-days-ii,Database
-HARD,Word Search II,78.4,0.003878762248462817,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
-MEDIUM,LRU Cache,69.5,0.004786906189866565,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,User Activity for the Past 30 Days I,100.0,0.00519334972410645,https://leetcode.com/problems/user-activity-for-the-past-30-days-i,Database
+EASY,User Activity for the Past 30 Days II,100.0,0.003563149254153812,https://leetcode.com/problems/user-activity-for-the-past-30-days-ii,Database
+HARD,Word Search II,78.4,0.0039031239842126893,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
+MEDIUM,LRU Cache,69.5,0.004825730979730083,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

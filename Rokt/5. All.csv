@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Basic Calculator,100.0,0.004711213771316073,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
-MEDIUM,Basic Calculator II,97.8,0.004708543633336923,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
-EASY,Valid Word Abbreviation,89.2,0.0037047809064440955,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
-HARD,Regular Expression Matching,80.7,0.003157645373495077,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
-EASY,Valid Parentheses,74.6,0.00447256597772042,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-MEDIUM,Design Browser History,66.1,0.007844319892190836,https://leetcode.com/problems/design-browser-history,"Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
+HARD,Basic Calculator,100.0,0.004727951868672598,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
+MEDIUM,Basic Calculator II,97.8,0.004727707403219298,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"
+EASY,Valid Word Abbreviation,89.2,0.00370389684030397,https://leetcode.com/problems/valid-word-abbreviation,"Two Pointers, String"
+HARD,Regular Expression Matching,80.7,0.0031989400029750177,https://leetcode.com/problems/regular-expression-matching,"String, Dynamic Programming, Recursion"
+EASY,Valid Parentheses,74.6,0.004534115623893582,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Design Browser History,66.1,0.007860303770986989,https://leetcode.com/problems/design-browser-history,"Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"

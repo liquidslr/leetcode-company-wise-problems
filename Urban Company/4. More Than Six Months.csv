@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Pacific Atlantic Water Flow,100.0,0.0061343298231028584,https://leetcode.com/problems/pacific-atlantic-water-flow,"Array, Depth-First Search, Breadth-First Search, Matrix"
-HARD,Trapping Rain Water,88.9,0.006802854934685826,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-HARD,Candy,88.9,0.004904719917628917,https://leetcode.com/problems/candy,"Array, Greedy"
-MEDIUM,Find Peak Element,88.9,0.004714061708087774,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"
-MEDIUM,Minimum Deletions to Make String Balanced,88.9,0.006815874002694022,https://leetcode.com/problems/minimum-deletions-to-make-string-balanced,"String, Dynamic Programming, Stack"
+MEDIUM,Pacific Atlantic Water Flow,100.0,0.006161842021916767,https://leetcode.com/problems/pacific-atlantic-water-flow,"Array, Depth-First Search, Breadth-First Search, Matrix"
+HARD,Trapping Rain Water,89.2,0.0068422555189191535,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Find Peak Element,89.2,0.004726738434319998,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"
+MEDIUM,Minimum Deletions to Make String Balanced,89.2,0.0068149078899485726,https://leetcode.com/problems/minimum-deletions-to-make-string-balanced,"String, Dynamic Programming, Stack"
+MEDIUM,Evaluate Division,89.2,0.006467507939132466,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm"

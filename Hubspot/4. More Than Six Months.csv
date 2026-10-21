@@ -1,12 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Celebrity,100.0,0.004906643023186505,https://leetcode.com/problems/find-the-celebrity,"Two Pointers, Graph Theory, Interactive"
-EASY,Merge Sorted Array,86.0,0.005552799447048253,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-MEDIUM,Merge Intervals,81.0,0.005257640819791322,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-EASY,Two Sum,76.8,0.0058009546124321455,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Simple Bank System,74.2,0.0069569251305521326,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
-MEDIUM,Maximum Number of Occurrences of a Substring,71.3,0.005480517882953531,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring,"Hash Table, String, Sliding Window"
-EASY,Merge Two Sorted Lists,67.8,0.006874747676584544,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-MEDIUM,Meeting Rooms II,63.6,0.005277681052747888,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-HARD,Find the K-Sum of an Array,50.4,0.004181787445058041,https://leetcode.com/problems/find-the-k-sum-of-an-array,"Array, Sorting, Heap (Priority Queue)"
-MEDIUM,Memoize,50.4,0.006526172280691071,https://leetcode.com/problems/memoize,
-HARD,Merge k Sorted Lists,50.4,0.0060293913261848684,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
+MEDIUM,Find the Celebrity,100.0,0.0049105854543243605,https://leetcode.com/problems/find-the-celebrity,"Two Pointers, Graph Theory, Interactive"
+EASY,Merge Sorted Array,79.5,0.00559067281469236,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+MEDIUM,Simple Bank System,79.5,0.006942754817804559,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
+MEDIUM,Merge Intervals,77.5,0.005302574736934584,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Two Sum,72.9,0.005803619454625748,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Maximum Number of Occurrences of a Substring,66.6,0.005506214373599463,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring,"Hash Table, String, Sliding Window"
+EASY,Merge Two Sorted Lists,66.6,0.0069017867835427646,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+MEDIUM,Meeting Rooms II,62.4,0.005284501720813362,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+HARD,Find the K-Sum of an Array,49.5,0.004215815848890358,https://leetcode.com/problems/find-the-k-sum-of-an-array,"Array, Sorting, Heap (Priority Queue)"
+MEDIUM,Memoize,49.5,0.006539264745129436,https://leetcode.com/problems/memoize,

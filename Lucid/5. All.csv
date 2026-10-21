@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Collect Coins in a Tree,100.0,0.003979289006756331,https://leetcode.com/problems/collect-coins-in-a-tree,"Array, Tree, Graph Theory, Topological Sort"
-EASY,Maximum Number of Balls in a Box,100.0,0.007498050517036786,https://leetcode.com/problems/maximum-number-of-balls-in-a-box,"Hash Table, Math, Counting"
-EASY,Valid Parentheses,77.8,0.004472562561793012,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-MEDIUM,Number of Islands,77.8,0.006496043375604943,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
-MEDIUM,Min Stack,68.7,0.005855048286217287,https://leetcode.com/problems/min-stack,"Stack, Design"
-MEDIUM,Lowest Common Ancestor of a Binary Tree,68.7,0.006995187646125717,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor"
+HARD,Collect Coins in a Tree,100.0,0.004018351976288598,https://leetcode.com/problems/collect-coins-in-a-tree,"Array, Tree, Graph Theory, Topological Sort"
+EASY,Maximum Number of Balls in a Box,100.0,0.007506744473682027,https://leetcode.com/problems/maximum-number-of-balls-in-a-box,"Hash Table, Math, Counting"
+EASY,Valid Parentheses,78.0,0.00453411686703676,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Number of Islands,78.0,0.0065314510587973895,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Min Stack,68.9,0.00587906315937214,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,68.9,0.00702878310671228,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor"

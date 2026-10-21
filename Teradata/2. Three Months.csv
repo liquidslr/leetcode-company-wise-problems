@@ -1,3 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximize the Minimum Powered City,100.0,0.00614006428369596,https://leetcode.com/problems/maximize-the-minimum-powered-city,"Array, Binary Search, Greedy, Queue, Sliding Window, Prefix Sum"
-HARD,Reducing Dishes,71.9,0.007681388138654052,https://leetcode.com/problems/reducing-dishes,"Array, Dynamic Programming, Greedy, Sorting"
+HARD,Maximize the Minimum Powered City,100.0,0.006126555998499612,https://leetcode.com/problems/maximize-the-minimum-powered-city,"Array, Binary Search, Greedy, Queue, Sliding Window, Prefix Sum"
+HARD,Minimum Cost to Hire K Workers,100.0,0.006387832555315193,https://leetcode.com/problems/minimum-cost-to-hire-k-workers,"Array, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Minimum Jumps to Reach End via Prime Teleportation,98.4,0.0044180966793250145,https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation,"Array, Hash Table, Math, Breadth-First Search, Number Theory"
+HARD,Find the Sum of the Power of All Subsequences,90.7,0.003897128861069533,https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences,"Array, Dynamic Programming, Knapsack Problem, 0-1 Knapsack"
+HARD,Reducing Dishes,73.6,0.007687334484970349,https://leetcode.com/problems/reducing-dishes,"Array, Dynamic Programming, Greedy, Sorting"

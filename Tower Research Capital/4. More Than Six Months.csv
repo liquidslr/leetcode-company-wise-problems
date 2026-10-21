@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Using a Robot to Print the Lexicographically Smallest String,100.0,0.006219613337069207,https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string,"Hash Table, String, Stack, Greedy"
-MEDIUM,Shortest Bridge,100.0,0.00597095395782115,https://leetcode.com/problems/shortest-bridge,"Array, Depth-First Search, Breadth-First Search, Matrix"
-MEDIUM,Evaluate Division,100.0,0.006450732055500427,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm"
+MEDIUM,Using a Robot to Print the Lexicographically Smallest String,100.0,0.0062238787865421304,https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string,"Hash Table, String, Stack, Greedy"
+MEDIUM,Shortest Bridge,100.0,0.005986790330488956,https://leetcode.com/problems/shortest-bridge,"Array, Depth-First Search, Breadth-First Search, Matrix"
+MEDIUM,Evaluate Division,100.0,0.006467507939132466,https://leetcode.com/problems/evaluate-division,"Array, String, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory, Shortest Path, Bellman–Ford Algorithm, Floyd–Warshall Algorithm"

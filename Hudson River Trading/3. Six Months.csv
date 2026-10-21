@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Memory Allocator,100.0,0.005055772660014417,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"
-HARD,Block Placement Queries,100.0,0.004141530323533029,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set"
+HARD,Block Placement Queries,100.0,0.004097055873502862,https://leetcode.com/problems/block-placement-queries,"Array, Binary Search, Binary Indexed Tree, Segment Tree, Ordered Set"

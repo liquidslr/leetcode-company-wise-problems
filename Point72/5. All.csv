@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Top Travellers,100.0,0.005763504111639683,https://leetcode.com/problems/top-travellers,Database
-EASY,Weather Type in Each Country,100.0,0.0067106196355425606,https://leetcode.com/problems/weather-type-in-each-country,Database
-MEDIUM,Evaluate Boolean Expression,100.0,0.007168747847835149,https://leetcode.com/problems/evaluate-boolean-expression,Database
-MEDIUM,Restaurant Growth,100.0,0.005957995763225297,https://leetcode.com/problems/restaurant-growth,Database
-EASY,Replace Employee ID With The Unique Identifier,100.0,0.008375610958824638,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier,Database
-MEDIUM,Maximum OR,67.6,0.0043697638994668695,https://leetcode.com/problems/maximum-or,"Array, Greedy, Bit Manipulation, Prefix Sum"
+EASY,Top Travellers,100.0,0.0058134560180562135,https://leetcode.com/problems/top-travellers,Database
+EASY,Weather Type in Each Country,100.0,0.006714127352039274,https://leetcode.com/problems/weather-type-in-each-country,Database
+MEDIUM,Evaluate Boolean Expression,100.0,0.007158183185872408,https://leetcode.com/problems/evaluate-boolean-expression,Database
+MEDIUM,Restaurant Growth,100.0,0.006024805259377934,https://leetcode.com/problems/restaurant-growth,Database
+EASY,Replace Employee ID With The Unique Identifier,100.0,0.008393657566890693,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier,Database
+MEDIUM,Maximum OR,67.6,0.0043163511880789365,https://leetcode.com/problems/maximum-or,"Array, Greedy, Bit Manipulation, Prefix Sum"

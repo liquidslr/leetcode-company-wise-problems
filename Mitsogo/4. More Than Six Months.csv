@@ -1,5 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Symmetric Coordinates,100.0,0.00410206084396467,https://leetcode.com/problems/symmetric-coordinates,Database
-EASY,Pascal's Triangle,67.5,0.007929398548511948,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
-MEDIUM,Next Permutation,67.5,0.004595894196110162,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
-MEDIUM,Zigzag Conversion,67.5,0.005489179264677859,https://leetcode.com/problems/zigzag-conversion,String
+Difficulty,Title,Frequency,Acceptance Rate,Link

@@ -1,4 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Cost Homecoming of a Robot in a Grid,100.0,0.005186240939982271,https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid,"Array, Greedy"
-HARD,Minimum Number of Operations to Make Array Continuous,90.2,0.005176202584074462,https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous,"Array, Hash Table, Binary Search, Sliding Window"
-MEDIUM,Operations on Tree,90.2,0.0045780126997418185,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
+MEDIUM,Minimum Cost Homecoming of a Robot in a Grid,100.0,0.005190794583459966,https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid,"Array, Greedy"
+HARD,Minimum Number of Operations to Make Array Continuous,92.9,0.005172009647940754,https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous,"Array, Hash Table, Binary Search, Sliding Window"
+MEDIUM,Operations on Tree,92.9,0.004626973828342237,https://leetcode.com/problems/operations-on-tree,"Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
+HARD,Sliding Window Maximum,82.9,0.00493674188113112,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query"

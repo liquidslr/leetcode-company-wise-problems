@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Browser History,100.0,0.007844289892866441,https://leetcode.com/problems/design-browser-history,"Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
-MEDIUM,Detonate the Maximum Bombs,85.1,0.0050379069262269805,https://leetcode.com/problems/detonate-the-maximum-bombs,"Array, Math, Depth-First Search, Breadth-First Search, Graph Theory, Geometry"
-MEDIUM,Daily Temperatures,68.5,0.006905662988356332,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,Design Browser History,100.0,0.007860299203319926,https://leetcode.com/problems/design-browser-history,"Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
+MEDIUM,Daily Temperatures,72.5,0.006927663859642001,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
+MEDIUM,Detonate the Maximum Bombs,59.3,0.005051575938766226,https://leetcode.com/problems/detonate-the-maximum-bombs,"Array, Math, Depth-First Search, Breadth-First Search, Graph Theory, Geometry"

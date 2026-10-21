@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,3Sum Closest,100.0,0.004920550647540531,https://leetcode.com/problems/3sum-closest,"Array, Two Pointers, Sorting"
-HARD,Minimum Window Substring,89.5,0.004825493507502785,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,3Sum Closest,100.0,0.0047673712766763045,https://leetcode.com/problems/3sum-closest,"Array, Two Pointers, Sorting"
+HARD,Minimum Window Substring,89.1,0.00486969605056499,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+HARD,Count Good Subarrays,89.1,0.002619244099686417,https://leetcode.com/problems/count-good-subarrays,"Array, Stack, Bit Manipulation, Monotonic Stack"

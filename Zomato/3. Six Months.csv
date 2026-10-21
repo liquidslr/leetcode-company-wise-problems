@@ -1,2 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Xor Product,100.0,0.00305721499182135,https://leetcode.com/problems/maximum-xor-product,"Math, Greedy, Bit Manipulation"
+HARD,Minimize Malware Spread,100.0,0.004354806557800992,https://leetcode.com/problems/minimize-malware-spread,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
+MEDIUM,Maximum Xor Product,88.4,0.0030637720488466756,https://leetcode.com/problems/maximum-xor-product,"Math, Greedy, Bit Manipulation"
+MEDIUM,Exchange Seats,88.4,0.007512524410151158,https://leetcode.com/problems/exchange-seats,Database
+MEDIUM,LRU Cache,88.4,0.004825730979730083,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

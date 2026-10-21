@@ -1,14 +1,13 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Moves to Capture The Queen,100.0,0.0022685935444510114,https://leetcode.com/problems/minimum-moves-to-capture-the-queen,"Math, Enumeration"
-EASY,Two Sum,97.5,0.005800955990336114,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Longest Common Prefix,83.5,0.004818719734782995,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-EASY,Palindrome Number,71.4,0.0060874528026185456,https://leetcode.com/problems/palindrome-number,Math
-EASY,Valid Anagram,71.4,0.006853248243938401,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-MEDIUM,Reverse Integer,61.8,0.003236626884292629,https://leetcode.com/problems/reverse-integer,Math
-MEDIUM,Sort Characters By Frequency,61.8,0.007571013739168003,https://leetcode.com/problems/sort-characters-by-frequency,"Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
-EASY,Create Hello World Function,61.8,0.008191597892549411,https://leetcode.com/problems/create-hello-world-function,
-MEDIUM,Merge Intervals,61.8,0.005257663671981929,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-EASY,Add Binary,61.8,0.0058484872131346274,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
-EASY,Merge Sorted Array,61.8,0.005552798031809631,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Toeplitz Matrix,61.8,0.006983907418094353,https://leetcode.com/problems/toeplitz-matrix,"Array, Matrix"
-EASY,Pascal's Triangle,61.8,0.007929403797893026,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+EASY,Two Sum,100.0,0.00580362307082514,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Longest Common Prefix,91.4,0.004853662879242321,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Palindrome Number,78.3,0.006104356028043827,https://leetcode.com/problems/palindrome-number,Math
+EASY,Valid Anagram,78.3,0.00687676049116845,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Merge Intervals,68.0,0.005302562140417426,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Add Binary,68.0,0.005880362727200201,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
+EASY,Merge Sorted Array,68.0,0.005590676703728125,https://leetcode.com/problems/merge-sorted-array,"Array, Two Pointers, Sorting"
+EASY,Toeplitz Matrix,68.0,0.006992803620660349,https://leetcode.com/problems/toeplitz-matrix,"Array, Matrix"
+EASY,Pascal's Triangle,68.0,0.007947631831071488,https://leetcode.com/problems/pascals-triangle,"Array, Dynamic Programming"
+MEDIUM,Group Anagrams,68.0,0.007344441531412234,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,68.0,0.004001911943480302,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Reverse String,68.0,0.008145954373241388,https://leetcode.com/problems/reverse-string,"Two Pointers, String"

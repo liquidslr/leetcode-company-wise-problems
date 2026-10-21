@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Arranging Coins,100.0,0.0048503700938677145,https://leetcode.com/problems/arranging-coins,"Math, Binary Search"
-MEDIUM,String Compression,100.0,0.006060152682054325,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Merge Intervals,89.3,0.005257639318283639,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-EASY,Valid Parentheses,77.7,0.004472561161448614,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-HARD,Minimum Degree of a Connected Trio in a Graph,68.5,0.004475217391304348,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph,"Graph Theory, Enumeration"
+EASY,Arranging Coins,100.0,0.004868868067426915,https://leetcode.com/problems/arranging-coins,"Math, Binary Search"
+MEDIUM,String Compression,97.4,0.006096663985091801,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Merge Intervals,86.9,0.005302573263470528,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Valid Parentheses,75.5,0.004534116940466955,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+HARD,Minimum Degree of a Connected Trio in a Graph,66.5,0.004495463802999445,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph,"Graph Theory, Enumeration"
+MEDIUM,Ways to Make a Fair Array,66.5,0.006775100401606425,https://leetcode.com/problems/ways-to-make-a-fair-array,"Array, Prefix Sum"

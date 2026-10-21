@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Encrypt and Decrypt Strings,100.0,0.0038738359108339304,https://leetcode.com/problems/encrypt-and-decrypt-strings,"Array, Hash Table, String, Design, Trie"
-HARD,Longest Increasing Path in a Matrix,84.1,0.005695044086814752,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Memoization, Matrix, Directed Acyclic Graph"
-MEDIUM,Task Scheduler II,73.9,0.005498706473043259,https://leetcode.com/problems/task-scheduler-ii,"Array, Hash Table, Simulation"
+HARD,Encrypt and Decrypt Strings,100.0,0.003913249243811601,https://leetcode.com/problems/encrypt-and-decrypt-strings,"Array, Hash Table, String, Design, Trie"
+HARD,Longest Increasing Path in a Matrix,92.7,0.005718813063448473,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Memoization, Matrix, Directed Acyclic Graph"
+MEDIUM,Task Scheduler II,87.9,0.005510435233069636,https://leetcode.com/problems/task-scheduler-ii,"Array, Hash Table, Simulation"

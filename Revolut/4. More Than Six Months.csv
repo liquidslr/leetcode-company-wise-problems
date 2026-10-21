@@ -1,11 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Longest Common Prefix,100.0,0.0048187214076762285,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-MEDIUM,Perfect Squares,96.9,0.005680476050292981,https://leetcode.com/problems/perfect-squares,"Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack"
-MEDIUM,Reverse Linked List II,89.3,0.005217661088741443,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
-EASY,Binary Tree Paths,89.3,0.0069176652171823024,https://leetcode.com/problems/binary-tree-paths,"String, Backtracking, Tree, Depth-First Search, Binary Tree"
-MEDIUM,Find All Anagrams in a String,84.2,0.005432486105145879,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
-MEDIUM,Random Pick with Weight,68.3,0.0049211970223146575,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
-EASY,Missing Number,68.3,0.007251667216485274,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
-MEDIUM,Encode and Decode TinyURL,68.3,0.008660179620316994,https://leetcode.com/problems/encode-and-decode-tinyurl,"Hash Table, String, Design, Hash Function"
-MEDIUM,Simple Bank System,68.3,0.0069569251305521326,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
-MEDIUM,Restaurant Growth,68.3,0.005957983316167608,https://leetcode.com/problems/restaurant-growth,Database
+EASY,Longest Common Prefix,100.0,0.004853663857744087,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Perfect Squares,93.5,0.005699503150130614,https://leetcode.com/problems/perfect-squares,"Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack"
+MEDIUM,Reverse Linked List II,89.4,0.00526381307704386,https://leetcode.com/problems/reverse-linked-list-ii,Linked List
+EASY,Binary Tree Paths,89.4,0.0069528567047916915,https://leetcode.com/problems/binary-tree-paths,"String, Backtracking, Tree, Depth-First Search, Binary Tree"
+MEDIUM,Find All Anagrams in a String,77.8,0.005470393475933573,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
+MEDIUM,Restaurant Growth,77.8,0.006024805259377934,https://leetcode.com/problems/restaurant-growth,Database
+EASY,Missing Number,68.6,0.007285160475282766,https://leetcode.com/problems/missing-number,"Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+MEDIUM,Simple Bank System,68.6,0.00694278740420452,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"

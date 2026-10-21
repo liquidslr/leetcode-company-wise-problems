@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Window Substring,100.0,0.004825491928795409,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
-MEDIUM,Time Based Key-Value Store,100.0,0.005012852742454725,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-HARD,Read N Characters Given read4 II - Call Multiple Times,96.6,0.004334779377755175,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times,"Array, Simulation, Interactive"
-MEDIUM,Rotting Oranges,72.2,0.005927624222963237,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+HARD,Minimum Window Substring,100.0,0.004869699230279153,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Time Based Key-Value Store,96.6,0.005025855048986389,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+HARD,Read N Characters Given read4 II - Call Multiple Times,92.6,0.004340049881858756,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times,"Array, Simulation, Interactive"
+MEDIUM,Validate Binary Search Tree,72.3,0.0036499052038709307,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+MEDIUM,Decode Ways,72.3,0.0038775216236113575,https://leetcode.com/problems/decode-ways,"String, Dynamic Programming"

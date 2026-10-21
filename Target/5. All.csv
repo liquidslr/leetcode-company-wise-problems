@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Sort Colors,100.0,0.007016877255096635,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort"
-HARD,Longest Path With Different Adjacent Characters,88.2,0.005401423048910304,https://leetcode.com/problems/longest-path-with-different-adjacent-characters,"Array, String, Tree, Depth-First Search, Graph Theory, Topological Sort"
-MEDIUM,Product of the Last K Numbers,88.2,0.006303289476787794,https://leetcode.com/problems/product-of-the-last-k-numbers,"Array, Math, Design, Data Stream, Prefix Sum"
-MEDIUM,Maximum Subarray,88.2,0.005373546704572653,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-EASY,Longest Common Prefix,88.2,0.004818717793682578,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-MEDIUM,Sort Characters By Frequency,88.2,0.007571009095740409,https://leetcode.com/problems/sort-characters-by-frequency,"Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+MEDIUM,Sort Colors,100.0,0.007029500256364891,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort"
+HARD,Longest Path With Different Adjacent Characters,88.3,0.005404861979496614,https://leetcode.com/problems/longest-path-with-different-adjacent-characters,"Array, String, Tree, Depth-First Search, Graph Theory, Topological Sort"
+MEDIUM,Product of the Last K Numbers,88.3,0.006308162635677758,https://leetcode.com/problems/product-of-the-last-k-numbers,"Array, Math, Design, Data Stream, Prefix Sum"
+MEDIUM,Maximum Subarray,88.3,0.005399359118735593,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+EASY,Longest Common Prefix,88.3,0.004853662745052489,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Sort Characters By Frequency,88.3,0.007589009936179747,https://leetcode.com/problems/sort-characters-by-frequency,"Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting"

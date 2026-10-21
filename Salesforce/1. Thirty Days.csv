@@ -1,6 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Course Schedule II,100.0,0.005608814973328658,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
-MEDIUM,String Compression,88.6,0.006060163705313572,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Minimum Operations to Reduce an Integer to 0,88.6,0.006317560635285427,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,"Dynamic Programming, Greedy, Bit Manipulation"
-HARD,Optimal Account Balancing,88.6,0.005061702949890506,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-EASY,Count Vowel Substrings of a String,88.6,0.0073424036281179135,https://leetcode.com/problems/count-vowel-substrings-of-a-string,"Hash Table, String"
+MEDIUM,Minimum Operations to Reduce an Integer to 0,100.0,0.006353253069685856,https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0,"Dynamic Programming, Greedy, Bit Manipulation"
+HARD,Put Marbles in Bags,90.1,0.007203281257200793,https://leetcode.com/problems/put-marbles-in-bags,"Array, Greedy, Sorting, Heap (Priority Queue)"

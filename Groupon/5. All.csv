@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Sell Diminishing-Valued Colored Balls,100.0,0.0030387360552114762,https://leetcode.com/problems/sell-diminishing-valued-colored-balls,"Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue)"
-MEDIUM,Jump Game II,72.2,0.004335944292113706,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Sell Diminishing-Valued Colored Balls,100.0,0.003045489830771619,https://leetcode.com/problems/sell-diminishing-valued-colored-balls,"Array, Math, Binary Search, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Jump Game II,72.2,0.004366654659991473,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"

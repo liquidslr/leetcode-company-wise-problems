@@ -1,11 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Beautiful Arrangement,100.0,0.006492734268180229,https://leetcode.com/problems/beautiful-arrangement,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-HARD,Count Palindromic Subsequences,92.1,0.004186745946693399,https://leetcode.com/problems/count-palindromic-subsequences,"String, Dynamic Programming"
-MEDIUM,Exclusive Time of Functions,80.9,0.006626042639401086,https://leetcode.com/problems/exclusive-time-of-functions,"Array, Stack"
-MEDIUM,Number of Divisible Triplet Sums,80.9,0.0067640522875816985,https://leetcode.com/problems/number-of-divisible-triplet-sums,"Array, Hash Table"
-MEDIUM,Minimize Maximum of Array,80.9,0.004659440762070339,https://leetcode.com/problems/minimize-maximum-of-array,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
-MEDIUM,Longest Palindromic Substring,80.9,0.003847120896575322,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-MEDIUM,Subarray Sum Equals K,80.9,0.004798002215575853,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-MEDIUM,Count Ways To Build Good Strings,80.9,0.005884268138057586,https://leetcode.com/problems/count-ways-to-build-good-strings,Dynamic Programming
-MEDIUM,Merge Intervals,80.9,0.005257663671981929,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-MEDIUM,Longest Substring Without Repeating Characters,80.9,0.003977957991168964,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.004001913168512742,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Minimum Cost to Move Between Indices,100.0,0.004930644225188624,https://leetcode.com/problems/minimum-cost-to-move-between-indices,"Array, Greedy, Prefix Sum"
+HARD,Minimize Malware Spread II,92.2,0.0046305710061254664,https://leetcode.com/problems/minimize-malware-spread-ii,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
+HARD,Minimize Malware Spread,92.2,0.004354806557800992,https://leetcode.com/problems/minimize-malware-spread,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
+MEDIUM,Merge Intervals,81.2,0.0053025648312917985,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+MEDIUM,Course Schedule II,81.2,0.005644355072448565,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+HARD,Longest Increasing Path in a Matrix,81.2,0.005718818434353904,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Memoization, Matrix, Directed Acyclic Graph"

@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,K Closest Points to Origin,100.0,0.006928806872145195,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect, K-D Tree"
-MEDIUM,Product of Array Except Self,98.5,0.006916445091796937,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
-EASY,Maximum Repeating Substring,88.7,0.004218876454167217,https://leetcode.com/problems/maximum-repeating-substring,"String, Dynamic Programming, String Matching"
-MEDIUM,Minimum Cost Path with Edge Reversals,88.7,0.006152009870025535,https://leetcode.com/problems/minimum-cost-path-with-edge-reversals,"Graph Theory, Heap (Priority Queue), Shortest Path"
-MEDIUM,Validate Binary Search Tree,60.6,0.0036206023335409103,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+MEDIUM,K Closest Points to Origin,100.0,0.006948458073490756,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect, K-D Tree"
+MEDIUM,Product of Array Except Self,95.1,0.006937972326505409,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+EASY,Maximum Repeating Substring,88.7,0.004256045705464394,https://leetcode.com/problems/maximum-repeating-substring,"String, Dynamic Programming, String Matching"
+MEDIUM,Minimum Cost Path with Edge Reversals,88.7,0.006151036429841454,https://leetcode.com/problems/minimum-cost-path-with-edge-reversals,"Graph Theory, Heap (Priority Queue), Shortest Path"
+MEDIUM,Validate Binary Search Tree,60.8,0.0036499007467643697,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"

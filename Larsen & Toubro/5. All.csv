@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find the Sum of Encrypted Integers,100.0,0.007537912985840485,https://leetcode.com/problems/find-the-sum-of-encrypted-integers,"Array, Math"
-EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,100.0,0.006493006296092202,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray,Array
-EASY,Longest Common Prefix,71.1,0.004818722152744538,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Find the Sum of Encrypted Integers,100.0,0.007493104133106781,https://leetcode.com/problems/find-the-sum-of-encrypted-integers,"Array, Math"
+EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,100.0,0.006480162117279542,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray,Array
+EASY,Longest Common Prefix,71.1,0.004853661274518008,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"

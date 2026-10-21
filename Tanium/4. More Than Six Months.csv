@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Jump Game III,100.0,0.007039603388828343,https://leetcode.com/problems/jump-game-iii,"Array, Depth-First Search, Breadth-First Search"
-EASY,Reverse Only Letters,80.6,0.00689288016582202,https://leetcode.com/problems/reverse-only-letters,"Two Pointers, String"
+MEDIUM,Jump Game III,100.0,0.007051278295261647,https://leetcode.com/problems/jump-game-iii,"Array, Depth-First Search, Breadth-First Search"
+EASY,Reverse Only Letters,80.6,0.006929945451535786,https://leetcode.com/problems/reverse-only-letters,"Two Pointers, String"

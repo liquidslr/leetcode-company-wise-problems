@@ -1,6 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Roman to Integer,100.0,0.006704948841094174,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-MEDIUM,Product of Array Except Self,88.9,0.006916454305787093,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
-HARD,Merge k Sorted Lists,88.9,0.006029413371586027,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
-MEDIUM,Flatten Nested List Iterator,88.9,0.006582874417529943,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"
-EASY,Two Sum,88.9,0.005800955990336114,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Roman to Integer,100.0,0.006731045075296292,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Flatten Nested List Iterator,89.1,0.0065940631310244975,https://leetcode.com/problems/flatten-nested-list-iterator,"Stack, Tree, Depth-First Search, Design, Queue, Iterator"

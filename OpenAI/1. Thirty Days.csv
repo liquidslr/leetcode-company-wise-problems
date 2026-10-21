@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Memory Allocator,100.0,0.005055771602010812,https://leetcode.com/problems/design-memory-allocator,"Array, Hash Table, Design, Simulation"
-MEDIUM,Rotting Oranges,69.7,0.005927620556931643,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Find Duplicate File in System,100.0,0.006754375346194338,https://leetcode.com/problems/find-duplicate-file-in-system,"Array, Hash Table, String"

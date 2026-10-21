@@ -1,1 +1,8 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Pythagorean Distance Nodes in a Tree,100.0,0.005653224442457777,https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree,"Tree, Breadth-First Search"
+MEDIUM,Delete and Earn,92.5,0.005764861472142015,https://leetcode.com/problems/delete-and-earn,"Array, Hash Table, Dynamic Programming"
+MEDIUM,Palindromic Substrings,92.5,0.007333736113750426,https://leetcode.com/problems/palindromic-substrings,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Design Authentication Manager,82.0,0.005885499468603701,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Longest Palindromic Substring,82.0,0.0038866711773173617,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+HARD,Put Marbles in Bags,82.0,0.00720326836844264,https://leetcode.com/problems/put-marbles-in-bags,"Array, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Wiggle Sort II,82.0,0.0038581619923140943,https://leetcode.com/problems/wiggle-sort-ii,"Array, Divide and Conquer, Greedy, Sorting, Quickselect"

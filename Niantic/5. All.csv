@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,String to Integer (atoi),100.0,0.0021567208965441054,https://leetcode.com/problems/string-to-integer-atoi,String
-MEDIUM,Brace Expansion,89.5,0.006686752308703887,https://leetcode.com/problems/brace-expansion,"String, Backtracking, Stack, Breadth-First Search, Sorting"
-MEDIUM,Find the Duplicate Number,89.5,0.0064769336188518845,https://leetcode.com/problems/find-the-duplicate-number,"Array, Two Pointers, Binary Search, Bit Manipulation, Pigeonhole Principle, Floyd's Cycle Finding Algorithm"
+MEDIUM,String to Integer (atoi),100.0,0.0021919358732522885,https://leetcode.com/problems/string-to-integer-atoi,String
+MEDIUM,Brace Expansion,89.9,0.006690162486075366,https://leetcode.com/problems/brace-expansion,"String, Backtracking, Stack, Breadth-First Search, Sorting"

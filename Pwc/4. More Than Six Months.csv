@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.005800958083748111,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-HARD,Median of Two Sorted Arrays,73.9,0.004736982829774125,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-EASY,Roman to Integer,73.9,0.006704944612057574,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-EASY,Longest Common Prefix,73.9,0.0048187214076762285,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Two Sum,100.0,0.005803622953737174,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Longest Common Prefix,83.5,0.004853663857744087,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Roman to Integer,73.9,0.006731049494007383,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+EASY,Valid Palindrome,73.9,0.005452920157418918,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"

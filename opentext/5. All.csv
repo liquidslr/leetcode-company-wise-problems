@@ -1,10 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Largest 3-Same-Digit Number in String,100.0,0.007266042166856903,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
-EASY,Filter Characters by Frequency,100.0,0.008660806618407447,https://leetcode.com/problems/filter-characters-by-frequency,"Hash Table, String, Counting"
-EASY,Longest Common Prefix,83.6,0.004818719356298374,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-EASY,Valid Parentheses,76.9,0.004472573332822307,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-MEDIUM,Longest Palindromic Substring,67.3,0.0038471229639906878,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-EASY,Best Time to Buy and Sell Stock,67.3,0.005725133789500735,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Subarray Sum Equals K,67.3,0.0047980053041721035,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-MEDIUM,Find the Winner of the Circular Game,67.3,0.008232485139918519,https://leetcode.com/problems/find-the-winner-of-the-circular-game,"Array, Math, Recursion, Queue, Simulation"
-EASY,Defuse the Bomb,67.3,0.007946186759294378,https://leetcode.com/problems/defuse-the-bomb,"Array, Sliding Window"
+EASY,Largest 3-Same-Digit Number in String,100.0,0.007268494433461658,https://leetcode.com/problems/largest-3-same-digit-number-in-string,String
+EASY,Filter Characters by Frequency,100.0,0.008640308582449373,https://leetcode.com/problems/filter-characters-by-frequency,"Hash Table, String, Counting"
+EASY,Longest Common Prefix,83.7,0.004853661788917336,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Valid Parentheses,67.4,0.004534117816457164,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Longest Palindromic Substring,67.4,0.0038866738149183288,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Find the Winner of the Circular Game,67.4,0.008237482059060048,https://leetcode.com/problems/find-the-winner-of-the-circular-game,"Array, Math, Recursion, Queue, Simulation"
+EASY,Defuse the Bomb,67.4,0.007955793837189903,https://leetcode.com/problems/defuse-the-bomb,"Array, Sliding Window"

@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.005548623345898236,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-HARD,Text Justification,94.8,0.005189788306344752,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-EASY,Longest Common Prefix,88.1,0.0048187214076762285,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-HARD,Construct Target Array With Multiple Sums,78.7,0.0037200653677756518,https://leetcode.com/problems/construct-target-array-with-multiple-sums,"Array, Heap (Priority Queue)"
-MEDIUM,Subarray Sum Equals K,78.7,0.0047980037826765186,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-HARD,Serialize and Deserialize Binary Tree,78.7,0.006102835093558331,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+MEDIUM,Insert Delete GetRandom O(1),100.0,0.0055569256141588174,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+HARD,Text Justification,92.6,0.00524533758074244,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+EASY,Longest Common Prefix,81.3,0.004853663857744087,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+HARD,Serialize and Deserialize Binary Tree,81.3,0.006127522680012756,https://leetcode.com/problems/serialize-and-deserialize-binary-tree,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+HARD,Construct Target Array With Multiple Sums,72.4,0.0037248069578791846,https://leetcode.com/problems/construct-target-array-with-multiple-sums,"Array, Heap (Priority Queue)"
+MEDIUM,Subarray Sum Equals K,72.4,0.004835078238368876,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"

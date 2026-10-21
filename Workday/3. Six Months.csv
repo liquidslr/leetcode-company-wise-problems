@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Permutations,100.0,0.008243487627480433,https://leetcode.com/problems/permutations,"Array, Backtracking"

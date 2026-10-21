@@ -1,8 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Missing Number In Arithmetic Progression,100.0,0.005220744509563985,https://leetcode.com/problems/missing-number-in-arithmetic-progression,"Array, Math"
-EASY,Minimum Absolute Difference,100.0,0.007518455004512406,https://leetcode.com/problems/minimum-absolute-difference,"Array, Sorting"
-MEDIUM,Leetflex Banned Accounts,100.0,0.0061763839522416195,https://leetcode.com/problems/leetflex-banned-accounts,Database
-MEDIUM,Reorganize String,77.8,0.005744895094150496,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
-MEDIUM,LRU Cache,68.6,0.004786837595797511,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Course Schedule II,68.6,0.005608725862795852,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
-EASY,Happy Number,68.6,0.006011503824828236,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm"
+EASY,Missing Number In Arithmetic Progression,100.0,0.005224896902272945,https://leetcode.com/problems/missing-number-in-arithmetic-progression,"Array, Math"
+EASY,Minimum Absolute Difference,100.0,0.0075163024752197575,https://leetcode.com/problems/minimum-absolute-difference,"Array, Sorting"
+MEDIUM,Leetflex Banned Accounts,100.0,0.006160470122767207,https://leetcode.com/problems/leetflex-banned-accounts,Database
+MEDIUM,Reorganize String,77.8,0.005768063134288714,https://leetcode.com/problems/reorganize-string,"Hash Table, String, Greedy, Sorting, Heap (Priority Queue), Counting"
+MEDIUM,Course Schedule II,68.7,0.005644344813922616,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+EASY,Happy Number,68.7,0.0060426578872582815,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm"

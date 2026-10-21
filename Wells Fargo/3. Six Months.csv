@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Minimum String Length After Removing Substrings,100.0,0.007722499347597208,https://leetcode.com/problems/minimum-string-length-after-removing-substrings,"String, Stack, Simulation"
+MEDIUM,Subarray Product Less Than K,100.0,0.005490445799783963,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"

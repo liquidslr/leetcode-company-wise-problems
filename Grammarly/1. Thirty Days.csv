@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Two Best Non-Overlapping Events,100.0,0.006394904324073161,https://leetcode.com/problems/two-best-non-overlapping-events,"Array, Binary Search, Dynamic Programming, Sorting, Heap (Priority Queue)"
-HARD,Recover a Tree From Preorder Traversal,90.6,0.008321478954586342,https://leetcode.com/problems/recover-a-tree-from-preorder-traversal,"String, Tree, Depth-First Search, Binary Tree"
+Difficulty,Title,Frequency,Acceptance Rate,Link

@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Next Permutation,100.0,0.004595895528905041,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
-MEDIUM,Longest Substring Without Repeating Characters,86.5,0.003977953357193677,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Coin Change II,86.5,0.00593027269021016,https://leetcode.com/problems/coin-change-ii,"Array, Dynamic Programming, Knapsack Problem, Complete Knapsack"
-MEDIUM,Spiral Matrix,86.5,0.005762717534317604,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Count Salary Categories,86.5,0.006511409185135771,https://leetcode.com/problems/count-salary-categories,Database
-MEDIUM,Valid Parenthesis String,86.5,0.0040403835596524015,https://leetcode.com/problems/valid-parenthesis-string,"String, Dynamic Programming, Stack, Greedy, Bracket Sequences"
-EASY,Palindrome Number,86.5,0.00608745105993423,https://leetcode.com/problems/palindrome-number,Math
-EASY,Majority Element,86.5,0.006648700202458986,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm"
-MEDIUM,Container With Most Water,86.5,0.00606483008604204,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-MEDIUM,Longest Palindromic Substring,86.5,0.0038471129830067756,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-MEDIUM,Surrounded Regions,86.5,0.004606747042516796,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Next Permutation,100.0,0.004639579181058852,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+MEDIUM,Coin Change II,86.5,0.005909031262203358,https://leetcode.com/problems/coin-change-ii,"Array, Dynamic Programming, Knapsack Problem, Complete Knapsack"
+MEDIUM,Spiral Matrix,86.5,0.005814592762393077,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,Count Salary Categories,86.5,0.006579920952670503,https://leetcode.com/problems/count-salary-categories,Database
+MEDIUM,Valid Parenthesis String,86.5,0.0042949285386013804,https://leetcode.com/problems/valid-parenthesis-string,"String, Dynamic Programming, Stack, Greedy, Bracket Sequences"
+EASY,Palindrome Number,86.5,0.0061043582747678385,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,Container With Most Water,86.5,0.006103881799650443,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Longest Palindromic Substring,86.5,0.003886670931110418,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Surrounded Regions,86.5,0.004649507533342357,https://leetcode.com/problems/surrounded-regions,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Subsets,86.5,0.00829325127005665,https://leetcode.com/problems/subsets,"Array, Backtracking, Bit Manipulation"
+HARD,Trapping Rain Water,86.5,0.006842252605326906,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

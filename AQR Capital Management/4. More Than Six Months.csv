@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Jump Game VI,100.0,0.004656717961089763,https://leetcode.com/problems/jump-game-vi,"Array, Dynamic Programming, Queue, Heap (Priority Queue), Monotonic Queue"
-MEDIUM,Add Two Numbers,88.8,0.0049132544618928084,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
-MEDIUM,Best Time to Buy and Sell Stock with Cooldown,88.8,0.006260459989362005,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown,"Array, Dynamic Programming"
+MEDIUM,Jump Game VI,100.0,0.004664594717205983,https://leetcode.com/problems/jump-game-vi,"Array, Dynamic Programming, Queue, Heap (Priority Queue), Monotonic Queue"
+MEDIUM,Add Two Numbers,100.0,0.004955377164175985,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+MEDIUM,Best Time to Buy and Sell Stock with Cooldown,100.0,0.006289731675176577,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown,"Array, Dynamic Programming"

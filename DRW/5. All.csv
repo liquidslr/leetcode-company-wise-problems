@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximize Score After Pair Deletions,100.0,0.005221745350500715,https://leetcode.com/problems/maximize-score-after-pair-deletions,"Array, Greedy"
-MEDIUM,Subsequence of Size K With the Largest Even Sum,95.3,0.0035664040517726504,https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum,"Array, Greedy, Sorting"
-EASY,Counting Elements,95.3,0.006080562319888557,https://leetcode.com/problems/counting-elements,"Array, Hash Table"
+MEDIUM,Maximize Score After Pair Deletions,100.0,0.005263994910941476,https://leetcode.com/problems/maximize-score-after-pair-deletions,"Array, Greedy"
+MEDIUM,Subsequence of Size K With the Largest Even Sum,95.2,0.003545646115151927,https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum,"Array, Greedy, Sorting"
+EASY,Counting Elements,95.2,0.006085422111522337,https://leetcode.com/problems/counting-elements,"Array, Hash Table"

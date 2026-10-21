@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Circular Queue,100.0,0.005521272128251863,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
-MEDIUM,LRU Cache,78.1,0.004786899429208218,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Best Time to Buy and Sell Stock,78.1,0.00572513154526733,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Number of Days Between Two Dates,71.9,0.005330759770429079,https://leetcode.com/problems/number-of-days-between-two-dates,"Math, String"
-MEDIUM,Best Time to Buy and Sell Stock II,63.2,0.007150181936234393,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Design Circular Queue,100.0,0.005571319082290607,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+HARD,Design Skiplist,91.3,0.005970793132596847,https://leetcode.com/problems/design-skiplist,"Linked List, Design"
+EASY,Number of Days Between Two Dates,76.5,0.005379840004263,https://leetcode.com/problems/number-of-days-between-two-dates,"Math, String"
+MEDIUM,LRU Cache,70.3,0.004825718862808002,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Best Time to Buy and Sell Stock,70.3,0.005752124151487595,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Best Time to Buy and Sell Stock II,61.7,0.007176545765501252,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"

@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Logger Rate Limiter,100.0,0.007688317455577695,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+HARD,Sliding Window Maximum,100.0,0.004936743580253868,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query"

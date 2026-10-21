@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,LRU Cache,100.0,0.004786895677649352,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Jump Game,88.5,0.004138479521979356,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
-MEDIUM,Random Pick with Weight,88.5,0.004921200535058949,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
-MEDIUM,Serialize and Deserialize BST,88.5,0.005992577791671243,https://leetcode.com/problems/serialize-and-deserialize-bst,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Search Tree, Binary Tree"
-MEDIUM,Longest Palindromic Substring,88.5,0.0038471143997938512,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,LRU Cache,100.0,0.004825722526820416,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Jump Game,100.0,0.004166916763692379,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+MEDIUM,Random Pick with Weight,100.0,0.0049317337410403105,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+MEDIUM,Serialize and Deserialize BST,100.0,0.006013890396546397,https://leetcode.com/problems/serialize-and-deserialize-bst,"String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Search Tree, Binary Tree"
+MEDIUM,Longest Palindromic Substring,100.0,0.003886672015984904,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"

@@ -1,6 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Moves to Spread Stones Over Grid,100.0,0.0045880782789085054,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Matrix, Bitmask"
-MEDIUM,Minimum Number of Operations to Sort a Binary Tree by Level,100.0,0.007422767990160962,https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level,"Tree, Breadth-First Search, Binary Tree"
-MEDIUM,Print Words Vertically,100.0,0.006800941930958466,https://leetcode.com/problems/print-words-vertically,"Array, String, Simulation"
-MEDIUM,Get Watched Videos by Your Friends,88.9,0.00540014334896072,https://leetcode.com/problems/get-watched-videos-by-your-friends,"Array, Hash Table, Breadth-First Search, Graph Theory, Sorting"
-MEDIUM,Construct the Longest New String,88.9,0.005509969931951258,https://leetcode.com/problems/construct-the-longest-new-string,"Math, Dynamic Programming, Greedy, Brainteaser"
+MEDIUM,Minimum Moves to Spread Stones Over Grid,100.0,0.004621795969629503,https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Matrix, Bitmask"
+MEDIUM,Minimum Number of Operations to Sort a Binary Tree by Level,100.0,0.007426234333995151,https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level,"Tree, Breadth-First Search, Binary Tree"
+MEDIUM,Print Words Vertically,100.0,0.0068206129028273565,https://leetcode.com/problems/print-words-vertically,"Array, String, Simulation"
+MEDIUM,Get Watched Videos by Your Friends,88.6,0.005446492616334012,https://leetcode.com/problems/get-watched-videos-by-your-friends,"Array, Hash Table, Breadth-First Search, Graph Theory, Sorting"
+MEDIUM,Construct the Longest New String,88.6,0.005338820148181326,https://leetcode.com/problems/construct-the-longest-new-string,"Math, Dynamic Programming, Greedy, Brainteaser"
+MEDIUM,Maximize the Total Height of Unique Towers,88.6,0.003786806972480865,https://leetcode.com/problems/maximize-the-total-height-of-unique-towers,"Array, Greedy, Sorting"

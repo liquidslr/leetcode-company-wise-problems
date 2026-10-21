@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Split Array Largest Sum,100.0,0.006119260048615028,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
-MEDIUM,Meeting Rooms II,100.0,0.005277670537160305,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+Difficulty,Title,Frequency,Acceptance Rate,Link

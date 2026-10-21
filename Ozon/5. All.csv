@@ -1,12 +1,13 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Monotonic Array,100.0,0.00625885653067245,https://leetcode.com/problems/monotonic-array,Array
-EASY,Valid Parentheses,90.0,0.004472564770718473,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-MEDIUM,Merge Intervals,90.0,0.005257653378270721,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-EASY,Two Sum,82.9,0.005800959235324353,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-HARD,Department Top Three Salaries,82.9,0.006139920040329563,https://leetcode.com/problems/department-top-three-salaries,Database
-MEDIUM,Decode String,82.9,0.006309049123470236,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-EASY,Squares of a Sorted Array,72.9,0.007406495518277748,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
-EASY,Best Time to Buy and Sell Stock,72.9,0.00572513154526733,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Valid Anagram,72.9,0.006853252743097908,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-MEDIUM,Longest Substring Without Repeating Characters,72.9,0.003977953357193677,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Min Stack,72.9,0.005855048327317652,https://leetcode.com/problems/min-stack,"Stack, Design"
+EASY,Monotonic Array,100.0,0.00627639861376335,https://leetcode.com/problems/monotonic-array,Array
+MEDIUM,Merge Intervals,96.3,0.005302566992870624,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Valid Parentheses,86.7,0.0045341182507174175,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Decode String,79.8,0.006337492910642644,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+EASY,Two Sum,70.1,0.005803621249727913,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Squares of a Sorted Array,70.1,0.007423232832950053,https://leetcode.com/problems/squares-of-a-sorted-array,"Array, Two Pointers, Sorting"
+HARD,Department Top Three Salaries,70.1,0.0062188209449479444,https://leetcode.com/problems/department-top-three-salaries,Database
+EASY,Best Time to Buy and Sell Stock,70.1,0.005752124151487595,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Valid Anagram,70.1,0.006876761931556342,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,70.1,0.004001909582145579,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Min Stack,70.1,0.005879065812429445,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Department Highest Salary,70.1,0.005992038487542602,https://leetcode.com/problems/department-highest-salary,Database

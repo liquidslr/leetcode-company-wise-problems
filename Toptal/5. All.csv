@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,String Compression II,100.0,0.005220616870472778,https://leetcode.com/problems/string-compression-ii,"String, Dynamic Programming"
-MEDIUM,Airplane Seat Assignment Probability,71.8,0.0067578142172594205,https://leetcode.com/problems/airplane-seat-assignment-probability,"Math, Dynamic Programming, Brainteaser, Probability and Statistics"
-MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,71.8,0.006374802235557344,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,"String, Bit Manipulation, Simulation"
+HARD,String Compression II,100.0,0.005219421237437947,https://leetcode.com/problems/string-compression-ii,"String, Dynamic Programming"
+MEDIUM,Airplane Seat Assignment Probability,71.8,0.006779246416616599,https://leetcode.com/problems/airplane-seat-assignment-probability,"Math, Dynamic Programming, Brainteaser, Probability and Statistics"
+MEDIUM,Number of Steps to Reduce a Number in Binary Representation to One,71.8,0.0063735869453789736,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one,"String, Bit Manipulation, Simulation"

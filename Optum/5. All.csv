@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Reverse Prefix of Word,100.0,0.008650372151559317,https://leetcode.com/problems/reverse-prefix-of-word,"Two Pointers, String, Stack"
-MEDIUM,Bank Account Summary,100.0,0.005232970884255931,https://leetcode.com/problems/bank-account-summary,Database
-MEDIUM,Longest Common Subsequence,67.9,0.0059476726554075045,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming, Longest Common Subsequence"
-EASY,Two Sum,67.9,0.005800959235324353,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-HARD,All O`one Data Structure,67.9,0.004446828603783362,https://leetcode.com/problems/all-oone-data-structure,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Longest Substring Without Repeating Characters,67.9,0.003977953357193677,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Reverse Prefix of Word,100.0,0.008653675763252494,https://leetcode.com/problems/reverse-prefix-of-word,"Two Pointers, String, Stack"
+MEDIUM,Bank Account Summary,100.0,0.005238137709596861,https://leetcode.com/problems/bank-account-summary,Database
+MEDIUM,Longest Common Subsequence,68.0,0.005966797109416326,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming, Longest Common Subsequence"
+EASY,Two Sum,68.0,0.005803621249727913,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,All O`one Data Structure,68.0,0.004469070851048644,https://leetcode.com/problems/all-oone-data-structure,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Longest Substring Without Repeating Characters,68.0,0.004001909582145579,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

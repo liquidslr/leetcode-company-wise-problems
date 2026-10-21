@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Decode String,100.0,0.006309057042491219,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-HARD,Remove Boxes,90.2,0.004964726764037846,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
-MEDIUM,Minimum Factorization,90.2,0.003412143564901464,https://leetcode.com/problems/minimum-factorization,"Math, Greedy, Prime Factorization"
+MEDIUM,Decode String,100.0,0.006337500536424176,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+HARD,Remove Boxes,90.2,0.004993493295901508,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
+MEDIUM,Minimum Factorization,90.2,0.003403877662479519,https://leetcode.com/problems/minimum-factorization,"Math, Greedy, Prime Factorization"

@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Cost to Make at Least One Valid Path in a Grid,100.0,0.007112809220543213,https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid,"Array, Breadth-First Search, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path, 0-1 BFS, Dijkstra's Algorithm"
+HARD,Minimum Cost to Make at Least One Valid Path in a Grid,100.0,0.0071259850406035045,https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid,"Array, Breadth-First Search, Graph Theory, Heap (Priority Queue), Matrix, Shortest Path, 0-1 BFS, Dijkstra's Algorithm"

@@ -1,4 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.004472564740062016,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-EASY,Majority Element,100.0,0.006648703196283034,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm"
-MEDIUM,Min Stack,100.0,0.005855051235347091,https://leetcode.com/problems/min-stack,"Stack, Design"
+Difficulty,Title,Frequency,Acceptance Rate,Link

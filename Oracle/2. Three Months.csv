@@ -1,2 +1,11 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Search in Rotated Sorted Array,100.0,0.004546230134566589,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+EASY,Two Sum,100.0,0.005803621249727913,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Meeting Rooms II,100.0,0.005284498680365871,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Number of Islands,100.0,0.006531451965346337,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Decode String,100.0,0.006337492910642644,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+HARD,Merge k Sorted Lists,87.7,0.006078436333330896,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
+MEDIUM,4Sum,87.7,0.004194278449319084,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
+MEDIUM,Search in Rotated Sorted Array,87.7,0.004579982432382173,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+MEDIUM,Cheapest Flights Within K Stops,87.7,0.004272271281705025,https://leetcode.com/problems/cheapest-flights-within-k-stops,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path"
+MEDIUM,Longest Substring Without Repeating Characters,87.7,0.004001909582145579,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Maximum Subarray,87.7,0.005399358201600733,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"

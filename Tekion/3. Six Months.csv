@@ -1,7 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Shortest Subarray to be Removed to Make Array Sorted,100.0,0.0051308723133302436,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted,"Array, Two Pointers, Binary Search, Stack, Monotonic Stack"
-HARD,Lexicographically Maximum MEX Array,100.0,0.005711650347665674,https://leetcode.com/problems/lexicographically-maximum-mex-array,"Array, Hash Table, Greedy, Queue"
-MEDIUM,Longest Palindromic Substring,100.0,0.0038471146943177925,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-MEDIUM,Max Consecutive Ones III,100.0,0.006827647301849616,https://leetcode.com/problems/max-consecutive-ones-iii,"Array, Binary Search, Sliding Window, Prefix Sum"
-MEDIUM,Numbers With Same Consecutive Differences,100.0,0.005933117623677045,https://leetcode.com/problems/numbers-with-same-consecutive-differences,"Backtracking, Breadth-First Search"
-MEDIUM,Longest Balanced Substring After One Swap,100.0,0.0014129861916306525,https://leetcode.com/problems/longest-balanced-substring-after-one-swap,"Hash Table, String, Prefix Sum"
+HARD,Lexicographically Maximum MEX Array,100.0,0.005377436353247412,https://leetcode.com/problems/lexicographically-maximum-mex-array,"Array, Hash Table, Greedy, Queue"
+MEDIUM,Max Consecutive Ones III,100.0,0.006860489539277908,https://leetcode.com/problems/max-consecutive-ones-iii,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Longest Balanced Substring After One Swap,100.0,0.0014268065921190045,https://leetcode.com/problems/longest-balanced-substring-after-one-swap,"Hash Table, String, Prefix Sum"
+HARD,Find Minimum Diameter After Merging Two Trees,100.0,0.005678806432316408,https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees,"Tree, Depth-First Search, Breadth-First Search, Graph Theory"

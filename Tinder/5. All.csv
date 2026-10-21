@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Find Median from Data Stream,100.0,0.005487696550232968,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-EASY,Kth Largest Element in a Stream,92.9,0.006147277622977958,https://leetcode.com/problems/kth-largest-element-in-a-stream,"Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream"
-HARD,Text Justification,73.5,0.005189791948559949,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+HARD,Find Median from Data Stream,100.0,0.005512005325213046,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+EASY,Kth Largest Element in a Stream,91.4,0.006168770412216435,https://leetcode.com/problems/kth-largest-element-in-a-stream,"Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream"
+HARD,Text Justification,76.6,0.00524533758074244,https://leetcode.com/problems/text-justification,"Array, String, Simulation"

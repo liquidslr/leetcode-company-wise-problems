@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Remove All Adjacent Duplicates in String II,100.0,0.0061756783851957585,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
-HARD,Parse Lisp Expression,92.3,0.005394257396880922,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"
-EASY,Valid Palindrome II,66.0,0.00446133505896529,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
-EASY,Find Pivot Index,66.0,0.006359815569948999,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
-MEDIUM,Find First and Last Position of Element in Sorted Array,58.3,0.004950593660303967,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+MEDIUM,Remove All Adjacent Duplicates in String II,100.0,0.006203663148963834,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii,"String, Stack"
+HARD,Parse Lisp Expression,96.0,0.005413676731793961,https://leetcode.com/problems/parse-lisp-expression,"Hash Table, String, Stack, Recursion"
+EASY,Find Pivot Index,67.8,0.006412519801727221,https://leetcode.com/problems/find-pivot-index,"Array, Prefix Sum"
+EASY,Valid Palindrome II,60.0,0.004491364841791695,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"

@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,K Closest Points to Origin,100.0,0.006928806872145195,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect, K-D Tree"
-MEDIUM,Product of Array Except Self,92.8,0.006916445091796937,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,K Closest Points to Origin,100.0,0.006948458073490756,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect, K-D Tree"
+MEDIUM,Product of Array Except Self,92.9,0.006937972326505409,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"

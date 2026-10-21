@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Winner of the Circular Game,100.0,0.008232485139918519,https://leetcode.com/problems/find-the-winner-of-the-circular-game,"Array, Math, Recursion, Queue, Simulation"
-EASY,Defuse the Bomb,100.0,0.007946186759294378,https://leetcode.com/problems/defuse-the-bomb,"Array, Sliding Window"
-EASY,Longest Common Prefix,100.0,0.004818719356298374,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Find the Winner of the Circular Game,100.0,0.008237482059060048,https://leetcode.com/problems/find-the-winner-of-the-circular-game,"Array, Math, Recursion, Queue, Simulation"
+EASY,Defuse the Bomb,100.0,0.007955793837189903,https://leetcode.com/problems/defuse-the-bomb,"Array, Sliding Window"
+EASY,Longest Common Prefix,100.0,0.004853661788917336,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"

@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Minimum Cost of Buying Candies With Discount,100.0,0.007161010465040021,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount,"Array, Greedy, Sorting"
-EASY,Delete Columns to Make Sorted,89.4,0.007816383905085423,https://leetcode.com/problems/delete-columns-to-make-sorted,"Array, String, Longest Increasing Subsequence"
-EASY,Palindrome Number,89.4,0.006087449898935425,https://leetcode.com/problems/palindrome-number,Math
-EASY,Two Sum,89.4,0.00580095144413897,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Minimum Cost of Buying Candies With Discount,100.0,0.007164475634767565,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount,"Array, Greedy, Sorting"
+EASY,Delete Columns to Make Sorted,89.2,0.007821068161699618,https://leetcode.com/problems/delete-columns-to-make-sorted,"Array, String, Longest Increasing Subsequence"
+EASY,Two Sum,89.2,0.0058036178765062,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Best Time to Buy and Sell Stock,89.2,0.005752121271290462,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

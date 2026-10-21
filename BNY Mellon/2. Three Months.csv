@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Cherry Pickup,100.0,0.004027049213150202,https://leetcode.com/problems/cherry-pickup,"Array, Dynamic Programming, Matrix"
-HARD,Lexicographically Maximum MEX Array,93.2,0.005711650347665674,https://leetcode.com/problems/lexicographically-maximum-mex-array,"Array, Hash Table, Greedy, Queue"
-HARD,LFU Cache,83.5,0.005002874263165587,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Find the Maximum Length of a Good Subsequence II,83.5,0.002528276614743526,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii,"Array, Hash Table, Dynamic Programming"
+HARD,Cherry Pickup,100.0,0.004074181020637922,https://leetcode.com/problems/cherry-pickup,"Array, Dynamic Programming, Matrix"
+HARD,Lexicographically Maximum MEX Array,88.1,0.005377436353247412,https://leetcode.com/problems/lexicographically-maximum-mex-array,"Array, Hash Table, Greedy, Queue"
+HARD,LFU Cache,78.6,0.0050512870503299605,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Find the Maximum Length of a Good Subsequence II,78.6,0.0025491629505080783,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii,"Array, Hash Table, Dynamic Programming"

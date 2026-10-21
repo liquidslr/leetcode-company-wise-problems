@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Hit Counter,100.0,0.006974238013047187,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
-MEDIUM,Find All Anagrams in a String,93.2,0.005432470095548809,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
-MEDIUM,IP to CIDR,83.6,0.00538221325873398,https://leetcode.com/problems/ip-to-cidr,"String, Bit Manipulation"
+MEDIUM,Design Hit Counter,100.0,0.006977371632636608,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,Find All Anagrams in a String,100.0,0.005470378491879417,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"

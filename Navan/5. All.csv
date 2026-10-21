@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Word Ladder,100.0,0.0046326264888513135,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search, Bidirectional Search"
-MEDIUM,Paint House,100.0,0.006452233787361473,https://leetcode.com/problems/paint-house,"Array, Dynamic Programming"
-MEDIUM,LRU Cache,89.6,0.004786894555695717,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Word Ladder,100.0,0.0046779796878717505,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search, Bidirectional Search"
+MEDIUM,Paint House,100.0,0.006460408465897243,https://leetcode.com/problems/paint-house,"Array, Dynamic Programming"
+MEDIUM,LRU Cache,89.9,0.004825717857259682,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

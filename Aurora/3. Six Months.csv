@@ -1,4 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Course Schedule II,100.0,0.005608725862795852,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
-HARD,Maximum Number of Visible Points,89.8,0.0038392405852091366,https://leetcode.com/problems/maximum-number-of-visible-points,"Array, Math, Geometry, Sliding Window, Sorting"
-MEDIUM,Snapshot Array,89.8,0.003680438748494565,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design, Persistent Data Structure"
+Difficulty,Title,Frequency,Acceptance Rate,Link

@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Interval List Intersections,100.0,0.007314300593300723,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Sweep Line"
-MEDIUM,Time Based Key-Value Store,79.9,0.005012868360437659,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Interval List Intersections,100.0,0.0073251283996731646,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Sweep Line"

@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Number of Valid Subarrays,100.0,0.007990479562531965,https://leetcode.com/problems/number-of-valid-subarrays,"Array, Stack, Monotonic Stack"
-HARD,Basic Calculator III,100.0,0.0053496846483939145,https://leetcode.com/problems/basic-calculator-iii,"Math, String, Stack, Recursion"
-MEDIUM,Binary Tree Pruning,100.0,0.007255303942686012,https://leetcode.com/problems/binary-tree-pruning,"Tree, Depth-First Search, Binary Tree"
-MEDIUM,Sum of Two Integers,100.0,0.005587486586676313,https://leetcode.com/problems/sum-of-two-integers,"Math, Bit Manipulation"
-HARD,K-th Smallest in Lexicographical Order,100.0,0.004649765683562257,https://leetcode.com/problems/k-th-smallest-in-lexicographical-order,Trie
+HARD,Number of Valid Subarrays,100.0,0.007990180918509355,https://leetcode.com/problems/number-of-valid-subarrays,"Array, Stack, Monotonic Stack"
+HARD,Basic Calculator III,100.0,0.0053578528493796376,https://leetcode.com/problems/basic-calculator-iii,"Math, String, Stack, Recursion"
+MEDIUM,Binary Tree Pruning,100.0,0.007259441017469425,https://leetcode.com/problems/binary-tree-pruning,"Tree, Depth-First Search, Binary Tree"
+MEDIUM,Sum of Two Integers,100.0,0.005572917546869661,https://leetcode.com/problems/sum-of-two-integers,"Math, Bit Manipulation"
+HARD,K-th Smallest in Lexicographical Order,100.0,0.004670590753424657,https://leetcode.com/problems/k-th-smallest-in-lexicographical-order,Trie

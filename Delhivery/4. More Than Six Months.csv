@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Consecutive Numbers,100.0,0.0049083663487121095,https://leetcode.com/problems/consecutive-numbers,Database
-EASY,Two Sum,100.0,0.0058009511386919775,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Maximum Product Subarray,100.0,0.003689215481738906,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
-MEDIUM,Search in Rotated Sorted Array,100.0,0.0045462252732652204,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+EASY,Two Sum,100.0,0.005803619385273128,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Maximum Product Subarray,100.0,0.0037223909850379296,https://leetcode.com/problems/maximum-product-subarray,"Array, Dynamic Programming"
+MEDIUM,Search in Rotated Sorted Array,100.0,0.004579982118752776,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"

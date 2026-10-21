@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Common Subsequence,100.0,0.0059476726554075045,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming, Longest Common Subsequence"
-EASY,Two Sum,100.0,0.005800959235324353,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Longest Common Subsequence,100.0,0.005966797109416326,https://leetcode.com/problems/longest-common-subsequence,"String, Dynamic Programming, Longest Common Subsequence"
+EASY,Two Sum,100.0,0.005803621249727913,https://leetcode.com/problems/two-sum,"Array, Hash Table"

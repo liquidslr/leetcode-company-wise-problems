@@ -1,5 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,132 Pattern,100.0,0.0035032694454801504,https://leetcode.com/problems/132-pattern,"Array, Binary Search, Stack, Monotonic Stack, Ordered Set"
-MEDIUM,Walls and Gates,89.7,0.006414173049628665,https://leetcode.com/problems/walls-and-gates,"Array, Breadth-First Search, Matrix"
-HARD,Longest Increasing Path in a Matrix,89.7,0.005695044086814752,https://leetcode.com/problems/longest-increasing-path-in-a-matrix,"Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Memoization, Matrix, Directed Acyclic Graph"
-MEDIUM,Course Schedule II,89.7,0.005608794500168384,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+MEDIUM,132 Pattern,100.0,0.003521014970943051,https://leetcode.com/problems/132-pattern,"Array, Binary Search, Stack, Monotonic Stack, Ordered Set"

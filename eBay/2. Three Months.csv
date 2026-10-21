@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimize Result by Adding Parentheses to Expression,100.0,0.006833432978596199,https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression,"String, Enumeration"
-MEDIUM,Alternating Groups II,82.2,0.005994989407755366,https://leetcode.com/problems/alternating-groups-ii,"Array, Sliding Window"
-MEDIUM,Maximal Square,82.2,0.005074676265817781,https://leetcode.com/problems/maximal-square,"Array, Dynamic Programming, Matrix"
-HARD,Median of Two Sorted Arrays,82.2,0.004736988837266392,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Minimize Result by Adding Parentheses to Expression,100.0,0.006865530956157896,https://leetcode.com/problems/minimize-result-by-adding-parentheses-to-expression,"String, Enumeration"
+MEDIUM,Stepping Numbers,100.0,0.004856868636287765,https://leetcode.com/problems/stepping-numbers,"Math, Backtracking, Breadth-First Search"
+MEDIUM,Merge Intervals,100.0,0.005302558667894053,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"

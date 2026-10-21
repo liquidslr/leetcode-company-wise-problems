@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Shortest Path in a Grid with Obstacles Elimination,100.0,0.004663132370877532,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
-MEDIUM,Contiguous Array,100.0,0.005208246071699786,https://leetcode.com/problems/contiguous-array,"Array, Hash Table, Prefix Sum"
+MEDIUM,LRU Cache,100.0,0.004825707154314651,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

@@ -1,4 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Count Subarrays With Fixed Bounds,100.0,0.006917435037720032,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
-MEDIUM,LRU Cache,81.4,0.004786834626576906,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Maximize Distance to Closest Person,81.4,0.004997639294413225,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+HARD,Count Subarrays With Fixed Bounds,100.0,0.006916759694349974,https://leetcode.com/problems/count-subarrays-with-fixed-bounds,"Array, Queue, Sliding Window, Monotonic Queue"
+HARD,Find Median from Data Stream,92.3,0.005511991310056936,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Design Authentication Manager,92.3,0.005885515024286555,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Maximize Distance to Closest Person,81.4,0.005014144723563999,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+HARD,Building Boxes,81.4,0.005276523135601726,https://leetcode.com/problems/building-boxes,"Math, Binary Search, Greedy"
+MEDIUM,Second Highest Salary,81.4,0.004876271655124556,https://leetcode.com/problems/second-highest-salary,Database
+MEDIUM,Longest Palindromic Substring,81.4,0.003886669791709279,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Find Peak Element,81.4,0.004726733687389003,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"

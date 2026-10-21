@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Snapshot Array,100.0,0.0036822698030254102,https://leetcode.com/problems/snapshot-array,"Array, Hash Table, Binary Search, Design, Persistent Data Structure"

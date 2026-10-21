@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Subtree Removal Game with Fibonacci Tree,100.0,0.0058076225045372055,https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree,"Math, Dynamic Programming, Tree, Binary Tree, Game Theory, Sprague–Grundy Theorem"
-EASY,Two Sum,78.4,0.0058009587458191314,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Random Pick with Weight,69.4,0.004921200535058949,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
-EASY,Number of Good Pairs,69.4,0.008991140600461286,https://leetcode.com/problems/number-of-good-pairs,"Array, Hash Table, Math, Counting"
-EASY,Valid Parentheses,69.4,0.004472567007912034,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+HARD,Subtree Removal Game with Fibonacci Tree,100.0,0.005526462395543176,https://leetcode.com/problems/subtree-removal-game-with-fibonacci-tree,"Math, Dynamic Programming, Tree, Binary Tree, Game Theory, Sprague–Grundy Theorem"
+EASY,Two Sum,78.6,0.0058036223610589445,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Random Pick with Weight,69.8,0.0049317337410403105,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+EASY,Number of Good Pairs,69.8,0.008995549001894964,https://leetcode.com/problems/number-of-good-pairs,"Array, Hash Table, Math, Counting"
+EASY,Valid Parentheses,69.8,0.004534114955543968,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"

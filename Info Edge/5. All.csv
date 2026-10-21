@@ -1,9 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find the Maximum Factor Score of Array,100.0,0.004144537870982751,https://leetcode.com/problems/find-the-maximum-factor-score-of-array,"Array, Math, Number Theory, Least Common Multiple"
-MEDIUM,Count Almost Equal Pairs I,97.6,0.003827439273321086,https://leetcode.com/problems/count-almost-equal-pairs-i,"Array, Hash Table, Sorting, Counting, Enumeration"
-MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,94.8,0.006944661593622082,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points,Linked List
-EASY,Two Out of Three,84.0,0.007771198501069132,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
-HARD,Bus Routes,72.2,0.004749635960401232,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
-MEDIUM,Subrectangle Queries,72.2,0.008645542032638807,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
-MEDIUM,Longest Palindromic Substring,62.9,0.003847112218768729,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-MEDIUM,Sort Colors,62.9,0.007016876308054372,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort"
+MEDIUM,Find the Maximum Factor Score of Array,100.0,0.004118399948155469,https://leetcode.com/problems/find-the-maximum-factor-score-of-array,"Array, Math, Number Theory, Least Common Multiple"
+MEDIUM,Count Almost Equal Pairs I,97.6,0.0038380406224737275,https://leetcode.com/problems/count-almost-equal-pairs-i,"Array, Hash Table, Sorting, Counting, Enumeration"
+MEDIUM,Find the Minimum and Maximum Number of Nodes Between Critical Points,94.9,0.007298741785722297,https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points,Linked List
+EASY,Two Out of Three,84.1,0.0077880863124533154,https://leetcode.com/problems/two-out-of-three,"Array, Hash Table, Bit Manipulation"
+HARD,Bus Routes,72.4,0.0047602690011475796,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+MEDIUM,Subrectangle Queries,72.4,0.008652801369241342,https://leetcode.com/problems/subrectangle-queries,"Array, Design, Matrix"
+MEDIUM,Sort Colors,63.1,0.007029499627522785,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort"

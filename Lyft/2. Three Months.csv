@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Time Based Key-Value Store,100.0,0.005012852742454725,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-HARD,Minimum Window Substring,93.3,0.004825491928795409,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
-HARD,Read N Characters Given read4 II - Call Multiple Times,93.3,0.004334779377755175,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times,"Array, Simulation, Interactive"
+HARD,Minimum Window Substring,100.0,0.004869699230279153,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
+MEDIUM,Time Based Key-Value Store,79.9,0.005025855048986389,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+MEDIUM,Validate Binary Search Tree,79.9,0.0036499052038709307,https://leetcode.com/problems/validate-binary-search-tree,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"

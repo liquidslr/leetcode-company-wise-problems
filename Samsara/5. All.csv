@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Valid Sudoku,100.0,0.006495086472168866,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-EASY,Alternating Groups I,97.5,0.006943124151240083,https://leetcode.com/problems/alternating-groups-i,"Array, Sliding Window"
-MEDIUM,Alternating Groups II,97.5,0.005994974652204669,https://leetcode.com/problems/alternating-groups-ii,"Array, Sliding Window"
+MEDIUM,Valid Sudoku,100.0,0.006525287962509685,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+EASY,Alternating Groups I,97.5,0.006921552091393596,https://leetcode.com/problems/alternating-groups-i,"Array, Sliding Window"
+MEDIUM,Alternating Groups II,97.5,0.006001526706404862,https://leetcode.com/problems/alternating-groups-ii,"Array, Sliding Window"

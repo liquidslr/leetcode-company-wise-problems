@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Maximum Number of Pairs in Array,100.0,0.007625867779122347,https://leetcode.com/problems/maximum-number-of-pairs-in-array,"Array, Hash Table, Counting"
-EASY,Two Sum,84.2,0.005800918768980581,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Swap Nodes in Pairs,68.4,0.0070104841794785076,https://leetcode.com/problems/swap-nodes-in-pairs,"Linked List, Recursion"
-EASY,Valid Parentheses,68.4,0.004472528120893722,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+EASY,Maximum Number of Pairs in Array,100.0,0.007636367889221557,https://leetcode.com/problems/maximum-number-of-pairs-in-array,"Array, Hash Table, Counting"
+EASY,Two Sum,89.4,0.0058036186104118035,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Swap Nodes in Pairs,68.6,0.007042727090202758,https://leetcode.com/problems/swap-nodes-in-pairs,"Linked List, Recursion"
+EASY,Valid Parentheses,68.6,0.004534109611050791,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+EASY,Valid Palindrome,68.6,0.005452913723308535,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"

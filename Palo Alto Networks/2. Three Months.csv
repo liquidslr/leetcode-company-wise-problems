@@ -1,4 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.005257653378270721,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-MEDIUM,LRU Cache,92.8,0.004786899429208218,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Reverse Nodes in k-Group,82.6,0.006696565534408489,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+Difficulty,Title,Frequency,Acceptance Rate,Link

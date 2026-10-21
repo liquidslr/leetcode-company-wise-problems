@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Average Time of Process per Machine,100.0,0.006693236986635176,https://leetcode.com/problems/average-time-of-process-per-machine,Database
-EASY,Palindrome Number,89.6,0.006087450999166423,https://leetcode.com/problems/palindrome-number,Math
-EASY,Two Sum,89.6,0.0058009569065051395,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Average Time of Process per Machine,100.0,0.006711100721218044,https://leetcode.com/problems/average-time-of-process-per-machine,Database
+EASY,Palindrome Number,100.0,0.0061043603439269135,https://leetcode.com/problems/palindrome-number,Math

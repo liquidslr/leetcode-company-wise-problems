@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Remove All Adjacent Duplicates In String,100.0,0.007427650730177637,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"

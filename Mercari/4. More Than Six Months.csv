@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Design Underground System,100.0,0.007474657219296046,https://leetcode.com/problems/design-underground-system,"Hash Table, String, Design"

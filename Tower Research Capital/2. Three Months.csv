@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Minimum Number of Taps to Open to Water a Garden,100.0,0.00511132550234083,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden,"Array, Dynamic Programming, Greedy"

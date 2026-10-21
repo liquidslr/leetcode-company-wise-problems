@@ -1,7 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Flower Planting With No Adjacent,100.0,0.0054154542193167775,https://leetcode.com/problems/flower-planting-with-no-adjacent,"Depth-First Search, Breadth-First Search, Graph Theory, Graph Coloring"
-MEDIUM,Maximum Subarray,100.0,0.00537354766773175,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,3Sum,100.0,0.003969325456585282,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-MEDIUM,LRU Cache,100.0,0.004786900551133637,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Min Stack,100.0,0.005855048421020332,https://leetcode.com/problems/min-stack,"Stack, Design"
-EASY,Valid Parentheses,100.0,0.004472570758542255,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Flower Planting With No Adjacent,100.0,0.005440791958753783,https://leetcode.com/problems/flower-planting-with-no-adjacent,"Depth-First Search, Breadth-First Search, Graph Theory, Graph Coloring"
+MEDIUM,Maximum Subarray,100.0,0.00539935960170864,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,3Sum,100.0,0.004007312932178484,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Min Stack,100.0,0.005879072836885574,https://leetcode.com/problems/min-stack,"Stack, Design"

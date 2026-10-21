@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Sum of Two Non-Overlapping Subarrays,100.0,0.006134700859398078,https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays,"Array, Dynamic Programming, Sliding Window"
-MEDIUM,Gas Station,95.7,0.004855707547472648,https://leetcode.com/problems/gas-station,"Array, Greedy"
-HARD,Minimum Number of Increments on Subarrays to Form a Target Array,74.4,0.007824179306997865,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array,"Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
+MEDIUM,Maximum Sum of Two Non-Overlapping Subarrays,100.0,0.006162659970513589,https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays,"Array, Dynamic Programming, Sliding Window"
+MEDIUM,Gas Station,96.6,0.004888874934534167,https://leetcode.com/problems/gas-station,"Array, Greedy"

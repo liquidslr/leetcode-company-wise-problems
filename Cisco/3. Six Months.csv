@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,3Sum,100.0,0.003969283881641787,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
-HARD,Shortest Path in a Grid with Obstacles Elimination,100.0,0.004663132370877532,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
-MEDIUM,Contiguous Array,100.0,0.005208246071699786,https://leetcode.com/problems/contiguous-array,"Array, Hash Table, Prefix Sum"
-EASY,Two Sum,100.0,0.005800925551602618,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,LRU Cache,100.0,0.004825707154314651,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Shortest Path in a Grid with Obstacles Elimination,87.8,0.004678137263147204,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
+MEDIUM,Contiguous Array,87.8,0.0052618855482160585,https://leetcode.com/problems/contiguous-array,"Array, Hash Table, Prefix Sum"
+MEDIUM,Container With Most Water,87.8,0.0061038870945200226,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"

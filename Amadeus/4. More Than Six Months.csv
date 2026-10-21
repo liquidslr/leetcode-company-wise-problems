@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Watering Plants,100.0,0.00800445632798574,https://leetcode.com/problems/watering-plants,"Array, Simulation"
-EASY,Valid Anagram,82.4,0.006853215114815539,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+EASY,Valid Anagram,100.0,0.006876752358139071,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

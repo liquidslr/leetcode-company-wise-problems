@@ -1,3 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Shortest Subarray with Sum at Least K,100.0,0.003301488067719161,https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k,"Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue"
-MEDIUM,Maximum Subsequence Score,75.2,0.005493629331189995,https://leetcode.com/problems/maximum-subsequence-score,"Array, Greedy, Sorting, Heap (Priority Queue)"
+Difficulty,Title,Frequency,Acceptance Rate,Link

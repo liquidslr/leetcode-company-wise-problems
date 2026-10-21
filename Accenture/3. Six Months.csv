@@ -1,12 +1,16 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Subarray Sum Equals K,100.0,0.004797978674749575,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
-MEDIUM,Consecutive Numbers,86.1,0.004908294908655094,https://leetcode.com/problems/consecutive-numbers,Database
-MEDIUM,Koko Eating Bananas,75.0,0.005039557778650947,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-EASY,Best Time to Buy and Sell Stock,75.0,0.005725108396973595,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-EASY,Move Zeroes,75.0,0.006426520020031069,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-MEDIUM,String Compression,75.0,0.006060080317898665,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Next Permutation,75.0,0.004595868333751636,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
-HARD,Largest Rectangle in Histogram,75.0,0.005066326280307808,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack, Range Minimum/Maximum Query"
-EASY,Merge Two Sorted Lists,75.0,0.006874735114992656,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-EASY,Palindrome Number,75.0,0.006087440701351663,https://leetcode.com/problems/palindrome-number,Math
-MEDIUM,3Sum,75.0,0.003969278128577991,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+EASY,Best Time to Buy and Sell Stock,100.0,0.005752114965245343,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Consecutive Numbers,100.0,0.004971491398123428,https://leetcode.com/problems/consecutive-numbers,Database
+EASY,Two Sum,100.0,0.005803618456370095,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Subarray Sum Equals K,91.4,0.0048350629251496646,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+EASY,Majority Element,91.4,0.0066535591945468715,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm"
+MEDIUM,Second Highest Salary,91.4,0.00487627023687468,https://leetcode.com/problems/second-highest-salary,Database
+HARD,Largest Rectangle in Histogram,79.3,0.005106146885964811,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack, Range Minimum/Maximum Query"
+EASY,Palindrome Number,79.3,0.006104361204584299,https://leetcode.com/problems/palindrome-number,Math
+MEDIUM,3Sum,79.3,0.004007314255577538,https://leetcode.com/problems/3sum,"Array, Two Pointers, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,79.3,0.0040019110558488,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Students and Examinations,79.3,0.006224851383262509,https://leetcode.com/problems/students-and-examinations,Database
+MEDIUM,Container With Most Water,79.3,0.006103881654586658,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+EASY,Isomorphic Strings,79.3,0.004925796769670758,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
+MEDIUM,Next Permutation,79.3,0.00463957937273576,https://leetcode.com/problems/next-permutation,"Array, Two Pointers"
+MEDIUM,LRU Cache,79.3,0.004825707971452333,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

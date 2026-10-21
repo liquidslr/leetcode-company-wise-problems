@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Array Transformation,100.0,0.005384713824103401,https://leetcode.com/problems/array-transformation,"Array, Simulation"
-EASY,Valid Parentheses,100.0,0.004472571670857033,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+HARD,Optimal Account Balancing,100.0,0.005089870384122055,https://leetcode.com/problems/optimal-account-balancing,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+EASY,Valid Parentheses,88.4,0.004534117415370311,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+EASY,Array Transformation,79.2,0.005392234422961298,https://leetcode.com/problems/array-transformation,"Array, Simulation"
+HARD,Reaching Points,79.2,0.0034839751826425346,https://leetcode.com/problems/reaching-points,"Math, Euclidean Algorithm, Greatest Common Divisor"

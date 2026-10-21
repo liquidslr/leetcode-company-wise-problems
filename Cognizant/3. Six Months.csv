@@ -1,10 +1,9 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.0039778944934471625,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Move Zeroes,86.8,0.006426519370396749,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
-EASY,Palindrome Number,76.3,0.006087443332110619,https://leetcode.com/problems/palindrome-number,Math
-EASY,Two Sum,76.3,0.005800925551602618,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Valid Palindrome,76.3,0.005407010473118114,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-EASY,Find Total Time Spent by Each Employee,76.3,0.008640132909043077,https://leetcode.com/problems/find-total-time-spent-by-each-employee,Database
-EASY,Find the Index of the First Occurrence in a String,76.3,0.0047167290644853635,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm"
-MEDIUM,Rank Scores,76.3,0.006853943994516236,https://leetcode.com/problems/rank-scores,Database
-MEDIUM,Rotting Oranges,76.3,0.005927600289835979,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.004001908752909742,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Two Sum,100.0,0.00580361930498598,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Move Zeroes,100.0,0.006450130021767054,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Find the Index of the First Occurrence in a String,100.0,0.004748364673254147,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm"
+MEDIUM,Longest Palindromic Substring,100.0,0.003886672341268769,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+HARD,Consecutive Numbers Sum,100.0,0.0043108005812988555,https://leetcode.com/problems/consecutive-numbers-sum,"Math, Enumeration"
+MEDIUM,Rank Scores,87.5,0.006914037126272286,https://leetcode.com/problems/rank-scores,Database
+EASY,Find Customer Referee,87.5,0.007372309104446521,https://leetcode.com/problems/find-customer-referee,Database

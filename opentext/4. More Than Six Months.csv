@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Valid Parentheses,100.0,0.004472573332822307,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-MEDIUM,Longest Palindromic Substring,88.6,0.0038471229639906878,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-EASY,Longest Common Prefix,88.6,0.004818719356298374,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-EASY,Best Time to Buy and Sell Stock,88.6,0.005725133789500735,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Valid Parentheses,100.0,0.004534117816457164,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Longest Palindromic Substring,100.0,0.0038866738149183288,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+EASY,Longest Common Prefix,100.0,0.004853661788917336,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"

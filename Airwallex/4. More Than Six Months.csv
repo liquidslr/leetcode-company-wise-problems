@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Daily Temperatures,100.0,0.006905642405710863,https://leetcode.com/problems/daily-temperatures,"Array, Stack, Monotonic Stack"
-MEDIUM,Lowest Common Ancestor of a Binary Tree,100.0,0.0069951400977484824,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor"
+MEDIUM,Lowest Common Ancestor of a Binary Tree,100.0,0.007028779755564841,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,"Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor"

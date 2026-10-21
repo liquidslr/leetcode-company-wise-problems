@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Count Paths That Can Form a Palindrome in a Tree,100.0,0.005207741365157542,https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree,"Hash Table, Bit Manipulation, Tree, Depth-First Search"
-HARD,Minimum Window Substring,87.0,0.004825522573674433,https://leetcode.com/problems/minimum-window-substring,"Hash Table, String, Sliding Window"
-MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,76.7,0.005531395606833815,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
-HARD,Largest Rectangle in Histogram,76.7,0.005066388636457454,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack, Range Minimum/Maximum Query"
+HARD,Count Paths That Can Form a Palindrome in a Tree,100.0,0.005254616161925467,https://leetcode.com/problems/count-paths-that-can-form-a-palindrome-in-a-tree,"Hash Table, Bit Manipulation, Tree, Depth-First Search"
+MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,94.3,0.005600739941421304,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
+HARD,Selling Pieces of Wood,87.0,0.005334031546542258,https://leetcode.com/problems/selling-pieces-of-wood,"Array, Dynamic Programming, Memoization"
+HARD,Largest Rectangle in Histogram,76.6,0.005106154700157858,https://leetcode.com/problems/largest-rectangle-in-histogram,"Array, Stack, Monotonic Stack, Range Minimum/Maximum Query"
+MEDIUM,Best Team With No Conflicts,76.6,0.005095133088751854,https://leetcode.com/problems/best-team-with-no-conflicts,"Array, Dynamic Programming, Sorting, Longest Increasing Subsequence"

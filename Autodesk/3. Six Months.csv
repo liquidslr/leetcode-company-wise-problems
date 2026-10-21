@@ -1,5 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.0064959996125990346,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
-EASY,Valid Parentheses,100.0,0.004472530077655388,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-HARD,Text Justification,100.0,0.005189716128123602,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
-EASY,Logger Rate Limiter,100.0,0.007688304081253721,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"
+EASY,Logger Rate Limiter,100.0,0.007691832057604454,https://leetcode.com/problems/logger-rate-limiter,"Hash Table, Design, Data Stream"

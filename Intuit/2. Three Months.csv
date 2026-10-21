@@ -1,6 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Dungeon Game,100.0,0.004200809393825798,https://leetcode.com/problems/dungeon-game,"Array, Dynamic Programming, Matrix"
-HARD,Find Median from Data Stream,79.1,0.005487679835331043,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-EASY,Valid Parentheses,73.2,0.00447256235432388,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-EASY,Climbing Stairs,64.8,0.005428138809245914,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
-HARD,Alien Dictionary,64.8,0.0037286556620579527,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph"
+HARD,Dungeon Game,100.0,0.004253097027961885,https://leetcode.com/problems/dungeon-game,"Array, Dynamic Programming, Matrix"
+HARD,Find Median from Data Stream,78.0,0.005512000175520445,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+EASY,Climbing Stairs,72.3,0.005440648856407187,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+HARD,Alien Dictionary,64.1,0.0037362063773547028,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph"

@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Maximum Number of Balls in a Box,100.0,0.007498008103205681,https://leetcode.com/problems/maximum-number-of-balls-in-a-box,"Hash Table, Math, Counting"
-MEDIUM,Longest Substring with At Most K Distinct Characters,100.0,0.005009970318318988,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"
+EASY,Maximum Number of Balls in a Box,100.0,0.007506744473682027,https://leetcode.com/problems/maximum-number-of-balls-in-a-box,"Hash Table, Math, Counting"
+MEDIUM,Longest Substring with At Most K Distinct Characters,100.0,0.005016595140135372,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters,"Hash Table, String, Sliding Window"

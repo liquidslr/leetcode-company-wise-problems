@@ -1,7 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Modify the Matrix,100.0,0.006897964250248262,https://leetcode.com/problems/modify-the-matrix,"Array, Matrix"
-EASY,Valid Palindrome,67.2,0.005407043295750404,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-EASY,First Unique Character in a String,67.2,0.006611193073681837,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
-EASY,Longest Common Prefix,67.2,0.004818723125635827,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-EASY,Valid Anagram,67.2,0.006853251027092919,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
-MEDIUM,Angle Between Hands of a Clock,67.2,0.006987941494851849,https://leetcode.com/problems/angle-between-hands-of-a-clock,Math
+EASY,Modify the Matrix,100.0,0.006925714662534207,https://leetcode.com/problems/modify-the-matrix,"Array, Matrix"
+EASY,Valid Palindrome,67.5,0.0054529137281246675,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+EASY,First Unique Character in a String,67.5,0.006654124107933967,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
+EASY,Longest Common Prefix,67.5,0.004853662815897278,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Angle Between Hands of a Clock,67.5,0.006993491288645474,https://leetcode.com/problems/angle-between-hands-of-a-clock,Math

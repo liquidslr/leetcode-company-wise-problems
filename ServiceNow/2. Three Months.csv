@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Word Break II,100.0,0.005602428181941747,https://leetcode.com/problems/word-break-ii,"Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
+HARD,Number of Music Playlists,100.0,0.0060150751187147255,https://leetcode.com/problems/number-of-music-playlists,"Math, Dynamic Programming, Combinatorics"

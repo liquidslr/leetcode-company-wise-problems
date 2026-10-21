@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Reverse Linked List,100.0,0.008094205434218129,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+MEDIUM,Validate IP Address,100.0,0.002858906655935261,https://leetcode.com/problems/validate-ip-address,String

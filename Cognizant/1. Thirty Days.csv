@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Consecutive Numbers Sum,100.0,0.0043108005812988555,https://leetcode.com/problems/consecutive-numbers-sum,"Math, Enumeration"

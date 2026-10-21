@@ -1,9 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Design Hit Counter,100.0,0.006974238013047187,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
-MEDIUM,Find All Anagrams in a String,94.4,0.005432470095548809,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
-MEDIUM,IP to CIDR,91.0,0.00538221325873398,https://leetcode.com/problems/ip-to-cidr,"String, Bit Manipulation"
-MEDIUM,Design Tic-Tac-Toe,66.8,0.005875690354305425,https://leetcode.com/problems/design-tic-tac-toe,"Array, Hash Table, Design, Matrix, Simulation"
-MEDIUM,Step-By-Step Directions From a Binary Tree Node to Another,66.8,0.005646683688205461,https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another,"String, Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor"
-MEDIUM,RLE Iterator,66.8,0.00595314006556534,https://leetcode.com/problems/rle-iterator,"Array, Design, Counting, Iterator"
-MEDIUM,Time Based Key-Value Store,66.8,0.005012869238368931,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-HARD,Shortest Path in a Grid with Obstacles Elimination,66.8,0.004663196154145178,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination,"Array, Breadth-First Search, Matrix"
+MEDIUM,Design Hit Counter,100.0,0.006977371632636608,https://leetcode.com/problems/design-hit-counter,"Array, Binary Search, Design, Queue, Data Stream"
+MEDIUM,Find All Anagrams in a String,89.9,0.005470378491879417,https://leetcode.com/problems/find-all-anagrams-in-a-string,"Hash Table, String, Sliding Window"
+MEDIUM,IP to CIDR,70.3,0.005423994777740118,https://leetcode.com/problems/ip-to-cidr,"String, Bit Manipulation"

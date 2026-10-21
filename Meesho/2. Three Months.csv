@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Subarray Product Less Than K,100.0,0.005485859626348739,https://leetcode.com/problems/subarray-product-less-than-k,"Array, Binary Search, Sliding Window, Prefix Sum"
-MEDIUM,Best Time to Buy and Sell Stock II,100.0,0.007150178723807184,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii,"Array, Dynamic Programming, Greedy"
+MEDIUM,Jump Game II,100.0,0.004366652134242636,https://leetcode.com/problems/jump-game-ii,"Array, Dynamic Programming, Greedy"

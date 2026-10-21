@@ -1,10 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Dungeon Game,100.0,0.004200809393825798,https://leetcode.com/problems/dungeon-game,"Array, Dynamic Programming, Matrix"
-EASY,Valid Parentheses,82.7,0.00447256235432388,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-HARD,Basic Calculator III,77.8,0.0053496846483939145,https://leetcode.com/problems/basic-calculator-iii,"Math, String, Stack, Recursion"
-HARD,Find Median from Data Stream,77.8,0.005487679835331043,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-MEDIUM,Coin Change,71.5,0.004897333599858242,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack"
-EASY,Climbing Stairs,71.5,0.005428138809245914,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
-HARD,Remove Boxes,62.6,0.004964726764037846,https://leetcode.com/problems/remove-boxes,"Array, Dynamic Programming, Memoization"
-MEDIUM,Word Break,62.6,0.004977890504300215,https://leetcode.com/problems/word-break,"Array, Hash Table, String, Dynamic Programming, Trie, Memoization, Brute-Force Search"
-HARD,Alien Dictionary,62.6,0.0037286556620579527,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph"
+HARD,Dungeon Game,100.0,0.004253097027961885,https://leetcode.com/problems/dungeon-game,"Array, Dynamic Programming, Matrix"
+EASY,Valid Parentheses,76.8,0.0045341167600536315,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+EASY,Climbing Stairs,76.8,0.005440648856407187,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+HARD,Find Median from Data Stream,76.8,0.005512000175520445,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+HARD,Basic Calculator III,62.2,0.0053578528493796376,https://leetcode.com/problems/basic-calculator-iii,"Math, String, Stack, Recursion"
+HARD,Alien Dictionary,62.2,0.0037362063773547028,https://leetcode.com/problems/alien-dictionary,"Array, String, Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph"
+HARD,Department Top Three Salaries,62.2,0.0062188209449479444,https://leetcode.com/problems/department-top-three-salaries,Database

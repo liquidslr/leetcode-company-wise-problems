@@ -1,5 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,100.0,0.005531395606833815,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
-HARD,Median of Two Sorted Arrays,93.0,0.004736982829774125,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-MEDIUM,Using a Robot to Print the Lexicographically Smallest String,83.2,0.006219613337069207,https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string,"Hash Table, String, Stack, Greedy"
-MEDIUM,Longest Substring Of All Vowels in Order,83.2,0.005226027180283207,https://leetcode.com/problems/longest-substring-of-all-vowels-in-order,"String, Sliding Window"
+Difficulty,Title,Frequency,Acceptance Rate,Link

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of People Aware of a Secret,100.0,0.006061813760697001,https://leetcode.com/problems/number-of-people-aware-of-a-secret,"Dynamic Programming, Queue, Simulation"
-HARD,Minimize Malware Spread,89.8,0.004339416421024741,https://leetcode.com/problems/minimize-malware-spread,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
-MEDIUM,Design Authentication Manager,89.8,0.0058670256372037564,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Number of People Aware of a Secret,100.0,0.006064024859674416,https://leetcode.com/problems/number-of-people-aware-of-a-secret,"Dynamic Programming, Queue, Simulation"
+HARD,Minimize Malware Spread,89.8,0.004354806557800992,https://leetcode.com/problems/minimize-malware-spread,"Array, Hash Table, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
+MEDIUM,Design Authentication Manager,89.8,0.005885535607630959,https://leetcode.com/problems/design-authentication-manager,"Hash Table, Linked List, Design, Doubly-Linked List"

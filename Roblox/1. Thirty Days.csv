@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Rotting Oranges,100.0,0.00595939462408144,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"

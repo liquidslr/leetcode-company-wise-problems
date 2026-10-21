@@ -1,6 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Count Binary Substrings,100.0,0.0070534191873448445,https://leetcode.com/problems/count-binary-substrings,"Two Pointers, String"
-HARD,Sliding Window Maximum,92.3,0.004910873481649571,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query"
-EASY,Count Vowel Substrings of a String,92.3,0.007342379995375887,https://leetcode.com/problems/count-vowel-substrings-of-a-string,"Hash Table, String"
-HARD,Minimum Number of Refueling Stops,81.5,0.004177347167735317,https://leetcode.com/problems/minimum-number-of-refueling-stops,"Array, Dynamic Programming, Greedy, Heap (Priority Queue)"
-MEDIUM,Asteroid Collision,81.5,0.004876274704449057,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
+Difficulty,Title,Frequency,Acceptance Rate,Link

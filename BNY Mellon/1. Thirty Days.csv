@@ -1,5 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Cherry Pickup,100.0,0.004027049213150202,https://leetcode.com/problems/cherry-pickup,"Array, Dynamic Programming, Matrix"
-HARD,Lexicographically Maximum MEX Array,93.2,0.005711650347665674,https://leetcode.com/problems/lexicographically-maximum-mex-array,"Array, Hash Table, Greedy, Queue"
-HARD,LFU Cache,83.7,0.005002874263165587,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Find the Maximum Length of a Good Subsequence II,83.7,0.002528276614743526,https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii,"Array, Hash Table, Dynamic Programming"
+Difficulty,Title,Frequency,Acceptance Rate,Link

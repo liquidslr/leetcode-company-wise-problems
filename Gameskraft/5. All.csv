@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Maximize Sum of Weights after Edge Removals,100.0,0.003135128622206157,https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals,"Dynamic Programming, Tree, Depth-First Search, Sorting"
-HARD,Maximum Partition Factor,93.2,0.0032368801788767595,https://leetcode.com/problems/maximum-partition-factor,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
-HARD,Sliding Window Maximum,63.8,0.004910891640522027,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query"
-HARD,Count Valid Paths in a Tree,63.8,0.003710709613548775,https://leetcode.com/problems/count-valid-paths-in-a-tree,"Math, Dynamic Programming, Tree, Depth-First Search, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve"
+HARD,Maximize Sum of Weights after Edge Removals,100.0,0.0033500306116769634,https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals,"Dynamic Programming, Tree, Depth-First Search, Sorting"
+HARD,Maximum Partition Factor,93.5,0.0031791044776119403,https://leetcode.com/problems/maximum-partition-factor,"Array, Binary Search, Depth-First Search, Breadth-First Search, Union-Find, Graph Theory"
+HARD,Count Valid Paths in a Tree,65.4,0.0036570075694421287,https://leetcode.com/problems/count-valid-paths-in-a-tree,"Math, Dynamic Programming, Tree, Depth-First Search, Number Theory, Primality Test, Sieve Theory, Prime Number Sieve"

@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find K Closest Elements,100.0,0.005001239284862486,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
-HARD,Minimum Edge Reversals So Every Node Is Reachable,100.0,0.005979448085239178,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory"
+MEDIUM,Find K Closest Elements,100.0,0.00501997368886366,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
+HARD,Minimum Edge Reversals So Every Node Is Reachable,100.0,0.0060150472090198005,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory"
+EASY,Roman to Integer,100.0,0.006731048701156742,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"

@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Maximum Subarray,100.0,0.00537354766773175,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
-MEDIUM,Simplify Path,66.6,0.005122120182912487,https://leetcode.com/problems/simplify-path,"String, Stack"
-MEDIUM,Range Sum Query 2D - Immutable,66.6,0.005883569201135158,https://leetcode.com/problems/range-sum-query-2d-immutable,"Array, Design, Matrix, Prefix Sum"
-MEDIUM,Valid Sudoku,66.6,0.00649508934413301,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
-MEDIUM,Triangle,58.8,0.005991284061241328,https://leetcode.com/problems/triangle,"Array, Dynamic Programming"
-MEDIUM,Group Anagrams,58.8,0.0073129100197969945,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Maximum Subarray,100.0,0.00539935960170864,https://leetcode.com/problems/maximum-subarray,"Array, Divide and Conquer, Dynamic Programming"
+MEDIUM,Simplify Path,65.1,0.00516868674314678,https://leetcode.com/problems/simplify-path,"String, Stack"
+MEDIUM,Range Sum Query 2D - Immutable,65.1,0.0059227567200094465,https://leetcode.com/problems/range-sum-query-2d-immutable,"Array, Design, Matrix, Prefix Sum"
+MEDIUM,Valid Sudoku,65.1,0.006525289751234946,https://leetcode.com/problems/valid-sudoku,"Array, Hash Table, Matrix"
+MEDIUM,Triangle,57.5,0.005997383344306863,https://leetcode.com/problems/triangle,"Array, Dynamic Programming"
+MEDIUM,Group Anagrams,57.5,0.007344438860866744,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Design Skiplist,100.0,0.0059775390923834885,https://leetcode.com/problems/design-skiplist,"Linked List, Design"
-MEDIUM,Design Circular Queue,74.5,0.005521272128251863,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
-EASY,Number of Days Between Two Dates,66.5,0.005330759770429079,https://leetcode.com/problems/number-of-days-between-two-dates,"Math, String"
+HARD,Design Skiplist,100.0,0.005970793132596847,https://leetcode.com/problems/design-skiplist,"Linked List, Design"
+MEDIUM,Design Circular Queue,71.7,0.005571319082290607,https://leetcode.com/problems/design-circular-queue,"Array, Linked List, Design, Queue"
+EASY,Number of Days Between Two Dates,71.7,0.005379840004263,https://leetcode.com/problems/number-of-days-between-two-dates,"Math, String"

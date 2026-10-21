@@ -1,12 +1,12 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Subarray of 1's After Deleting One Element,100.0,0.007148332385378663,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"Array, Dynamic Programming, Sliding Window"
-MEDIUM,String Compression,100.0,0.006060183350478085,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Maximize Distance to Closest Person,94.2,0.004997681957791178,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
-EASY,Summary Ranges,94.2,0.005461934172258151,https://leetcode.com/problems/summary-ranges,Array
-MEDIUM,Merge Intervals,86.7,0.005257663671981929,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-MEDIUM,Longest Palindromic Substring,76.1,0.003847120896575322,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-EASY,Palindrome Number,76.1,0.0060874528026185456,https://leetcode.com/problems/palindrome-number,Math
-MEDIUM,Binary Tree Right Side View,76.1,0.007097976162060565,https://leetcode.com/problems/binary-tree-right-side-view,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-EASY,First Unique Character in a String,76.1,0.006611209200984101,https://leetcode.com/problems/first-unique-character-in-a-string,"Hash Table, String, Queue, Counting"
-EASY,Symmetric Tree,76.1,0.006182595018908676,https://leetcode.com/problems/symmetric-tree,"Tree, Depth-First Search, Breadth-First Search, Binary Tree"
-EASY,Valid Palindrome II,76.1,0.004461397771844857,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
+EASY,Valid Palindrome II,100.0,0.004491378326989291,https://leetcode.com/problems/valid-palindrome-ii,"Two Pointers, String, Greedy"
+MEDIUM,Maximize Distance to Closest Person,87.3,0.005014144723563999,https://leetcode.com/problems/maximize-distance-to-closest-person,Array
+MEDIUM,String Compression,87.3,0.0060966499595730425,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Longest Subarray of 1's After Deleting One Element,77.2,0.007164373235285464,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element,"Array, Dynamic Programming, Sliding Window"
+EASY,Longest Strictly Increasing or Strictly Decreasing Subarray,77.2,0.006480134709460145,https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray,Array
+MEDIUM,Find K Closest Elements,77.2,0.0050199877544247155,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
+MEDIUM,Insert Delete GetRandom O(1),77.2,0.005556922188537606,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
+MEDIUM,Longest Repeating Character Replacement,77.2,0.00608767561615917,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"
+MEDIUM,Max Consecutive Ones III,77.2,0.006860492176939046,https://leetcode.com/problems/max-consecutive-ones-iii,"Array, Binary Search, Sliding Window, Prefix Sum"
+MEDIUM,Interval List Intersections,77.2,0.0073251283996731646,https://leetcode.com/problems/interval-list-intersections,"Array, Two Pointers, Sweep Line"
+MEDIUM,Permutation in String,77.2,0.004992714672574866,https://leetcode.com/problems/permutation-in-string,"Hash Table, Two Pointers, String, Sliding Window"

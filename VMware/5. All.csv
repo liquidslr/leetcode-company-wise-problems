@@ -1,8 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Break a Palindrome,100.0,0.0051624215671782535,https://leetcode.com/problems/break-a-palindrome,"String, Greedy"
-MEDIUM,Find Palindrome With Fixed Length,100.0,0.0038186395971545038,https://leetcode.com/problems/find-palindrome-with-fixed-length,"Array, Math"
-HARD,Make Array Non-decreasing or Non-increasing,100.0,0.006559212301052064,https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing,"Array, Dynamic Programming, Greedy, Heap (Priority Queue)"
-MEDIUM,Koko Eating Bananas,68.0,0.005039601473376103,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-MEDIUM,LRU Cache,68.0,0.004786900551133637,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Time Based Key-Value Store,68.0,0.005012868360437659,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-HARD,Median of Two Sorted Arrays,68.0,0.004736985199552593,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Break a Palindrome,100.0,0.005163866550886599,https://leetcode.com/problems/break-a-palindrome,"String, Greedy"
+MEDIUM,Find Palindrome With Fixed Length,100.0,0.003832949081088202,https://leetcode.com/problems/find-palindrome-with-fixed-length,"Array, Math"
+HARD,Make Array Non-decreasing or Non-increasing,100.0,0.006475550283379466,https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing,"Array, Dynamic Programming, Greedy, Heap (Priority Queue)"
+MEDIUM,Time Based Key-Value Store,68.5,0.005025873265410447,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
+HARD,Median of Two Sorted Arrays,68.5,0.004785841052623307,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"

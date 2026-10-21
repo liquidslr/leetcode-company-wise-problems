@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum OR,100.0,0.0043163511880789365,https://leetcode.com/problems/maximum-or,"Array, Greedy, Bit Manipulation, Prefix Sum"

@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003977959161405498,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Moving Average from Data Stream,87.7,0.008022841921995209,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"
-MEDIUM,Analyze User Website Visit Pattern,87.7,0.0044332494543415715,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, String, Sorting"
-MEDIUM,Kth Largest Element in an Array,87.7,0.00692437355192037,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
-HARD,Find Median from Data Stream,72.4,0.005487695459974172,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.004001910265682448,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Analyze User Website Visit Pattern,84.5,0.004435789256706662,https://leetcode.com/problems/analyze-user-website-visit-pattern,"Array, Hash Table, String, Sorting"
+MEDIUM,Kth Largest Element in an Array,84.5,0.006941740513173513,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+HARD,Find Median from Data Stream,84.5,0.005512005325213046,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+EASY,Moving Average from Data Stream,75.4,0.00802370489534478,https://leetcode.com/problems/moving-average-from-data-stream,"Array, Design, Queue, Data Stream"

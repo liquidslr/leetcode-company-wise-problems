@@ -1,8 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Create a Session Bar Chart,100.0,0.007423719748629496,https://leetcode.com/problems/create-a-session-bar-chart,Database
-MEDIUM,Design a File Sharing System,100.0,0.004174603174603175,https://leetcode.com/problems/design-a-file-sharing-system,"Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
-MEDIUM,Toss Strange Coins,100.0,0.005807949157170874,https://leetcode.com/problems/toss-strange-coins,"Array, Math, Dynamic Programming, Probability and Statistics"
-MEDIUM,LRU Cache,84.2,0.004786900551133637,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Reverse Vowels of a String,68.5,0.006208614922520308,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"
-HARD,Find Median from Data Stream,68.5,0.005487698055643282,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
-MEDIUM,Merge Intervals,68.5,0.005257660287454545,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Create a Session Bar Chart,100.0,0.007424447811179334,https://leetcode.com/problems/create-a-session-bar-chart,Database
+MEDIUM,Design a File Sharing System,100.0,0.004191887407746438,https://leetcode.com/problems/design-a-file-sharing-system,"Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Toss Strange Coins,100.0,0.0058113878125231385,https://leetcode.com/problems/toss-strange-coins,"Array, Math, Dynamic Programming, Probability and Statistics"
+MEDIUM,LRU Cache,89.3,0.004825722825290219,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+EASY,Reverse Vowels of a String,68.5,0.006261267216966836,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"
+HARD,Find Median from Data Stream,68.5,0.005512005325213046,https://leetcode.com/problems/find-median-from-data-stream,"Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+MEDIUM,Merge Intervals,68.5,0.0053025648312917985,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"

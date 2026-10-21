@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Median of Two Sorted Arrays,100.0,0.004736982829774125,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
-MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,94.6,0.005531395606833815,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
-MEDIUM,Beautiful Arrangement,87.6,0.006492724129757356,https://leetcode.com/problems/beautiful-arrangement,"Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
-MEDIUM,Using a Robot to Print the Lexicographically Smallest String,77.8,0.006219613337069207,https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string,"Hash Table, String, Stack, Greedy"
-MEDIUM,Longest Substring Of All Vowels in Order,77.8,0.005226027180283207,https://leetcode.com/problems/longest-substring-of-all-vowels-in-order,"String, Sliding Window"
+HARD,Median of Two Sorted Arrays,100.0,0.0047858381732380035,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Count Pairs of Connectable Servers in a Weighted Tree Network,94.6,0.005600739941421304,https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network,"Array, Tree, Depth-First Search"
+EASY,Maximum Nesting Depth of the Parentheses,87.6,0.008612872708630046,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Using a Robot to Print the Lexicographically Smallest String,77.8,0.0062238787865421304,https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string,"Hash Table, String, Stack, Greedy"
+MEDIUM,Longest Substring Of All Vowels in Order,77.8,0.005260578790026813,https://leetcode.com/problems/longest-substring-of-all-vowels-in-order,"String, Sliding Window"

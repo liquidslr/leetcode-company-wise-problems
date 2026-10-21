@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Merge Intervals,100.0,0.005302562448151903,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Path Sum,100.0,0.006874286334663705,https://leetcode.com/problems/minimum-path-sum,"Array, Dynamic Programming, Matrix"
-HARD,Substring with Concatenation of All Words,88.4,0.003500349239229794,https://leetcode.com/problems/substring-with-concatenation-of-all-words,"Hash Table, String, Sliding Window"
-MEDIUM,Kth Largest Element in an Array,88.4,0.006924372009498589,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+MEDIUM,Minimum Path Sum,100.0,0.006903300642253736,https://leetcode.com/problems/minimum-path-sum,"Array, Dynamic Programming, Matrix"
+HARD,Substring with Concatenation of All Words,88.6,0.003549929537641262,https://leetcode.com/problems/substring-with-concatenation-of-all-words,"Hash Table, String, Sliding Window"
+MEDIUM,Kth Largest Element in an Array,88.6,0.006941740220821001,https://leetcode.com/problems/kth-largest-element-in-an-array,"Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"

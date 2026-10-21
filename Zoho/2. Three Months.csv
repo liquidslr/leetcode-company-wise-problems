@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Angle Between Hands of a Clock,100.0,0.006987956660087807,https://leetcode.com/problems/angle-between-hands-of-a-clock,Math
-MEDIUM,Sequential Digits,88.5,0.00686422998610507,https://leetcode.com/problems/sequential-digits,Enumeration
-MEDIUM,Longest Repeating Character Replacement,88.5,0.006043047383632891,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"
+MEDIUM,Longest Repeating Character Replacement,100.0,0.00608767561615917,https://leetcode.com/problems/longest-repeating-character-replacement,"Hash Table, String, Sliding Window"
+EASY,Best Time to Buy and Sell Stock,100.0,0.005752121173271802,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+EASY,Sort Array By Parity,100.0,0.007672943552692831,https://leetcode.com/problems/sort-array-by-parity,"Array, Two Pointers, Sorting"

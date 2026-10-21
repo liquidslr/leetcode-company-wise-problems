@@ -1,5 +1,1 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Top K Frequent Elements,100.0,0.006713902078162962,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-MEDIUM,Insert Delete GetRandom O(1),100.0,0.0055486124502258415,https://leetcode.com/problems/insert-delete-getrandom-o1,"Array, Hash Table, Math, Design, Randomized"
-MEDIUM,Maximum Number of Alloys,100.0,0.004112439553744812,https://leetcode.com/problems/maximum-number-of-alloys,"Array, Binary Search"
-HARD,Text Justification,100.0,0.005189791948559949,https://leetcode.com/problems/text-justification,"Array, String, Simulation"
+Difficulty,Title,Frequency,Acceptance Rate,Link

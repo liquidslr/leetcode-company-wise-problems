@@ -1,21 +1,18 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Best Sightseeing Pair,100.0,0.006270116888531939,https://leetcode.com/problems/best-sightseeing-pair,"Array, Dynamic Programming"
-MEDIUM,Minimum Moves to Reach Target Score,100.0,0.005259337878107523,https://leetcode.com/problems/minimum-moves-to-reach-target-score,"Math, Greedy"
-MEDIUM,Largest Magic Square,100.0,0.007520118191797555,https://leetcode.com/problems/largest-magic-square,"Array, Matrix, Prefix Sum"
-MEDIUM,Design A Leaderboard,97.0,0.006804074911161337,https://leetcode.com/problems/design-a-leaderboard,"Hash Table, Design, Sorting"
-MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,97.0,0.004638325101842171,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
-EASY,Maximum Number of Balloons,97.0,0.006426756812912124,https://leetcode.com/problems/maximum-number-of-balloons,"Hash Table, String, Counting"
-EASY,Delete Characters to Make Fancy String,97.0,0.007398855317335754,https://leetcode.com/problems/delete-characters-to-make-fancy-string,String
-MEDIUM,Longest Happy String,97.0,0.00655384955649198,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
-HARD,Tournament Winners,97.0,0.005015518799355675,https://leetcode.com/problems/tournament-winners,Database
-MEDIUM,Team Scores in Football Tournament,97.0,0.00557834488552825,https://leetcode.com/problems/team-scores-in-football-tournament,Database
-MEDIUM,Number of Divisible Substrings,97.0,0.007478142607344084,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
-EASY,Add Strings,72.1,0.005221926187696097,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
-HARD,Reaching Points,72.1,0.003458673010051953,https://leetcode.com/problems/reaching-points,"Math, Euclidean Algorithm, Greatest Common Divisor"
-EASY,Valid Palindrome,61.9,0.005407054010085091,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-MEDIUM,Group Anagrams,61.9,0.007312907069303087,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-EASY,Backspace String Compare,61.9,0.005017269270038972,https://leetcode.com/problems/backspace-string-compare,"Two Pointers, String, Stack, Simulation"
-MEDIUM,Last Person to Fit in the Bus,61.9,0.006973185507938403,https://leetcode.com/problems/last-person-to-fit-in-the-bus,Database
-HARD,Sliding Window Maximum,61.9,0.004910883472158029,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query"
-MEDIUM,Time Needed to Rearrange a Binary String,61.9,0.005356595004235639,https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string,"String, Dynamic Programming, Simulation"
-MEDIUM,Least Number of Unique Integers after K Removals,61.9,0.0063931057666406195,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals,"Array, Hash Table, Greedy, Sorting, Counting"
+MEDIUM,Best Sightseeing Pair,100.0,0.006273172893184524,https://leetcode.com/problems/best-sightseeing-pair,"Array, Dynamic Programming"
+MEDIUM,Design A Leaderboard,97.0,0.006801334834034318,https://leetcode.com/problems/design-a-leaderboard,"Hash Table, Design, Sorting"
+MEDIUM,Alert Using Same Key-Card Three or More Times in a One Hour Period,97.0,0.004643479776847977,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period,"Array, Hash Table, String, Sorting"
+EASY,Maximum Number of Balloons,97.0,0.006437047847128673,https://leetcode.com/problems/maximum-number-of-balloons,"Hash Table, String, Counting"
+EASY,Delete Characters to Make Fancy String,97.0,0.007399829841539934,https://leetcode.com/problems/delete-characters-to-make-fancy-string,String
+MEDIUM,Minimum Moves to Reach Target Score,97.0,0.005271825634873026,https://leetcode.com/problems/minimum-moves-to-reach-target-score,"Math, Greedy"
+MEDIUM,Longest Happy String,97.0,0.00655917524590634,https://leetcode.com/problems/longest-happy-string,"String, Greedy, Heap (Priority Queue)"
+MEDIUM,Largest Magic Square,97.0,0.007520116804606564,https://leetcode.com/problems/largest-magic-square,"Array, Matrix, Prefix Sum"
+HARD,Tournament Winners,97.0,0.0050250746385154255,https://leetcode.com/problems/tournament-winners,Database
+MEDIUM,Team Scores in Football Tournament,97.0,0.005572605529178312,https://leetcode.com/problems/team-scores-in-football-tournament,Database
+MEDIUM,Number of Divisible Substrings,89.8,0.007477494732809806,https://leetcode.com/problems/number-of-divisible-substrings,"Hash Table, String, Counting, Prefix Sum"
+EASY,Add Strings,72.5,0.005226780590060729,https://leetcode.com/problems/add-strings,"Math, String, Simulation"
+EASY,Valid Palindrome,62.4,0.0054529260973630945,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
+MEDIUM,Last Person to Fit in the Bus,62.4,0.007028460550140313,https://leetcode.com/problems/last-person-to-fit-in-the-bus,Database
+HARD,Sliding Window Maximum,62.4,0.004936745046250439,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query"
+MEDIUM,Time Needed to Rearrange a Binary String,62.4,0.005377298026648675,https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string,"String, Dynamic Programming, Simulation"
+MEDIUM,Least Number of Unique Integers after K Removals,62.4,0.006399879904011515,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals,"Array, Hash Table, Greedy, Sorting, Counting"

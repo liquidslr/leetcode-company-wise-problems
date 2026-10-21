@@ -1,5 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Shortest Subarray with Sum at Least K,100.0,0.003301488067719161,https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k,"Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue"
-EASY,Two Sum,72.1,0.0058009511386919775,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-HARD,LFU Cache,72.1,0.005002928915643576,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Maximum Subsequence Score,72.1,0.005493629331189995,https://leetcode.com/problems/maximum-subsequence-score,"Array, Greedy, Sorting, Heap (Priority Queue)"
+HARD,Shortest Subarray with Sum at Least K,100.0,0.003327401254183281,https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k,"Array, Binary Search, Queue, Sliding Window, Heap (Priority Queue), Prefix Sum, Monotonic Queue"
+EASY,Two Sum,72.0,0.005803618336750189,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+HARD,LFU Cache,72.0,0.0050512870503299605,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Maximum Subsequence Score,72.0,0.0055101879013716,https://leetcode.com/problems/maximum-subsequence-score,"Array, Greedy, Sorting, Heap (Priority Queue)"
+MEDIUM,Count Square Submatrices with All Ones,72.0,0.008088832207780599,https://leetcode.com/problems/count-square-submatrices-with-all-ones,"Array, Dynamic Programming, Matrix"

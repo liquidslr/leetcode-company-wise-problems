@@ -1,6 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.0039778944934471625,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Two Sum,88.7,0.005800925551602618,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Find the Index of the First Occurrence in a String,88.7,0.0047167290644853635,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm"
-MEDIUM,Rank Scores,88.7,0.006853943994516236,https://leetcode.com/problems/rank-scores,Database
-EASY,Move Zeroes,88.7,0.006426519370396749,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+HARD,Consecutive Numbers Sum,100.0,0.0043108005812988555,https://leetcode.com/problems/consecutive-numbers-sum,"Math, Enumeration"
+EASY,Move Zeroes,88.6,0.006450130021767054,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"

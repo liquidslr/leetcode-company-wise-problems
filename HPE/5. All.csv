@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Merge Two Sorted Lists,100.0,0.00687474806884603,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
-MEDIUM,Combination Sum,100.0,0.007700611045947865,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
-EASY,Climbing Stairs,100.0,0.005428138437253181,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
-MEDIUM,Longest Palindromic Substring,100.0,0.0038471108019715737,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Combination Sum,100.0,0.007727903199293317,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
+EASY,Climbing Stairs,100.0,0.0054406495558291775,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Maximal Score After Applying K Operations,100.0,0.006424646438526507,https://leetcode.com/problems/maximal-score-after-applying-k-operations,"Array, Greedy, Heap (Priority Queue)"

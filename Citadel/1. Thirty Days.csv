@@ -1,4 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Time Based Key-Value Store,100.0,0.005012869834767928,https://leetcode.com/problems/time-based-key-value-store,"Hash Table, String, Binary Search, Design"
-MEDIUM,Design Spreadsheet,100.0,0.007353407195969403,https://leetcode.com/problems/design-spreadsheet,"Array, Hash Table, String, Design, Matrix"
-MEDIUM,Number of Orders in the Backlog,100.0,0.005425328246140477,https://leetcode.com/problems/number-of-orders-in-the-backlog,"Array, Heap (Priority Queue), Simulation"
+MEDIUM,Evaluate Reverse Polish Notation,100.0,0.005897492721057336,https://leetcode.com/problems/evaluate-reverse-polish-notation,"Array, Math, Stack"

@@ -1,3 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Random Pick with Weight,100.0,0.004921200535058949,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
-EASY,Number of Good Pairs,100.0,0.008991140600461286,https://leetcode.com/problems/number-of-good-pairs,"Array, Hash Table, Math, Counting"
+MEDIUM,Random Pick with Weight,100.0,0.0049317337410403105,https://leetcode.com/problems/random-pick-with-weight,"Array, Math, Binary Search, Prefix Sum, Randomized"
+EASY,Number of Good Pairs,100.0,0.008995549001894964,https://leetcode.com/problems/number-of-good-pairs,"Array, Hash Table, Math, Counting"
+EASY,Valid Parentheses,100.0,0.004534114955543968,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"

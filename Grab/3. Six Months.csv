@@ -1,2 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Accounts Merge,100.0,0.006188994327914749,https://leetcode.com/problems/accounts-merge,"Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union-Find, Sorting"
+MEDIUM,Coin Change,100.0,0.004930609010765978,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack"

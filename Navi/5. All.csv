@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimize the Maximum Difference of Pairs,100.0,0.005103456200153792,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs,"Array, Binary Search, Dynamic Programming, Greedy, Sorting"
-MEDIUM,Jump Game,78.7,0.004138480536187823,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
-HARD,Trapping Rain Water,69.9,0.0068028521632073945,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Minimize the Maximum Difference of Pairs,100.0,0.005085821362375938,https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs,"Array, Binary Search, Dynamic Programming, Greedy, Sorting"
+MEDIUM,Jump Game,78.6,0.00416690960420493,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"
+HARD,Trapping Rain Water,69.8,0.0068422545178338625,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Find Mirror Score of a String,100.0,0.0035890500778624703,https://leetcode.com/problems/find-mirror-score-of-a-string,"Hash Table, String, Stack, Simulation"
-EASY,Valid Parentheses,66.4,0.004472573332822307,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-EASY,Best Time to Buy and Sell Stock,66.4,0.005725133789500735,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Find Mirror Score of a String,100.0,0.003619794826168426,https://leetcode.com/problems/find-mirror-score-of-a-string,"Hash Table, String, Stack, Simulation"
+EASY,Best Time to Buy and Sell Stock,66.1,0.005752121173271802,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Coin Change,66.1,0.004930625521998188,https://leetcode.com/problems/coin-change,"Array, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack"

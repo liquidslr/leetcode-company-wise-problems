@@ -1,4 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Contain Virus,100.0,0.0055768173320136375,https://leetcode.com/problems/contain-virus,"Array, Depth-First Search, Breadth-First Search, Matrix, Simulation"
-MEDIUM,Cheapest Flights Within K Stops,58.5,0.004241511632931685,https://leetcode.com/problems/cheapest-flights-within-k-stops,"Dynamic Programming, Depth-First Search, Breadth-First Search, Graph Theory, Heap (Priority Queue), Shortest Path"
-MEDIUM,Loud and Rich,58.5,0.006400431982103598,https://leetcode.com/problems/loud-and-rich,"Array, Depth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph"
+HARD,Contain Virus,100.0,0.005652886012415798,https://leetcode.com/problems/contain-virus,"Array, Depth-First Search, Breadth-First Search, Matrix, Simulation"
+MEDIUM,Container With Most Water,90.4,0.006103890321574941,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Loud and Rich,74.0,0.006426542848126944,https://leetcode.com/problems/loud-and-rich,"Array, Depth-First Search, Graph Theory, Topological Sort, Directed Acyclic Graph"
+MEDIUM,Minimum Number of Days to Make m Bouquets,74.0,0.005732343656972108,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets,"Array, Binary Search"
+EASY,Next Greater Element I,74.0,0.007697152368736589,https://leetcode.com/problems/next-greater-element-i,"Array, Hash Table, Stack, Monotonic Stack"

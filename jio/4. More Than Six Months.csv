@@ -1,8 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Divide an Array Into Subarrays With Minimum Cost II,100.0,0.005444558998635031,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii,"Array, Hash Table, Sliding Window, Heap (Priority Queue)"
-MEDIUM,Find the Grid of Region Average,100.0,0.004402773400567286,https://leetcode.com/problems/find-the-grid-of-region-average,"Array, Matrix"
-MEDIUM,Maximize the Number of Target Nodes After Connecting Trees I,100.0,0.006944748224924508,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i,"Tree, Depth-First Search, Breadth-First Search"
-HARD,Maximize the Number of Target Nodes After Connecting Trees II,100.0,0.007311240177656303,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii,"Tree, Depth-First Search, Breadth-First Search"
-EASY,Two Sum,63.7,0.005800952869674154,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Reverse Linked List,63.7,0.008094212890592057,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
-MEDIUM,Group Anagrams,63.7,0.007312908556871405,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Maximize the Number of Target Nodes After Connecting Trees I,100.0,0.006901033472904616,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i,"Tree, Depth-First Search, Breadth-First Search"
+HARD,Maximize the Number of Target Nodes After Connecting Trees II,100.0,0.007254895951454228,https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii,"Tree, Depth-First Search, Breadth-First Search"
+EASY,Reverse Linked List,65.4,0.008116099171587073,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+MEDIUM,Group Anagrams,65.4,0.007344443377157138,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"

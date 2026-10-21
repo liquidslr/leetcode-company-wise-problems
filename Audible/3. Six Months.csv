@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Course Schedule II,100.0,0.005608725862795852,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
-EASY,Happy Number,100.0,0.006011503824828236,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm"
+MEDIUM,Course Schedule II,100.0,0.005644344813922616,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+EASY,Happy Number,100.0,0.0060426578872582815,https://leetcode.com/problems/happy-number,"Hash Table, Math, Two Pointers, Floyd's Cycle Finding Algorithm"

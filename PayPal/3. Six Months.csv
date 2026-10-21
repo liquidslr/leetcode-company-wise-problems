@@ -1,5 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Zigzag Conversion,100.0,0.005489181376629676,https://leetcode.com/problems/zigzag-conversion,String
-MEDIUM,Longest Increasing Subsequence,88.4,0.005984860165025026,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence"
-EASY,Minimum Absolute Difference,88.4,0.007518442569249718,https://leetcode.com/problems/minimum-absolute-difference,"Array, Sorting"
-MEDIUM,Top K Frequent Elements,88.4,0.006713896919128278,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+MEDIUM,Zigzag Conversion,100.0,0.005537299999726853,https://leetcode.com/problems/zigzag-conversion,String
+MEDIUM,Longest Increasing Subsequence,78.2,0.006009845306478856,https://leetcode.com/problems/longest-increasing-subsequence,"Array, Binary Search, Dynamic Programming, Longest Increasing Subsequence"

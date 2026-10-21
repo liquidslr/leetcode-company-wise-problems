@@ -1,10 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Reverse Nodes in k-Group,100.0,0.006696565534408489,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
-MEDIUM,Longest Substring Without Repeating Characters,92.0,0.003977956371317374,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,LRU Cache,92.0,0.004786902323387324,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-EASY,Palindrome Number,80.7,0.006087452988131395,https://leetcode.com/problems/palindrome-number,Math
-MEDIUM,Peak Index in a Mountain Array,80.7,0.006670387236799413,https://leetcode.com/problems/peak-index-in-a-mountain-array,"Array, Binary Search, Ternary Search"
-EASY,Two Sum,80.7,0.005800958083748111,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Number of Islands,80.7,0.0064960546166425515,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
-EASY,Reverse String,80.7,0.008119742792555094,https://leetcode.com/problems/reverse-string,"Two Pointers, String"
-HARD,Trapping Rain Water,80.7,0.00680285179808486,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Reverse Nodes in k-Group,100.0,0.006751120179558395,https://leetcode.com/problems/reverse-nodes-in-k-group,"Linked List, Recursion"
+EASY,Two Sum,100.0,0.005803622953737174,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Number of Islands,100.0,0.0065314468902186755,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+EASY,Reverse String,100.0,0.008145958156631659,https://leetcode.com/problems/reverse-string,"Two Pointers, String"

@@ -1,5 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Find Array Given Subset Sums,100.0,0.004967753283302063,https://leetcode.com/problems/find-array-given-subset-sums,"Array, Hash Table, Sorting, Counting"
-HARD,Get the Maximum Score,100.0,0.004138303970236744,https://leetcode.com/problems/get-the-maximum-score,"Array, Two Pointers, Dynamic Programming, Greedy"
-HARD,Number of Ways to Wear Different Hats to Each Other,100.0,0.004663038042851098,https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other,"Array, Dynamic Programming, Bit Manipulation, Bitmask, Bipartite Graph, Matching (Graph), Perfect Matching"
-HARD,Trapping Rain Water,69.3,0.006802852880710293,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+HARD,Find Array Given Subset Sums,100.0,0.004952451454928535,https://leetcode.com/problems/find-array-given-subset-sums,"Array, Hash Table, Sorting, Counting"
+HARD,Get the Maximum Score,100.0,0.0041626895299235545,https://leetcode.com/problems/get-the-maximum-score,"Array, Two Pointers, Dynamic Programming, Greedy"
+HARD,Number of Ways to Wear Different Hats to Each Other,100.0,0.004704388497095042,https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other,"Array, Dynamic Programming, Bit Manipulation, Bitmask, Bipartite Graph, Matching (Graph), Perfect Matching"
+HARD,Trapping Rain Water,69.3,0.0068422545178338625,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"

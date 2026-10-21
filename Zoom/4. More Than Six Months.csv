@@ -1,2 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Word Search II,100.0,0.003878762248462817,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
+HARD,Word Search II,100.0,0.0039031239842126893,https://leetcode.com/problems/word-search-ii,"Array, String, Backtracking, Trie, Matrix"
+MEDIUM,LRU Cache,89.8,0.004825730979730083,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"

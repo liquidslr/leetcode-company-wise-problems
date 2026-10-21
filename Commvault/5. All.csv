@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Count Vowel Substrings of a String,100.0,0.007342285460204535,https://leetcode.com/problems/count-vowel-substrings-of-a-string,"Hash Table, String"
-MEDIUM,Longest Palindromic Substring,79.3,0.0038470800995286636,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-MEDIUM,Find Peak Element,70.7,0.0047140299149787505,https://leetcode.com/problems/find-peak-element,"Array, Binary Search"
-MEDIUM,Rotting Oranges,70.7,0.005927600289835979,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"
+EASY,Count Vowel Substrings of a String,100.0,0.00737415176613257,https://leetcode.com/problems/count-vowel-substrings-of-a-string,"Hash Table, String"
+MEDIUM,Longest Palindromic Substring,71.2,0.0038866717577948078,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Rotting Oranges,71.2,0.005959385783887344,https://leetcode.com/problems/rotting-oranges,"Array, Breadth-First Search, Matrix"

@@ -1,3 +1,2 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Min Stack,100.0,0.005855048421020332,https://leetcode.com/problems/min-stack,"Stack, Design"
-HARD,Binary Tree Cameras,100.0,0.004807813330861584,https://leetcode.com/problems/binary-tree-cameras,"Dynamic Programming, Tree, Depth-First Search, Binary Tree, DP on Trees"
+MEDIUM,Min Stack,100.0,0.005879072836885574,https://leetcode.com/problems/min-stack,"Stack, Design"

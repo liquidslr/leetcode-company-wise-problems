@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Subarray With Elements Greater Than Varying Threshold,100.0,0.004589604117374442,https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold,"Array, Stack, Union-Find, Monotonic Stack"
-MEDIUM,Course Schedule II,100.0,0.0056088256591242435,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+HARD,Subarray With Elements Greater Than Varying Threshold,100.0,0.004633715798764342,https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold,"Array, Stack, Union-Find, Monotonic Stack"
+MEDIUM,Course Schedule II,100.0,0.005644360294463655,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"

@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Next Greater Element II,100.0,0.006933419738164237,https://leetcode.com/problems/next-greater-element-ii,"Array, Stack, Monotonic Stack"

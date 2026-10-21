@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Palindromic Subsequence,100.0,0.0065998893408768565,https://leetcode.com/problems/longest-palindromic-subsequence,"String, Dynamic Programming"

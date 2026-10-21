@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.005257639318283639,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-EASY,Valid Parentheses,92.7,0.004472561161448614,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-HARD,Minimum Degree of a Connected Trio in a Graph,82.4,0.004475217391304348,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph,"Graph Theory, Enumeration"
+MEDIUM,Merge Intervals,100.0,0.005302573263470528,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Valid Parentheses,87.7,0.004534116940466955,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+HARD,Minimum Degree of a Connected Trio in a Graph,77.9,0.004495463802999445,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph,"Graph Theory, Enumeration"

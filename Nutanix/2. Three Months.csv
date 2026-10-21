@@ -1,3 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Asteroid Collision,100.0,0.0048763237039410896,https://leetcode.com/problems/asteroid-collision,"Array, Stack, Simulation"
-MEDIUM,Minimum Operations to Halve Array Sum,100.0,0.005041336272801622,https://leetcode.com/problems/minimum-operations-to-halve-array-sum,"Array, Greedy, Heap (Priority Queue)"
+MEDIUM,Minimum Operations to Halve Array Sum,100.0,0.005058312708957492,https://leetcode.com/problems/minimum-operations-to-halve-array-sum,"Array, Greedy, Heap (Priority Queue)"
+MEDIUM,LRU Cache,100.0,0.004825718862808002,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Maximum Path Quality of a Graph,100.0,0.006323638197713517,https://leetcode.com/problems/maximum-path-quality-of-a-graph,"Array, Backtracking, Graph Theory"
+HARD,Sliding Window Maximum,100.0,0.004936745979434415,https://leetcode.com/problems/sliding-window-maximum,"Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue, Range Minimum/Maximum Query"

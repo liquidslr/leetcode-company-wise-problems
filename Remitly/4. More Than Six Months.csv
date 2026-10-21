@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Isomorphic Strings,100.0,0.004892124216368,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
-EASY,Best Time to Buy and Sell Stock,77.1,0.0057251314421378555,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Course Schedule II,68.6,0.005608814973328658,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
-MEDIUM,Evaluate the Bracket Pairs of a String,68.6,0.00697430427306884,https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string,"Array, Hash Table, String"
-MEDIUM,Merge Intervals,68.6,0.005257655719437011,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+EASY,Isomorphic Strings,100.0,0.004925795994161921,https://leetcode.com/problems/isomorphic-strings,"Hash Table, String"
+EASY,Best Time to Buy and Sell Stock,72.7,0.005752127019869244,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Course Schedule II,72.7,0.00564435884224828,https://leetcode.com/problems/course-schedule-ii,"Depth-First Search, Breadth-First Search, Graph Theory, Topological Sort"
+MEDIUM,Evaluate the Bracket Pairs of a String,72.7,0.008099020662699545,https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string,"Array, Hash Table, String"
+MEDIUM,Merge Intervals,72.7,0.005302562102250053,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"

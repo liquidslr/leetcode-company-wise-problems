@@ -1,3 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Robot Collisions,100.0,0.006163435341823481,https://leetcode.com/problems/robot-collisions,"Array, Stack, Sorting, Simulation"
-EASY,Reverse Linked List,100.0,0.008094205434218129,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"
+MEDIUM,Validate IP Address,100.0,0.002858906655935261,https://leetcode.com/problems/validate-ip-address,String
+EASY,Reverse Linked List,89.4,0.008116096913130536,https://leetcode.com/problems/reverse-linked-list,"Linked List, Recursion"

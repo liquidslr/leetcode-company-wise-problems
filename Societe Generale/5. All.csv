@@ -1,5 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Minimum Number of Swaps to Make the Binary String Alternating,100.0,0.004406529590897287,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating,"String, Greedy"
-EASY,Best Time to Buy and Sell Stock,78.7,0.005725130462146871,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
-MEDIUM,Letter Combinations of a Phone Number,69.9,0.0066660036659872655,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
-EASY,Climbing Stairs,69.9,0.005428135865434875,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Minimum Number of Swaps to Make the Binary String Alternating,100.0,0.004423438697540469,https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating,"String, Greedy"
+EASY,Best Time to Buy and Sell Stock,70.5,0.005752127002489667,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"

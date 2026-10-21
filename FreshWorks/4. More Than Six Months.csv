@@ -1,6 +1,8 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003977940350426659,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Valid Parentheses,92.3,0.004472562498093404,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
-MEDIUM,Container With Most Water,81.4,0.006064825682546032,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
-MEDIUM,Meeting Rooms II,81.4,0.0052776748162319835,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-MEDIUM,Remove Duplicates from Sorted Array II,81.4,0.006515581717451524,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii,"Array, Two Pointers"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.004001908060245158,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Valid Parentheses,100.0,0.004534116940466955,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+MEDIUM,Meeting Rooms II,92.3,0.005284510913289468,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+MEDIUM,Container With Most Water,81.3,0.006103890321574941,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+MEDIUM,Remove Duplicates from Sorted Array II,81.3,0.006542143693051256,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii,"Array, Two Pointers"
+MEDIUM,Group Anagrams,81.3,0.007344433087242081,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Product of Array Except Self,81.3,0.006937978015659587,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"

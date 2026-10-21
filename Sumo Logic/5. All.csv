@@ -1,4 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Satisfiability of Equality Equations,100.0,0.005211120031167728,https://leetcode.com/problems/satisfiability-of-equality-equations,"Array, String, Union-Find, Graph Theory"
-MEDIUM,Minimize Hamming Distance After Swap Operations,79.1,0.0069671608071531785,https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations,"Array, Depth-First Search, Union-Find"
-MEDIUM,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,70.5,0.005791947622684372,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,"Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue"
+MEDIUM,Satisfiability of Equality Equations,100.0,0.005227922284130604,https://leetcode.com/problems/satisfiability-of-equality-equations,"Array, String, Union-Find, Graph Theory"
+MEDIUM,Minimize Hamming Distance After Swap Operations,79.4,0.006976332383173534,https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations,"Array, Depth-First Search, Union-Find"

@@ -1,21 +1,20 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.005800959051255636,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.004950621761658031,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
-MEDIUM,Longest Palindromic Substring,93.8,0.0038471146943177925,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
-MEDIUM,Min Stack,93.8,0.005855049801876526,https://leetcode.com/problems/min-stack,"Stack, Design"
-MEDIUM,Search in Rotated Sorted Array,93.8,0.004546232182132856,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
-MEDIUM,Decode String,93.8,0.006309057042491219,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
-MEDIUM,Number of Islands,93.8,0.006496058388815681,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
-EASY,Form Smallest Number From Two Digit Arrays,93.8,0.0055356391656320855,https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays,"Array, Hash Table, Enumeration"
-EASY,Minimum Difference Between Highest and Lowest of K Scores,93.8,0.006639359593012383,https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores,"Array, Sliding Window, Sorting"
-MEDIUM,Simplify Path,85.7,0.005122125839159629,https://leetcode.com/problems/simplify-path,"String, Stack"
-EASY,Is Subsequence,85.7,0.004934160424384,https://leetcode.com/problems/is-subsequence,"Two Pointers, String, Dynamic Programming"
-MEDIUM,Event Emitter,85.7,0.007511905845239178,https://leetcode.com/problems/event-emitter,
-EASY,Find the Longest Balanced Substring of a Binary String,85.7,0.004692027109438826,https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string,String
-MEDIUM,Remove Nth Node From End of List,85.7,0.00523915706017093,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
-MEDIUM,Longest Substring Without Repeating Characters,74.4,0.003977958561102938,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-MEDIUM,Battleships in a Board,74.4,0.007773037497554967,https://leetcode.com/problems/battleships-in-a-board,"Array, Depth-First Search, Matrix"
-EASY,Find All Numbers Disappeared in an Array,74.4,0.006453707575455944,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array,"Array, Hash Table"
-EASY,Summary Ranges,74.4,0.005461932179938425,https://leetcode.com/problems/summary-ranges,Array
-EASY,Roman to Integer,74.4,0.006704947448036542,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-MEDIUM,String Compression,74.4,0.006060174086630153,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Find First and Last Position of Element in Sorted Array,100.0,0.00498056428515181,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+MEDIUM,Longest Palindromic Substring,94.0,0.003886676021209702,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Search in Rotated Sorted Array,94.0,0.004579984561801653,https://leetcode.com/problems/search-in-rotated-sorted-array,"Array, Binary Search"
+EASY,Two Sum,86.3,0.005803622339319185,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+MEDIUM,Simplify Path,86.3,0.005168688605143443,https://leetcode.com/problems/simplify-path,"String, Stack"
+EASY,Is Subsequence,86.3,0.004950178440973117,https://leetcode.com/problems/is-subsequence,"Two Pointers, String, Dynamic Programming"
+MEDIUM,Decode String,86.3,0.006337500536424176,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+EASY,Find the Longest Balanced Substring of a Binary String,86.3,0.0046159664519860736,https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string,String
+MEDIUM,Longest Substring Without Repeating Characters,75.4,0.0040019113351663985,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Min Stack,75.4,0.005879070763921007,https://leetcode.com/problems/min-stack,"Stack, Design"
+MEDIUM,Battleships in a Board,75.4,0.007786692484996988,https://leetcode.com/problems/battleships-in-a-board,"Array, Depth-First Search, Matrix"
+MEDIUM,Event Emitter,75.4,0.0075305543592865945,https://leetcode.com/problems/event-emitter,
+MEDIUM,Number of Islands,75.4,0.006531444598966342,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+EASY,Minimum Difference Between Highest and Lowest of K Scores,75.4,0.006647045168542072,https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores,"Array, Sliding Window, Sorting"
+MEDIUM,Remove Nth Node From End of List,75.4,0.005289997204219672,https://leetcode.com/problems/remove-nth-node-from-end-of-list,"Linked List, Two Pointers"
+EASY,Summary Ranges,75.4,0.00548729070474973,https://leetcode.com/problems/summary-ranges,Array
+EASY,Roman to Integer,75.4,0.00673104403707293,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,String Compression,75.4,0.006096659272018342,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Line Reflection,75.4,0.003643784155645392,https://leetcode.com/problems/line-reflection,"Array, Hash Table, Math"

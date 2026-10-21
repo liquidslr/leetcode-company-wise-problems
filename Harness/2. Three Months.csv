@@ -1,1 +1,2 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+HARD,Cherry Pickup,100.0,0.004074181020637922,https://leetcode.com/problems/cherry-pickup,"Array, Dynamic Programming, Matrix"

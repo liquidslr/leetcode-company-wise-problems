@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Number of Islands,100.0,0.006496056761377224,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
-MEDIUM,Top K Frequent Elements,100.0,0.006713902078162962,https://leetcode.com/problems/top-k-frequent-elements,"Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
-MEDIUM,LRU Cache,92.4,0.004786895677649352,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-MEDIUM,Meeting Rooms II,92.4,0.005277670537160305,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
-HARD,Merge k Sorted Lists,81.7,0.00602940576003699,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
-HARD,Split Array Largest Sum,81.7,0.006119260048615028,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+MEDIUM,Meeting Rooms II,100.0,0.0052845025342410645,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+HARD,Split Array Largest Sum,100.0,0.00616398764714997,https://leetcode.com/problems/split-array-largest-sum,"Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+HARD,Merge k Sorted Lists,89.1,0.006078441330827581,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
+HARD,Bus Routes,89.1,0.0047602690011475796,https://leetcode.com/problems/bus-routes,"Array, Hash Table, Breadth-First Search"
+MEDIUM,Capacity To Ship Packages Within D Days,89.1,0.007481790363163736,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days,"Array, Binary Search"
+MEDIUM,Basic Calculator II,89.1,0.004727707403219298,https://leetcode.com/problems/basic-calculator-ii,"Math, String, Stack"

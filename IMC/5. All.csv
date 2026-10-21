@@ -1,8 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Minimum Space Wasted From Packaging,100.0,0.003374687595519356,https://leetcode.com/problems/minimum-space-wasted-from-packaging,"Array, Binary Search, Sorting, Prefix Sum"
-MEDIUM,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,95.6,0.0065460701280635,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold,"Array, Binary Search, Matrix, Prefix Sum"
-HARD,LFU Cache,95.6,0.005002941079759891,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
-HARD,Special Binary String,83.1,0.007943574057109139,https://leetcode.com/problems/special-binary-string,"String, Divide and Conquer, Sorting"
-HARD,Trapping Rain Water,83.1,0.0068028473122123435,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
-MEDIUM,Min Stack,73.3,0.005855044939254337,https://leetcode.com/problems/min-stack,"Stack, Design"
-MEDIUM,Unique Paths II,73.3,0.004494318441548559,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"
+HARD,Minimum Space Wasted From Packaging,100.0,0.0033991092960622437,https://leetcode.com/problems/minimum-space-wasted-from-packaging,"Array, Binary Search, Sorting, Prefix Sum"
+HARD,LFU Cache,95.6,0.00505129874503289,https://leetcode.com/problems/lfu-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+HARD,Special Binary String,83.4,0.007941684879036865,https://leetcode.com/problems/special-binary-string,"String, Divide and Conquer, Sorting"
+HARD,Trapping Rain Water,83.4,0.006842250693302014,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Unique Paths II,73.7,0.004523934512604255,https://leetcode.com/problems/unique-paths-ii,"Array, Dynamic Programming, Matrix"

@@ -1,6 +1,6 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Longest Substring Without Repeating Characters,100.0,0.003977957991168964,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-EASY,Two Sum,100.0,0.005800955990336114,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-EASY,Roman to Integer,100.0,0.006704948841094174,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
-EASY,Longest Common Prefix,100.0,0.004818719734782995,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
-MEDIUM,Rotate Array,88.1,0.004532004657360302,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+EASY,Two Sum,100.0,0.005803622308911278,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Roman to Integer,100.0,0.006731045075296292,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+EASY,Longest Common Prefix,100.0,0.004853662441250515,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Longest Substring Without Repeating Characters,88.0,0.004001913168512742,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Rotate Array,88.0,0.004571846753016061,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"

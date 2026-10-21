@@ -1,7 +1,7 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-MEDIUM,Merge Intervals,100.0,0.005257655719437011,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
-MEDIUM,String Compression,77.9,0.006060163705313572,https://leetcode.com/problems/string-compression,"Two Pointers, String"
-MEDIUM,Koko Eating Bananas,77.9,0.005039594514761195,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
-HARD,Basic Calculator,77.9,0.004711213771316073,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
-MEDIUM,Car Fleet,77.9,0.005556893794510703,https://leetcode.com/problems/car-fleet,"Array, Stack, Sorting, Monotonic Stack"
-EASY,Remove All Adjacent Duplicates In String,77.9,0.0073868093900326505,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"
+MEDIUM,Merge Intervals,100.0,0.005302562102250053,https://leetcode.com/problems/merge-intervals,"Array, Sorting, Quicksort"
+MEDIUM,String Compression,82.4,0.006096660388761685,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+MEDIUM,Koko Eating Bananas,82.4,0.0050716944280361645,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
+HARD,Basic Calculator,82.4,0.004727951868672598,https://leetcode.com/problems/basic-calculator,"Math, String, Stack, Recursion"
+MEDIUM,Car Fleet,82.4,0.005582515767344079,https://leetcode.com/problems/car-fleet,"Array, Stack, Sorting, Monotonic Stack"
+EASY,Remove All Adjacent Duplicates In String,82.4,0.007427654418523386,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string,"String, Stack"

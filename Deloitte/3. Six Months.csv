@@ -1,10 +1,5 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Two Sum,100.0,0.0058009511386919775,https://leetcode.com/problems/two-sum,"Array, Hash Table"
-MEDIUM,Longest Substring Without Repeating Characters,92.1,0.003977937162306769,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
-HARD,Merge k Sorted Lists,92.1,0.006029385293205945,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
-MEDIUM,Group Anagrams,92.1,0.007312895664398646,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
-MEDIUM,Remove K Digits,81.0,0.003749074710202562,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
-EASY,Climbing Stairs,81.0,0.0054281344034908,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
-EASY,Valid Palindrome,81.0,0.005407041821192445,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
-MEDIUM,Nth Highest Salary,81.0,0.003990579436721085,https://leetcode.com/problems/nth-highest-salary,Database
-EASY,Valid Anagram,81.0,0.00685325196893623,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.004001908063527696,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Group Anagrams,87.3,0.007344432654730497,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+HARD,Merge k Sorted Lists,77.2,0.006078427477391033,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
+MEDIUM,Nth Highest Salary,77.2,0.004049925624658721,https://leetcode.com/problems/nth-highest-salary,Database

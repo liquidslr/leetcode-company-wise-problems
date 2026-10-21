@@ -1,1 +1,4 @@
-Difficulty,Title,Frequency,Acceptance Rate,Link
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Decode String,100.0,0.006337492910642644,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Number of Islands,100.0,0.006531451965346337,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.004001909582145579,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"

@@ -1,5 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-HARD,Word Ladder,100.0,0.00463263270478461,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search, Bidirectional Search"
-MEDIUM,Spiral Matrix,88.9,0.00576272067573875,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
-MEDIUM,Simple Bank System,88.9,0.006956899618246427,https://leetcode.com/problems/simple-bank-system,"Array, Hash Table, Design, Simulation"
-MEDIUM,String Compression,88.9,0.006060174086630153,https://leetcode.com/problems/string-compression,"Two Pointers, String"
+HARD,Word Ladder,100.0,0.004677984451108922,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search, Bidirectional Search"
+MEDIUM,Spiral Matrix,89.1,0.005814592762393077,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation"
+MEDIUM,String Compression,89.1,0.006096659272018342,https://leetcode.com/problems/string-compression,"Two Pointers, String"

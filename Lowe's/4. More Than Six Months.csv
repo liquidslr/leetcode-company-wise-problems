@@ -1,4 +1,4 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
-EASY,Find the Original Typed String I,100.0,0.007209982192679532,https://leetcode.com/problems/find-the-original-typed-string-i,String
-EASY,Minimum Operations to Make Array Values Equal to K,100.0,0.007321668386756889,https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k,"Array, Hash Table"
-EASY,Two Sum,66.6,0.005800955370218203,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Find the Original Typed String I,100.0,0.007192760401024013,https://leetcode.com/problems/find-the-original-typed-string-i,String
+EASY,Minimum Operations to Make Array Values Equal to K,100.0,0.0072937913797456976,https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k,"Array, Hash Table"
+EASY,Two Sum,66.7,0.00580362080695491,https://leetcode.com/problems/two-sum,"Array, Hash Table"
