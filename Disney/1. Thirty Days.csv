@@ -1,1 +1,3 @@
 Difficulty,Title,Frequency,Acceptance Rate,Link
+MEDIUM,Remove All Adjacent Duplicates in String II (Remove k consecutive letters),80.0,0.58,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
+EASY,Simple Cipher (Decrypt String with k Counter-Clockwise Shifts),50.0,0.75,https://leetcode.com/discuss/interview-question/algorithms/124837/simple-cipher
