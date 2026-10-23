@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Maximum Sum Obtained of Any Permutation,92.5,0.35,https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation,"Array, Greedy, Prefix Sum, Sorting"
+MEDIUM,Generate Parentheses,77.5,0.73,https://leetcode.com/problems/generate-parentheses,"String, Dynamic Programming, Backtracking"
+EASY,Valid Parentheses,67.5,0.42322820646682113,https://leetcode.com/problems/valid-parentheses,"String, Stack" 
