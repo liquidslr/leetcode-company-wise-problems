@@ -1,0 +1,34 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.00580361930498598,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Reverse Degree of a String,89.2,0.00918713197737673,https://leetcode.com/problems/reverse-degree-of-a-string,"String, Simulation"
+EASY,Number of Unique Subjects Taught by Each Teacher,84.0,0.008939342411938023,https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher,Database
+EASY,Move Zeroes,73.2,0.006450130021767054,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+EASY,Remove Duplicates from Sorted Array,68.1,0.006397705088098445,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+EASY,Longest Common Prefix,68.1,0.004853663861499363,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+EASY,Valid Anagram,68.1,0.006876755778426213,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Longest Substring Without Repeating Characters,68.1,0.004001908752909742,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Contains Duplicate,68.1,0.0064799655638577034,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
+EASY,Best Time to Buy and Sell Stock,61.5,0.005752117108043863,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+MEDIUM,Rotate Array,61.5,0.004571838426587616,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+HARD,Median of Two Sorted Arrays,61.5,0.004785843422618738,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+MEDIUM,Subarray Sum Equals K,61.5,0.004835074112959921,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Find First and Last Position of Element in Sorted Array,61.5,0.004980553981673576,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+EASY,Merge Two Sorted Lists,61.5,0.0069017846432060095,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+EASY,Find the Index of the First Occurrence in a String,61.5,0.004748364673254147,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm"
+MEDIUM,4Sum,61.5,0.00419427419367053,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"
+MEDIUM,Add Two Numbers,52.2,0.004955382778402298,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+EASY,Palindrome Number,52.2,0.006104360133264108,https://leetcode.com/problems/palindrome-number,Math
+HARD,Trapping Rain Water,52.2,0.0068422460494465855,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Sort Colors,52.2,0.00702949466477078,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort"
+MEDIUM,Reverse Integer,52.2,0.0032681479067717062,https://leetcode.com/problems/reverse-integer,Math
+MEDIUM,Container With Most Water,52.2,0.0061038870945200226,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+EASY,Roman to Integer,52.2,0.006731048701156742,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Second Highest Salary,52.2,0.004876276183843549,https://leetcode.com/problems/second-highest-salary,Database
+MEDIUM,Group Anagrams,52.2,0.007344436934726527,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+EASY,Chunk Array,52.2,0.008448454832253469,https://leetcode.com/problems/chunk-array,
+EASY,Plus One,52.2,0.005076992121422257,https://leetcode.com/problems/plus-one,"Array, Math"
+MEDIUM,Minimize Maximum Pair Sum in Array,52.2,0.008325038605147035,https://leetcode.com/problems/minimize-maximum-pair-sum-in-array,"Array, Two Pointers, Greedy, Sorting"
+EASY,Add Binary,52.2,0.005880360526130399,https://leetcode.com/problems/add-binary,"Math, String, Bit Manipulation, Simulation"
+MEDIUM,Find K Closest Elements,52.2,0.00501997368886366,https://leetcode.com/problems/find-k-closest-elements,"Array, Two Pointers, Binary Search, Sliding Window, Sorting, Heap (Priority Queue)"
+EASY,Remove Duplicates from Sorted List,52.2,0.005771237115338092,https://leetcode.com/problems/remove-duplicates-from-sorted-list,Linked List
+MEDIUM,Reverse Words in a String,52.2,0.005813314784048785,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"

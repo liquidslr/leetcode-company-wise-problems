@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Substring Without Repeating Characters,100.0,0.004001908063527696,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+MEDIUM,Group Anagrams,87.3,0.007344432654730497,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+HARD,Merge k Sorted Lists,77.2,0.006078427477391033,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort, Tournament Sort"
+MEDIUM,Nth Highest Salary,77.2,0.004049925624658721,https://leetcode.com/problems/nth-highest-salary,Database

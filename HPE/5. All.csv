@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Combination Sum,100.0,0.007727903199293317,https://leetcode.com/problems/combination-sum,"Array, Backtracking"
+EASY,Climbing Stairs,100.0,0.0054406495558291775,https://leetcode.com/problems/climbing-stairs,"Math, Dynamic Programming, Memoization"
+MEDIUM,Maximal Score After Applying K Operations,100.0,0.006424646438526507,https://leetcode.com/problems/maximal-score-after-applying-k-operations,"Array, Greedy, Heap (Priority Queue)"

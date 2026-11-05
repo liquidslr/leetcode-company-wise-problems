@@ -1,0 +1,4 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Construct the Minimum Bitwise Array II,100.0,0.006636603565800216,https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii,"Array, Bit Manipulation"
+EASY,Construct the Minimum Bitwise Array I,100.0,0.008498906985682715,https://leetcode.com/problems/construct-the-minimum-bitwise-array-i,"Array, Bit Manipulation"
+MEDIUM,Number of Islands,71.4,0.0065314528254325575,https://leetcode.com/problems/number-of-islands,"Array, Depth-First Search, Breadth-First Search, Union-Find, Matrix"

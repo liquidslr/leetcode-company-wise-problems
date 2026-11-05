@@ -1,0 +1,12 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Zigzag Conversion,100.0,0.005537300526330285,https://leetcode.com/problems/zigzag-conversion,String
+HARD,Trapping Rain Water,96.7,0.006842255882993122,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Decode String,78.0,0.00633750410851753,https://leetcode.com/problems/decode-string,"String, Stack, Recursion"
+MEDIUM,Bulls and Cows,73.3,0.005313814609719513,https://leetcode.com/problems/bulls-and-cows,"Hash Table, String, Counting"
+MEDIUM,Reverse Words in a String,73.3,0.0058133266995909405,https://leetcode.com/problems/reverse-words-in-a-string,"Two Pointers, String"
+MEDIUM,Remove K Digits,67.1,0.0037879931636299203,https://leetcode.com/problems/remove-k-digits,"String, Stack, Greedy, Monotonic Stack"
+MEDIUM,Broken Calculator,67.1,0.005654912168831509,https://leetcode.com/problems/broken-calculator,"Math, Greedy"
+MEDIUM,Letter Combinations of a Phone Number,58.5,0.006703754263545655,https://leetcode.com/problems/letter-combinations-of-a-phone-number,"Hash Table, String, Backtracking"
+MEDIUM,Longest Palindromic Substring,58.5,0.0038866738149183288,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+EASY,Hexadecimal and Hexatrigesimal Conversion,58.5,0.007924011347380161,https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion,"Math, String"
+EASY,Valid Anagram,58.5,0.006876762542192251,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"

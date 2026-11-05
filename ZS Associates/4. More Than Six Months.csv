@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Second Highest Salary,100.0,0.004876290571699043,https://leetcode.com/problems/second-highest-salary,Database
+MEDIUM,Product of Array Except Self,88.7,0.006937999643814856,https://leetcode.com/problems/product-of-array-except-self,"Array, Prefix Sum"
+MEDIUM,Longest Palindromic Substring,88.7,0.0038866746050618384,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Sum of Subarray Minimums,88.7,0.0039071548334742075,https://leetcode.com/problems/sum-of-subarray-minimums,"Array, Dynamic Programming, Stack, Monotonic Stack"

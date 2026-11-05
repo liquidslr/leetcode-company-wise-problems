@@ -1,0 +1,7 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Move Zeroes,100.0,0.006450131213043897,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+MEDIUM,Query Kth Smallest Trimmed Number,100.0,0.004841693506146148,https://leetcode.com/problems/query-kth-smallest-trimmed-number,"Array, String, Divide and Conquer, Sorting, Heap (Priority Queue), Radix Sort, Quickselect"
+MEDIUM,Max Consecutive Ones III,100.0,0.0068604786467397864,https://leetcode.com/problems/max-consecutive-ones-iii,"Array, Binary Search, Sliding Window, Prefix Sum"
+EASY,Reverse Vowels of a String,88.6,0.006261260590644432,https://leetcode.com/problems/reverse-vowels-of-a-string,"Two Pointers, String"
+MEDIUM,Group Anagrams,88.6,0.007344430503167648,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+HARD,Shortest Palindrome,88.6,0.004332339880763053,https://leetcode.com/problems/shortest-palindrome,"String, Rolling Hash, String Matching, Hash Function, Manacher, Z Algorithm, Knuth–Morris–Pratt Algorithm"

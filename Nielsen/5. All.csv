@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+MEDIUM,Longest Palindromic Substring,100.0,0.0038866714720497764,https://leetcode.com/problems/longest-palindromic-substring,"Two Pointers, String, Dynamic Programming, Manacher"
+MEDIUM,Multiply Strings,100.0,0.004486000467037326,https://leetcode.com/problems/multiply-strings,"Math, String, Simulation"
+MEDIUM,Maximum Swap,100.0,0.005212971705598578,https://leetcode.com/problems/maximum-swap,"Math, Greedy"
+MEDIUM,Jump Game,88.4,0.004166910996338814,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy"

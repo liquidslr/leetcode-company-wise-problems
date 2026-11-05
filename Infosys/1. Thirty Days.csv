@@ -1,0 +1,5 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.005803620444467007,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Lemonade Change,88.9,0.005954179100559197,https://leetcode.com/problems/lemonade-change,"Array, Greedy"
+EASY,Majority Element,88.9,0.006653558533922809,https://leetcode.com/problems/majority-element,"Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm"
+MEDIUM,Two City Scheduling,88.9,0.006906065542507508,https://leetcode.com/problems/two-city-scheduling,"Array, Greedy, Sorting, Hungarian Algorithm, Successive Shortest Path Algorithm"

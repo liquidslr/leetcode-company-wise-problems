@@ -1,0 +1,30 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Two Sum,100.0,0.00580361930498598,https://leetcode.com/problems/two-sum,"Array, Hash Table"
+EASY,Reverse Degree of a String,93.8,0.00918713197737673,https://leetcode.com/problems/reverse-degree-of-a-string,"String, Simulation"
+EASY,Remove Duplicates from Sorted Array,72.1,0.006397705088098445,https://leetcode.com/problems/remove-duplicates-from-sorted-array,"Array, Two Pointers"
+EASY,Move Zeroes,72.1,0.006450130021767054,https://leetcode.com/problems/move-zeroes,"Array, Two Pointers"
+MEDIUM,Longest Substring Without Repeating Characters,72.1,0.004001908752909742,https://leetcode.com/problems/longest-substring-without-repeating-characters,"Hash Table, String, Sliding Window"
+EASY,Contains Duplicate,72.1,0.0064799655638577034,https://leetcode.com/problems/contains-duplicate,"Array, Hash Table, Sorting"
+EASY,Best Time to Buy and Sell Stock,65.3,0.005752117108043863,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
+HARD,Median of Two Sorted Arrays,65.3,0.004785843422618738,https://leetcode.com/problems/median-of-two-sorted-arrays,"Array, Binary Search, Divide and Conquer"
+EASY,Valid Anagram,65.3,0.006876755778426213,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+MEDIUM,Find First and Last Position of Element in Sorted Array,65.3,0.004980553981673576,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search"
+EASY,Merge Two Sorted Lists,65.3,0.0069017846432060095,https://leetcode.com/problems/merge-two-sorted-lists,"Linked List, Recursion"
+EASY,Find the Index of the First Occurrence in a String,65.3,0.004748364673254147,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string,"Two Pointers, String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm, Boyer–Moore String-Search Algorithm"
+EASY,Longest Common Prefix,65.3,0.004853663861499363,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,Rotate Array,55.7,0.004571838426587616,https://leetcode.com/problems/rotate-array,"Array, Math, Two Pointers"
+EASY,Palindrome Number,55.7,0.006104360133264108,https://leetcode.com/problems/palindrome-number,Math
+HARD,Trapping Rain Water,55.7,0.0068422460494465855,https://leetcode.com/problems/trapping-rain-water,"Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+MEDIUM,Subarray Sum Equals K,55.7,0.004835074112959921,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Add Two Numbers,55.7,0.004955382778402298,https://leetcode.com/problems/add-two-numbers,"Linked List, Math, Recursion"
+MEDIUM,Sort Colors,55.7,0.00702949466477078,https://leetcode.com/problems/sort-colors,"Array, Two Pointers, Sorting, Quicksort, Bubble Sort"
+MEDIUM,Reverse Integer,55.7,0.0032681479067717062,https://leetcode.com/problems/reverse-integer,Math
+MEDIUM,Second Highest Salary,55.7,0.004876276183843549,https://leetcode.com/problems/second-highest-salary,Database
+EASY,Roman to Integer,55.7,0.006731048701156742,https://leetcode.com/problems/roman-to-integer,"Hash Table, Math, String"
+MEDIUM,Group Anagrams,55.7,0.007344436934726527,https://leetcode.com/problems/group-anagrams,"Array, Hash Table, String, Sorting"
+MEDIUM,Container With Most Water,55.7,0.0061038870945200226,https://leetcode.com/problems/container-with-most-water,"Array, Two Pointers, Greedy"
+EASY,Chunk Array,55.7,0.008448454832253469,https://leetcode.com/problems/chunk-array,
+EASY,Plus One,55.7,0.005076992121422257,https://leetcode.com/problems/plus-one,"Array, Math"
+MEDIUM,Minimize Maximum Pair Sum in Array,55.7,0.008325038605147035,https://leetcode.com/problems/minimize-maximum-pair-sum-in-array,"Array, Two Pointers, Greedy, Sorting"
+EASY,Remove Duplicates from Sorted List,55.7,0.005771237115338092,https://leetcode.com/problems/remove-duplicates-from-sorted-list,Linked List
+MEDIUM,4Sum,55.7,0.00419427419367053,https://leetcode.com/problems/4sum,"Array, Two Pointers, Sorting"

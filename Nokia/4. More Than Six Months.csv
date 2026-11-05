@@ -1,0 +1,8 @@
+Difficulty,Title,Frequency,Acceptance Rate,Link,Topics
+EASY,Minimum Cost of Buying Candies With Discount,100.0,0.007164475634767565,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount,"Array, Greedy, Sorting"
+EASY,Valid Anagram,100.0,0.006876761931556342,https://leetcode.com/problems/valid-anagram,"Hash Table, String, Sorting"
+HARD,Check If It Is a Good Array,88.0,0.006601720718455824,https://leetcode.com/problems/check-if-it-is-a-good-array,"Array, Math, Number Theory, Bézout's Lemma, Euclidean Algorithm, Greatest Common Divisor, Extended Euclidean Algorithm"
+EASY,Valid Parentheses,88.0,0.0045341182507174175,https://leetcode.com/problems/valid-parentheses,"String, Stack, Bracket Sequences"
+EASY,Longest Common Prefix,88.0,0.0048536634197521526,https://leetcode.com/problems/longest-common-prefix,"Array, String, Trie"
+MEDIUM,LRU Cache,88.0,0.004825718862808002,https://leetcode.com/problems/lru-cache,"Hash Table, Linked List, Design, Doubly-Linked List"
+MEDIUM,Koko Eating Bananas,88.0,0.005071695875997547,https://leetcode.com/problems/koko-eating-bananas,"Array, Binary Search"
